@@ -17,6 +17,13 @@ const HEADERS = {
   Accept: "application/json",
 };
 
+const REDDIT_HEADERS = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  Accept: "application/json,text/plain,*/*",
+  "Accept-Language": "en-US,en;q=0.9",
+};
+
 const KEEP =
   /built|shipped|launched|revenue|MRR|\$|clients|sold|downloads|income|made |vibe cod/i;
 
@@ -35,11 +42,11 @@ function truncate(text, max = 160) {
   return `${chars.slice(0, max).join("")}…`;
 }
 
-async function getJson(url) {
+async function getJson(url, headers = HEADERS) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 20000);
   try {
-    const response = await fetch(url, { headers: HEADERS, signal: controller.signal });
+    const response = await fetch(url, { headers, signal: controller.signal });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return await response.json();
   } finally {
@@ -89,33 +96,48 @@ async function fetchRedditListing(source) {
   const sort = source.sort || "top";
   const window = source.t || "month";
   const limit = source.limit || 25;
-  const direct = `https://old.reddit.com/r/${source.subreddit}/${sort}.json?t=${window}&limit=${limit}&raw_json=1`;
-  try {
-    const json = await getJson(direct);
-    const rows = (json.data?.children || []).map((child) => child.data);
-    return { rows, via: "reddit" };
-  } catch (error) {
-    const reason = error instanceof Error ? error.message : String(error);
-    console.error(`[case-leads] r/${source.subreddit} reddit failed: ${reason}`);
-    const archived = await getJson(
-      `${ARCHIVE}?subreddit=${encodeURIComponent(source.subreddit)}&limit=${limit}&sort=desc`,
-    );
-    return { rows: archived.data || [], via: "archive" };
+  const query = `t=${window}&limit=${limit}&raw_json=1`;
+  const directUrls = [
+    `https://www.reddit.com/r/${source.subreddit}/${sort}.json?${query}`,
+    `https://old.reddit.com/r/${source.subreddit}/${sort}.json?${query}`,
+  ];
+  let lastError = "reddit unavailable";
+  for (const direct of directUrls) {
+    try {
+      const json = await getJson(direct, REDDIT_HEADERS);
+      const rows = (json.data?.children || []).map((child) => child.data);
+      if (rows.length) return { rows, via: "reddit" };
+    } catch (error) {
+      lastError = error instanceof Error ? error.message : String(error);
+    }
   }
+  console.error(`[case-leads] r/${source.subreddit} reddit failed: ${lastError}`);
+  const archived = await getJson(
+    `${ARCHIVE}?subreddit=${encodeURIComponent(source.subreddit)}&limit=${limit}&sort=desc`,
+  );
+  return { rows: archived.data || [], via: "archive" };
 }
 
 async function fetchSeeds(ids) {
   if (!ids.length) return [];
-  const direct = `https://old.reddit.com/by_id/${ids.map((id) => `t3_${id}`).join(",")}.json?raw_json=1`;
-  try {
-    const json = await getJson(direct);
-    return (json.data?.children || []).map((child) => child.data);
-  } catch (error) {
-    const reason = error instanceof Error ? error.message : String(error);
-    console.error(`[case-leads] seed reddit failed: ${reason}`);
-    const archived = await getJson(`${BY_ID}?ids=${ids.join(",")}`);
-    return archived.data || [];
+  const idList = ids.map((id) => `t3_${id}`).join(",");
+  const directUrls = [
+    `https://www.reddit.com/by_id/${idList}.json?raw_json=1`,
+    `https://old.reddit.com/by_id/${idList}.json?raw_json=1`,
+  ];
+  let lastError = "reddit unavailable";
+  for (const direct of directUrls) {
+    try {
+      const json = await getJson(direct, REDDIT_HEADERS);
+      const rows = (json.data?.children || []).map((child) => child.data);
+      if (rows.length) return rows;
+    } catch (error) {
+      lastError = error instanceof Error ? error.message : String(error);
+    }
   }
+  console.error(`[case-leads] seed reddit failed: ${lastError}`);
+  const archived = await getJson(`${BY_ID}?ids=${ids.join(",")}`);
+  return archived.data || [];
 }
 
 async function main() {
