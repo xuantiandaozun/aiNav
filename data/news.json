@@ -1,5 +1,43 @@
 [
   {
+    "title": "Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-29T18:36:43.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-09-29T13:23:12.826Z"
+  },
+  {
+    "title": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-29T18:07:09.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-09-29T13:23:12.826Z"
+  },
+  {
+    "title": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-29T18:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-09-29T13:23:12.826Z"
+  },
+  {
+    "title": "金句抢先看 | 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/video/HsaJfo3DKR9XC0LeeV30?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-29T17:06:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-09-29T13:23:12.826Z"
+  },
+  {
     "title": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article",
@@ -16,6 +54,29 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.421Z"
+  },
+  {
+    "title": "DeepSeek Harness v0.2预览版正式发布",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4004459316137858?f=rss",
+    "publishedAt": "2026-09-29T12:26:40.000Z",
+    "excerpt": "36氪获悉，9月29日，DeepSeek Harness v0.2预览版正式发布，并提供开箱即用的macOS和Windows桌面端安装包。据介绍，新版本预置了面向日常办公和开发的常用功能，让常用能力开箱即用。同时，新增插件安装与管理页面，并提供更多灵活配置选项，方便按需扩展功能，…",
+    "scenes": [
+      "coding",
+      "office"
+    ],
+    "collectedAt": "2026-09-29T13:23:11.283Z"
+  },
+  {
+    "title": "国务院国资委：进一步发力人工智能、新材料等重点领域，超前培育量子科技等前沿赛道",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4004457536032649?f=rss",
+    "publishedAt": "2026-09-29T12:24:51.000Z",
+    "excerpt": "国务院国资委党委书记、主任程福波在《新型工业化》刊发署名文章表示，积极培育壮大战略性新兴产业。新兴产业和未来产业是引领现代化产业体系建设的关键力量。当前中央企业新兴产业和未来产业布局还需提质加速，一些产业尚未形成竞争优势，必须在打造新兴支柱产业上下更大功夫，按照“领跑一批、赶超一…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-09-29T13:23:11.283Z"
   },
   {
     "title": "AI 数据平台，要补的恰恰是“模型不知道的事”",
@@ -43,6 +104,15 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
+  },
+  {
+    "title": "了不起的OPC，你在用AI做什么？",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4003934076456836?f=rss",
+    "publishedAt": "2026-09-29T09:56:51.000Z",
+    "excerpt": "了不起的OPC 36氪 AI 测评 · 轻访谈栏目 —— 轻访谈邀请函 —— 《了不起的opc，你在用AI做什么？》是36氪AI测评发起的轻访谈栏目。不搭演播室、不摆讲台，我们到你常待的地方，像朋友聊天一样，聊聊你正在做的事、你对AI的真实感受。 我们想和你聊什么 不设长篇提纲，…",
+    "scenes": [],
+    "collectedAt": "2026-09-29T13:23:11.282Z"
   },
   {
     "title": "Token价格一降再降，但不会让边缘AI退场：企业算力账越来越细",
@@ -244,18 +314,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
