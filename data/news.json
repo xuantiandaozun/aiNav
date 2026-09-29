@@ -63,6 +63,15 @@
     "collectedAt": "2026-09-29T08:01:25.784Z"
   },
   {
+    "title": "OpenAI因新模型太强叫停发布",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/499140.html",
+    "publishedAt": "2026-09-29T07:49:20.000Z",
+    "excerpt": "AGI计划暂停。",
+    "scenes": [],
+    "collectedAt": "2026-09-29T08:25:11.637Z"
+  },
+  {
     "title": "Anthropic豪掷百亿采购Akamai云基础设施，延续算力采购趋势",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4004180443221895?f=rss",
@@ -235,18 +244,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
