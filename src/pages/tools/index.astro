@@ -1,0 +1,51 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SceneFilters from "../../components/SceneFilters.astro";
+import { publishedTools, scenes, sceneName } from "../../lib/data";
+
+const tools = publishedTools();
+---
+
+<BaseLayout
+  title="AI 工具导航"
+  description="按写作、绘图、视频、编程、办公找可用的 AI 工具。"
+  active="tools"
+>
+  <div class="page-head">
+    <h1>导航</h1>
+    <p>按场景筛选工具。卡片上会写清做什么、要不要付钱、国内能不能直接打开。</p>
+  </div>
+
+  <SceneFilters scenes={scenes} />
+
+  {
+    tools.length === 0 ? (
+      <div class="empty">还没有工具。</div>
+    ) : (
+      <>
+        <div class="grid">
+          {tools.map((tool) => (
+            <a
+              class="row"
+              href={`/tools/${tool.slug}/`}
+              data-scenes={tool.scenes.join(" ")}
+            >
+              <p class="row__title">{tool.name}</p>
+              <p class="row__summary">{tool.summary}</p>
+              <div class="row__meta" style="margin-top:8px">
+                {tool.scenes.map((id) => (
+                  <span class="tag">{sceneName(id)}</span>
+                ))}
+                <span class="tag">{tool.price}</span>
+                <span class={tool.access === "打开不稳定" ? "tag tag--warn" : "tag"}>
+                  {tool.access}
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+        <div class="empty" data-filter-empty hidden>这个场景暂时没有工具。</div>
+      </>
+    )
+  }
+</BaseLayout>

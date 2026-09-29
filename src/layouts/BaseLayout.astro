@@ -1,0 +1,70 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+  active?: "home" | "news" | "tools" | "cases";
+}
+
+const {
+  title,
+  description = "看 AI 热点，找能用的工具，读别人怎么用 AI 做副业。",
+  active = "home",
+} = Astro.props;
+
+const nav = [
+  { id: "home", href: "/", label: "首页" },
+  { id: "news", href: "/news/", label: "热点" },
+  { id: "tools", href: "/tools/", label: "导航" },
+  { id: "cases", href: "/cases/", label: "案例" },
+] as const;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap site-header__inner">
+        <a class="brand" href="/">AI 用法入口</a>
+        <nav class="nav" aria-label="主导航">
+          {
+            nav.map((item) => (
+              <a
+                href={item.href}
+                aria-current={active === item.id ? "page" : undefined}
+              >
+                {item.label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          本站索引公开信息并链回来源；热点只保留标题与短摘，不转载全文。
+        </p>
+        <p>
+          案例中的收入为来源说法，经本站转述后统一标注为「来源声称」，并非本站核实结果。
+        </p>
+        <p class="beian-slot" hidden data-beian></p>
+      </div>
+    </footer>
+  </body>
+</html>

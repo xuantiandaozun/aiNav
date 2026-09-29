@@ -1,0 +1,58 @@
+---
+interface Props {
+  scenes: { id: string; name: string }[];
+  allLabel?: string;
+}
+
+const { scenes, allLabel = "全部" } = Astro.props;
+---
+
+<div class="filters" data-filter-bar role="group" aria-label="场景筛选">
+  <button type="button" class="filter-chip" data-filter="" aria-pressed="true">
+    {allLabel}
+  </button>
+  {
+    scenes.map((scene) => (
+      <button
+        type="button"
+        class="filter-chip"
+        data-filter={scene.id}
+        aria-pressed="false"
+      >
+        {scene.name}
+      </button>
+    ))
+  }
+</div>
+
+<script>
+  function bindFilters() {
+    const bar = document.querySelector("[data-filter-bar]");
+    const items = document.querySelectorAll("[data-scenes]");
+    if (!bar || !items.length) return;
+
+    const chips = bar.querySelectorAll<HTMLButtonElement>("[data-filter]");
+
+    chips.forEach((chip) => {
+      chip.addEventListener("click", () => {
+        const value = chip.dataset.filter ?? "";
+        chips.forEach((c) =>
+          c.setAttribute("aria-pressed", String(c === chip)),
+        );
+        items.forEach((item) => {
+          const scenes = (item.getAttribute("data-scenes") || "")
+            .split(/\s+/)
+            .filter(Boolean);
+          const show = !value || scenes.includes(value);
+          (item as HTMLElement).hidden = !show;
+        });
+        const visible = [...items].some((el) => !(el as HTMLElement).hidden);
+        const empty = document.querySelector<HTMLElement>("[data-filter-empty]");
+        if (empty) empty.hidden = visible;
+      });
+    });
+  }
+
+  bindFilters();
+  document.addEventListener("astro:page-load", bindFilters);
+</script>

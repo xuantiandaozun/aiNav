@@ -1,0 +1,89 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  allTools,
+  casesForTool,
+  formatDate,
+  sceneName,
+} from "../../lib/data";
+
+export function getStaticPaths() {
+  return allTools.map((tool) => ({
+    params: { slug: tool.slug },
+    props: { tool },
+  }));
+}
+
+const { tool } = Astro.props;
+const publicTool = tool.status === "公开";
+const related = publicTool ? casesForTool(tool.slug) : [];
+---
+
+<BaseLayout
+  title={publicTool ? tool.name : "工具未公开"}
+  description={publicTool ? tool.summary : "这个工具没有公开"}
+  active="tools"
+>
+  {
+    publicTool ? (
+      <article class="detail">
+        <h1>{tool.name}</h1>
+        <p class="muted">{tool.summary}</p>
+        <div class="row__meta" style="margin-top:12px">
+          {tool.scenes.map((id) => (
+            <span class="tag tag--accent">{sceneName(id)}</span>
+          ))}
+          <span class="tag">{tool.price}</span>
+          <span class={tool.access === "打开不稳定" ? "tag tag--warn" : "tag"}>
+            {tool.access}
+          </span>
+        </div>
+        <dl>
+          <div>
+            <dt>网络情况说明</dt>
+            <dd>
+              {tool.access}
+              {tool.note ? `。${tool.note}` : ""}
+            </dd>
+          </div>
+          <div>
+            <dt>信息更新时间</dt>
+            <dd>{formatDate(tool.updatedAt)}</dd>
+          </div>
+        </dl>
+        <div class="actions">
+          <a
+            class="btn btn--primary"
+            href={tool.websiteUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            打开官网
+          </a>
+          <a class="btn btn--ghost" href="/tools/">返回导航</a>
+        </div>
+
+        {related.length > 0 ? (
+          <section class="section" aria-labelledby="related-cases">
+            <div class="section__head">
+              <h2 id="related-cases">用到这个工具的案例</h2>
+            </div>
+            <div class="list">
+              {related.map((item) => (
+                <a class="row" href={`/cases/${item.slug}/`}>
+                  <p class="row__title">{item.title}</p>
+                  <p class="row__summary">{item.summary}</p>
+                </a>
+              ))}
+            </div>
+          </section>
+        ) : null}
+      </article>
+    ) : (
+      <div class="empty">
+        <p>这个工具没有公开。</p>
+        <p><a href="/tools/">返回导航</a></p>
+      </div>
+    )
+  }
+</BaseLayout>

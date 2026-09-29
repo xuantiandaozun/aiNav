@@ -1,0 +1,101 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import {
+  featuredTools,
+  formatDate,
+  recentCases,
+  recentNews,
+  sceneName,
+} from "../lib/data";
+
+const news = recentNews(8);
+const tools = featuredTools(8);
+const cases = recentCases(4);
+---
+
+<BaseLayout title="AI 用法入口" active="home">
+  <section class="hero">
+    <h1>AI 用法入口</h1>
+    <p>在这里办三件事：看今天的 AI 热点、按场景找工具、读别人用这些工具做过的副业案例。</p>
+  </section>
+
+  <section class="section" aria-labelledby="home-news">
+    <div class="section__head">
+      <h2 id="home-news">今日热点</h2>
+      <a href="/news/">查看全部</a>
+    </div>
+    {
+      news.length === 0 ? (
+        <div class="empty">还没有热点。定时采集跑起来后，这里会出现最新标题。</div>
+      ) : (
+        <div class="list">
+          {news.map((item) => (
+            <a
+              class="row"
+              href={item.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <p class="row__title">{item.title}</p>
+              <div class="row__meta">
+                <span>{item.sourceName}</span>
+                <span>{formatDate(item.publishedAt)}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </section>
+
+  <section class="section" aria-labelledby="home-tools">
+    <div class="section__head">
+      <h2 id="home-tools">工具</h2>
+      <a href="/tools/">查看全部</a>
+    </div>
+    {
+      tools.length === 0 ? (
+        <div class="empty">还没有工具。</div>
+      ) : (
+        <div class="grid">
+          {tools.map((tool) => (
+            <a class="row" href={`/tools/${tool.slug}/`}>
+              <p class="row__title">{tool.name}</p>
+              <p class="row__summary">{tool.summary}</p>
+              <div class="row__meta" style="margin-top:8px">
+                <span class="tag">{tool.price}</span>
+                <span class={tool.access === "打开不稳定" ? "tag tag--warn" : "tag"}>
+                  {tool.access}
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </section>
+
+  <section class="section" aria-labelledby="home-cases">
+    <div class="section__head">
+      <h2 id="home-cases">本周案例</h2>
+      <a href="/cases/">查看全部</a>
+    </div>
+    {
+      cases.length === 0 ? (
+        <div class="empty">还没有案例。</div>
+      ) : (
+        <div class="list">
+          {cases.map((item) => (
+            <a class="row" href={`/cases/${item.slug}/`}>
+              <p class="row__title">{item.title}</p>
+              <div class="row__meta">
+                <span class="tag tag--accent">{sceneName(item.scene)}</span>
+              </div>
+              <p class="row__summary">{item.summary}</p>
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </section>
+</BaseLayout>

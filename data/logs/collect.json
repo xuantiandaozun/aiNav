@@ -1,0 +1,98 @@
+[
+  {
+    "ranAt": "2026-09-29T08:07:30.583Z",
+    "sources": [
+      {
+        "name": "机器之心",
+        "ok": false,
+        "fetched": 0,
+        "error": "Unexpected close tag\nLine: 21\nColumn: 19\nChar: >"
+      },
+      {
+        "name": "量子位",
+        "ok": true,
+        "fetched": 6,
+        "error": ""
+      },
+      {
+        "name": "36氪",
+        "ok": true,
+        "fetched": 12,
+        "error": ""
+      },
+      {
+        "name": "InfoQ 中文",
+        "ok": true,
+        "fetched": 11,
+        "error": ""
+      }
+    ],
+    "added": 0
+  },
+  {
+    "ranAt": "2026-09-29T08:01:24.702Z",
+    "sources": [
+      {
+        "name": "机器之心",
+        "ok": false,
+        "fetched": 0,
+        "error": "Unexpected close tag\nLine: 21\nColumn: 19\nChar: >"
+      },
+      {
+        "name": "量子位",
+        "ok": true,
+        "fetched": 6,
+        "error": ""
+      },
+      {
+        "name": "36氪",
+        "ok": true,
+        "fetched": 13,
+        "error": ""
+      },
+      {
+        "name": "InfoQ 中文",
+        "ok": true,
+        "fetched": 11,
+        "error": ""
+      }
+    ],
+    "added": 2
+  },
+  {
+    "ranAt": "2026-09-29T07:59:23.290Z",
+    "sources": [
+      {
+        "name": "机器之心",
+        "ok": false,
+        "fetched": 0,
+        "error": "Unexpected close tag\nLine: 21\nColumn: 19\nChar: >"
+      },
+      {
+        "name": "量子位",
+        "ok": true,
+        "fetched": 6,
+        "error": ""
+      },
+      {
+        "name": "36氪",
+        "ok": true,
+        "fetched": 11,
+        "error": ""
+      },
+      {
+        "name": "InfoQ 中文",
+        "ok": true,
+        "fetched": 11,
+        "error": ""
+      }
+    ],
+    "added": 28
+  },
+  {
+    "ranAt": "1970-01-01T00:00:00.000Z",
+    "sources": [],
+    "added": 0,
+    "note": "占位日志，采集运行后会被真实记录替换并只保留最近 14 次。"
+  }
+]

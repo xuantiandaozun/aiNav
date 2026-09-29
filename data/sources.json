@@ -1,0 +1,22 @@
+[
+  {
+    "name": "机器之心",
+    "url": "https://www.jiqizhixin.com/rss",
+    "enabled": true
+  },
+  {
+    "name": "量子位",
+    "url": "https://www.qbitai.com/feed",
+    "enabled": true
+  },
+  {
+    "name": "36氪",
+    "url": "https://www.36kr.com/feed",
+    "enabled": true
+  },
+  {
+    "name": "InfoQ 中文",
+    "url": "https://www.infoq.cn/feed",
+    "enabled": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "writing", "name": "写作" },
+  { "id": "image", "name": "绘图" },
+  { "id": "video", "name": "视频" },
+  { "id": "coding", "name": "编程" },
+  { "id": "office", "name": "办公" }
+]
