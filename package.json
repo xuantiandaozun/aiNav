@@ -12,6 +12,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "collect": "node scripts/collect-news.mjs",
+    "leads": "node scripts/collect-case-leads.mjs",
     "logos": "node scripts/fetch-logos.mjs"
   },
   "dependencies": {

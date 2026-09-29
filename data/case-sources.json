@@ -1,0 +1,12 @@
+{
+  "reddit": [
+    { "subreddit": "vibecoding", "sort": "top", "t": "month", "limit": 25 },
+    { "subreddit": "SideProject", "sort": "top", "t": "week", "limit": 20 },
+    { "subreddit": "indiehackers", "sort": "top", "t": "month", "limit": 15 }
+  ],
+  "seedIds": ["1tvq9gi", "1s6y29s", "1uhnurk"],
+  "hn": [
+    { "query": "vibe coding", "hits": 15 },
+    { "query": "AI side project revenue", "hits": 10 }
+  ]
+}

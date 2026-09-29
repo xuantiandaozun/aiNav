@@ -13,16 +13,16 @@
     "updatedAt": "2026-09-29"
   },
   {
-    "name": "通义千问",
+    "name": "千问",
     "slug": "qwen",
-    "summary": "阿里云大模型，覆盖对话、文档理解和多模态能力。",
-    "websiteUrl": "https://tongyi.aliyun.com/",
+    "summary": "阿里的对话助手，原通义千问，适合写作、编程和日常问答。",
+    "websiteUrl": "https://www.qianwen.com/",
     "scenes": ["writing", "office", "coding"],
     "price": "部分免费",
     "access": "国内可直接打开",
     "status": "公开",
     "featured": true,
-    "note": "",
+    "note": "对话入口以 qianwen.com 为准。",
     "updatedAt": "2026-09-29"
   },
   {
@@ -52,16 +52,16 @@
     "updatedAt": "2026-09-29"
   },
   {
-    "name": "文心一言",
+    "name": "文心助手",
     "slug": "ernie",
-    "summary": "百度大模型对话产品，适合中文写作与办公辅助。",
-    "websiteUrl": "https://yiyan.baidu.com/",
+    "summary": "百度文心对话产品，适合中文写作与办公辅助。",
+    "websiteUrl": "https://wenxin.baidu.com/",
     "scenes": ["writing", "office"],
     "price": "部分免费",
     "access": "国内可直接打开",
     "status": "公开",
     "featured": false,
-    "note": "",
+    "note": "原「文心一言」网址已跳转到文心助手。",
     "updatedAt": "2026-09-29"
   },
   {
@@ -120,7 +120,7 @@
     "name": "Claude",
     "slug": "claude",
     "summary": "Anthropic 对话产品，长文写作与代码任务表现稳定。",
-    "websiteUrl": "https://claude.ai/",
+    "websiteUrl": "https://claude.com/",
     "scenes": ["writing", "coding"],
     "price": "部分免费",
     "access": "打开不稳定",
@@ -185,7 +185,7 @@
     "name": "讯飞绘文",
     "slug": "huowen",
     "summary": "面向写作与内容生产的中文创作工具。",
-    "websiteUrl": "https://huowen.xfyun.cn/",
+    "websiteUrl": "https://turbodesk.xfyun.cn/",
     "scenes": ["writing"],
     "price": "部分免费",
     "access": "国内可直接打开",
@@ -249,9 +249,9 @@
   {
     "name": "通义万相",
     "slug": "wanxiang",
-    "summary": "阿里云文生图与图像创作能力。",
-    "websiteUrl": "https://tongyi.aliyun.com/wanxiang/",
-    "scenes": ["image"],
+    "summary": "阿里的图像与视频生成，产品页在万相。",
+    "websiteUrl": "https://tongyi.aliyun.com/wan/",
+    "scenes": ["image", "video"],
     "price": "部分免费",
     "access": "国内可直接打开",
     "status": "公开",
@@ -267,9 +267,9 @@
     "scenes": ["image"],
     "price": "部分免费",
     "access": "国内可直接打开",
-    "status": "公开",
+    "status": "已下线",
     "featured": false,
-    "note": "",
+    "note": "原地址已跳到文心助手，绘画产品页不再单独开放。",
     "updatedAt": "2026-09-29"
   },
   {
@@ -351,16 +351,16 @@
     "updatedAt": "2026-09-29"
   },
   {
-    "name": "抖音来客数字人",
-    "slug": "douyin-avatar",
-    "summary": "面向本地生活与带货场景的数字人能力入口。",
-    "websiteUrl": "https://www.douyin.com/",
+    "name": "即创",
+    "slug": "jichuang",
+    "summary": "巨量引擎的智能创意平台，可做广告素材和数字人视频。",
+    "websiteUrl": "https://aic.oceanengine.com/",
     "scenes": ["video"],
     "price": "部分免费",
     "access": "国内可直接打开",
     "status": "公开",
     "featured": false,
-    "note": "具体能力以抖音开放与来客后台为准。",
+    "note": "原先这条写成了抖音首页，已改为即创官网。",
     "updatedAt": "2026-09-29"
   },
   {
@@ -468,10 +468,10 @@
     "updatedAt": "2026-09-29"
   },
   {
-    "name": "飞书智能伙伴",
+    "name": "飞书 AI",
     "slug": "feishu-ai",
-    "summary": "飞书里的会议纪要、文档问答与任务整理。",
-    "websiteUrl": "https://www.feishu.cn/",
+    "summary": "飞书里的企业 AI 助手，可做文档、会议和问答。",
+    "websiteUrl": "https://www.feishu.cn/product/feishuai",
     "scenes": ["office"],
     "price": "部分免费",
     "access": "国内可直接打开",
@@ -497,7 +497,7 @@
     "name": "Notion AI",
     "slug": "notion-ai",
     "summary": "在笔记与知识库中写作、总结和头脑风暴。",
-    "websiteUrl": "https://www.notion.so/product/ai",
+    "websiteUrl": "https://www.notion.com/product/ai",
     "scenes": ["office", "writing"],
     "price": "付费",
     "access": "打开不稳定",
@@ -546,16 +546,16 @@
     "updatedAt": "2026-09-29"
   },
   {
-    "name": "一格 AI 数字人",
-    "slug": "yige-digital",
-    "summary": "数字人口播与短视频生成相关能力入口。",
-    "websiteUrl": "https://www.yigeai.com/",
+    "name": "闪剪",
+    "slug": "shanjian",
+    "summary": "虚拟数字人定制和短视频成片工具。",
+    "websiteUrl": "https://shanjian.tv/",
     "scenes": ["video"],
-    "price": "付费",
+    "price": "部分免费",
     "access": "国内可直接打开",
     "status": "公开",
     "featured": false,
-    "note": "请以官网当前产品为准。",
+    "note": "原先这条指向印前校对站 yigeai.com，已改为闪剪官网。",
     "updatedAt": "2026-09-29"
   },
   {
@@ -569,6 +569,32 @@
     "status": "公开",
     "featured": false,
     "note": "",
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "name": "抖音来客数字人",
+    "slug": "douyin-avatar",
+    "summary": "这条原先指向抖音首页，不是数字人产品。",
+    "websiteUrl": "https://www.douyin.com/",
+    "scenes": ["video"],
+    "price": "部分免费",
+    "access": "国内可直接打开",
+    "status": "已下线",
+    "featured": false,
+    "note": "请改看即创。",
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "name": "一格 AI 数字人",
+    "slug": "yige-digital",
+    "summary": "这条原先指向印前校对站，不是数字人产品。",
+    "websiteUrl": "https://www.yigeai.com/",
+    "scenes": ["video"],
+    "price": "付费",
+    "access": "国内可直接打开",
+    "status": "已下线",
+    "featured": false,
+    "note": "请改看闪剪。",
     "updatedAt": "2026-09-29"
   },
   {

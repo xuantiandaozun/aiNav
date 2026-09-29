@@ -1,0 +1,48 @@
+# 每天 UTC 02:00 ≈ 北京时间 10:00。与热点错开，避免同时推送冲突。
+# GitHub 托管机可以直连 Reddit 和 Hacker News；本机访问不到时会退回公开存档。
+name: Collect case leads
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-case-leads
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Collect case leads
+        run: npm run leads
+
+      - name: Commit data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/case-leads.json data/logs/case-leads.json
+          if git diff --staged --quiet; then
+            echo "No case lead changes"
+          else
+            git commit -m "chore: update case leads"
+            git push
+          fi

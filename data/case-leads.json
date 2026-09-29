@@ -1,0 +1,308 @@
+[
+  {
+    "id": "1wt565b",
+    "title": "I built a format where the same app file runs on Mac, Windows and Linux",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt565b/i_built_a_format_where_the_same_app_file_runs_on/",
+    "excerpt": "I've wanted this for a long time. You make an app once, get one file, and send that exact file to someone whether they're on Mac, Windows or Linux. Not one code…",
+    "createdAt": "2026-09-29T09:05:02.000Z"
+  },
+  {
+    "id": "1wt54k8",
+    "title": "12 ways to grow your project with the API",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt54k8/12_ways_to_grow_your_project_with_the_api/",
+    "excerpt": "Hello guys! What are you working on guys? Want to share with you some great value stuff. I created this list with some simple 12 ways you can do to grow your pr…",
+    "createdAt": "2026-09-29T09:02:15.000Z"
+  },
+  {
+    "id": "1wt5334",
+    "title": "Roast my micro SaaS: paste a domain, get 118 of the 134 checks in about three seconds, no signup",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt5334/roast_my_micro_saas_paste_a_domain_get_118_of_the/",
+    "excerpt": "Disclosure: I built it. I am a solo indie dev. Revenue so far: zero. It went live this week. Backstory. I used to be a CIO. Checking if a website was really hea…",
+    "createdAt": "2026-09-29T09:00:04.000Z"
+  },
+  {
+    "id": "1wt52mz",
+    "title": "Please do not believe these are real people, I'd be making 10K MRR by now",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt52mz/please_do_not_believe_these_are_real_people_id_be/",
+    "excerpt": "Just a quick advice to anyone building sites using AI (I'm one of those), I get hundreds of sessions like these every day, but I can assure you these are AI age…",
+    "createdAt": "2026-09-29T08:59:16.000Z"
+  },
+  {
+    "id": "1wt4plt",
+    "title": "Arcane Spire: Tower Defense with shooter twist, levels, mini-games and progression",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt4plt/arcane_spire_tower_defense_with_shooter_twist/",
+    "excerpt": "Hi all, first post in the space. I wanted to share my first mobile game that I have built for Android and iOS platforms. Happy to receive some constructive feed…",
+    "createdAt": "2026-09-29T08:35:46.000Z"
+  },
+  {
+    "id": "1wt4o9a",
+    "title": "I got tired of every \"what's my IP\" site being an ad-stuffed tracker, so I built a tracker-free one",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt4o9a/i_got_tired_of_every_whats_my_ip_site_being_an/",
+    "excerpt": "Every time I needed to check my IP, the sites I landed on felt like walking into a surveillance store. Popups, cookie banners, fingerprinting scripts, all to sh…",
+    "createdAt": "2026-09-29T08:33:21.000Z"
+  },
+  {
+    "id": "1wt1om2",
+    "title": "Steel Maiden — I’m building a two-button action roguelite with AI. Here’s my workflow.",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wt1om2/steel_maiden_im_building_a_twobutton_action/",
+    "excerpt": "I’m developing Steel Maiden solo in Unity, using AI throughout the production pipeline—from game design to animation, environments, and custom development tools…",
+    "createdAt": "2026-09-29T05:29:59.000Z"
+  },
+  {
+    "id": "1wt1mlg",
+    "title": "Sonnet 5.5 demo: ride a photon from the Sun up to Uranus",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wt1mlg/sonnet_55_demo_ride_a_photon_from_the_sun_up_to/",
+    "excerpt": "Model: Sonnet 5.5 on high Setup: Claude Cowork web (so not on my machine), single prompt. Took about 55 min and used 5% of my $20 weekly limit. How I got the pr…",
+    "createdAt": "2026-09-29T05:26:41.000Z"
+  },
+  {
+    "id": "1uhnurk",
+    "title": "I vibe coded a B2B saas, what about marketing?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1uhnurk/i_vibe_coded_a_b2b_saas_what_about_marketing/",
+    "excerpt": "So i vibe coded a SaaS and I think many businesses would use it, but how do I actually get users? How did u guys got users? Ive been trying to get users with co…",
+    "createdAt": "2026-06-28T04:46:37.000Z"
+  },
+  {
+    "id": "1tvq9gi",
+    "title": "I lose more money on my app than it makes me every month",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 42,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1tvq9gi/i_lose_more_money_on_my_app_than_it_makes_me/",
+    "excerpt": "my app is 10 months old and I’m still in the red. I spend around $180-250/month on servers, APIs, tools, ads, etc… while it only makes me $60-90. I keep telling…",
+    "createdAt": "2026-06-03T14:01:14.000Z"
+  },
+  {
+    "id": "hn-48037128",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 787,
+    "sourceUrl": "https://news.ycombinator.com/item?id=48037128",
+    "excerpt": "",
+    "createdAt": "2026-05-06T15:06:37.000Z"
+  },
+  {
+    "id": "hn-47664912",
+    "title": "The cult of vibe coding is dogfooding run amok",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 616,
+    "sourceUrl": "https://news.ycombinator.com/item?id=47664912",
+    "excerpt": "",
+    "createdAt": "2026-04-06T18:31:03.000Z"
+  },
+  {
+    "id": "1s6y29s",
+    "title": "Built an AI animation SaaS as a side project - hit 186 MRR and 361 revenue in my first month",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 4,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1s6y29s/built_an_ai_animation_saas_as_a_side_project_hit/",
+    "excerpt": "Hey everyone, just wanted to share a small win. I launched Motchi (motchi.art) in March 2026 as a side project. It turns text prompts or photos into animated ch…",
+    "createdAt": "2026-03-29T15:27:00.000Z"
+  },
+  {
+    "id": "hn-47281854",
+    "title": "Ask HN: Has anyone built an autonomous AI operator for their side projects?",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 2,
+    "sourceUrl": "https://news.ycombinator.com/item?id=47281854",
+    "excerpt": "I spent the last month building what I call an AI operator - an autonomous agent that manages my side projects end-to-end while I focus on strategy. It runs on …",
+    "createdAt": "2026-03-06T22:17:17.000Z"
+  },
+  {
+    "id": "hn-47167931",
+    "title": "Will vibe coding end like the maker movement?",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 405,
+    "sourceUrl": "https://news.ycombinator.com/item?id=47167931",
+    "excerpt": "",
+    "createdAt": "2026-02-26T16:07:11.000Z"
+  },
+  {
+    "id": "hn-47006615",
+    "title": "Breaking the spell of vibe coding",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 434,
+    "sourceUrl": "https://news.ycombinator.com/item?id=47006615",
+    "excerpt": "",
+    "createdAt": "2026-02-13T19:22:18.000Z"
+  },
+  {
+    "id": "hn-46977210",
+    "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 378,
+    "sourceUrl": "https://news.ycombinator.com/item?id=46977210",
+    "excerpt": "",
+    "createdAt": "2026-02-11T16:41:33.000Z"
+  },
+  {
+    "id": "hn-46765120",
+    "title": "Vibe coding kills open source",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 330,
+    "sourceUrl": "https://news.ycombinator.com/item?id=46765120",
+    "excerpt": "",
+    "createdAt": "2026-01-26T13:01:00.000Z"
+  },
+  {
+    "id": "hn-46420453",
+    "title": "Show HN: Vibe coding a bookshelf with Claude Code",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 284,
+    "sourceUrl": "https://news.ycombinator.com/item?id=46420453",
+    "excerpt": "",
+    "createdAt": "2025-12-29T13:22:59.000Z"
+  },
+  {
+    "id": "hn-46227422",
+    "title": "Vibe coding is mad depressing",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 263,
+    "sourceUrl": "https://news.ycombinator.com/item?id=46227422",
+    "excerpt": "",
+    "createdAt": "2025-12-11T03:50:04.000Z"
+  },
+  {
+    "id": "hn-45875749",
+    "title": "We got a $60k tax penalty for a zero-revenue side project",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 28,
+    "sourceUrl": "https://news.ycombinator.com/item?id=45875749",
+    "excerpt": "In 2020, in the middle of COVID, a few friends and I decided that obviously the world needed <i>another</i> presentation tool.<p>Our pain point was simple: we h…",
+    "createdAt": "2025-11-10T13:25:00.000Z"
+  },
+  {
+    "id": "hn-45635430",
+    "title": "Ask HN: What are revenue generating side projects you can do utilizing AI?",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 2,
+    "sourceUrl": "https://news.ycombinator.com/item?id=45635430",
+    "excerpt": "",
+    "createdAt": "2025-10-19T16:23:55.000Z"
+  },
+  {
+    "id": "hn-45286506",
+    "title": "9 Years Solo: Building Complex AI Competition in a Game Management SIM",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 1,
+    "sourceUrl": "https://news.ycombinator.com/item?id=45286506",
+    "excerpt": "After 9+ years of solo development, I just shipped what might be the most technically challenging update to my game management simulator, City Game Studio.<p>*T…",
+    "createdAt": "2025-09-18T07:10:31.000Z"
+  },
+  {
+    "id": "hn-45109483",
+    "title": "Show HN: Davia – A community platform to build, share, and edit applications",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 16,
+    "sourceUrl": "https://news.ycombinator.com/item?id=45109483",
+    "excerpt": "Hi HN!<p>I&#x27;m Ruben, the founder of Davia (<a href=\"https:&#x2F;&#x2F;davia.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;davia.ai&#x2F;</a>). Davia is a platf…",
+    "createdAt": "2025-09-02T21:44:09.000Z"
+  },
+  {
+    "id": "hn-45091223",
+    "title": "Show HN: Indie10k – An AI Coach That Guides Indie Developers to $10k MRR",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 1,
+    "sourceUrl": "https://news.ycombinator.com/item?id=45091223",
+    "excerpt": "I built Indie10k ( <a href=\"https:&#x2F;&#x2F;indie10k.com\" rel=\"nofollow\">https:&#x2F;&#x2F;indie10k.com</a> ) because I found coding projects fun, but turning…",
+    "createdAt": "2025-09-01T09:54:56.000Z"
+  },
+  {
+    "id": "hn-44742251",
+    "title": "I know when you're vibe coding",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 353,
+    "sourceUrl": "https://news.ycombinator.com/item?id=44742251",
+    "excerpt": "",
+    "createdAt": "2025-07-31T04:16:40.000Z"
+  },
+  {
+    "id": "hn-43739037",
+    "title": "Vibe Coding is not an excuse for low-quality work",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 259,
+    "sourceUrl": "https://news.ycombinator.com/item?id=43739037",
+    "excerpt": "",
+    "createdAt": "2025-04-19T20:00:17.000Z"
+  },
+  {
+    "id": "hn-40900263",
+    "title": "Show HN: I launched a site a week ago and it's made $1.2K so far, what next?",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 1,
+    "sourceUrl": "https://news.ycombinator.com/item?id=40900263",
+    "excerpt": "I launched my side project 7 days ago, an AI platform that lets you use 9+ AI apps in one (AI Music, AI Image generation, AI Chat with PDF, and 6 LLMs)<p>It&#x2…",
+    "createdAt": "2024-07-07T20:34:41.000Z"
+  },
+  {
+    "id": "hn-40344944",
+    "title": "Show HN: BlueCtrlP, a Deployment Tool for Side-Projects",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 3,
+    "sourceUrl": "https://news.ycombinator.com/item?id=40344944",
+    "excerpt": "Hey fellow hackers,<p>Struggling with the deployment phase? Coding may be a breeze, but launching is always the toughest nut to crack.<p>Introducing BlueCtrlP -…",
+    "createdAt": "2024-05-13T16:17:15.000Z"
+  },
+  {
+    "id": "hn-40233973",
+    "title": "Show HN: Tess – The first AI image generator to pay artists",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 2,
+    "sourceUrl": "https://news.ycombinator.com/item?id=40233973",
+    "excerpt": "Hi HN,<p>I wanted to share a side project that we&#x27;ve been working on for a few weeks. It&#x27;s called Tess and it&#x27;s a new kind of AI image generator …",
+    "createdAt": "2024-05-02T08:34:33.000Z"
+  },
+  {
+    "id": "hn-33801314",
+    "title": "Launch HN: Patterns (YC S21) – A much faster way to build and deploy data apps",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 149,
+    "sourceUrl": "https://news.ycombinator.com/item?id=33801314",
+    "excerpt": "Hey HN, I’m Ken, co-founder of Patterns (<a href=\"https:&#x2F;&#x2F;www.patterns.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.patterns.app&#x2F;</a>) with wi…",
+    "createdAt": "2022-11-30T14:37:36.000Z"
+  }
+]
