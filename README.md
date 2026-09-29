@@ -35,6 +35,21 @@ npm run dev
 | `data/news.json` | 定时任务 | 不要手改；由 `npm run collect` 更新 |
 | `data/sources.json` | 站长 | RSS 来源开关 |
 
+## 热点怎么自动更新
+
+热点不写在云函数里，而是写在仓库的 `data/news.json`。
+
+流程：
+
+1. GitHub Actions（`.github/workflows/collect-news.yml`）每天跑两次（也可在 Actions 页手动 Run）。
+2. 脚本抓公开 RSS，去重后写回 `data/news.json`。
+3. 有变更就 commit + push 到 `master`。
+4. EdgeOne Pages 检测到推送后自动重新构建，线上热点更新。
+
+本地也可以先试：`npm run collect`。
+
+首次使用请打开仓库的 [Actions](https://github.com/xuantiandaozun/aiNav/actions) 页，如提示启用工作流请点允许，再手动跑一次 **Collect AI news**。
+
 ## 部署（0 元方案）
 
 1. 把仓库推到 GitHub（建议公开，Actions 分钟不计费）。
