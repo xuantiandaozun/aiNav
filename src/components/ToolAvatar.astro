@@ -1,0 +1,35 @@
+---
+import logos from "../../data/logos.json";
+
+interface Props {
+  name: string;
+  scene: string;
+  slug?: string;
+  size?: number;
+}
+
+const { name, scene, slug, size = 44 } = Astro.props;
+const mark = (Array.from(name.trim())[0] ?? "?").toUpperCase();
+const logo = slug ? (logos as Record<string, string>)[slug] : undefined;
+---
+
+<span
+  class={`avatar scene-${scene}${logo ? " avatar--logo" : ""}`}
+  style={`width:${size}px;height:${size}px;font-size:${Math.round(size * 0.44)}px`}
+  aria-hidden="true"
+>
+  {mark}
+  {
+    logo ? (
+      <img
+        src={logo}
+        alt=""
+        width={size}
+        height={size}
+        loading="lazy"
+        decoding="async"
+        onerror="this.remove()"
+      />
+    ) : null
+  }
+</span>

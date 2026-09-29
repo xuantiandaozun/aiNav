@@ -1,0 +1,43 @@
+---
+import SceneIcon from "./SceneIcon.astro";
+import ToolAvatar from "./ToolAvatar.astro";
+import { getTool, sceneName, type CaseItem } from "../lib/data";
+
+interface Props {
+  item: CaseItem;
+  large?: boolean;
+}
+
+const { item, large = false } = Astro.props;
+const toolMarks = item.tools
+  .map((slug) => getTool(slug))
+  .filter((t) => t && t.status === "公开")
+  .slice(0, 3);
+---
+
+<div class={`cover scene-${item.scene}${large ? " cover--large" : ""}`}>
+  <span class="cover__scene">
+    <SceneIcon name={item.scene} size={16} />
+    {sceneName(item.scene)}
+  </span>
+  <img
+    class="cover__img"
+    src={`/images/cover-${item.scene}.png`}
+    alt=""
+    loading="lazy"
+    decoding="async"
+    onerror="this.remove()"
+  />
+  <span class="cover__tools">
+    {
+      toolMarks.map((tool) => (
+        <ToolAvatar
+          name={tool!.name}
+          slug={tool!.slug}
+          scene={item.scene}
+          size={large ? 40 : 32}
+        />
+      ))
+    }
+  </span>
+</div>

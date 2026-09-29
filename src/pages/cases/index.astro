@@ -1,7 +1,9 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SceneFilters from "../../components/SceneFilters.astro";
-import { publishedCases, scenes, sceneName } from "../../lib/data";
+import SceneIcon from "../../components/SceneIcon.astro";
+import CaseCard from "../../components/CaseCard.astro";
+import { publishedCases, scenes } from "../../lib/data";
 
 const cases = publishedCases();
 ---
@@ -12,10 +14,13 @@ const cases = publishedCases();
   active="cases"
 >
   <div class="page-head">
-    <h1>案例</h1>
-    <p>
-      每条案例都经过站长改写，并链回原文。收入统一写成「来源声称」，不是本站核实结果。
-    </p>
+    <span class="section__icon"><SceneIcon name="cases" size={26} /></span>
+    <div>
+      <h1>案例</h1>
+      <p>
+        每条案例都经过站长改写，并链回原文。收入统一写成「来源声称」，不是本站核实结果。
+      </p>
+    </div>
   </div>
 
   <SceneFilters scenes={scenes} />
@@ -25,19 +30,9 @@ const cases = publishedCases();
       <div class="empty">还没有案例。</div>
     ) : (
       <>
-        <div class="list">
+        <div class="case-grid">
           {cases.map((item) => (
-            <a
-              class="row"
-              href={`/cases/${item.slug}/`}
-              data-scenes={item.scene}
-            >
-              <p class="row__title">{item.title}</p>
-              <div class="row__meta">
-                <span class="tag tag--accent">{sceneName(item.scene)}</span>
-              </div>
-              <p class="row__summary">{item.summary}</p>
-            </a>
+            <CaseCard item={item} />
           ))}
         </div>
         <div class="empty" data-filter-empty hidden>这个场景暂时没有案例。</div>

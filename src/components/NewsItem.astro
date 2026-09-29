@@ -1,0 +1,47 @@
+---
+import SceneIcon from "./SceneIcon.astro";
+import { formatDate, sceneName, sourceBrand, type NewsItem } from "../lib/data";
+
+interface Props {
+  item: NewsItem;
+  showExcerpt?: boolean;
+}
+
+const { item, showExcerpt = false } = Astro.props;
+const brand = sourceBrand(item.sourceName);
+---
+
+<a
+  class="news-item"
+  href={item.sourceUrl}
+  target="_blank"
+  rel="noopener noreferrer"
+  data-scenes={item.scenes.join(" ")}
+>
+  <span
+    class={`avatar scene-${brand.tone}`}
+    style="width:38px;height:38px;font-size:17px"
+    aria-hidden="true">{brand.mark}</span
+  >
+  <div class="news-item__body">
+    <p class="news-item__title">{item.title}</p>
+    <div class="news-item__meta">
+      <span>{item.sourceName}</span>
+      <span>{formatDate(item.publishedAt)}</span>
+      {
+        item.scenes.map((id) => (
+          <span class={`scene-tag scene-${id}`}>
+            <SceneIcon name={id} size={13} />
+            {sceneName(id)}
+          </span>
+        ))
+      }
+    </div>
+    {showExcerpt && item.excerpt ? (
+      <p class="news-item__excerpt">{item.excerpt}</p>
+    ) : null}
+  </div>
+  <span class="news-item__go" title="阅读原文">
+    <SceneIcon name="external" size={18} />
+  </span>
+</a>

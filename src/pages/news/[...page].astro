@@ -1,7 +1,9 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SceneFilters from "../../components/SceneFilters.astro";
-import { formatDate, scenes, sortedNews } from "../../lib/data";
+import SceneIcon from "../../components/SceneIcon.astro";
+import NewsItem from "../../components/NewsItem.astro";
+import { scenes, sortedNews } from "../../lib/data";
 
 export async function getStaticPaths({ paginate }: { paginate: Function }) {
   const news = sortedNews();
@@ -32,8 +34,11 @@ const isFirst = page.currentPage === 1;
   active="news"
 >
   <div class="page-head">
-    <h1>热点</h1>
-    <p>内容来自公开 RSS，本站只保留标题、来源、时间和短摘。点击前往原文阅读。</p>
+    <span class="section__icon"><SceneIcon name="news" size={26} /></span>
+    <div>
+      <h1>热点</h1>
+      <p>内容来自公开 RSS，本站只保留标题、来源、时间和短摘。点击前往原文阅读。</p>
+    </div>
   </div>
 
   <SceneFilters scenes={scenes} />
@@ -44,30 +49,8 @@ const isFirst = page.currentPage === 1;
     ) : (
       <>
         <div class="list">
-          {page.data.map((item) => (
-            <article
-              class="row"
-              data-scenes={item.scenes.join(" ")}
-            >
-              <p class="row__title">
-                <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">
-                  {item.title}
-                </a>
-              </p>
-              <div class="row__meta">
-                <span>{item.sourceName}</span>
-                <span>{formatDate(item.publishedAt)}</span>
-                {item.scenes.map((id) => (
-                  <span class="tag">{scenes.find((s) => s.id === id)?.name}</span>
-                ))}
-              </div>
-              {item.excerpt ? <p class="row__summary">{item.excerpt}</p> : null}
-              <p class="row__summary">
-                <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">
-                  阅读原文
-                </a>
-              </p>
-            </article>
+          {page.data.map((item: any) => (
+            <NewsItem item={item} showExcerpt />
           ))}
         </div>
         <div class="empty" data-filter-empty hidden>这个场景暂时没有热点。</div>

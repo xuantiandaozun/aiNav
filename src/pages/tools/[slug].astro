@@ -1,9 +1,13 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import SceneIcon from "../../components/SceneIcon.astro";
+import ToolAvatar from "../../components/ToolAvatar.astro";
+import CaseCard from "../../components/CaseCard.astro";
 import {
   allTools,
   casesForTool,
   formatDate,
+  primaryScene,
   sceneName,
 } from "../../lib/data";
 
@@ -17,6 +21,7 @@ export function getStaticPaths() {
 const { tool } = Astro.props;
 const publicTool = tool.status === "公开";
 const related = publicTool ? casesForTool(tool.slug) : [];
+const unstable = tool.access === "打开不稳定";
 ---
 
 <BaseLayout
@@ -27,27 +32,38 @@ const related = publicTool ? casesForTool(tool.slug) : [];
   {
     publicTool ? (
       <article class="detail">
-        <h1>{tool.name}</h1>
-        <p class="muted">{tool.summary}</p>
-        <div class="row__meta" style="margin-top:12px">
+        <div class="detail__head">
+          <ToolAvatar
+            name={tool.name}
+            slug={tool.slug}
+            scene={primaryScene(tool)}
+            size={68}
+          />
+          <div>
+            <h1>{tool.name}</h1>
+            <p class="detail__lead">{tool.summary}</p>
+          </div>
+        </div>
+        <div class="chips">
           {tool.scenes.map((id) => (
-            <span class="tag tag--accent">{sceneName(id)}</span>
+            <span class={`scene-tag scene-${id}`}>
+              <SceneIcon name={id} size={13} />
+              {sceneName(id)}
+            </span>
           ))}
           <span class="tag">{tool.price}</span>
-          <span class={tool.access === "打开不稳定" ? "tag tag--warn" : "tag"}>
-            {tool.access}
-          </span>
+          <span class={unstable ? "access access--warn" : "access"}>{tool.access}</span>
         </div>
-        <dl>
+        <dl class="facts">
           <div>
-            <dt>网络情况说明</dt>
+            <dt>网络情况</dt>
             <dd>
               {tool.access}
               {tool.note ? `。${tool.note}` : ""}
             </dd>
           </div>
           <div>
-            <dt>信息更新时间</dt>
+            <dt>信息更新</dt>
             <dd>{formatDate(tool.updatedAt)}</dd>
           </div>
         </dl>
@@ -59,6 +75,7 @@ const related = publicTool ? casesForTool(tool.slug) : [];
             rel="noopener noreferrer"
           >
             打开官网
+            <SceneIcon name="external" size={16} />
           </a>
           <a class="btn btn--ghost" href="/tools/">返回导航</a>
         </div>
@@ -66,14 +83,14 @@ const related = publicTool ? casesForTool(tool.slug) : [];
         {related.length > 0 ? (
           <section class="section" aria-labelledby="related-cases">
             <div class="section__head">
-              <h2 id="related-cases">用到这个工具的案例</h2>
+              <div class="section__title">
+                <span class="section__icon"><SceneIcon name="cases" size={20} /></span>
+                <h2 id="related-cases">用到这个工具的案例</h2>
+              </div>
             </div>
-            <div class="list">
+            <div class="case-grid">
               {related.map((item) => (
-                <a class="row" href={`/cases/${item.slug}/`}>
-                  <p class="row__title">{item.title}</p>
-                  <p class="row__summary">{item.summary}</p>
-                </a>
+                <CaseCard item={item} />
               ))}
             </div>
           </section>

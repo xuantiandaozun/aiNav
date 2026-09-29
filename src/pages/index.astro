@@ -1,28 +1,81 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import SceneIcon from "../components/SceneIcon.astro";
+import NewsItem from "../components/NewsItem.astro";
+import ToolCard from "../components/ToolCard.astro";
+import CaseCard from "../components/CaseCard.astro";
 import {
+  allNews,
   featuredTools,
-  formatDate,
+  publishedCases,
+  publishedTools,
   recentCases,
   recentNews,
-  sceneName,
+  scenes,
 } from "../lib/data";
 
 const news = recentNews(8);
 const tools = featuredTools(8);
 const cases = recentCases(4);
+const toolCount = publishedTools().length;
+const caseCount = publishedCases().length;
+const newsCount = allNews.length;
 ---
 
 <BaseLayout title="AI 用法入口" active="home">
   <section class="hero">
-    <h1>AI 用法入口</h1>
-    <p>在这里办三件事：看今天的 AI 热点、按场景找工具、读别人用这些工具做过的副业案例。</p>
+    <div class="hero__copy">
+      <h1>看 AI 热点，找能用的工具，<br />学别人怎么做副业</h1>
+      <p class="hero__lead">
+        热点每天自动更新；工具标明价格和国内能否直接打开；案例都链回原文，收入只写来源怎么说。
+      </p>
+      <div class="hero__actions">
+        <a class="btn btn--primary" href="/tools/">
+          按场景找工具
+          <SceneIcon name="arrow" size={16} />
+        </a>
+        <a class="btn btn--ghost" href="/cases/">看副业案例</a>
+      </div>
+      <div class="hero__scenes">
+        <span class="hero__scenes-label">我想做：</span>
+        {
+          scenes.map((scene) => (
+            <a class={`scene-chip scene-${scene.id}`} href={`/tools/?scene=${scene.id}`}>
+              <SceneIcon name={scene.id} size={16} />
+              {scene.name}
+            </a>
+          ))
+        }
+      </div>
+      <p class="hero__stats">
+        已收录 <b>{toolCount}</b> 个工具 · <b>{caseCount}</b> 个案例 · <b>{newsCount}</b> 条热点
+      </p>
+    </div>
+    <div class="hero__art">
+      <img
+        class="hero__img"
+        src="/images/hero.png"
+        alt="热点、工具与副业案例的示意插画"
+        width="1024"
+        height="768"
+        fetchpriority="high"
+      />
+    </div>
   </section>
 
   <section class="section" aria-labelledby="home-news">
     <div class="section__head">
-      <h2 id="home-news">今日热点</h2>
-      <a href="/news/">查看全部</a>
+      <div class="section__title">
+        <span class="section__icon"><SceneIcon name="news" size={20} /></span>
+        <div>
+          <h2 id="home-news">今日热点</h2>
+          <p>点标题前往原文阅读</p>
+        </div>
+      </div>
+      <a class="more-link" href="/news/">
+        查看全部
+        <SceneIcon name="arrow" size={14} />
+      </a>
     </div>
     {
       news.length === 0 ? (
@@ -30,18 +83,7 @@ const cases = recentCases(4);
       ) : (
         <div class="list">
           {news.map((item) => (
-            <a
-              class="row"
-              href={item.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <p class="row__title">{item.title}</p>
-              <div class="row__meta">
-                <span>{item.sourceName}</span>
-                <span>{formatDate(item.publishedAt)}</span>
-              </div>
-            </a>
+            <NewsItem item={item} />
           ))}
         </div>
       )
@@ -50,25 +92,25 @@ const cases = recentCases(4);
 
   <section class="section" aria-labelledby="home-tools">
     <div class="section__head">
-      <h2 id="home-tools">工具</h2>
-      <a href="/tools/">查看全部</a>
+      <div class="section__title">
+        <span class="section__icon"><SceneIcon name="tools" size={20} /></span>
+        <div>
+          <h2 id="home-tools">工具</h2>
+          <p>价格和国内能否直接打开，一眼看清</p>
+        </div>
+      </div>
+      <a class="more-link" href="/tools/">
+        查看全部
+        <SceneIcon name="arrow" size={14} />
+      </a>
     </div>
     {
       tools.length === 0 ? (
         <div class="empty">还没有工具。</div>
       ) : (
-        <div class="grid">
+        <div class="tool-grid">
           {tools.map((tool) => (
-            <a class="row" href={`/tools/${tool.slug}/`}>
-              <p class="row__title">{tool.name}</p>
-              <p class="row__summary">{tool.summary}</p>
-              <div class="row__meta" style="margin-top:8px">
-                <span class="tag">{tool.price}</span>
-                <span class={tool.access === "打开不稳定" ? "tag tag--warn" : "tag"}>
-                  {tool.access}
-                </span>
-              </div>
-            </a>
+            <ToolCard tool={tool} />
           ))}
         </div>
       )
@@ -77,22 +119,25 @@ const cases = recentCases(4);
 
   <section class="section" aria-labelledby="home-cases">
     <div class="section__head">
-      <h2 id="home-cases">本周案例</h2>
-      <a href="/cases/">查看全部</a>
+      <div class="section__title">
+        <span class="section__icon"><SceneIcon name="cases" size={20} /></span>
+        <div>
+          <h2 id="home-cases">本周案例</h2>
+          <p>都链回原文，收入为来源声称</p>
+        </div>
+      </div>
+      <a class="more-link" href="/cases/">
+        查看全部
+        <SceneIcon name="arrow" size={14} />
+      </a>
     </div>
     {
       cases.length === 0 ? (
         <div class="empty">还没有案例。</div>
       ) : (
-        <div class="list">
+        <div class="case-grid">
           {cases.map((item) => (
-            <a class="row" href={`/cases/${item.slug}/`}>
-              <p class="row__title">{item.title}</p>
-              <div class="row__meta">
-                <span class="tag tag--accent">{sceneName(item.scene)}</span>
-              </div>
-              <p class="row__summary">{item.summary}</p>
-            </a>
+            <CaseCard item={item} />
           ))}
         </div>
       )

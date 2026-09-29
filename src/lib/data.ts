@@ -103,6 +103,26 @@ export function recentNews(limit = 8): NewsItem[] {
   return sortedNews().slice(0, limit);
 }
 
+export function primaryScene(tool: Tool): SceneId {
+  return tool.scenes[0] ?? "office";
+}
+
+const sourceMarks: Record<string, { mark: string; tone: SceneId }> = {
+  机器之心: { mark: "机", tone: "writing" },
+  量子位: { mark: "量", tone: "coding" },
+  "36氪": { mark: "氪", tone: "video" },
+  "InfoQ 中文": { mark: "I", tone: "office" },
+};
+
+export function sourceBrand(name: string): { mark: string; tone: SceneId } {
+  return (
+    sourceMarks[name] ?? {
+      mark: (Array.from(name.trim())[0] ?? "?").toUpperCase(),
+      tone: "image",
+    }
+  );
+}
+
 export function formatDate(iso: string): string {
   if (!iso) return "";
   const d = new Date(iso);

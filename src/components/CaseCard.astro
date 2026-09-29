@@ -1,0 +1,18 @@
+---
+import CaseCover from "./CaseCover.astro";
+import type { CaseItem } from "../lib/data";
+
+interface Props {
+  item: CaseItem;
+}
+
+const { item } = Astro.props;
+---
+
+<a class="case-card" href={`/cases/${item.slug}/`} data-scenes={item.scene}>
+  <CaseCover item={item} />
+  <div class="case-card__body">
+    <p class="case-card__title">{item.title}</p>
+    <p class="case-card__summary">{item.summary}</p>
+  </div>
+</a>

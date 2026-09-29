@@ -25,6 +25,9 @@ npm run dev
 | `npm run build` | 构建静态站到 `dist/` |
 | `npm run build:ci` | 先采集再构建（给 Pages / CI 用） |
 | `npm run preview` | 预览构建结果 |
+| `npm run logos` | 从各工具官网抓取图标到 `public/logos/`，并更新 `data/logos.json`；抓不到的工具自动显示首字母头像 |
+
+工具图标版权归各产品方所有，仅用于标识所链接的工具；如需下架，删除 `public/logos/` 对应文件和 `data/logos.json` 里的条目即可。
 
 ## 数据怎么改
 

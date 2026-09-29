@@ -1,9 +1,13 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import CaseCover from "../../components/CaseCover.astro";
+import SceneIcon from "../../components/SceneIcon.astro";
+import ToolAvatar from "../../components/ToolAvatar.astro";
 import {
   allCases,
   formatDate,
   getTool,
+  primaryScene,
   sceneName,
 } from "../../lib/data";
 
@@ -16,10 +20,7 @@ export function getStaticPaths() {
 
 const { item } = Astro.props;
 const publicCase = item.status === "公开";
-const linkedTools = item.tools.map((slug) => {
-  const tool = getTool(slug);
-  return { slug, tool };
-});
+const linkedTools = item.tools.map((slug) => ({ slug, tool: getTool(slug) }));
 ---
 
 <BaseLayout
@@ -30,13 +31,19 @@ const linkedTools = item.tools.map((slug) => {
   {
     publicCase ? (
       <article class="detail">
-        <h1>{item.title}</h1>
-        <div class="row__meta">
-          <span class="tag tag--accent">{sceneName(item.scene)}</span>
-          {item.publishedAt ? <span>{formatDate(item.publishedAt)}</span> : null}
+        <CaseCover item={item} large />
+        <h1 style="margin-top:18px">{item.title}</h1>
+        <div class="chips" style="margin-top:0">
+          <span class={`scene-tag scene-${item.scene}`}>
+            <SceneIcon name={item.scene} size={13} />
+            {sceneName(item.scene)}
+          </span>
+          {item.publishedAt ? (
+            <span class="muted">{formatDate(item.publishedAt)}</span>
+          ) : null}
         </div>
 
-        <dl>
+        <dl class="facts">
           <div>
             <dt>这种方法在做什么</dt>
             <dd>{item.summary}</dd>
@@ -44,22 +51,35 @@ const linkedTools = item.tools.map((slug) => {
           <div>
             <dt>用到的工具</dt>
             <dd>
-              <div class="list" style="margin-top:8px">
+              <div class="linked-tools">
                 {linkedTools.map(({ slug, tool }) =>
                   tool && tool.status === "公开" ? (
-                    <a class="row" href={`/tools/${tool.slug}/`}>
-                      <p class="row__title">{tool.name}</p>
-                      <p class="row__summary">{tool.summary}</p>
+                    <a class="linked-tool" href={`/tools/${tool.slug}/`}>
+                      <ToolAvatar
+                        name={tool.name}
+                        slug={tool.slug}
+                        scene={primaryScene(tool)}
+                        size={40}
+                      />
+                      <div>
+                        <b>{tool.name}</b>
+                        <span>{tool.summary}</span>
+                      </div>
                     </a>
                   ) : tool && tool.status === "已下线" ? (
-                    <div class="row">
-                      <p class="row__title">{tool.name}</p>
-                      <p class="row__summary">已下线，暂不提供官网入口。</p>
+                    <div class="linked-tool">
+                      <ToolAvatar name={tool.name} scene={primaryScene(tool)} size={40} />
+                      <div>
+                        <b>{tool.name}</b>
+                        <span>已下线，暂不提供官网入口。</span>
+                      </div>
                     </div>
                   ) : (
-                    <div class="row">
-                      <p class="row__title">{slug}</p>
-                      <p class="row__summary">工具信息暂缺。</p>
+                    <div class="linked-tool">
+                      <div>
+                        <b>{slug}</b>
+                        <span>工具信息暂缺。</span>
+                      </div>
                     </div>
                   ),
                 )}
@@ -72,14 +92,21 @@ const linkedTools = item.tools.map((slug) => {
           </div>
           <div>
             <dt>收入说法</dt>
-            <dd>来源声称：{item.incomeClaim}</dd>
+            <dd>
+              <span class="claim">来源声称：{item.incomeClaim}</span>
+            </dd>
           </div>
           <div>
             <dt>来源</dt>
             <dd>
               {item.sourceName}
               {" · "}
-              <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">
+              <a
+                href={item.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                style="color:var(--accent)"
+              >
                 查看来源
               </a>
             </dd>

@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import Logo from "../components/Logo.astro";
 
 interface Props {
   title: string;
@@ -27,13 +28,16 @@ const nav = [
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <meta name="theme-color" content="#0d6b58" />
     <title>{title}</title>
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   </head>
   <body>
     <header class="site-header">
       <div class="wrap site-header__inner">
-        <a class="brand" href="/">AI 用法入口</a>
+        <a class="logo-link" href="/" aria-label="AI 用法入口 首页">
+          <Logo />
+        </a>
         <nav class="nav" aria-label="主导航">
           {
             nav.map((item) => (
@@ -56,14 +60,24 @@ const nav = [
     </main>
 
     <footer class="site-footer">
-      <div class="wrap">
-        <p>
-          本站索引公开信息并链回来源；热点只保留标题与短摘，不转载全文。
-        </p>
-        <p>
-          案例中的收入为来源说法，经本站转述后统一标注为「来源声称」，并非本站核实结果。
-        </p>
-        <p class="beian-slot" hidden data-beian></p>
+      <div class="wrap site-footer__grid">
+        <div>
+          <p><Logo size={28} /></p>
+          <p>
+            本站索引公开信息并链回来源；热点只保留标题与短摘，不转载全文。
+          </p>
+          <p>
+            案例中的收入为来源说法，经本站转述后统一标注为「来源声称」，并非本站核实结果。
+          </p>
+          <p class="beian-slot" hidden data-beian></p>
+        </div>
+        <div class="site-footer__links">
+          {
+            nav.map((item) => (
+              <a href={item.href}>{item.label}</a>
+            ))
+          }
+        </div>
       </div>
     </footer>
   </body>
