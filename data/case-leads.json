@@ -1,5 +1,75 @@
 [
   {
+    "id": "1wtszoc",
+    "title": "Built a site/tool that turns your own ideas into an ongoing story that remembers everything — bedtime tales, character fiction, or real TTRPG session logs",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wtszoc/built_a_sitetool_that_turns_your_own_ideas_into/",
+    "excerpt": "Hey folks, first time posting something like this. So I hope this is the place for it, so if this is not on let me know... I have been working on this side proj…",
+    "createdAt": "2026-09-30T02:12:31.000Z"
+  },
+  {
+    "id": "1wtsxzw",
+    "title": "How personal does this little interaction make the app feel to you? 🌱 The sprout mascot looks toward wherever you tap. 👀",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wtsxzw/how_personal_does_this_little_interaction_make/",
+    "excerpt": "Hi everyone! 👋 I'm an indie developer and I built Slow Seed, an offline-first daily reflection app. One small interaction I added is that the Sprout mascot look…",
+    "createdAt": "2026-09-30T02:10:13.000Z"
+  },
+  {
+    "id": "1wtsvmd",
+    "title": "I built an iPhone app to make 3D mockups for my other apps",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wtsvmd/i_built_an_iphone_app_to_make_3d_mockups_for_my/",
+    "excerpt": "Hi everyone, I'm an indie iOS dev, and I've built four apps so far. To promote them, I've used Screen Studio for app demos and Rotato for 3D mockups. Getting re…",
+    "createdAt": "2026-09-30T02:06:56.000Z"
+  },
+  {
+    "id": "1wtss4n",
+    "title": "I built a project around one question: If you could choose ONE word for this chapter of your life, what would it be?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wtss4n/i_built_a_project_around_one_question_if_you/",
+    "excerpt": "I’ve been building Own A Word around one simple question: If you could choose ONE word to represent the chapter of your life you’re in right now, what would it …",
+    "createdAt": "2026-09-30T02:02:09.000Z"
+  },
+  {
+    "id": "1wtrqva",
+    "title": "What are the bottlenecks when running AI agents as a fleet?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wtrqva/what_are_the_bottlenecks_when_running_ai_agents/",
+    "excerpt": "What are the bottlenecks when running AI agents as a fleet? When my fleet of agents works on PRs or code changes inside https://oyren.ai codespaces (https://oyr…",
+    "createdAt": "2026-09-30T01:12:07.000Z"
+  },
+  {
+    "id": "1wtqnva",
+    "title": "Projects I built or maintained today",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wtqnva/projects_i_built_or_maintained_today/",
+    "excerpt": "[https://shashankswe2020-ux.github.io/demo-reel/](https://shashankswe2020-ux.github.io/demo-reel/) [https://shashankswe2020-ux.github.io/rigspark/](https://shas…",
+    "createdAt": "2026-09-30T00:20:41.000Z"
+  },
+  {
+    "id": "1wtouy3",
+    "title": "Warranty, subscriptions and documents expiry tracking",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wtouy3/warranty_subscriptions_and_documents_expiry/",
+    "excerpt": "Hey all, just got my app Stash it published to the app store, pretty excited and wanted to share in case it can help anyone out! Tell it the products you've pur…",
+    "createdAt": "2026-09-29T22:59:31.000Z"
+  },
+  {
     "id": "1wt565b",
     "title": "I built a format where the same app file runs on Mac, Windows and Linux",
     "sourceName": "Reddit · r/SideProject",
