@@ -1,5 +1,150 @@
 [
   {
+    "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-30T20:40:07.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-09-30T13:21:36.467Z"
+  },
+  {
+    "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-30T20:37:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:36.467Z"
+  },
+  {
+    "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-30T19:40:16.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-09-30T13:21:36.467Z"
+  },
+  {
+    "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-30T15:12:35.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:36.467Z"
+  },
+  {
+    "title": "Meta推出AI旅行代理Muse，Truist警告OTA面临更大分流风险",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4005852754694281?f=rss",
+    "publishedAt": "2026-09-30T12:14:01.000Z",
+    "excerpt": "Meta新推出的AI代理Muse正在给在线旅游平台带来新的竞争压力。Truist表示，相比此前的大语言模型，Muse对Expedia和Booking等在线旅行社的潜在威胁更值得重视，因为它不仅具备旅行规划能力，还可以直接完成预订。（新浪财经）",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:35.029Z"
+  },
+  {
+    "title": "直播回顾：工业AI的下一个机会在哪？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/499605.html",
+    "publishedAt": "2026-09-30T12:11:24.000Z",
+    "excerpt": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:32.948Z"
+  },
+  {
+    "title": "一个忘关的开关，与企业Agent的全栈技术账单",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-30T12:10:15.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:36.467Z"
+  },
+  {
+    "title": "首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-30T11:52:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:36.467Z"
+  },
+  {
+    "title": "GPU云服务商GMI获英伟达等投资方6.68亿美元融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4005825383845763?f=rss",
+    "publishedAt": "2026-09-30T11:50:16.000Z",
+    "excerpt": "成立五年、面向企业客户提供搭载英伟达芯片服务器的GMI Cloud于周三宣布，完成6.68亿美元股权+债权融资。本轮融资中，2.23亿美元股权融资由新晋AI与机器人投资机构ARCHIV领投，英伟达参与跟投。公司未披露估值，但称其合同年化营收超6亿美元。本轮融资表明，英伟达仍在持续…",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:35.029Z"
+  },
+  {
+    "title": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-09-30T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-09-30T13:21:36.467Z"
+  },
+  {
+    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/499592.html",
+    "publishedAt": "2026-09-30T07:58:37.000Z",
+    "excerpt": "给Agent配上手机号，再拉个群",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:32.948Z"
+  },
+  {
+    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/499493.html",
+    "publishedAt": "2026-09-30T07:54:54.000Z",
+    "excerpt": "让GPT把机器人技能当工具调用",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:32.948Z"
+  },
+  {
+    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/499308.html",
+    "publishedAt": "2026-09-30T05:18:05.000Z",
+    "excerpt": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+    "scenes": [],
+    "collectedAt": "2026-09-30T13:21:32.948Z"
+  },
+  {
+    "title": "品牌出海进入系统能力竞争阶段,亿邦智库 x Pattern栢藤《品牌全球化加速增长洞察报告》解析增长新路径",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4005358837076101?f=rss",
+    "publishedAt": "2026-09-30T03:42:44.000Z",
+    "excerpt": "当AI重塑消费者的发现与决策路径，平台规则与合规要求日趋复杂，不同区域市场的增长节奏与竞争形态也在加速分化。从成熟市场到新兴区域，全球化探索持续深入，增长的稳定性、效率与可持续性，正成为品牌共同面对的新命题。 为寻找答案，品牌方、创始人、CEO及服务商都在追问同一个核心问题：当商…",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-09-30T13:21:35.028Z"
+  },
+  {
+    "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/499263.html",
+    "publishedAt": "2026-09-30T02:53:17.000Z",
+    "excerpt": "",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-09-30T13:21:32.948Z"
+  },
+  {
     "title": "OpenAI首席执行官称AI安全成为焦点，相信投资者会对IPO保持耐心",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4005180719583112?f=rss",
@@ -408,18 +553,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
