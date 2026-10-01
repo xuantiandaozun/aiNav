@@ -1,5 +1,35 @@
 [
   {
+    "ranAt": "2026-10-01T13:22:19.278Z",
+    "sources": [
+      {
+        "name": "机器之心",
+        "ok": false,
+        "fetched": 0,
+        "error": "Unexpected close tag\nLine: 16\nColumn: 19\nChar: >"
+      },
+      {
+        "name": "量子位",
+        "ok": true,
+        "fetched": 7,
+        "error": ""
+      },
+      {
+        "name": "36氪",
+        "ok": true,
+        "fetched": 5,
+        "error": ""
+      },
+      {
+        "name": "InfoQ 中文",
+        "ok": true,
+        "fetched": 11,
+        "error": ""
+      }
+    ],
+    "added": 2
+  },
+  {
     "ranAt": "2026-10-01T01:40:41.516Z",
     "sources": [
       {
