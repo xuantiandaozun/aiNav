@@ -1,5 +1,50 @@
 [
   {
+    "ranAt": "2026-10-01T02:18:36.917Z",
+    "sources": [
+      {
+        "name": "reddit-seeds",
+        "ok": true,
+        "fetched": 3,
+        "error": ""
+      },
+      {
+        "name": "r/vibecoding",
+        "ok": true,
+        "fetched": 25,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "r/SideProject",
+        "ok": true,
+        "fetched": 20,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "r/indiehackers",
+        "ok": true,
+        "fetched": 15,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "hn:vibe coding",
+        "ok": true,
+        "fetched": 15,
+        "error": ""
+      },
+      {
+        "name": "hn:AI side project revenue",
+        "ok": true,
+        "fetched": 10,
+        "error": ""
+      }
+    ],
+    "kept": 46
+  },
+  {
     "ranAt": "2026-09-30T02:13:33.201Z",
     "sources": [
       {

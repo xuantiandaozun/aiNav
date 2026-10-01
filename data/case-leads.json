@@ -1,5 +1,85 @@
 [
   {
+    "id": "1wunmr7",
+    "title": "Google deleted every Fitbit badge, so I rebuilt them as a fully in-browser app",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wunmr7/google_deleted_every_fitbit_badge_so_i_rebuilt/",
+    "excerpt": "On May 19, Google turned the Fitbit app into Google Health and the badges disappeared with it. Nobody had brought them back, so I did. **How it works:** you dro…",
+    "createdAt": "2026-10-01T02:17:57.000Z"
+  },
+  {
+    "id": "1wunkd1",
+    "title": "I built a free Chrome extension that turns any webpage into audio in one click",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wunkd1/i_built_a_free_chrome_extension_that_turns_any/",
+    "excerpt": "I’ve been working on Frateca, a text-to-speech app that converts articles, PDFs, documents, and other text into natural-sounding audio, for more than a year now…",
+    "createdAt": "2026-10-01T02:14:36.000Z"
+  },
+  {
+    "id": "1wun54u",
+    "title": "Picked up writing a book as my new hobby. Ended up building a writing app instead.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wun54u/picked_up_writing_a_book_as_my_new_hobby_ended_up/",
+    "excerpt": "I wanted to get into writing and went through a number of the recommended tools. None of them fit what I wanted, and some were actually rather complicated and o…",
+    "createdAt": "2026-10-01T01:53:55.000Z"
+  },
+  {
+    "id": "1wun4m3",
+    "title": "Would you launch a narrow app while its hardest edge cases are still ugly?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wun4m3/would_you_launch_a_narrow_app_while_its_hardest/",
+    "excerpt": "I launched a small Shopify app for HTS code suggestions. The straightforward products look good. The awkward part is the long tail: vague titles, missing materi…",
+    "createdAt": "2026-10-01T01:53:13.000Z"
+  },
+  {
+    "id": "1wun3rr",
+    "title": "Picked up writing a book as my new hobby. Ended up building a writing app instead.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wun3rr/picked_up_writing_a_book_as_my_new_hobby_ended_up/",
+    "excerpt": "I wanted to get into writing and went through a number of the recommended tools. None of them fit what I wanted, and some were actually rather complicated and o…",
+    "createdAt": "2026-10-01T01:52:08.000Z"
+  },
+  {
+    "id": "1wulld7",
+    "title": "I made an unnecessarily complex Bluetooth remote control 🤣",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wulld7/i_made_an_unnecessarily_complex_bluetooth_remote/",
+    "excerpt": "I made a thing tonight. A vibe coded, Bluetooth keychain remote control for Spotify. Very unwieldy",
+    "createdAt": "2026-10-01T00:38:17.000Z"
+  },
+  {
+    "id": "1wul8e2",
+    "title": "I built a bridge that allows Jev to play Stardew Valley",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wul8e2/i_built_a_bridge_that_allows_jev_to_play_stardew/",
+    "excerpt": "I'm live-streaming the play through at [tilly.farm](https://tilly.farm)",
+    "createdAt": "2026-10-01T00:20:36.000Z"
+  },
+  {
+    "id": "1wukrrr",
+    "title": "Crazy Idea. AI seem to do well working together and coordinating. Let’s let them..",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wukrrr/crazy_idea_ai_seem_to_do_well_working_together/",
+    "excerpt": "You know all the news about AI hacking and working together to evade and do not so good stuff… They seem to get work done when doing so, so why not let them. Bu…",
+    "createdAt": "2026-09-30T23:59:50.000Z"
+  },
+  {
     "id": "1wtszoc",
     "title": "Built a site/tool that turns your own ideas into an ongoing story that remembers everything — bedtime tales, character fiction, or real TTRPG session logs",
     "sourceName": "Reddit · r/SideProject",
