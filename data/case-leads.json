@@ -1,5 +1,145 @@
 [
   {
+    "id": "1wvhwk1",
+    "title": "Bio Student here: I Built a research platform for Biohacking, Looksmaxing and PED's With a massive costume library that the ai draws from.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhwk1/bio_student_here_i_built_a_research_platform_for/",
+    "excerpt": "I recently launched Enhanced AI ([https://enhancedai.app](https://enhancedai.app/)). I would be grateful if the people of this sub checked it out and gave me fe…",
+    "createdAt": "2026-10-02T02:08:07.000Z"
+  },
+  {
+    "id": "1wvhvxy",
+    "title": "I built an app so the cards people send you during hard times don't just end up in a box forever",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhvxy/i_built_an_app_so_the_cards_people_send_you/",
+    "excerpt": "Last year I went through a serious injury, and during recovery I got a lot of handwritten cards from people — real ones, written by hand. I kept every single on…",
+    "createdAt": "2026-10-02T02:07:16.000Z"
+  },
+  {
+    "id": "1wvhv1k",
+    "title": "I built the Facebook Marketplace tool I kept wishing existed. How would you find your customer outside your network?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhv1k/i_built_the_facebook_marketplace_tool_i_kept/",
+    "excerpt": "I sell cars full time, and before building this, I used plenty of Facebook auto listers. The ones that actually got vehicles posted did help me sell cars, so I …",
+    "createdAt": "2026-10-02T02:06:06.000Z"
+  },
+  {
+    "id": "1wvhiqf",
+    "title": "Sent 100+ hours building and refining.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhiqf/sent_100_hours_building_and_refining/",
+    "excerpt": "01 Summon: Ctrl+Alt or a mouse thumb button, and the wheel opens under your cursor. 02 Windows: live previews of every open window. 03 Media: Spotify, browsers …",
+    "createdAt": "2026-10-02T01:49:29.000Z"
+  },
+  {
+    "id": "1wvha6p",
+    "title": "I built a social app. Promoting on TikTok gets likes, but not converting to downloads. I'm considering more niche targeting. Who would you target first?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvha6p/i_built_a_social_app_promoting_on_tiktok_gets/",
+    "excerpt": "I’ve built Decidr, an iPhone social app for side-by-side posts. Someone puts up two photos or short clips—an outfit, a before/after, a sports moment, a visual j…",
+    "createdAt": "2026-10-02T01:37:53.000Z"
+  },
+  {
+    "id": "1wvh41w",
+    "title": "AI skill/builds portal. My obsession for the past 2 weeks.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvh41w/ai_skillbuilds_portal_my_obsession_for_the_past_2/",
+    "excerpt": "Hi I've been playing around with muse for a bit now. Shared it with friends and had fun with it. At first it was the easy stuff, email, calendar. I then realize…",
+    "createdAt": "2026-10-02T01:29:36.000Z"
+  },
+  {
+    "id": "1wvh40n",
+    "title": "I built a credential broker so nobody on the team holds prod keys. Would love brutal feedback on whether this makes sense",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvh40n/i_built_a_credential_broker_so_nobody_on_the_team/",
+    "excerpt": "Problem: every team I've worked with has prod credentials scattered across laptops, Slack, and `.env` files, and offboarding is a guess. Shortspan stores secret…",
+    "createdAt": "2026-10-02T01:29:34.000Z"
+  },
+  {
+    "id": "1wvgxtb",
+    "title": "6 months building HousingPal, a zero-brokerage rental platform for Hyderabad: what worked, what didn't",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvgxtb/6_months_building_housingpal_a_zerobrokerage/",
+    "excerpt": "Six months ago I started HousingPal as a solo founder with no audience, no budget, and a day job. Here's where it stands and what I learned. The problem: Rentin…",
+    "createdAt": "2026-10-02T01:21:02.000Z"
+  },
+  {
+    "id": "1wvgtnf",
+    "title": "I'm building a claude skillset that allows you to create videos like this in one prompt",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvgtnf/im_building_a_claude_skillset_that_allows_you_to/",
+    "excerpt": "The video you're seeing was made by me in 1 prompt (some feedback about speed at the end), I just gave the general idea of making it an 'investigation' and the …",
+    "createdAt": "2026-10-02T01:15:38.000Z"
+  },
+  {
+    "id": "1wvgq0k",
+    "title": "I built this website that finds the fast or most fuel-efficent maritime route between two ports (and i think it looks pretty cool)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvgq0k/i_built_this_website_that_finds_the_fast_or_most/",
+    "excerpt": "Just finished up this website and would like some feedback and opinions on it. Been wanting to get more into coding and website creation recently. I think its p…",
+    "createdAt": "2026-10-02T01:10:43.000Z"
+  },
+  {
+    "id": "1wvgl9c",
+    "title": "I made a VERY powerful codebase mapper.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvgl9c/i_made_a_very_powerful_codebase_mapper/",
+    "excerpt": "The same task done in 6 minutes versus 20 is insane to me, anyway. I made an MCP tool that helps AI coding agents spend less time digging through your codebase …",
+    "createdAt": "2026-10-02T01:04:37.000Z"
+  },
+  {
+    "id": "1wvexix",
+    "title": "Building an open-world game with Opus and Sonnet 5.5",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvexix/building_an_openworld_game_with_opus_and_sonnet_55/",
+    "excerpt": "This is Trailer 1 for **Project Hallow**, an open-world game I've been building with Opus and Sonnet 5.5. It's been interesting to see how far I can push this w…",
+    "createdAt": "2026-10-01T23:46:16.000Z"
+  },
+  {
+    "id": "1wvc6l9",
+    "title": "The tropical breeze enhances my vibes. Casual tips to enhance yours",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvc6l9/the_tropical_breeze_enhances_my_vibes_casual_tips/",
+    "excerpt": "Celebrating a year in business! Not here to promote (like actually, not even gonna name my business at all), just got inspired by the view to take a pic. I'm ve…",
+    "createdAt": "2026-10-01T21:43:05.000Z"
+  },
+  {
+    "id": "1wvc4kv",
+    "title": "The best brain dump to-do app ever! (imo ;p) Stupido 4.0 is live!",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvc4kv/the_best_brain_dump_todo_app_ever_imo_p_stupido/",
+    "excerpt": "I launched Stupido here on r/vibecoding a year ago and it has come along way since then! Stupido's latest version is available on the app store [https://apps.ap…",
+    "createdAt": "2026-10-01T21:40:36.000Z"
+  },
+  {
     "id": "1wunmr7",
     "title": "Google deleted every Fitbit badge, so I rebuilt them as a fully in-browser app",
     "sourceName": "Reddit · r/SideProject",
