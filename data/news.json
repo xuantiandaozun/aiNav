@@ -1,5 +1,23 @@
 [
   {
+    "title": "微软宣布推出MAI-Transcribe-2-Streaming",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4007988414468228?f=rss",
+    "publishedAt": "2026-10-02T01:21:41.000Z",
+    "excerpt": "当地时间10月1日，微软宣布推出MAI-Transcribe-2-Streaming，并同时发布两款全新语音模型：MAI-Voice-2.1和MAI-Voice-2.1-Flash。其中，MAI-Transcribe-2-Streaming在年底前以每音频小时0.54美元的首发优…",
+    "scenes": [],
+    "collectedAt": "2026-10-02T01:31:03.835Z"
+  },
+  {
+    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/499663.html",
+    "publishedAt": "2026-10-01T15:02:14.000Z",
+    "excerpt": "价格只有Astra一半",
+    "scenes": [],
+    "collectedAt": "2026-10-02T01:31:02.503Z"
+  },
+  {
     "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
@@ -582,18 +600,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
