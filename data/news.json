@@ -1,5 +1,50 @@
 [
   {
+    "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-03T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-03T14:33:45.596Z"
+  },
+  {
+    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501381.html",
+    "publishedAt": "2026-10-03T07:54:43.000Z",
+    "excerpt": "岗位JD甩了篇技术报告",
+    "scenes": [],
+    "collectedAt": "2026-10-03T14:33:42.776Z"
+  },
+  {
+    "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501368.html",
+    "publishedAt": "2026-10-03T04:41:24.000Z",
+    "excerpt": "又咋啦。。。",
+    "scenes": [],
+    "collectedAt": "2026-10-03T14:33:42.776Z"
+  },
+  {
+    "title": "谷歌搭载AI芯片测试卫星发射升空",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4009581990268808?f=rss",
+    "publishedAt": "2026-10-03T03:58:33.000Z",
+    "excerpt": "美国谷歌公司一颗搭载谷歌张量处理单元（TPU）芯片的原型卫星日前发射升空，以测试该芯片在太空环境中的运行性能，研究未来能否在太空部署人工智能（AI）基础设施。谷歌方面表示，其团队已与卫星建立通信，卫星目前运行正常。谷歌表示，此次发射是一项长期研究的一部分，旨在探索未来能否在太空部…",
+    "scenes": [],
+    "collectedAt": "2026-10-03T14:33:44.187Z"
+  },
+  {
+    "title": "OpenAI安全系统团队负责人David Robinson已从公司离职",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4009502398549890?f=rss",
+    "publishedAt": "2026-10-03T02:41:33.000Z",
+    "excerpt": "OpenAI安全系统团队负责人David Robinson已从公司离职。（财联社）",
+    "scenes": [],
+    "collectedAt": "2026-10-03T14:33:44.187Z"
+  },
+  {
     "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
@@ -680,18 +725,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
