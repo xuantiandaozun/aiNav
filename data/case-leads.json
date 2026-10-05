@@ -1,5 +1,95 @@
 [
   {
+    "id": "1wxx1ya",
+    "title": "I made my phone a remote for my PC monitor because the brightness buttons are on the back",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxx1ya/i_made_my_phone_a_remote_for_my_pc_monitor/",
+    "excerpt": "Every night the same thing: I'm on the couch, the monitor across the room is too bright, and the only way to dim it is the tiny buttons behind the panel. TVs ha…",
+    "createdAt": "2026-10-05T02:17:15.000Z"
+  },
+  {
+    "id": "1wxwu4h",
+    "title": "I built a free tool that rewrites boring job experiences into compelling stories — would love feedback from this community",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwu4h/i_built_a_free_tool_that_rewrites_boring_job/",
+    "excerpt": "Hey everyone, I've been helping friends and former colleagues with their resumes for a while now, and I kept noticing the same problem over and over: Most peopl…",
+    "createdAt": "2026-10-05T02:05:53.000Z"
+  },
+  {
+    "id": "1wxwtm2",
+    "title": "I built a site where a book is explained by the people who read it — the useful parts, the parts that didn't hold, and the questions left over",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwtm2/i_built_a_site_where_a_book_is_explained_by_the/",
+    "excerpt": "I read a lot of non-fiction and kept hitting the same wall: a summary tells you what the author said, but not what happened when someone actually tried it, wher…",
+    "createdAt": "2026-10-05T02:05:10.000Z"
+  },
+  {
+    "id": "1wxwkuj",
+    "title": "made a small web app that keeps all your package tracking in one place. would love blunt feedback on signup",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwkuj/made_a_small_web_app_that_keeps_all_your_package/",
+    "excerpt": "solo project, i built it and run it myself. it's called Voyager. you add tracking numbers (ups, usps, fedex, dhl, amazon, ontrac, lasership are in the picker) a…",
+    "createdAt": "2026-10-05T01:52:51.000Z"
+  },
+  {
+    "id": "1wxwktu",
+    "title": "I built an app that’s like Fantasy Football but for Movies",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwktu/i_built_an_app_thats_like_fantasy_football_but/",
+    "excerpt": "My friends and I have been running a league in an app called [Fantasy Critic](https://www.fantasycritic.games/home) for years, which is the same concept but for…",
+    "createdAt": "2026-10-05T01:52:50.000Z"
+  },
+  {
+    "id": "1wxwknd",
+    "title": "Little Grimoire: Learn Tarot, One Card at a Time",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwknd/little_grimoire_learn_tarot_one_card_at_a_time/",
+    "excerpt": "I'm the developer of this one. Little Grimoire is a side project of mine (under Escapement LLC) that teaches tarot as a system, like learning a language, instea…",
+    "createdAt": "2026-10-05T01:52:34.000Z"
+  },
+  {
+    "id": "1wxu8zi",
+    "title": "I got tired of not knowing what my Claude Code agents were doing, so I built a terminal that shows them working live",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wxu8zi/i_got_tired_of_not_knowing_what_my_claude_code/",
+    "excerpt": "I run a few Claude Code and Codex sessions at once, and I kept losing track: which one is waiting for permission, which one is editing what, did two of them jus…",
+    "createdAt": "2026-10-04T23:56:03.000Z"
+  },
+  {
+    "id": "1wxt78i",
+    "title": "I used AI coding agents extensively to build a real network diagnostic CLI. My rule: prove every bug before fixing it",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wxt78i/i_used_ai_coding_agents_extensively_to_build_a/",
+    "excerpt": "I've been using AI coding agents extensively to build an open-source project called **Network Doctor (`netdoc`)**. GitHub: https://github.com/heymaikol/network-…",
+    "createdAt": "2026-10-04T23:03:37.000Z"
+  },
+  {
+    "id": "hn-49957425",
+    "title": "Show HN: Web Analytics Focused on Revenue",
+    "sourceName": "Hacker News",
+    "subreddit": "",
+    "score": 1,
+    "sourceUrl": "https://news.ycombinator.com/item?id=49957425",
+    "excerpt": "I was frustrated with Google Analytics and Plausible, and I wanted something simple that highlighted actionable things I could focus on to improve revenue. Less…",
+    "createdAt": "2026-10-04T20:20:35.000Z"
+  },
+  {
     "id": "1wx4nrs",
     "title": "I made Halo, a free radial app launcher + quitter for macOS. [FREE]",
     "sourceName": "Reddit · r/SideProject",
