@@ -1,5 +1,81 @@
 [
   {
+    "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-06T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-06T13:20:49.388Z"
+  },
+  {
+    "title": "OpenAI在其智能体擅访澳数据后采取新防范措施",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4014160822505345?f=rss",
+    "publishedAt": "2026-10-06T09:24:38.000Z",
+    "excerpt": "美国开放人工智能研究中心（OpenAI）首席战略官贾森·权6日在悉尼表示，OpenAI一个智能体未经授权访问澳大利亚国民医疗保险体系数据门户后，其公司已采取新防范监控措施，并已从事件中吸取教训。权当天接受澳议会下设人工智能联合特别委员会质询时说，该事件促使公司增设了监控机制：一旦…",
+    "scenes": [],
+    "collectedAt": "2026-10-06T13:20:48.211Z"
+  },
+  {
+    "title": "不er，咋陶哲轩也成AI减速派了？？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501736.html",
+    "publishedAt": "2026-10-06T07:59:17.000Z",
+    "excerpt": "",
+    "scenes": [],
+    "collectedAt": "2026-10-06T13:20:45.492Z"
+  },
+  {
+    "title": "AMD首席执行官：未来数年芯片需求将“非常高”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4013970409164928?f=rss",
+    "publishedAt": "2026-10-06T07:10:48.000Z",
+    "excerpt": "超威半导体（AMD）首席执行官苏姿丰预测，受人工智能应用增长推动，未来数年半导体需求将维持在“极高”水平。苏姿丰在台北对记者表示，芯片需求超过供给，存储芯片供应持续紧张。苏姿丰称，人工智能有益于世界，不会伤害人类。苏姿丰表示，美国头部AI企业之间开展协作十分重要。“安全创新方面仍…",
+    "scenes": [],
+    "collectedAt": "2026-10-06T13:20:48.211Z"
+  },
+  {
+    "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501726.html",
+    "publishedAt": "2026-10-06T06:45:40.000Z",
+    "excerpt": "",
+    "scenes": [],
+    "collectedAt": "2026-10-06T13:20:45.492Z"
+  },
+  {
+    "title": "三星电机获近2900亿韩元AI服务器MLCC订单",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4013920306712451?f=rss",
+    "publishedAt": "2026-10-06T05:45:06.000Z",
+    "excerpt": "三星电机在提交的监管文件中披露，公司当天与一家全球大型企业签订AI服务器用多层陶瓷电容器（MLCC）供货合同，合同金额约2856.11亿韩元（约合2.10亿美元），合同期限为2027年1月1日至12月31日。（21经济网）",
+    "scenes": [],
+    "collectedAt": "2026-10-06T13:20:48.211Z"
+  },
+  {
+    "title": "韩国计划明年启动35亿美元前沿AI模型开发项目",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4013828946546563?f=rss",
+    "publishedAt": "2026-10-06T05:00:26.000Z",
+    "excerpt": "韩国科学技术信息通信部表示，韩国计划从2027年3月起启动一项耗资4.7万亿韩元（约合35亿美元）的前沿人工智能模型研发项目，以期在尖端人工智能竞赛中占据一席之地。该部门表示，计划在国会于12月批准2027年预算后，通过公开招标的方式选定一家牵头开发商，中标者最早可能在2月公布。…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-06T13:20:48.211Z"
+  },
+  {
+    "title": "快手可灵AI计划最早明年赴港上市，至少融资10亿美元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4013802251865993?f=rss",
+    "publishedAt": "2026-10-06T03:57:57.000Z",
+    "excerpt": "据了解，快手旗下视频生成大模型可灵AI计划最早明年赴港上市，至少融资10亿美元。（财联社）",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-06T13:20:48.212Z"
+  },
+  {
     "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&utm_medium=article",
@@ -853,18 +929,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
