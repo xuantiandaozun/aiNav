@@ -1,5 +1,65 @@
 [
   {
+    "id": "1wyqba4",
+    "title": "CarricoClock ⏱️",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyqba4/carricoclock/",
+    "excerpt": "Big news…CarricoClock is live! When Clockify switched to a paid model & capped its free plan at 5 users, the Carrico Center for Pro Bono & Public Service for at…",
+    "createdAt": "2026-10-06T01:40:17.000Z"
+  },
+  {
+    "id": "1wyq9nk",
+    "title": "I built KeyHarbor to organize multi env secrets without a cloud account",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wyq9nk/i_built_keyharbor_to_organize_multi_env_secrets/",
+    "excerpt": "I’m the developer of KeyHarbor, a desktop app for managing development credentials locally. It organizes secrets into projects and separate dev, staging, and pr…",
+    "createdAt": "2026-10-06T01:38:00.000Z"
+  },
+  {
+    "id": "1wyq4ff",
+    "title": "I rebuilt my finance app from the ground up after 5,000 users and 166k USD moved through it. Here’s what I learnt.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wyq4ff/i_rebuilt_my_finance_app_from_the_ground_up_after/",
+    "excerpt": "Chipp is a bill splitting app. Two years in it had over 5,000 sign-ups and $166k had moved through it on Stripe. It looked like a working product. It was not on…",
+    "createdAt": "2026-10-06T01:30:54.000Z"
+  },
+  {
+    "id": "1wyq0fu",
+    "title": "built a proactive study agent with claude code. the 3 parts that were actually hard",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyq0fu/built_a_proactive_study_agent_with_claude_code/",
+    "excerpt": "orla sends you a push every morning with what's due, pulled from canvas. here's what took the time, in case it saves someone a weekend 1. canvas without the api…",
+    "createdAt": "2026-10-06T01:25:17.000Z"
+  },
+  {
+    "id": "1wyofck",
+    "title": "Randomly got a paying customer!",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyofck/randomly_got_a_paying_customer/",
+    "excerpt": "I made a simple web app about 3 months ago but I got busy and sort of abandoned it I never posted about it, I don't have social media for it, I didn't launch it…",
+    "createdAt": "2026-10-06T00:08:08.000Z"
+  },
+  {
+    "id": "1wyms7q",
+    "title": "How I manage to ship over 100 PRs per day across all of my repositories... and still know what's going on",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyms7q/how_i_manage_to_ship_over_100_prs_per_day_across/",
+    "excerpt": "Hey everyone, I keep asking myself how to *actually* automate end-to-end development with AI. Neetcode mentioned that most people are being pretty secretive abo…",
+    "createdAt": "2026-10-05T22:52:02.000Z"
+  },
+  {
     "id": "1wxx1ya",
     "title": "I made my phone a remote for my PC monitor because the brightness buttons are on the back",
     "sourceName": "Reddit · r/SideProject",
