@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4015136016617345?f=rss",
+    "publishedAt": "2026-10-07T01:27:34.000Z",
+    "excerpt": "OpenAI正在公开其内部前沿大模型生成的一系列全新数学研究成果，相关内容通过GitHub代码库发布，同时附带了论文修订与引用的规范协议。本次公开的成果包含Lean语言形式化证明，可让数学证明内容直接通过计算机完成校验；单份成果平均消耗的算力，约等于ChatGPT Pro三小时的…",
+    "scenes": [
+      "writing",
+      "coding"
+    ],
+    "collectedAt": "2026-10-07T01:34:59.240Z"
+  },
+  {
+    "title": "日本东证指数升破历史最高收盘水平",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4015135331520649?f=rss",
+    "publishedAt": "2026-10-07T01:26:52.000Z",
+    "excerpt": "受美股上涨带动，日本东证指数盘中上涨0.4%，至4201.34点，超过8月14日创下的4197.20点历史收盘纪录。日经225指数基本持平。隔夜标普500指数收盘创历史新高，得益于企业盈利韧性以及人工智能相关支出前景向好。（财联社）",
+    "scenes": [],
+    "collectedAt": "2026-10-07T01:34:59.240Z"
+  },
+  {
+    "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501749.html",
+    "publishedAt": "2026-10-07T01:05:13.000Z",
+    "excerpt": "三位菲尔兹奖得主：不代表认可",
+    "scenes": [],
+    "collectedAt": "2026-10-07T01:34:57.196Z"
+  },
+  {
     "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
@@ -929,18 +959,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
