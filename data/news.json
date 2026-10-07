@@ -1,5 +1,70 @@
 [
   {
+    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501803.html",
+    "publishedAt": "2026-10-07T11:34:47.000Z",
+    "excerpt": "",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-07T13:22:52.104Z"
+  },
+  {
+    "title": "恒生科技指数将把成分股扩充至50只",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4015576125034628?f=rss",
+    "publishedAt": "2026-10-07T08:55:16.000Z",
+    "excerpt": "恒生指数公司宣布恒生科技指数咨询结果，将对恒生科技指数进行六项改革，并将于12月实施。第一，取消合资格候选公司必须属于恒生行业分类系统五个指定行业的要求。第二，整合及拓展现有主题，并新增前沿科技主题。修订后的六大科技主题为：数码平台及解决方案；人工智能；先进硬件；机器人及自动化；…",
+    "scenes": [],
+    "collectedAt": "2026-10-07T13:22:53.639Z"
+  },
+  {
+    "title": "晕…这年头还有说人话的AI不",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501796.html",
+    "publishedAt": "2026-10-07T08:41:13.000Z",
+    "excerpt": "",
+    "scenes": [],
+    "collectedAt": "2026-10-07T13:22:52.104Z"
+  },
+  {
+    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501791.html",
+    "publishedAt": "2026-10-07T06:39:36.000Z",
+    "excerpt": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+    "scenes": [],
+    "collectedAt": "2026-10-07T13:22:52.104Z"
+  },
+  {
+    "title": "AMD首席执行官苏姿丰将与三星半导体负责人会面，应对内存短缺",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4015298914750600?f=rss",
+    "publishedAt": "2026-10-07T04:13:16.000Z",
+    "excerpt": "AMD首席执行官苏姿丰计划于周三与三星电子半导体业务负责人、副会长全永铉会面。这是AI产业两位关键人物的最新面对面交流。知情人士透露，苏姿丰此次访问韩国期间将举行会谈，但未披露具体细节。三星与AMD均拒绝置评。（新浪财经）",
+    "scenes": [],
+    "collectedAt": "2026-10-07T13:22:53.639Z"
+  },
+  {
+    "title": "中秋国庆假期60万网友累计增重超100万斤，蚂蚁阿福减重活动迎\"退展\"",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4015277549162632?f=rss",
+    "publishedAt": "2026-10-07T03:51:32.000Z",
+    "excerpt": "10月7日，健康AI蚂蚁阿福的“科学减重1亿斤”中秋国庆长假数据显示，9月25日至10月6日，参与减重打卡的60万网友累计增重超100万斤，其中，超10万人增重3斤以上。区域上，广东、浙江、江苏、山东、河南位列增重省份前五。今年6月底，蚂蚁阿福发起了“科学减重1亿斤”活动，虽然中…",
+    "scenes": [],
+    "collectedAt": "2026-10-07T13:22:53.639Z"
+  },
+  {
+    "title": "Anthropic扩大先进AI模型访问权限，允许特定机构开展网络安全测试",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4015209455456387?f=rss",
+    "publishedAt": "2026-10-07T02:42:16.000Z",
+    "excerpt": "据报道，Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，该公司将允许经过验证的机构使用其能力最强的模型，包括Claude Opus 5.5、Claude Sonnet 5.5、Claud…",
+    "scenes": [],
+    "collectedAt": "2026-10-07T13:22:53.639Z"
+  },
+  {
     "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4015136016617345?f=rss",
@@ -959,18 +1024,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
