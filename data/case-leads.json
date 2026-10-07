@@ -1,5 +1,95 @@
 [
   {
+    "id": "1wzku68",
+    "title": "Free language learning app: Japanese, Korean, Spanish, French · Open Lingo",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzku68/free_language_learning_app_japanese_korean/",
+    "excerpt": "Hey guys! My brother and I are two foreign language learners who did not want to pay for Duolingo's 160$ a year family plan anymore, and were tired of using a s…",
+    "createdAt": "2026-10-07T02:10:30.000Z"
+  },
+  {
+    "id": "1wzkrlt",
+    "title": "I built a way to send a file as one link you can update later without changing the link. Looking for honest feedback",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkrlt/i_built_a_way_to_send_a_file_as_one_link_you_can/",
+    "excerpt": "I'm the maker, so this is self-promo, but I'm mostly after feedback. **Problem:** freelancers and small businesses send a PDF (menu, proposal, report, price lis…",
+    "createdAt": "2026-10-07T02:06:50.000Z"
+  },
+  {
+    "id": "1wzkml6",
+    "title": "I built AISportLive to make following sports a little easier",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkml6/i_built_aisportlive_to_make_following_sports_a/",
+    "excerpt": "I’ve been working on AISportLive, a side project focused on making it easier to keep up with sports information in one place. The idea came from noticing how fr…",
+    "createdAt": "2026-10-07T01:59:54.000Z"
+  },
+  {
+    "id": "1wzkiuu",
+    "title": "I review AI-written code all day at work, so I built interview prep for it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkiuu/i_review_aiwritten_code_all_day_at_work_so_i/",
+    "excerpt": "I'm a corporate SWE and I spend like 80% of my time reviewing AI-written code. Interviews are starting to test the same thing, so I wanted to make a product to …",
+    "createdAt": "2026-10-07T01:54:31.000Z"
+  },
+  {
+    "id": "1wzkgud",
+    "title": "Everyone can tell when you used AI to write something",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkgud/everyone_can_tell_when_you_used_ai_to_write/",
+    "excerpt": "We hired a contractor who would take our code review comments, paste them into Cursor, and paste whatever came out back as his reply. We'd leave a comment like …",
+    "createdAt": "2026-10-07T01:51:41.000Z"
+  },
+  {
+    "id": "1wzkena",
+    "title": "I built a browser music studio where a pixel band performs your tracks",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkena/i_built_a_browser_music_studio_where_a_pixel_band/",
+    "excerpt": "Hi r/SideProject! I'm the maker of Island Music, a desktop-browser music project that turns instrumental tracks into a little pixel-band performance. You can de…",
+    "createdAt": "2026-10-07T01:48:36.000Z"
+  },
+  {
+    "id": "1wzk4vo",
+    "title": "Since you guys thought my RTS was a waste of tokens, I’ll take on a few testers ; ) pretty sure it’s dope",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wzk4vo/since_you_guys_thought_my_rts_was_a_waste_of/",
+    "excerpt": "So yeah crazy token consumption but I’m happy to compare my results against other similar games built in a weeks worth of part time working. Would love to talk …",
+    "createdAt": "2026-10-07T01:34:34.000Z"
+  },
+  {
+    "id": "1wzicov",
+    "title": "I vibe-coded a real iPhone + Android app that backs up your photos directly to USB",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wzicov/i_vibecoded_a_real_iphone_android_app_that_backs/",
+    "excerpt": "I wanted to see how far vibe coding could go beyond prototypes and AI wrappers. So I used a vibe-coding / AI-assisted development workflow to build and ship **V…",
+    "createdAt": "2026-10-07T00:06:55.000Z"
+  },
+  {
+    "id": "1wzhw0q",
+    "title": "Women's Vibe Collective",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wzhw0q/womens_vibe_collective/",
+    "excerpt": "I've been loving using AI tools to build personal projects, and I wanted a space where women and non-binary builders could share work, swap ideas, and learn tog…",
+    "createdAt": "2026-10-06T23:45:35.000Z"
+  },
+  {
     "id": "1wyqba4",
     "title": "CarricoClock ⏱️",
     "sourceName": "Reddit · r/vibecoding",
