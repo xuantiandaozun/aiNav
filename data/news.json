@@ -1,5 +1,151 @@
 [
   {
+    "title": "谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-08T17:12:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:46.539Z"
+  },
+  {
+    "title": "OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-08T14:11:21.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:46.539Z"
+  },
+  {
+    "title": "2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-08T14:10:29.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:46.539Z"
+  },
+  {
+    "title": "世贸组织上调2026年全球货物贸易增长预期",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4017238266663041?f=rss",
+    "publishedAt": "2026-10-08T13:06:05.000Z",
+    "excerpt": "世界贸易组织8日发布最新全球贸易展望报告说，由于供应链调整以及人工智能领域投资强劲，预计2026年全球货物贸易将增长3.9%，高于3月预测的1.9%，2027年有望增长4.1%。报告同时显示，由于中东战事对运输和国际旅行带来影响，2026年全球服务贸易预计增长3.3%，低于3月预…",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:44.881Z"
+  },
+  {
+    "title": "英伟达支持的AI制药公司Iambic寻求美国上市，拟融资至多1.59亿美元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4017212219608967?f=rss",
+    "publishedAt": "2026-10-08T12:39:35.000Z",
+    "excerpt": "美国生物医药公司Iambic Therapeutics披露招股书，计划首次公开发行937.5万股普通股，发行价预计为每股15至17美元，拟募资约1.41亿至1.59亿美元。Iambic成立于2019年，此后已从科技和医疗健康领域投资者处融资4.618亿美元。其主要股东包括美国投资…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-08T13:23:44.881Z"
+  },
+  {
+    "title": "谷歌云推出Gemini智能代理，可自主执行企业多步骤任务",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4017205156171651?f=rss",
+    "publishedAt": "2026-10-08T12:32:24.000Z",
+    "excerpt": "谷歌云宣布推出面向企业工作的通用智能代理Gemini，可通过单一界面处理问答、知识工作、内容创作及代码编写和运行等任务，并能调用企业内部工具和数据，自主完成用户设定的目标。谷歌云表示，Gemini可直接集成Gmail、Drive、Docs、Sheets、Slides、Chat和C…",
+    "scenes": [
+      "writing",
+      "coding"
+    ],
+    "collectedAt": "2026-10-08T13:23:44.881Z"
+  },
+  {
+    "title": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-08T11:43:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:46.539Z"
+  },
+  {
+    "title": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-08T11:08:38.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:46.539Z"
+  },
+  {
+    "title": "让AI走进真实产线，汇川技术2026工博会看点前瞻",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4016926621470853?f=rss",
+    "publishedAt": "2026-10-08T10:51:55.000Z",
+    "excerpt": "一把鲁班锁，几块木件，靠相互咬合形成稳固整体。结构如何组织，决定着各个部分能否共同发挥作用。这个古老物件，也为理解工业智能提供了一个直观入口：让AI走进制造现场，需要把算法、数据和设备真正连接起来。 10月12日至16日，2026中国国际工业博览会将在国家会展中心（上海）举行。汇…",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:44.880Z"
+  },
+  {
+    "title": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-08T10:35:29.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-08T13:23:46.539Z"
+  },
+  {
+    "title": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-08T09:35:10.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-08T13:23:46.539Z"
+  },
+  {
+    "title": "浪子回头！Manus重启北京办公室大举招聘",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502009.html",
+    "publishedAt": "2026-10-08T09:30:17.000Z",
+    "excerpt": "开始和国产Agent抢人，还拿到5亿美元新融资",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-08T13:23:42.090Z"
+  },
+  {
+    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501995.html",
+    "publishedAt": "2026-10-08T09:28:44.000Z",
+    "excerpt": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:42.090Z"
+  },
+  {
+    "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4016645063217281?f=rss",
+    "publishedAt": "2026-10-08T03:03:19.000Z",
+    "excerpt": "硬氪获悉，智能眼镜品牌NIMO所属公司比特幻境近日完成数亿元人民币天使轮融资，最新估值达15亿元。本轮投资方包括博华资本、戈壁创投、元禾璞华，以及尚势资本等相关投资机构。融资资金将主要用于产品研发、渠道拓展及海外市场布局。 比特幻境成立于2025年7月，2026f年4月，NIMO…",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:44.880Z"
+  },
+  {
+    "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501915.html",
+    "publishedAt": "2026-10-08T02:15:37.000Z",
+    "excerpt": "",
+    "scenes": [],
+    "collectedAt": "2026-10-08T13:23:42.090Z"
+  },
+  {
     "title": "“星火传明”完成A轮融资",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4016540259160199?f=rss",
@@ -1089,18 +1235,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
