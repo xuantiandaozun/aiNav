@@ -1,5 +1,45 @@
 [
   {
+    "id": "1x0ex2m",
+    "title": "I made an app for shared bills that keeps the receipts with each expense",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0ex2m/i_made_an_app_for_shared_bills_that_keeps_the/",
+    "excerpt": "I'm Spawn. I built CoolMeow for people sharing expenses with a partner, roommates or friends on a trip. Each expense records who paid and who should split it, w…",
+    "createdAt": "2026-10-08T02:05:00.000Z"
+  },
+  {
+    "id": "1x0erq1",
+    "title": "I built a free daily puzzle site - 8 games, no login, no paywall",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0erq1/i_built_a_free_daily_puzzle_site_8_games_no_login/",
+    "excerpt": "Hi - I started this as a little logic puzzle for myself and it got out of hand. It's now 8 daily puzzle games (logic, numbers, words) with streaks, leaderboards…",
+    "createdAt": "2026-10-08T01:57:41.000Z"
+  },
+  {
+    "id": "1x0eog6",
+    "title": "I spent a week taking apart AI detectors with controlled experiments, then open-sourced the tool: a local model that takes text from 45% to 0% in Grammarly, GPTZero and ZeroGPT",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0eog6/i_spent_a_week_taking_apart_ai_detectors_with/",
+    "excerpt": "**TL;DR:** detectors mostly catch *chat training*, not \"AI\". A base model paraphrasing reads human. Then each detector wants something different, and the fix fo…",
+    "createdAt": "2026-10-08T01:53:10.000Z"
+  },
+  {
+    "id": "1x0ekps",
+    "title": "I got sick of AI slop so I built a Chrome extension that hides it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0ekps/i_got_sick_of_ai_slop_so_i_built_a_chrome/",
+    "excerpt": "**How it works:** * Works on Reddit, X and LinkedIn * Runs on your existing ChatGPT plan, a free API key/paid API providers, or a our foundational model that ru…",
+    "createdAt": "2026-10-08T01:48:04.000Z"
+  },
+  {
     "id": "1wzku68",
     "title": "Free language learning app: Japanese, Korean, Spanish, French · Open Lingo",
     "sourceName": "Reddit · r/SideProject",
