@@ -1,5 +1,95 @@
 [
   {
+    "id": "1x19fi8",
+    "title": "For you Android users, I made a clean, free, no ads, no account launcher!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19fi8/for_you_android_users_i_made_a_clean_free_no_ads/",
+    "excerpt": "Hey all! I just released the my launcher Glint (in an open beta because I don't have access to more than a handful of devices). It'll always be free, require no…",
+    "createdAt": "2026-10-09T02:12:37.000Z"
+  },
+  {
+    "id": "1x19efj",
+    "title": "Made a User-Interface for Space Fans!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19efj/made_a_userinterface_for_space_fans/",
+    "excerpt": "There will be quaterly releases, every 3 months. This project is still a Work-In-Progress and is not YET daily drivable, but we are working hard to make it so i…",
+    "createdAt": "2026-10-09T02:11:03.000Z"
+  },
+  {
+    "id": "1x19dux",
+    "title": "After the digital rain one, I made something softer: a fireside cats screensaver",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19dux/after_the_digital_rain_one_i_made_something/",
+    "excerpt": "Some of you saw the digital rain and Vortext screensavers I posted before. This one is the opposite mood, the slow and cozy one. It's a set of photos of cats cu…",
+    "createdAt": "2026-10-09T02:10:13.000Z"
+  },
+  {
+    "id": "1x19dqx",
+    "title": "I'm a keys player and wanted MainStage on Windows, so I built a free, open-source one",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19dqx/im_a_keys_player_and_wanted_mainstage_on_windows/",
+    "excerpt": "Hey all. I play keys, and the go-to app for running your sounds live (MainStage) is Mac only. The Windows options are either paid or not really built for keyboa…",
+    "createdAt": "2026-10-09T02:10:04.000Z"
+  },
+  {
+    "id": "1x19cmg",
+    "title": "I Recompiled The Darkness (2007) into a Native PC Game",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19cmg/i_recompiled_the_darkness_2007_into_a_native_pc/",
+    "excerpt": "*The Darkness* (2007) is one of those games I’ve always thought deserved a proper PC release, so I decided to work on one myself. I’ve been developing **Estacad…",
+    "createdAt": "2026-10-09T02:08:29.000Z"
+  },
+  {
+    "id": "1x18w6l",
+    "title": "I built an AI girlfriend app and made it completely free while I test it. Roast it.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x18w6l/i_built_an_ai_girlfriend_app_and_made_it/",
+    "excerpt": "I've been building PureLove for the past few months, an AI companion chat where you pick a character (or create your own) and just talk. Right now everything is…",
+    "createdAt": "2026-10-09T01:45:38.000Z"
+  },
+  {
+    "id": "1x17wc4",
+    "title": "So where are we going with this?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x17wc4/so_where_are_we_going_with_this/",
+    "excerpt": "I think vibe coding IS the future. I see a fair bit of naysayers and deniers (mostly on other subreddits, not on this one). I think we have let the genie out of…",
+    "createdAt": "2026-10-09T00:55:55.000Z"
+  },
+  {
+    "id": "1x17nh3",
+    "title": "A visual way to browse products and shop",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x17nh3/a_visual_way_to_browse_products_and_shop/",
+    "excerpt": "I built Enikq to make browsing products feel a bit more like exploring than searching through filters. You can move around, open items, save things you like, an…",
+    "createdAt": "2026-10-09T00:43:32.000Z"
+  },
+  {
+    "id": "1x176o7",
+    "title": "I built a zombie shooter using Opus 5.5",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x176o7/i_built_a_zombie_shooter_using_opus_55/",
+    "excerpt": "Opus 5.5 helped me to build this zombie shooter. Everything you see here was built using Claude + Chatgpt + Meshy Claude to build the game , Chatgpt to generate…",
+    "createdAt": "2026-10-09T00:20:11.000Z"
+  },
+  {
     "id": "1x0ex2m",
     "title": "I made an app for shared bills that keeps the receipts with each expense",
     "sourceName": "Reddit · r/SideProject",
