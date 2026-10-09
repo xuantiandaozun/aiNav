@@ -1,5 +1,154 @@
 [
   {
+    "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-09T17:39:38.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:11.214Z"
+  },
+  {
+    "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-09T17:24:31.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:11.214Z"
+  },
+  {
+    "title": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-09T17:15:07.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-09T13:22:11.214Z"
+  },
+  {
+    "title": "AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-09T16:59:33.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:11.214Z"
+  },
+  {
+    "title": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/ZxZMY50COGlUNHLSAEUo?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-09T14:03:15.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-09T13:22:11.214Z"
+  },
+  {
+    "title": "从 Demo 到生产：AI Agent 缺的到底是什么？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/PLEWse6sEviMN99iLE93?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-09T11:13:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:11.214Z"
+  },
+  {
+    "title": "报道称OpenAI和Anthropic正在聘用前特朗普政府官员",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4018538702508165?f=rss",
+    "publishedAt": "2026-10-09T11:08:57.000Z",
+    "excerpt": "据报道，OpenAI和Anthropic正在聘用前特朗普政府官员。（财联社）",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:09.653Z"
+  },
+  {
+    "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-09T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-09T13:22:11.214Z"
+  },
+  {
+    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502422.html",
+    "publishedAt": "2026-10-09T08:53:08.000Z",
+    "excerpt": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-09T13:22:08.089Z"
+  },
+  {
+    "title": "字节找到了DeepSeek时强时弱的原因",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502364.html",
+    "publishedAt": "2026-10-09T07:11:55.000Z",
+    "excerpt": "答不答得对，得看Token站位",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:08.089Z"
+  },
+  {
+    "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502359.html",
+    "publishedAt": "2026-10-09T06:28:55.000Z",
+    "excerpt": "Google 研究成果首次登上《柳叶刀》主刊",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:08.089Z"
+  },
+  {
+    "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502125.html",
+    "publishedAt": "2026-10-09T03:52:21.000Z",
+    "excerpt": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-09T13:22:08.089Z"
+  },
+  {
+    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502106.html",
+    "publishedAt": "2026-10-09T02:37:22.000Z",
+    "excerpt": "多Agent协同还能自我进化",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-09T13:22:08.089Z"
+  },
+  {
+    "title": "美央构建物理AI路径闭环：把人体变成可计算的真实世界",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4018021038657411?f=rss",
+    "publishedAt": "2026-10-09T02:22:54.000Z",
+    "excerpt": "万美京AIMIRA构建\"感知—理解—决策—执行—反馈\"产品闭环，回答物理AI核心命题 当AI走出屏幕，游戏规则彻底改变：真实的人体有空间结构、组织状态与一刻不停的时间变化；软件说错一句话可以重新生成，机器做错一个动作，结果可能无法撤回。物理AI难的从来不是更大的模型，而是\"感知—…",
+    "scenes": [],
+    "collectedAt": "2026-10-09T13:22:09.652Z"
+  },
+  {
+    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502096.html",
+    "publishedAt": "2026-10-09T02:03:48.000Z",
+    "excerpt": "让AI反复试错的“练兵场”来了",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-09T13:22:08.089Z"
+  },
+  {
     "title": "Anthropic据悉组建专门团队对接2028年总统候选人",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4017925846814596?f=rss",
@@ -1282,18 +1431,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
