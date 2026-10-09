@@ -1,5 +1,52 @@
 [
   {
+    "title": "Anthropic据悉组建专门团队对接2028年总统候选人",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4017925846814596?f=rss",
+    "publishedAt": "2026-10-09T01:00:19.000Z",
+    "excerpt": "据报道，美国人工智能初创公司Anthropic 正着手设立一个针对2028年大选的“总统级对接”计划，组建一支内部团队，直接就人工智能相关议题与美国两党总统候选人展开对接，协助公司高层制定政治策略，并负责运营公司的政治资助项目。（新浪财经）",
+    "scenes": [],
+    "collectedAt": "2026-10-09T01:37:02.297Z"
+  },
+  {
+    "title": "Anthropic宣布禁止“虐待”其旗下AI",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4017915074023560?f=rss",
+    "publishedAt": "2026-10-09T00:42:26.000Z",
+    "excerpt": "据报道，Anthropic对其AI使用政策作出调整，以应对新的高风险滥用行为。其中一项最重要的变化是，禁止对Claude进行“持续且不必要的虐待或残忍行为”。此次更新指出，终止对话仍是“主要执行机制”；对于是否会采取进一步的执行措施（例如可能封禁用户），Anthropic未予置评…",
+    "scenes": [],
+    "collectedAt": "2026-10-09T01:37:02.297Z"
+  },
+  {
+    "title": "英伟达投资的Lumentum：光器件产能订单已排至2029年",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4017910933721222?f=rss",
+    "publishedAt": "2026-10-09T00:38:12.000Z",
+    "excerpt": "受科技企业争相建设高速AI数据中心带动，Lumentum Holdings Inc. 的光电器件产能几乎已经全部售罄，订单覆盖至2029年。今年早些时候，英伟达向Lumentum及其竞争对手Coherent各投资20亿美元。该公司主营先进磷化铟器件，支撑高速云计算与数据传输业务。…",
+    "scenes": [],
+    "collectedAt": "2026-10-09T01:37:02.297Z"
+  },
+  {
+    "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502089.html",
+    "publishedAt": "2026-10-09T00:35:57.000Z",
+    "excerpt": "彻底撕破脸了",
+    "scenes": [],
+    "collectedAt": "2026-10-09T01:37:00.503Z"
+  },
+  {
+    "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502083.html",
+    "publishedAt": "2026-10-09T00:16:56.000Z",
+    "excerpt": "新的“缝合怪”已经出现，怎么能够停滞不前",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-09T01:37:00.503Z"
+  },
+  {
     "title": "谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&utm_medium=article",
@@ -1235,18 +1282,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
