@@ -1,5 +1,110 @@
 [
   {
+    "title": "模型开放之后，AI能力为什么仍难以复用？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T17:10:50.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/jri7etqXIv2dp6RsiSHh?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T15:24:10.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/MAo3KoDWm9FGIcKau9AK?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T15:18:57.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T15:11:32.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/SuqGY4FQ95AVzs1S0KSV?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T14:27:56.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/8g9tlaqJFUPrb4oGO00A?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T14:24:52.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T14:13:49.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "比 Astra 还贵！GPT-6.1 Sol 极速版上线，社区吐槽：“500 美元套餐都撑不过一天”",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T13:15:26.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "企业AI 走向生产环境，如何避免新一轮技术锁定",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T13:08:22.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-10T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "用AI降低激光焊使用门槛，这家公司完成数千万元融资｜36氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4019439680327817?f=rss",
+    "publishedAt": "2026-10-10T02:26:03.000Z",
+    "excerpt": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能激光金属加工设备公司LaserCyber已完成数千万元融资，由启高资本投资、为溪创投跟投，苍竹资本担任长期独家财务顾问。 LaserCyber于2025年8月成立于深圳，定位为“桌面智能激光工厂”。公司首款激光焊机产品L1系列覆盖…",
+    "scenes": [],
+    "collectedAt": "2026-10-10T13:16:14.648Z"
+  },
+  {
     "title": "特朗普政府要求AI公司在发生安全事件后立即上报",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4019374322044804?f=rss",
@@ -1449,18 +1554,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],

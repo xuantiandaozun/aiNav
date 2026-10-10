@@ -1,5 +1,35 @@
 [
   {
+    "ranAt": "2026-10-10T13:16:10.377Z",
+    "sources": [
+      {
+        "name": "机器之心",
+        "ok": false,
+        "fetched": 0,
+        "error": "Unexpected close tag\nLine: 16\nColumn: 19\nChar: >"
+      },
+      {
+        "name": "量子位",
+        "ok": true,
+        "fetched": 5,
+        "error": ""
+      },
+      {
+        "name": "36氪",
+        "ok": true,
+        "fetched": 3,
+        "error": ""
+      },
+      {
+        "name": "InfoQ 中文",
+        "ok": true,
+        "fetched": 13,
+        "error": ""
+      }
+    ],
+    "added": 11
+  },
+  {
     "ranAt": "2026-10-10T01:33:54.006Z",
     "sources": [
       {
@@ -388,35 +418,5 @@
       }
     ],
     "added": 2
-  },
-  {
-    "ranAt": "2026-10-03T14:33:39.546Z",
-    "sources": [
-      {
-        "name": "机器之心",
-        "ok": false,
-        "fetched": 0,
-        "error": "Unexpected close tag\nLine: 16\nColumn: 19\nChar: >"
-      },
-      {
-        "name": "量子位",
-        "ok": true,
-        "fetched": 7,
-        "error": ""
-      },
-      {
-        "name": "36氪",
-        "ok": true,
-        "fetched": 7,
-        "error": ""
-      },
-      {
-        "name": "InfoQ 中文",
-        "ok": true,
-        "fetched": 12,
-        "error": ""
-      }
-    ],
-    "added": 5
   }
 ]
