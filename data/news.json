@@ -1,5 +1,110 @@
 [
   {
+    "title": "利用 AI 代码智能体优化软件架构的五种方法",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-11T10:04:31.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-11T13:17:31.126Z"
+  },
+  {
+    "title": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-11T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:31.126Z"
+  },
+  {
+    "title": "蚂蚁“灵光”开启小范围内测，新版对标“Meta Muse”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4021098794291072?f=rss",
+    "publishedAt": "2026-10-11T08:45:07.000Z",
+    "excerpt": "据悉，蚂蚁集团旗下AI产品“灵光”已于近日开启新版本的小范围内测，新版对标“Meta Muse”。 公开信息显示，今年9月，Meta推出个人智能体Muse。该智能体可介入用户日常生活，并持续跟进用户交待的事宜。 接近项目人士透露，灵光相关方向约半年前已开始筹备，期间迭代多个版本，…",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:29.195Z"
+  },
+  {
+    "title": "英伟达据悉正就收购Reflection AI或增加投资进行磋商",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4021092156821636?f=rss",
+    "publishedAt": "2026-10-11T07:59:21.000Z",
+    "excerpt": "据报道，英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。报道称，目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-11T13:17:29.195Z"
+  },
+  {
+    "title": "SpaceXAI官方账号更名",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4021178453577859?f=rss",
+    "publishedAt": "2026-10-11T07:54:15.000Z",
+    "excerpt": "马斯克当地时间10月10日在社交平台发布一张截图，显示SpaceXAI的官方账号已更名为“SpaceX Super Intelligence”（@SpaceXSI）。此前10月4日，马斯克表示，SpaceX是一家超级智能（SI）公司，我们将把SpaceXAI改名为SpaceXSI…",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:29.196Z"
+  },
+  {
+    "title": "苹果通过反向人才收购拿下Huxe",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4021034763718784?f=rss",
+    "publishedAt": "2026-10-11T07:32:59.000Z",
+    "excerpt": "苹果在欧盟《数字市场法案》案件数据库网站披露，其已达成协议，将吸纳个性化音频初创公司Huxe的团队成员与相关技术，这笔交易属于业内常说的反向人才收购（reverse acqui‑hire）。 据报道，苹果向欧盟委员会报备称，同意向“Huxe AI的部分员工”发出录用邀约，同时“获…",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:29.196Z"
+  },
+  {
+    "title": "睿质科技完成首轮数千万元融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4021033248575625?f=rss",
+    "publishedAt": "2026-10-11T07:15:25.000Z",
+    "excerpt": "36氪获悉，据中关村资本消息，睿质科技完成首轮数千万元融资。本轮融资由中关村资本领投，中关村科学城公司跟投。本轮融资将主要用于核心团队建设、科研智能体工作平台与工业级跨尺度智能计算引擎的持续迭代、自动化实验验证体系建设，以及产业应用场景的进一步拓展与落地。",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:29.196Z"
+  },
+  {
+    "title": "硅谷AI现状：谁有算力谁是爹",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502585.html",
+    "publishedAt": "2026-10-11T05:22:38.000Z",
+    "excerpt": "马斯克连横A社，硅谷VC开始囤GPU",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:27.489Z"
+  },
+  {
+    "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502550.html",
+    "publishedAt": "2026-10-11T05:18:04.000Z",
+    "excerpt": "初代4o的API快照进入停用倒计时",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-11T13:17:27.489Z"
+  },
+  {
+    "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502544.html",
+    "publishedAt": "2026-10-11T03:27:08.000Z",
+    "excerpt": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:27.489Z"
+  },
+  {
+    "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/3990015565708035?f=rss",
+    "publishedAt": "2026-10-11T02:00:00.000Z",
+    "excerpt": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育硬件公司「庞伯特」近日完成数亿元B轮融资，由上海国投先导基金领投，元禾璞华、浦东创投等跟投，老股东蓝驰创投持续加注。高鹄资本担任独家财务顾问。 此前公司已连续完成三轮A轮系列融资，神骐资本、明势创投、蓝驰创投、锦秋基金、华创资本及成为资…",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:29.195Z"
+  },
+  {
     "title": "以色列团队开发Brain-IT模型 可通过fMRI数据重建受试者所见画面",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4020777539555459?f=rss",
@@ -95,6 +200,15 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-10T13:16:16.093Z"
+  },
+  {
+    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502541.html",
+    "publishedAt": "2026-10-10T10:30:36.000Z",
+    "excerpt": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+    "scenes": [],
+    "collectedAt": "2026-10-11T13:17:27.489Z"
   },
   {
     "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
@@ -1566,18 +1680,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
