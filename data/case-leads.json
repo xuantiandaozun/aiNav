@@ -1,5 +1,65 @@
 [
   {
+    "id": "1x2wb2j",
+    "title": "HabitInk – a small, private habit tracker that helps you start again after missed days",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2wb2j/habitink_a_small_private_habit_tracker_that_helps/",
+    "excerpt": "Hi, I'm the developer. I built HabitInk for myself when I was trying to read 10 pages a day, and I've been using it every day since late June. **App Name:** Hab…",
+    "createdAt": "2026-10-11T02:09:36.000Z"
+  },
+  {
+    "id": "1x2waq9",
+    "title": "Would this be a good final year capstone project? Portfolio tracker + strategy backtesting platform",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2waq9/would_this_be_a_good_final_year_capstone_project/",
+    "excerpt": "Hi everyone, I’m working on a project idea and wanted to validate whether it is strong enough for a university capstone project. Our professor was having us do …",
+    "createdAt": "2026-10-11T02:09:06.000Z"
+  },
+  {
+    "id": "1x2w5pv",
+    "title": "NyaIcon: free icon themes for Mac",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2w5pv/nyaicon_free_icon_themes_for_mac/",
+    "excerpt": "Sharing my app NyaIcon. Give your apps and folders a matching look with ready-made themes. An alternative to IconChamp with no paid tier. Free, no account neede…",
+    "createdAt": "2026-10-11T02:01:26.000Z"
+  },
+  {
+    "id": "1x2w1dg",
+    "title": "🎵 [Android Beta] Looking for 20 music lovers to test ZIIIK – Discover music beyond borders",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2w1dg/android_beta_looking_for_20_music_lovers_to_test/",
+    "excerpt": "Hey everyone! 👋🎵 I'm Adrien, an independent developer from France, and I've just released the English version of my Android app, **ZIIIK**! I wanted to create s…",
+    "createdAt": "2026-10-11T01:55:20.000Z"
+  },
+  {
+    "id": "1x2tpkx",
+    "title": "I don't trust AI enough, so I'm asking you for advice",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x2tpkx/i_dont_trust_ai_enough_so_im_asking_you_for_advice/",
+    "excerpt": "I run a small business and we use a wide range of tools to do our work. * A proprietary intranet we built moons ago * Clickup * Custom vibe coded apps ... you g…",
+    "createdAt": "2026-10-10T23:56:55.000Z"
+  },
+  {
+    "id": "1x2rfus",
+    "title": "I built an Gladiator Arena for AI to fight (Jev and others)",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x2rfus/i_built_an_gladiator_arena_for_ai_to_fight_jev/",
+    "excerpt": "Two weeks ago I was at a hackathon and had an idea about the newly released Typesafe.ai Jev decision model. Here is [Blood & Sand](http://bloodsand.com) \\- a Ro…",
+    "createdAt": "2026-10-10T22:06:53.000Z"
+  },
+  {
     "id": "1x1k53v",
     "title": "How's my vibe coded YouTube?",
     "sourceName": "Reddit · r/vibecoding",
