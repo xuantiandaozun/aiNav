@@ -1,5 +1,45 @@
 [
   {
+    "id": "1x3pvea",
+    "title": "I created Trek Tracker, a site for watching the entirety of Star Trek in either release or Chronological order",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x3pvea/i_created_trek_tracker_a_site_for_watching_the/",
+    "excerpt": "I made a site that extends on the great work done by the Star Trek Chronology Project for compiling a complete list of Star Trek episodes and movies in the orde…",
+    "createdAt": "2026-10-12T02:09:33.000Z"
+  },
+  {
+    "id": "1x3pujw",
+    "title": "MyoGo - Making myofunctional exercises more engaging for kids",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x3pujw/myogo_making_myofunctional_exercises_more/",
+    "excerpt": "I built MyoGo after seeing parents who wanted to help their kids but didn't really understand what myofunctional therapy was or how it could help. When a dentis…",
+    "createdAt": "2026-10-12T02:08:12.000Z"
+  },
+  {
+    "id": "1x3pri0",
+    "title": "I built a way to personalize my AI and use it everywhere",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x3pri0/i_built_a_way_to_personalize_my_ai_and_use_it/",
+    "excerpt": "If you're anything like me in using AI tools, you must have seen this problem too. I use AI a lot, for daily tasks as well as coding. I use different AI tools f…",
+    "createdAt": "2026-10-12T02:03:44.000Z"
+  },
+  {
+    "id": "1x3mc72",
+    "title": "I updated my Matrix protocol room tracker so that it integrates into the search of the Cinny and Element clients",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x3mc72/i_updated_my_matrix_protocol_room_tracker_so_that/",
+    "excerpt": "[https://activematrixrooms.com/faq](https://activematrixrooms.com/faq) This should make it much easier for people who use the protocol to find rooms based on ac…",
+    "createdAt": "2026-10-11T23:12:24.000Z"
+  },
+  {
     "id": "1x2wb2j",
     "title": "HabitInk – a small, private habit tracker that helps you start again after missed days",
     "sourceName": "Reddit · r/SideProject",
@@ -1154,45 +1194,5 @@
     "sourceUrl": "https://news.ycombinator.com/item?id=43739037",
     "excerpt": "",
     "createdAt": "2025-04-19T20:00:17.000Z"
-  },
-  {
-    "id": "hn-40900263",
-    "title": "Show HN: I launched a site a week ago and it's made $1.2K so far, what next?",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 1,
-    "sourceUrl": "https://news.ycombinator.com/item?id=40900263",
-    "excerpt": "I launched my side project 7 days ago, an AI platform that lets you use 9+ AI apps in one (AI Music, AI Image generation, AI Chat with PDF, and 6 LLMs)<p>It&#x2…",
-    "createdAt": "2024-07-07T20:34:41.000Z"
-  },
-  {
-    "id": "hn-40344944",
-    "title": "Show HN: BlueCtrlP, a Deployment Tool for Side-Projects",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 3,
-    "sourceUrl": "https://news.ycombinator.com/item?id=40344944",
-    "excerpt": "Hey fellow hackers,<p>Struggling with the deployment phase? Coding may be a breeze, but launching is always the toughest nut to crack.<p>Introducing BlueCtrlP -…",
-    "createdAt": "2024-05-13T16:17:15.000Z"
-  },
-  {
-    "id": "hn-40233973",
-    "title": "Show HN: Tess – The first AI image generator to pay artists",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 2,
-    "sourceUrl": "https://news.ycombinator.com/item?id=40233973",
-    "excerpt": "Hi HN,<p>I wanted to share a side project that we&#x27;ve been working on for a few weeks. It&#x27;s called Tess and it&#x27;s a new kind of AI image generator …",
-    "createdAt": "2024-05-02T08:34:33.000Z"
-  },
-  {
-    "id": "hn-33801314",
-    "title": "Launch HN: Patterns (YC S21) – A much faster way to build and deploy data apps",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 149,
-    "sourceUrl": "https://news.ycombinator.com/item?id=33801314",
-    "excerpt": "Hey HN, I’m Ken, co-founder of Patterns (<a href=\"https:&#x2F;&#x2F;www.patterns.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.patterns.app&#x2F;</a>) with wi…",
-    "createdAt": "2022-11-30T14:37:36.000Z"
   }
 ]
