@@ -1,5 +1,168 @@
 [
   {
+    "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T18:32:43.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:39.573Z"
+  },
+  {
+    "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/LQjytCZpPdgOE5PrWU59?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T17:57:05.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:39.573Z"
+  },
+  {
+    "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T17:41:43.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:39.573Z"
+  },
+  {
+    "title": "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T17:25:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-13T13:26:39.574Z"
+  },
+  {
+    "title": "千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/xJ8vYf2lCwGWzVizOTSM?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T16:24:40.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:39.574Z"
+  },
+  {
+    "title": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T11:56:10.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-13T13:26:39.574Z"
+  },
+  {
+    "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T11:45:54.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:39.574Z"
+  },
+  {
+    "title": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-13T11:40:05.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-13T13:26:39.574Z"
+  },
+  {
+    "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503107.html",
+    "publishedAt": "2026-10-13T11:05:39.000Z",
+    "excerpt": "让VLA从“演示可用”逼近“产线可用”",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:36.034Z"
+  },
+  {
+    "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503093.html",
+    "publishedAt": "2026-10-13T09:33:37.000Z",
+    "excerpt": "Winverse AI",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:36.034Z"
+  },
+  {
+    "title": "百万token做赌注，字节把AI游戏这条路打通关了！",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4023934543892354?f=rss",
+    "publishedAt": "2026-10-13T07:11:09.000Z",
+    "excerpt": "文丨句号 编辑丨果脯 “没有人类了！” 字面意义上的，字节跳动用Seedance模型开发了一款“全AI”游戏。9月23日，朝夕光年旗下的江南工作室在steam平台发布《不问凡尘》EA版本，88%的好评率将字节推上了游戏界头版。 如果只是一款口碑爆棚的RPG，这似乎也并不稀奇，但如…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-13T13:26:38.324Z"
+  },
+  {
+    "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502920.html",
+    "publishedAt": "2026-10-13T06:19:10.000Z",
+    "excerpt": "拉马克进化的幽灵",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:36.034Z"
+  },
+  {
+    "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502907.html",
+    "publishedAt": "2026-10-13T06:00:20.000Z",
+    "excerpt": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:36.034Z"
+  },
+  {
+    "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502767.html",
+    "publishedAt": "2026-10-13T04:01:15.000Z",
+    "excerpt": "算力、模型、行业，三层生意一起做",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:36.034Z"
+  },
+  {
+    "title": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4023041152585603?f=rss",
+    "publishedAt": "2026-10-13T03:10:57.000Z",
+    "excerpt": "文｜王欣逸 36氪获悉，近日，专注做GEO的AI营销公司深度云海智能科技（上海）有限公司（以下简称“深度云海”）已完成千万级天使轮融资，华工科技（000988.SZ）领投，本轮资金主要用于自研技术底座迭代、海外市场拓展、产品升级以及AI人才的扩充。 深度云海创立于2025年6月，…",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-13T13:26:38.324Z"
+  },
+  {
+    "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4023671039070081?f=rss",
+    "publishedAt": "2026-10-13T02:12:10.000Z",
+    "excerpt": "图源/企业 本文约3300字，建议阅读7分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，气象AI公司天序智能科技（嘉兴）有限公司（下称“天序智能”）近期已完成数千万元Pre-A+轮融资，由厚雪资本独家投资，翊荣资本担任长期独家财务顾问。本轮融资资金将主要用于“凝空星座”建设、CMAWS…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:38.325Z"
+  },
+  {
+    "title": "华为投后，一盛新材再获元禾璞华等近亿融资，热控材料站上AI风口丨36氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4023646561668995?f=rss",
+    "publishedAt": "2026-10-13T01:48:40.000Z",
+    "excerpt": "图源/企业 本文约3200字，建议阅读7分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，哈尔滨一盛新材料科技有限公司（下称“一盛新材”）宣布完成近亿元A3轮融资，本轮由元禾璞华、长江创新联合领投，中信建投资本、邦盛资本、丰源投资、银柏投资跟投，老股东中关村启航旗下芯创基金追投。本轮融资…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T13:26:38.325Z"
+  },
+  {
     "title": "DeepSeek将完成1000亿元融资",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4023639578038151?f=rss",
@@ -1950,18 +2113,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
