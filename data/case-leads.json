@@ -1,5 +1,95 @@
 [
   {
+    "id": "1x4ksuw",
+    "title": "Im (sorta) vibe coding a Tesla web browser app store",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x4ksuw/im_sorta_vibe_coding_a_tesla_web_browser_app_store/",
+    "excerpt": "I say sorta because I was a developer for 10 years so I know some code stuff but ive been sitting back and letting Claude do most of the work. Im making [frunk.…",
+    "createdAt": "2026-10-13T02:19:26.000Z"
+  },
+  {
+    "id": "1x4kqck",
+    "title": "GleamRoll - the free photo cleaner I built for my own phone. Local only, a few minutes a day.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4kqck/gleamroll_the_free_photo_cleaner_i_built_for_my/",
+    "excerpt": "Hi all. I made GleamRoll. I know what you are thinking. Another gallery cleaning app. Fair. The store is full of them. I tried a few of the big ones first. Most…",
+    "createdAt": "2026-10-13T02:15:46.000Z"
+  },
+  {
+    "id": "1x4kmtb",
+    "title": "20 years in sales. Built an iPhone app with AI. Still underestimated the hardest part…",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4kmtb/20_years_in_sales_built_an_iphone_app_with_ai/",
+    "excerpt": "I’ve spent 20 years in sales. I thought I understood how to bring best product to market. Then I built my own iPhone app. 😂 No coding background. The whole thin…",
+    "createdAt": "2026-10-13T02:10:52.000Z"
+  },
+  {
+    "id": "1x4klbh",
+    "title": "I launched a free, browser-based cricket game - would love your feedback!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4klbh/i_launched_a_free_browserbased_cricket_game_would/",
+    "excerpt": "Hi everyone, Today, I launched a free, browser-based cricket game named [Super Slog](https://cricketgame.me/). Features: two playing modes, three types of camer…",
+    "createdAt": "2026-10-13T02:08:50.000Z"
+  },
+  {
+    "id": "1x4keo0",
+    "title": "Built a dating app, but getting the first users seems harder than building it.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4keo0/built_a_dating_app_but_getting_the_first_users/",
+    "excerpt": "&#x200B; I'm a solo developer from Singapore, currently building a dating/social app that focuses on connecting people through shared interests, hobbies and act…",
+    "createdAt": "2026-10-13T02:00:03.000Z"
+  },
+  {
+    "id": "1x4kajz",
+    "title": "I made a website that does in-depth research of stocks using mathematics",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4kajz/i_made_a_website_that_does_indepth_research_of/",
+    "excerpt": "I made Q-netix. You enter a list of stocks, and it analyses them using established mathematical models, then gives you research reports in plain English. The id…",
+    "createdAt": "2026-10-13T01:54:21.000Z"
+  },
+  {
+    "id": "1x4k92u",
+    "title": "I'm a new mom, and I decided to take a chance on building my own app",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4k92u/im_a_new_mom_and_i_decided_to_take_a_chance_on/",
+    "excerpt": "Hi everyone! I wanted to share something a little personal and hopefully get some honest opinions. I'm a new mom, and I've been thinking a lot about my future a…",
+    "createdAt": "2026-10-13T01:52:16.000Z"
+  },
+  {
+    "id": "1x4k696",
+    "title": "Virtua Cop (1994 arcade) in REAL 3D VR on Quest 3, with a 3D virtual homemade gun in hand. You're not shooting on a flat screen (but you can) and it's free.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4k696/virtua_cop_1994_arcade_in_real_3d_vr_on_quest_3/",
+    "excerpt": "\"Don't shoot me!\" The legendary Virtua Cop is out in VR. First, thank you for the incredible welcome you gave Sega Rally. We're already more than 150 on the Dis…",
+    "createdAt": "2026-10-13T01:48:29.000Z"
+  },
+  {
+    "id": "1x4i9rh",
+    "title": "I had fun building a Discord/Slack alternative",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x4i9rh/i_had_fun_building_a_discordslack_alternative/",
+    "excerpt": "Hey everyone! I wanted to share something I have just been building for fun and truly seeing how far I can take it. Still a long ways to go but its truly been a…",
+    "createdAt": "2026-10-13T00:15:36.000Z"
+  },
+  {
     "id": "1x3pvea",
     "title": "I created Trek Tracker, a site for watching the entirety of Star Trek in either release or Chronological order",
     "sourceName": "Reddit · r/vibecoding",
@@ -1104,95 +1194,5 @@
     "sourceUrl": "https://news.ycombinator.com/item?id=46765120",
     "excerpt": "",
     "createdAt": "2026-01-26T13:01:00.000Z"
-  },
-  {
-    "id": "hn-46420453",
-    "title": "Show HN: Vibe coding a bookshelf with Claude Code",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 284,
-    "sourceUrl": "https://news.ycombinator.com/item?id=46420453",
-    "excerpt": "",
-    "createdAt": "2025-12-29T13:22:59.000Z"
-  },
-  {
-    "id": "hn-46227422",
-    "title": "Vibe coding is mad depressing",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 263,
-    "sourceUrl": "https://news.ycombinator.com/item?id=46227422",
-    "excerpt": "",
-    "createdAt": "2025-12-11T03:50:04.000Z"
-  },
-  {
-    "id": "hn-45875749",
-    "title": "We got a $60k tax penalty for a zero-revenue side project",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 28,
-    "sourceUrl": "https://news.ycombinator.com/item?id=45875749",
-    "excerpt": "In 2020, in the middle of COVID, a few friends and I decided that obviously the world needed <i>another</i> presentation tool.<p>Our pain point was simple: we h…",
-    "createdAt": "2025-11-10T13:25:00.000Z"
-  },
-  {
-    "id": "hn-45635430",
-    "title": "Ask HN: What are revenue generating side projects you can do utilizing AI?",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 2,
-    "sourceUrl": "https://news.ycombinator.com/item?id=45635430",
-    "excerpt": "",
-    "createdAt": "2025-10-19T16:23:55.000Z"
-  },
-  {
-    "id": "hn-45286506",
-    "title": "9 Years Solo: Building Complex AI Competition in a Game Management SIM",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 1,
-    "sourceUrl": "https://news.ycombinator.com/item?id=45286506",
-    "excerpt": "After 9+ years of solo development, I just shipped what might be the most technically challenging update to my game management simulator, City Game Studio.<p>*T…",
-    "createdAt": "2025-09-18T07:10:31.000Z"
-  },
-  {
-    "id": "hn-45109483",
-    "title": "Show HN: Davia – A community platform to build, share, and edit applications",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 16,
-    "sourceUrl": "https://news.ycombinator.com/item?id=45109483",
-    "excerpt": "Hi HN!<p>I&#x27;m Ruben, the founder of Davia (<a href=\"https:&#x2F;&#x2F;davia.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;davia.ai&#x2F;</a>). Davia is a platf…",
-    "createdAt": "2025-09-02T21:44:09.000Z"
-  },
-  {
-    "id": "hn-45091223",
-    "title": "Show HN: Indie10k – An AI Coach That Guides Indie Developers to $10k MRR",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 1,
-    "sourceUrl": "https://news.ycombinator.com/item?id=45091223",
-    "excerpt": "I built Indie10k ( <a href=\"https:&#x2F;&#x2F;indie10k.com\" rel=\"nofollow\">https:&#x2F;&#x2F;indie10k.com</a> ) because I found coding projects fun, but turning…",
-    "createdAt": "2025-09-01T09:54:56.000Z"
-  },
-  {
-    "id": "hn-44742251",
-    "title": "I know when you're vibe coding",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 353,
-    "sourceUrl": "https://news.ycombinator.com/item?id=44742251",
-    "excerpt": "",
-    "createdAt": "2025-07-31T04:16:40.000Z"
-  },
-  {
-    "id": "hn-43739037",
-    "title": "Vibe Coding is not an excuse for low-quality work",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 259,
-    "sourceUrl": "https://news.ycombinator.com/item?id=43739037",
-    "excerpt": "",
-    "createdAt": "2025-04-19T20:00:17.000Z"
   }
 ]
