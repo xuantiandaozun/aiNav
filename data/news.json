@@ -1,5 +1,79 @@
 [
   {
+    "title": "DeepSeek将完成1000亿元融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4023639578038151?f=rss",
+    "publishedAt": "2026-10-13T01:37:50.000Z",
+    "excerpt": "多位参与交易人士表示，大模型公司DeepSeek将在近期完成最新一轮融资，融资金额从此前计划的500亿元增至约1000亿元。这是DeepSeek的第二轮融资，不到半个月拟融资金额翻了一倍。其中，新老股东的拟投资金额约各占一半。融资规模翻倍未影响整体估值，目前DeepSeek的投前…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T01:38:49.578Z"
+  },
+  {
+    "title": "微软在AI改革中重组Azure云部门",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4023622051827585?f=rss",
+    "publishedAt": "2026-10-13T01:20:00.000Z",
+    "excerpt": "据报道，微软在AI改革中重组Azure云部门。（第一财经）",
+    "scenes": [],
+    "collectedAt": "2026-10-13T01:38:49.578Z"
+  },
+  {
+    "title": "腾讯启动50亿美元债券发行，为AI支出募资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4023619073232768?f=rss",
+    "publishedAt": "2026-10-13T01:16:58.000Z",
+    "excerpt": "腾讯控股已开始推介发行美元和离岸人民币债券，此次发行预计将筹集约50亿美元，用于支持其在人工智能领域不断增加的投资。据媒体援引一位知情人士透露，这家中国科技和游戏巨头已将其拟发行的10年期和20年期美元债券的初步定价指导区间分别设定为较同类美国国债高出约115个和140个基点。这…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T01:38:49.578Z"
+  },
+  {
+    "title": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4017114276368260?f=rss",
+    "publishedAt": "2026-10-13T01:15:49.000Z",
+    "excerpt": "文 | 孙小雯 海若镜 编辑 | 海若镜 人的喜怒哀乐忧惧，对AI来说，重要吗？ 与人交谈时，我们会留意他的语气、停顿、表情，边听边想对方的真实所思。但当交流被整理成提示词文本，很多情绪信息会被过滤掉。 模思智能，这家由邱锡鹏教授（复旦大学特聘教授、上海创智学院副院长）创办的模型…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-10-13T01:38:49.577Z"
+  },
+  {
+    "title": "摩根大通和高盛降低对AI云初创公司Volta 50亿美元贷款交易的风险敞口",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4023600010203016?f=rss",
+    "publishedAt": "2026-10-13T00:57:35.000Z",
+    "excerpt": "随着投资者对与人工智能(AI)热潮相关的高风险债务提出更高收益率要求，摩根大通和高盛在为AI初创公司Volta Infrastructure Holdings Ltd.安排50亿美元贷款交易时，罕见地采取措施限制自身风险敞口。这两家银行正牵头为新兴AI云公司Volta安排贷款融资…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T01:38:49.578Z"
+  },
+  {
+    "title": "2026年韩国半导体展览会举办在即，三星电子、SK海力士将展出下一代内存技术",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4023565767659653?f=rss",
+    "publishedAt": "2026-10-13T00:48:56.000Z",
+    "excerpt": "韩国半导体产业协会宣布，将于14日至16日在首尔江南COEX会展中心举办为期三天的2026年韩国半导体展览会（SEDEX 2026），包括三星电子和SK海力士在内的300家公司将参展，共设立888个展位。三星电子将展示适用于云计算、边缘计算和物理人工智能领域的下一代存储结构和产品…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T01:38:49.578Z"
+  },
+  {
+    "title": "华泰证券：中国智能影像龙头逐步构建“硬件+AI服务”商业模式，成长空间广阔",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4023561806024576?f=rss",
+    "publishedAt": "2026-10-13T00:45:53.000Z",
+    "excerpt": "36氪获悉，华泰证券研报称，市场认为智能影像市场的发展主线为中国品牌凭成本优势逐步替代GoPro，对智能影像品类拓展趋势及中国品牌的多方位竞争优势关注不足。华泰证券认为，中国品牌凭借可复用的消费电子产业链构建成本及产品迭代速率优势，在全球竞争中持续深化护城河；此外，手持智能相机、…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T01:38:49.578Z"
+  },
+  {
+    "title": "8点1氪丨尊界SUV将给赛力斯生产？江淮汽车回应；字节跳动再现亿级爆款应用；Meta推出具备“前沿级能力”的Muse Wonder AI模型",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4023543221571463?f=rss",
+    "publishedAt": "2026-10-13T00:04:21.000Z",
+    "excerpt": "尊界品牌或将放弃SUV车型规划？ 今日热点导览 何立峰会见苹果公司执行董事长蒂姆·库克 宇树科技王兴兴：过去犯的最大错误是对AI还不够相信 贵州茅台，重夺A股“股王” 汽车坠百米悬崖车主奇迹生还，领克回应 46岁数学博士AI炒股登上富豪榜，日赚超1.7亿元 特朗普提议将太平洋或大…",
+    "scenes": [],
+    "collectedAt": "2026-10-13T01:38:49.577Z"
+  },
+  {
     "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/DpieQJ598YdxQC8Ymjso?utm_source=rss&utm_medium=article",
@@ -1876,18 +1950,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
