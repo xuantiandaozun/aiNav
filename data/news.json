@@ -1,5 +1,123 @@
 [
   {
+    "title": "企业真正需要的，不是更聪明的 Agent ？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/video/Wss036X3C6APXsS41HwC?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-14T18:36:53.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-14T13:16:22.148Z"
+  },
+  {
+    "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-14T17:48:46.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-14T13:16:22.148Z"
+  },
+  {
+    "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-14T14:52:06.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-14T13:16:22.148Z"
+  },
+  {
+    "title": "Claude写代码太快，Git扛不住了：Anthropic仅靠7人，5个月重造版本控制系统",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/6iRATYfkqF7aITPaFR2R?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-14T11:46:46.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-14T13:16:22.148Z"
+  },
+  {
+    "title": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-14T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-14T13:16:22.148Z"
+  },
+  {
+    "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503244.html",
+    "publishedAt": "2026-10-14T08:01:18.000Z",
+    "excerpt": "这妥妥是个物理版Agent啊！",
+    "scenes": [],
+    "collectedAt": "2026-10-14T13:16:19.193Z"
+  },
+  {
+    "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503211.html",
+    "publishedAt": "2026-10-14T07:03:44.000Z",
+    "excerpt": "从创意到成本，AI正在重写综艺的生产逻辑",
+    "scenes": [],
+    "collectedAt": "2026-10-14T13:16:19.193Z"
+  },
+  {
+    "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503201.html",
+    "publishedAt": "2026-10-14T06:45:38.000Z",
+    "excerpt": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+    "scenes": [],
+    "collectedAt": "2026-10-14T13:16:19.193Z"
+  },
+  {
+    "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503172.html",
+    "publishedAt": "2026-10-14T04:51:32.000Z",
+    "excerpt": "给Ego补上缺失的交互信息",
+    "scenes": [],
+    "collectedAt": "2026-10-14T13:16:19.193Z"
+  },
+  {
+    "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503173.html",
+    "publishedAt": "2026-10-14T04:09:29.000Z",
+    "excerpt": "从“懂空间”到“能干活”",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-14T13:16:19.193Z"
+  },
+  {
+    "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503165.html",
+    "publishedAt": "2026-10-14T03:32:48.000Z",
+    "excerpt": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-14T13:16:19.193Z"
+  },
+  {
+    "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503157.html",
+    "publishedAt": "2026-10-14T02:14:50.000Z",
+    "excerpt": "一次采集，反复使用",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-14T13:16:19.193Z"
+  },
+  {
     "title": "8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/p/4025027267580036?f=rss",
@@ -2149,18 +2267,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
