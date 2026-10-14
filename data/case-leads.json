@@ -1,5 +1,45 @@
 [
   {
+    "id": "1x5f8qb",
+    "title": "I built a personal nutrition platform with our small startup and am making it completely free for 2 weeks! Spend our tokens lol",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x5f8qb/i_built_a_personal_nutrition_platform_with_our/",
+    "excerpt": "[www.wondish.io](http://www.wondish.io) I always felt lazy mid day after food and I thought it was natural but then a doctor from a small company told me a secr…",
+    "createdAt": "2026-10-14T02:02:39.000Z"
+  },
+  {
+    "id": "1x5f3iu",
+    "title": "I streamed a 141 GB AI model through a 48 GB MacBook so I could train my own small models",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x5f3iu/i_streamed_a_141_gb_ai_model_through_a_48_gb/",
+    "excerpt": "I kept wanting small, custom models for my own tasks without renting GPUs or sending my data anywhere. So I built streamweights: give it a CSV of examples (inpu…",
+    "createdAt": "2026-10-14T01:55:41.000Z"
+  },
+  {
+    "id": "1x5exaa",
+    "title": "I built a community hub for my discord",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x5exaa/i_built_a_community_hub_for_my_discord/",
+    "excerpt": "It’s still a work in progress but I released this today and have a working backend. I started a discord for builders and this allows everyone to claim a room an…",
+    "createdAt": "2026-10-14T01:46:47.000Z"
+  },
+  {
+    "id": "1x5dtpm",
+    "title": "Giving away a free year to my caffeine decay app… I want feedback on whether to integrate AI or not? My hand coded app is dying.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x5dtpm/giving_away_a_free_year_to_my_caffeine_decay_app/",
+    "excerpt": "Hey everyone, I’m the developer of Caffeine Curfew. So far the app has done just over 6,000 downloads and has a small MRR + decent lifetime purchases. Lately, d…",
+    "createdAt": "2026-10-14T00:52:18.000Z"
+  },
+  {
     "id": "1x4ksuw",
     "title": "Im (sorta) vibe coding a Tesla web browser app store",
     "sourceName": "Reddit · r/vibecoding",
@@ -1154,45 +1194,5 @@
     "sourceUrl": "https://news.ycombinator.com/item?id=47281854",
     "excerpt": "I spent the last month building what I call an AI operator - an autonomous agent that manages my side projects end-to-end while I focus on strategy. It runs on …",
     "createdAt": "2026-03-06T22:17:17.000Z"
-  },
-  {
-    "id": "hn-47167931",
-    "title": "Will vibe coding end like the maker movement?",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 405,
-    "sourceUrl": "https://news.ycombinator.com/item?id=47167931",
-    "excerpt": "",
-    "createdAt": "2026-02-26T16:07:11.000Z"
-  },
-  {
-    "id": "hn-47006615",
-    "title": "Breaking the spell of vibe coding",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 434,
-    "sourceUrl": "https://news.ycombinator.com/item?id=47006615",
-    "excerpt": "",
-    "createdAt": "2026-02-13T19:22:18.000Z"
-  },
-  {
-    "id": "hn-46977210",
-    "title": "GLM-5: From Vibe Coding to Agentic Engineering",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 378,
-    "sourceUrl": "https://news.ycombinator.com/item?id=46977210",
-    "excerpt": "",
-    "createdAt": "2026-02-11T16:41:33.000Z"
-  },
-  {
-    "id": "hn-46765120",
-    "title": "Vibe coding kills open source",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 330,
-    "sourceUrl": "https://news.ycombinator.com/item?id=46765120",
-    "excerpt": "",
-    "createdAt": "2026-01-26T13:01:00.000Z"
   }
 ]
