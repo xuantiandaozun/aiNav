@@ -1,5 +1,148 @@
 [
   {
+    "title": "阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T20:09:59.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "黄仁勋谈中国 AI 公司：算力很缺，但他们就是在拼命把事情做成",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T19:19:06.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "AI 侦察团集结 QCon 上海：企业一号位，如何把 AI 从试点带进业务？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/GSZMrydgKuejLcCpEGYb?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T19:15:39.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/JxVNJwhmsB1YYKmgD9KU?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T15:07:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T13:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "亚马逊推出Bee系列个人AI录音设备",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4027112767410560?f=rss",
+    "publishedAt": "2026-10-15T12:48:48.000Z",
+    "excerpt": "亚马逊周四发布两款全新Bee音频设备，包含一款可穿戴设备以及信用卡大小的语音记录仪，这是其在AI硬件市场的最新布局。Bee Frontier是亚马逊现有可穿戴产品的升级款，可佩戴在手腕上，也能夹在衣物上。和前代产品类似，Bee Frontier最长续航可达7天，但售价有所上调，为…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:54.031Z"
+  },
+  {
+    "title": "众星微发布PCIe 6.0 Switch等三款芯片",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4027110986256777?f=rss",
+    "publishedAt": "2026-10-15T12:40:59.000Z",
+    "excerpt": "36氪获悉，国产芯片企业众星微在无锡举行首次品牌发布会，集中展示12款量产芯片，并发布PCIe 6.0 Switch、800G多协议AI NIC、多模RAID三款新品，覆盖计算、网络、存储等高性能互连领域。",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:54.031Z"
+  },
+  {
+    "title": "纽约市主计长敦促Anthropic暂停推进IPO",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4027072775852678?f=rss",
+    "publishedAt": "2026-10-15T12:13:07.000Z",
+    "excerpt": "纽约市主计长Mark Levine接受CNBC采访时表示，他已致信Anthropic首席执行官Dario Amodei，呼吁该公司暂停其计划中的首次公开募股(IPO)。信中，纽约市计长敦促Anthropic在全面、透明地回应公司自身提出的AI安全、治理和开发相关担忧之前，暂停IP…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-15T13:18:54.031Z"
+  },
+  {
+    "title": "算力效率的边界：以体系结构量化与分布式工程破局 AI Infra",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/JbzA5yvzl2BkuTpkfdrU?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T11:44:05.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "从 Harness 到 Loop：Agent 如何走向可靠交付与持续进化？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/xKkEswgSftEcGrkK6oTY?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T11:05:26.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T10:30:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "从 App 到 Agent：字节跳动 Supabase 的 Agent-Native 规模化实践｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/kvzkXDXpKOXILlfirftW?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-15T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "AI帮我约了五个陌生人一起喝酒",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4026574580322439?f=rss",
+    "publishedAt": "2026-10-15T05:22:01.000Z",
+    "excerpt": "文 | 刘思洁 编辑 | 张薇 封面来源 | Table for Six 一个工作日的晚上，我要和五个陌生人坐在一起喝酒。 出发前，我不知道他们是谁，也不知道我会去哪。根据用户填写的个人信息和对活动的期待，AI社交产品Table for Six（下文简称T46），判断哪六个人可能…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:54.030Z"
+  },
+  {
+    "title": "总裁直管信息部，一家创新药企的AI试验",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4026591408066432?f=rss",
+    "publishedAt": "2026-10-15T03:48:40.000Z",
+    "excerpt": "文｜胡香赟 编辑｜海若镜 2026年，先声药业（02096.HK）总裁周云曙把信息部划归自己直管了。 近期的一场媒体交流会中，他对36氪提到：“在先声，我们现在要求管理层带头，在工作中‘拥抱’AI，不是提倡而是必须。AI的价值来自如何应用，首先要真正去用、会用、不断训练，这是基础…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T13:18:54.030Z"
+  },
+  {
+    "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503303.html",
+    "publishedAt": "2026-10-15T01:56:20.000Z",
+    "excerpt": "给企业Agent打了个样",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-15T13:18:52.373Z"
+  },
+  {
     "title": "DeepSeek崩了",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4026450307453056?f=rss",
@@ -2357,18 +2500,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
