@@ -1,5 +1,75 @@
 [
   {
+    "id": "1x64gy0",
+    "title": "I made an interactive 3D brain/drug simulator with GPT 6 Astra",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x64gy0/i_made_an_interactive_3d_braindrug_simulator_with/",
+    "excerpt": "This started with a pretty specific idea: I wanted to see how escitalopram affects serotonin reuptake in 3D. Then I kept adding things. It’s now called NeuroSco…",
+    "createdAt": "2026-10-14T22:02:50.000Z"
+  },
+  {
+    "id": "1x64doz",
+    "title": "I made Noid3a a zero-log API gateway that catches 429 rate limits, buffers in RAM, and rotates keys automatically",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x64doz/i_made_noid3a_a_zerolog_api_gateway_that_catches/",
+    "excerpt": "Hello! I made Noid3a, a universal API gateway for your app. What does Noid3a bring? Why use Noid3a in the first place? Zero log policy. Only logging operational…",
+    "createdAt": "2026-10-14T21:59:20.000Z"
+  },
+  {
+    "id": "1x64age",
+    "title": "I was tired of how awkward it is to read on a computer, so I created a minimalist and lightweight e-reader for Windows. Here's the result.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x64age/i_was_tired_of_how_awkward_it_is_to_read_on_a/",
+    "excerpt": "Hello everyone 👋 I’ve always enjoyed reading in digital format, but most options for PC left me with the same impression: they’re either outdated programs clutt…",
+    "createdAt": "2026-10-14T21:55:27.000Z"
+  },
+  {
+    "id": "1x648l5",
+    "title": "6 months building an AI tool, 2 grand in ads, almost no paying users. We turned off ads and things finally started working.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x648l5/6_months_building_an_ai_tool_2_grand_in_ads/",
+    "excerpt": "I've spent the last six months building an AI tool that redesigns existing PowerPoint presentations. After a lot of building, testing, and trying pretty much ev…",
+    "createdAt": "2026-10-14T21:53:10.000Z"
+  },
+  {
+    "id": "1x647pg",
+    "title": "Pori's Picture Book - a free read-aloud picture-book app for little kids where every character has its own voice, in 4 languages",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x647pg/poris_picture_book_a_free_readaloud_picturebook/",
+    "excerpt": "Hi r/SideProject! I'm a solo developer from Korea, and this is **Pori's Picture Book**: five watercolor stories for young kids, read aloud. Pori, a little book …",
+    "createdAt": "2026-10-14T21:52:05.000Z"
+  },
+  {
+    "id": "1x6463k",
+    "title": "[FirstUsers.club] - Get your first 25 users, guaranteed",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x6463k/firstusersclub_get_your_first_25_users_guaranteed/",
+    "excerpt": "I've shipped more products in the last year than I care to count. Nearly every launch went the same way: build, post, crickets. Building is nearly free now — ge…",
+    "createdAt": "2026-10-14T21:50:09.000Z"
+  },
+  {
+    "id": "1x64360",
+    "title": "I got tired of never finding things on my phone, so I built an app that finds any file when you describe it, and the AI never leaves the phone",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x64360/i_got_tired_of_never_finding_things_on_my_phone/",
+    "excerpt": "The screenshot of the Wi-Fi password. The boarding pass PDF. That one photo of a parrot. File names are useless and Google Photos only searches photos, so I bui…",
+    "createdAt": "2026-10-14T21:46:41.000Z"
+  },
+  {
     "id": "1x5f8qb",
     "title": "I built a personal nutrition platform with our small startup and am making it completely free for 2 weeks! Spend our tokens lol",
     "sourceName": "Reddit · r/SideProject",
@@ -1125,74 +1195,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wt1om2/steel_maiden_im_building_a_twobutton_action/",
     "excerpt": "I’m developing Steel Maiden solo in Unity, using AI throughout the production pipeline—from game design to animation, environments, and custom development tools…",
     "createdAt": "2026-09-29T05:29:59.000Z"
-  },
-  {
-    "id": "1wt1mlg",
-    "title": "Sonnet 5.5 demo: ride a photon from the Sun up to Uranus",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wt1mlg/sonnet_55_demo_ride_a_photon_from_the_sun_up_to/",
-    "excerpt": "Model: Sonnet 5.5 on high Setup: Claude Cowork web (so not on my machine), single prompt. Took about 55 min and used 5% of my $20 weekly limit. How I got the pr…",
-    "createdAt": "2026-09-29T05:26:41.000Z"
-  },
-  {
-    "id": "1uhnurk",
-    "title": "I vibe coded a B2B saas, what about marketing?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1uhnurk/i_vibe_coded_a_b2b_saas_what_about_marketing/",
-    "excerpt": "So i vibe coded a SaaS and I think many businesses would use it, but how do I actually get users? How did u guys got users? Ive been trying to get users with co…",
-    "createdAt": "2026-06-28T04:46:37.000Z"
-  },
-  {
-    "id": "1tvq9gi",
-    "title": "I lose more money on my app than it makes me every month",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 42,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1tvq9gi/i_lose_more_money_on_my_app_than_it_makes_me/",
-    "excerpt": "my app is 10 months old and I’m still in the red. I spend around $180-250/month on servers, APIs, tools, ads, etc… while it only makes me $60-90. I keep telling…",
-    "createdAt": "2026-06-03T14:01:14.000Z"
-  },
-  {
-    "id": "hn-48037128",
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 787,
-    "sourceUrl": "https://news.ycombinator.com/item?id=48037128",
-    "excerpt": "",
-    "createdAt": "2026-05-06T15:06:37.000Z"
-  },
-  {
-    "id": "hn-47664912",
-    "title": "The cult of vibe coding is dogfooding run amok",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 616,
-    "sourceUrl": "https://news.ycombinator.com/item?id=47664912",
-    "excerpt": "",
-    "createdAt": "2026-04-06T18:31:03.000Z"
-  },
-  {
-    "id": "1s6y29s",
-    "title": "Built an AI animation SaaS as a side project - hit 186 MRR and 361 revenue in my first month",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 4,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1s6y29s/built_an_ai_animation_saas_as_a_side_project_hit/",
-    "excerpt": "Hey everyone, just wanted to share a small win. I launched Motchi (motchi.art) in March 2026 as a side project. It turns text prompts or photos into animated ch…",
-    "createdAt": "2026-03-29T15:27:00.000Z"
-  },
-  {
-    "id": "hn-47281854",
-    "title": "Ask HN: Has anyone built an autonomous AI operator for their side projects?",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 2,
-    "sourceUrl": "https://news.ycombinator.com/item?id=47281854",
-    "excerpt": "I spent the last month building what I call an AI operator - an autonomous agent that manages my side projects end-to-end while I focus on strategy. It runs on …",
-    "createdAt": "2026-03-06T22:17:17.000Z"
   }
 ]
