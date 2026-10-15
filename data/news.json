@@ -1,5 +1,95 @@
 [
   {
+    "title": "DeepSeek崩了",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4026450307453056?f=rss",
+    "publishedAt": "2026-10-15T01:17:03.000Z",
+    "excerpt": "36氪获悉，10月15日，北京时间早上8点后，DeepSeek网页和App显示“服务器暂时不可用”。 DeepSeek官方信息显示对话服务部分中断、DeepSeekV4.1 FlashAPI服务部分中断，网页/API性能下降，官方正在排查问题、定位原因。",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "“NEXFORM新元体”完成数千万元种子轮融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4025635149942659?f=rss",
+    "publishedAt": "2026-10-15T01:00:00.000Z",
+    "excerpt": "近日，“NEXFORM新元体”正式宣布完成数千万元种子轮融资，投资方包括戈壁创投、浙大友创等。据了解，NEXFORM新元体是一家Physical AGI公司，围绕“通用硬件平台＋开发者生态＋物理智能体（Physical Agent）”展开布局，以AI for Physical A…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "中金：预计美联储10月仍可能暂停加息，12月再度行动",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4026431575068806?f=rss",
+    "publishedAt": "2026-10-15T00:58:00.000Z",
+    "excerpt": "36氪获悉，中金公司研报称，美国9月CPI季调环比上涨0.6%，同比上涨3.7%；核心CPI环比上涨0.3%，同比上涨2.6%，均较上月反弹，且超出市场预期。涨价来源较广，能源、核心商品及房租均形成推动。油价高企加剧能源通胀，消费韧性与AI投资需求支撑商品价格，租金粘性则制约服务…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "AI硬件需求持续兑现，多家算力上市公司三季报预喜",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4026414240600198?f=rss",
+    "publishedAt": "2026-10-15T00:51:49.000Z",
+    "excerpt": "随着AI（人工智能）大模型规模化落地、算力基础设施建设持续推进，2026年国内算力产业需求持续旺盛，产业链各环节订单加速释放。近期，多家算力相关上市公司披露前三季度业绩预告。从已披露预告的上市公司来看，AI服务器、高速测试设备、散热配套等硬件环节订单持续落地，多家公司业绩预计实现…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "中信证券：深度受益于载板化升级趋势，国产ABF载板蓄势待发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4026408171835265?f=rss",
+    "publishedAt": "2026-10-15T00:43:09.000Z",
+    "excerpt": "36氪获悉，中信证券研报称，ABF封装基板作为受益于AI成长逻辑最持续的PCB产业环节之一，深度受益于PCB载板化的升级趋势，有望迎来市场空间和利润的快速爆发。中信证券判断行业的产能缺口在短期内或将持续扩大，行业涨价有望持续，此外分别从国产板厂及国产客户的视角切入研究，判断当前已…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "湾芯展一线观察：千余家企业齐聚，在手订单充足",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4026402875756422?f=rss",
+    "publishedAt": "2026-10-15T00:39:00.000Z",
+    "excerpt": "10月14日，2026湾区半导体产业生态博览会（简称“湾芯展”）在深圳开幕。本届湾芯展汇聚1000余家优质企业，覆盖晶圆制造、化合物半导体、先进封装、IC设计/AI基础设施等细分领域。多家参展企业表示，目前半导体市场需求旺盛，在手订单充足。（中证报）",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "中信建投：AI4S迈向产业化临界点",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4026392146317193?f=rss",
+    "publishedAt": "2026-10-15T00:29:50.000Z",
+    "excerpt": "36氪获悉，中信建投证券研报称，当前，AI制药产业链已经演化为以平台和技术中台为核心，上中下游深度协同的网状赋能体系，并呈现出多种商业模式兼容并进的发展趋势。AI4S正由模型能力竞赛迈向产业化临界点，技术、产业、需求、政策四重共振，价值锚点由模型能力向科研生产力、数据资产与系统化…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "争夺终端定义权，智能体手机行业迎来新博弈",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4026388210716546?f=rss",
+    "publishedAt": "2026-10-15T00:29:39.000Z",
+    "excerpt": "近期，随着努比亚、阶跃终端相继发布或迭代智能体手机，该赛道步入加速落地阶段。手机端侧AI备案加速扩容、相关新品密集登场，AI正试图改写智能手机的交互逻辑，一场关于终端定义权的行业博弈悄然开启。与此同时，跨应用执行、数据安全、生态协同、成本管控等多重挑战亟待行业破解，智能体手机能否…",
+    "scenes": [],
+    "collectedAt": "2026-10-15T01:22:45.266Z"
+  },
+  {
+    "title": "8点1氪丨微信、淘宝、美团等应用，拒绝接入豆包手机助手；苹果成为全球第二家市值破5万亿美元企业；美国9月CPI同比增长3.7%，高于预期",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4026385299165321?f=rss",
+    "publishedAt": "2026-10-15T00:13:46.000Z",
+    "excerpt": "今日热点导览 绿泡泡短剧可查看朋友在看剧目 A股三大指数集体收跌，全市场近4500股下跌 OpenAI办公室发现隐藏录音设备，涉事员工被捕 德国拟2027年开征含糖饮料税 华尔街大空头警示美股：现40年未见极端市场失衡 TOP3大新闻 微信、淘宝、美团等151款应用拒绝豆包手机助…",
+    "scenes": [
+      "video",
+      "office"
+    ],
+    "collectedAt": "2026-10-15T01:22:45.265Z"
+  },
+  {
     "title": "企业真正需要的，不是更聪明的 Agent ？",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/video/Wss036X3C6APXsS41HwC?utm_source=rss&utm_medium=article",
@@ -2267,18 +2357,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
