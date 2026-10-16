@@ -1,5 +1,65 @@
 [
   {
+    "id": "1x73wcs",
+    "title": "I got tired of paid soundboards so I made my own",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x73wcs/i_got_tired_of_paid_soundboards_so_i_made_my_own/",
+    "excerpt": "I wanted a soundboard for gaming and streaming without paying a subscription or dealing with loads of extra features. Ended up building Cueboard. It’s a Windows…",
+    "createdAt": "2026-10-16T01:55:10.000Z"
+  },
+  {
+    "id": "1x73w3m",
+    "title": "I made a 3D cricket game with 220+ players in 3 days, and some of them are addicted. Here are the key stats, what I learnt, and would love your feedback!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x73w3m/i_made_a_3d_cricket_game_with_220_players_in_3/",
+    "excerpt": "Hi everyone, I am an indie developer who grew up watching and playing cricket, and it was my dream to build my own cricket game. This week, I launched a browser…",
+    "createdAt": "2026-10-16T01:54:48.000Z"
+  },
+  {
+    "id": "1x73pi9",
+    "title": "I built analytics where you watch every visit like a video to improve conversion, and see which visitors were bots (53% of global web traffic is bots now)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x73pi9/i_built_analytics_where_you_watch_every_visit/",
+    "excerpt": "Hi everyone, I have many years of experience with bot detection, user fingerprinting and analytics, and this is the first time I've turned it into some sort of …",
+    "createdAt": "2026-10-16T01:45:26.000Z"
+  },
+  {
+    "id": "1x73hqo",
+    "title": "Built AI for candlechart simulation",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x73hqo/built_ai_for_candlechart_simulation/",
+    "excerpt": "Just thought it was very interesting how plausible looking the trajectories look shape wise. Not selling anything",
+    "createdAt": "2026-10-16T01:34:43.000Z"
+  },
+  {
+    "id": "1x72vd0",
+    "title": "Vibe coded a Startup Simulator Game is it slop or sweet?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x72vd0/vibe_coded_a_startup_simulator_game_is_it_slop_or/",
+    "excerpt": "I vibe coded a Startup Simulator game built directly into Reddit using GitHub Copilot as my primary coding assistant to move fast. It runs on Reddit’s Devvit fr…",
+    "createdAt": "2026-10-16T01:03:11.000Z"
+  },
+  {
+    "id": "1x723m1",
+    "title": "The code wasn't the only problem with my first game. The art didn't match either.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x723m1/the_code_wasnt_the_only_problem_with_my_first/",
+    "excerpt": "I shared my FrogPop demo here in August. It's a frog game inspired by Bubble Trouble, built in Unity with help from Claude Code and Codex. A big criticism was t…",
+    "createdAt": "2026-10-16T00:25:18.000Z"
+  },
+  {
     "id": "1x64gy0",
     "title": "I made an interactive 3D brain/drug simulator with GPT 6 Astra",
     "sourceName": "Reddit · r/vibecoding",
@@ -1138,62 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt565b/i_built_a_format_where_the_same_app_file_runs_on/",
     "excerpt": "I've wanted this for a long time. You make an app once, get one file, and send that exact file to someone whether they're on Mac, Windows or Linux. Not one code…",
     "createdAt": "2026-09-29T09:05:02.000Z"
-  },
-  {
-    "id": "1wt54k8",
-    "title": "12 ways to grow your project with the API",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt54k8/12_ways_to_grow_your_project_with_the_api/",
-    "excerpt": "Hello guys! What are you working on guys? Want to share with you some great value stuff. I created this list with some simple 12 ways you can do to grow your pr…",
-    "createdAt": "2026-09-29T09:02:15.000Z"
-  },
-  {
-    "id": "1wt5334",
-    "title": "Roast my micro SaaS: paste a domain, get 118 of the 134 checks in about three seconds, no signup",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt5334/roast_my_micro_saas_paste_a_domain_get_118_of_the/",
-    "excerpt": "Disclosure: I built it. I am a solo indie dev. Revenue so far: zero. It went live this week. Backstory. I used to be a CIO. Checking if a website was really hea…",
-    "createdAt": "2026-09-29T09:00:04.000Z"
-  },
-  {
-    "id": "1wt52mz",
-    "title": "Please do not believe these are real people, I'd be making 10K MRR by now",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt52mz/please_do_not_believe_these_are_real_people_id_be/",
-    "excerpt": "Just a quick advice to anyone building sites using AI (I'm one of those), I get hundreds of sessions like these every day, but I can assure you these are AI age…",
-    "createdAt": "2026-09-29T08:59:16.000Z"
-  },
-  {
-    "id": "1wt4plt",
-    "title": "Arcane Spire: Tower Defense with shooter twist, levels, mini-games and progression",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt4plt/arcane_spire_tower_defense_with_shooter_twist/",
-    "excerpt": "Hi all, first post in the space. I wanted to share my first mobile game that I have built for Android and iOS platforms. Happy to receive some constructive feed…",
-    "createdAt": "2026-09-29T08:35:46.000Z"
-  },
-  {
-    "id": "1wt4o9a",
-    "title": "I got tired of every \"what's my IP\" site being an ad-stuffed tracker, so I built a tracker-free one",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wt4o9a/i_got_tired_of_every_whats_my_ip_site_being_an/",
-    "excerpt": "Every time I needed to check my IP, the sites I landed on felt like walking into a surveillance store. Popups, cookie banners, fingerprinting scripts, all to sh…",
-    "createdAt": "2026-09-29T08:33:21.000Z"
-  },
-  {
-    "id": "1wt1om2",
-    "title": "Steel Maiden — I’m building a two-button action roguelite with AI. Here’s my workflow.",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wt1om2/steel_maiden_im_building_a_twobutton_action/",
-    "excerpt": "I’m developing Steel Maiden solo in Unity, using AI throughout the production pipeline—from game design to animation, environments, and custom development tools…",
-    "createdAt": "2026-09-29T05:29:59.000Z"
   }
 ]
