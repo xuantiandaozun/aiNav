@@ -1,5 +1,143 @@
 [
   {
+    "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T17:45:51.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "生产级大模型平台工程实战手册",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T17:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "AI 生成的代码，怎么才能进得了工程体系？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T16:56:30.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T16:38:02.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "新芯航途XHEART完成战略轮融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4028554909684356?f=rss",
+    "publishedAt": "2026-10-16T12:57:58.000Z",
+    "excerpt": "36氪从多位产业人士处了解到，物理AI算力芯片公司新芯航途XHEART近日完成战略轮融资。本轮融资引入雷诺集团首次投资，奇瑞汽车追加投资，长鑫科技也参与了本轮融资。据悉，新芯航途XHEART已获历史总融资额约50亿元。",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:53.861Z"
+  },
+  {
+    "title": "长鑫科技出手，新芯航途XHEART累计融资50亿｜36氪独家",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4028536443327112?f=rss",
+    "publishedAt": "2026-10-16T12:42:02.000Z",
+    "excerpt": "36氪从多位产业人士处了解到，物理AI算力芯片公司新芯航途XHEART近日完成战略轮融资。本轮融资引入雷诺集团首次投资，奇瑞汽车追加投资，中国存储龙头企业长鑫科技也参与了本轮融资。 据悉，新芯航途XHEART已获历史总融资额约50亿元。 这轮融资的资方中，雷诺集团是欧洲头部车企，…",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:53.859Z"
+  },
+  {
+    "title": "Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T11:53:14.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/hRw4BZQQUW14sqYMo5F6?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T11:47:14.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "国常会：不断深化拓展“人工智能+”行动",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4028465521136003?f=rss",
+    "publishedAt": "2026-10-16T11:27:02.000Z",
+    "excerpt": "李强主持召开国务院常务会议。会议指出，人工智能是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动。（央视新闻）",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-16T13:17:53.861Z"
+  },
+  {
+    "title": "Pizza Bot：开源的后台 AI 智能体收件箱",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/aMgWFmwZ2HoZDtw1g0MQ?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T11:06:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "老板向AI许愿，员工让AI滚蛋｜深氪",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4028378674205313?f=rss",
+    "publishedAt": "2026-10-16T10:43:18.000Z",
+    "excerpt": "文丨赵芮 编辑丨张雨忻 老板的“许愿池” “你知道马斯克怎么管理员工吗？”听到这句拷问，胡芯兰感觉不妙。 对面的这位老板，来自一家重工业企业，员工规模过万。在社交媒体上，老板看到过马斯克用Agent代替真人员工工作的新闻，不禁燃起同样的念头。他对胡芯兰直言不讳：“能不能帮我把整个…",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:53.859Z"
+  },
+  {
+    "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-16T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "前钉钉总裁叶军，离职一年后创业了，赌大厂做不了也不屑做的「缝隙」",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4027938341867904?f=rss",
+    "publishedAt": "2026-10-16T03:32:38.000Z",
+    "excerpt": "文 | 刘思洁 编辑 | 张薇 封面来源 | Unsplash 从阿里离职一年后，前阿里副总裁、钉钉总裁叶军的创业方向终于敲定：企业级AI Agent。新公司深空之序成立约3个月，已经获得千万元融资，领投方为广州四三九九信息科技有限公司，并有两家客户付费。 对叶军来说，这或许带着…",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:53.861Z"
+  },
+  {
+    "title": "36氪首发丨国防科技专家做微型智能无人机，累计融资超亿元，年内签下数亿元订单",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4027925884310145?f=rss",
+    "publishedAt": "2026-10-16T02:19:53.000Z",
+    "excerpt": "作者 | 乔钰杰 编辑 | 袁斯来 本文约2900字，建议阅读7分钟 硬氪获悉，聚焦空中无人智能体的硬科技企业常州中湾智能科技有限公司（以下简称“中湾智能”）已连续完成天使轮、Pre-A轮、Pre-A+轮及A轮多轮融资，累计融资超亿元。历史股东包括中科创星、毅达资本、方广资本、苏…",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:53.861Z"
+  },
+  {
     "title": "可灵AI上线Kling 4.0：支持10-bit HDR、30秒原生直出 刷新视频模型新基准",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4027843697676937?f=rss",
@@ -183,6 +321,69 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-15T13:18:55.870Z"
+  },
+  {
+    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503640.html",
+    "publishedAt": "2026-10-15T09:43:29.000Z",
+    "excerpt": "Siri AI这次不包括在内",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:51.514Z"
+  },
+  {
+    "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503614.html",
+    "publishedAt": "2026-10-15T08:48:31.000Z",
+    "excerpt": "Agent究竟该如何深入业务毛细血管？",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:51.514Z"
+  },
+  {
+    "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503611.html",
+    "publishedAt": "2026-10-15T08:16:19.000Z",
+    "excerpt": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:51.514Z"
+  },
+  {
+    "title": "这个双十一，百灵新模型干起活来不烧心",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503532.html",
+    "publishedAt": "2026-10-15T07:35:24.000Z",
+    "excerpt": "大模型好不好用，百灵拿成品说话",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:51.514Z"
+  },
+  {
+    "title": "AI时代，商学院这样培养未来商业领袖",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503504.html",
+    "publishedAt": "2026-10-15T07:22:34.000Z",
+    "excerpt": "未来十年共创1000个AI课题",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:51.514Z"
+  },
+  {
+    "title": "苹果AI国内上线，阿里百度浮出水面",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503497.html",
+    "publishedAt": "2026-10-15T06:52:45.000Z",
+    "excerpt": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:51.515Z"
+  },
+  {
+    "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503446.html",
+    "publishedAt": "2026-10-15T06:35:46.000Z",
+    "excerpt": "",
+    "scenes": [],
+    "collectedAt": "2026-10-16T13:17:51.515Z"
   },
   {
     "title": "AI帮我约了五个陌生人一起喝酒",
@@ -2571,18 +2772,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
