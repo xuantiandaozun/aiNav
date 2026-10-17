@@ -1,5 +1,96 @@
 [
   {
+    "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-17T15:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-17T13:14:26.312Z"
+  },
+  {
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-17T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:26.312Z"
+  },
+  {
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-17T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:26.312Z"
+  },
+  {
+    "title": "DeepSeek V4.1 Flash新版本发布",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4029763615986052?f=rss",
+    "publishedAt": "2026-10-17T09:27:31.000Z",
+    "excerpt": "36氪获悉，据DeepSeek消息，DeepSeek V4.1 Flash现已更新至V4.1-Flash-1017版本，官方网页端、App与API模型已同步变更为新模型。",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-17T13:14:24.712Z"
+  },
+  {
+    "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4029677493621129?f=rss",
+    "publishedAt": "2026-10-17T08:29:52.000Z",
+    "excerpt": "当地时间10月17日，国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃在泰国曼谷举行的2026年秋季年会总结发言中表示，本次会议围绕全球经济韧性、人工智能发��及其风险、全球经济分化等议题展开深入讨论，并达成三项核心共识。格奥尔基耶娃指出，人工智能已成为推动经济增长的重要…",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-17T13:14:24.712Z"
+  },
+  {
+    "title": "晶科能源CTO金浩：预计未来5年光伏组件价格将再降50%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4029535129915779?f=rss",
+    "publishedAt": "2026-10-17T07:40:05.000Z",
+    "excerpt": "10月17日，在晶科2026全球科技日上，晶科能源首席技术官金浩表示，过去20年光伏组件价格累计下降超95%，预计未来5年还将下降50%。他指出，传统降本路径已趋于结束，未来降本将以技术创新、贱金属应用及AI智能化降本为主要驱动力。（界面）",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:24.712Z"
+  },
+  {
+    "title": "禾赛不只想卖激光雷达｜最前线",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4028766019719557?f=rss",
+    "publishedAt": "2026-10-17T06:39:49.000Z",
+    "excerpt": "图片来源 禾赛科技 文｜肖漫 编辑｜袁斯来 “我们不是为了卖激光雷达又造了一个 Kosmo。”在 Kosmo 发布会前，李一帆先明确了这一点。 Kosmo 是禾赛科技近日发布的三维世界数据引擎，由全球首款 8K 超高清 AI 空间相机 Kosmo One 和 AI 驱动的云平台 …",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-17T13:14:24.710Z"
+  },
+  {
+    "title": "微软推出“AI学生模拟器”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4029401099178629?f=rss",
+    "publishedAt": "2026-10-17T05:01:42.000Z",
+    "excerpt": "微软研究院近日发布研究系统StudentSim，试图解决AI辅导工具开发中的一个关键难题：如何在没有大规模真人实验的情况下，判断一段讲解、提示或提问是否真正帮助学生进步。传统AI导师往往只看“答案是否正确”，但教学效果还取决于学生是否理解、能否纠正错误，以及不同学生是否需要不同解…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-17T13:14:24.712Z"
+  },
+  {
+    "title": "预报时效11天，超算互联网助\"风清集合\"AI业务化运行",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4029420684546436?f=rss",
+    "publishedAt": "2026-10-17T03:38:41.000Z",
+    "excerpt": "36氪获悉，近日，“风清”人工智能全球短中期集合天气预报系统V1.0顺利通过业务化评审并投入运行。该系统全程依托国家超算互联网核心节点的十万卡AI4S计算集群完成训练，成为全国首个实现数据、模型、算力全自主的业务应用气象AI集合预报模型。其全球有效预报时效达11天，综合预报效果超…",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:24.712Z"
+  },
+  {
     "title": "黄仁勋谈AI市场震荡：“这一切都会过去”",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4029282300023169?f=rss",
@@ -76,6 +167,15 @@
     "collectedAt": "2026-10-16T13:17:53.861Z"
   },
   {
+    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503880.html",
+    "publishedAt": "2026-10-16T12:54:54.000Z",
+    "excerpt": "从搭载物理建模能力的世界模型切入",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:22.012Z"
+  },
+  {
     "title": "长鑫科技出手，新芯航途XHEART累计融资50亿｜36氪独家",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/p/4028536443327112?f=rss",
@@ -145,6 +245,55 @@
       "coding"
     ],
     "collectedAt": "2026-10-16T13:17:55.560Z"
+  },
+  {
+    "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503861.html",
+    "publishedAt": "2026-10-16T08:07:33.000Z",
+    "excerpt": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:22.013Z"
+  },
+  {
+    "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503843.html",
+    "publishedAt": "2026-10-16T08:00:31.000Z",
+    "excerpt": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:22.013Z"
+  },
+  {
+    "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503829.html",
+    "publishedAt": "2026-10-16T07:16:11.000Z",
+    "excerpt": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-17T13:14:22.013Z"
+  },
+  {
+    "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503815.html",
+    "publishedAt": "2026-10-16T07:01:31.000Z",
+    "excerpt": "经验没有压缩算法",
+    "scenes": [],
+    "collectedAt": "2026-10-17T13:14:22.013Z"
+  },
+  {
+    "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503701.html",
+    "publishedAt": "2026-10-16T05:04:59.000Z",
+    "excerpt": "谷歌就是季节性气候模型公司",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-17T13:14:22.013Z"
   },
   {
     "title": "前钉钉总裁叶军，离职一年后创业了，赌大厂做不了也不屑做的「缝隙」",
@@ -2799,18 +2948,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
