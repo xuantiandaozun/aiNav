@@ -1,5 +1,43 @@
 [
   {
+    "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-18T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-18T13:14:14.650Z"
+  },
+  {
+    "title": "台积电日本熊本二厂获准转向3nm芯片生产，月产能6000片",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4031113616347783?f=rss",
+    "publishedAt": "2026-10-18T09:21:45.000Z",
+    "excerpt": "据报道，日本经济产业省近日宣布，已批准台积电在熊本县第二工厂生产3纳米制程先进半导体的计划。这将是日本国内首度制造3纳米制程晶片。根据新生产计划，3纳米制程的晶片月产能为6000片。台积电原拟在该工厂制造6纳米与12纳米等制程的半导体，本次更改生产计划是研判到AI需求增加，切换成…",
+    "scenes": [],
+    "collectedAt": "2026-10-18T13:14:13.114Z"
+  },
+  {
+    "title": "微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4031077240361600?f=rss",
+    "publishedAt": "2026-10-18T08:54:46.000Z",
+    "excerpt": "微软已退出一笔位于埃塞克斯的数据中心交易，对英国企业Nscale规模达数十亿美元的上市计划构成打击。作为Nscale最大的两家客户之一，这家美国科技巨头近期通知Nscale，将终止去年公布的合作协议。对Nscale而言，这是一次重大挫折：微软原本是该公司位于埃塞克斯劳顿的首座英国…",
+    "scenes": [],
+    "collectedAt": "2026-10-18T13:14:13.114Z"
+  },
+  {
+    "title": "Meta修改商业服务条款引AI训练数据争议 相关表述已删除",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4031076135162502?f=rss",
+    "publishedAt": "2026-10-18T08:44:36.000Z",
+    "excerpt": "Meta公司近日更新商业服务条款一事引发行业争议，修改条款中涉及使用企业账户相关网页内容用于人工智能模型训练的内容，受到外界广泛讨论，目前该相关表述已被正式删除。（财联社）",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-10-18T13:14:13.114Z"
+  },
+  {
     "title": "Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4030657204687240?f=rss",
@@ -61,18 +99,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -206,6 +244,15 @@
     "excerpt": "36氪获悉，长鑫科技公告，预计2026年前三季度归属于上市公司股东的净利润为1310.00亿元-1325.00亿元，同比扭亏为盈。业绩变动主要系AI算力需求快速增长，全球DRAM行业景气度提升，产品供不应求，价格大幅上涨，公司产能利用率保持高位运行，整体业绩显著提升。",
     "scenes": [],
     "collectedAt": "2026-10-17T01:21:18.629Z"
+  },
+  {
+    "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504116.html",
+    "publishedAt": "2026-10-16T13:48:10.000Z",
+    "excerpt": "买AIPC就选联想YOGA。",
+    "scenes": [],
+    "collectedAt": "2026-10-18T13:14:11.539Z"
   },
   {
     "title": "新芯航途XHEART完成战略轮融资",
@@ -2998,18 +3045,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
