@@ -1,5 +1,14 @@
 [
   {
+    "title": "Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4030657204687240?f=rss",
+    "publishedAt": "2026-10-18T01:08:29.000Z",
+    "excerpt": "Anthropic联合创始人杰克·克拉克（Jack Clark）周六表示，人工智能能力的迅速提升将推动各领域发生更为迅猛的变革；该公司内部的一项模型预测，在特定条件下，到2030年，人工智能有望使美国经济产出增加近50%，达到44万亿美元。（新浪财经）",
+    "scenes": [],
+    "collectedAt": "2026-10-18T01:25:01.680Z"
+  },
+  {
     "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
@@ -11,18 +20,59 @@
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504067.html",
+    "publishedAt": "2026-10-17T12:21:09.000Z",
+    "excerpt": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+    "scenes": [
+      "coding",
+      "office"
+    ],
+    "collectedAt": "2026-10-18T01:25:00.403Z"
+  },
+  {
+    "title": "智谱新模型，懂法方面全球第一了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503965.html",
+    "publishedAt": "2026-10-17T12:13:45.000Z",
+    "excerpt": "AI的风还是刮到了法律圈",
+    "scenes": [],
+    "collectedAt": "2026-10-18T01:25:00.403Z"
+  },
+  {
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503935.html",
+    "publishedAt": "2026-10-17T12:10:35.000Z",
+    "excerpt": "整套系统原生支持MCP",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-18T01:25:00.403Z"
+  },
+  {
+    "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/503910.html",
+    "publishedAt": "2026-10-17T12:06:51.000Z",
+    "excerpt": "谜底指向时间",
+    "scenes": [],
+    "collectedAt": "2026-10-18T01:25:00.403Z"
+  },
+  {
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -2948,18 +2998,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
