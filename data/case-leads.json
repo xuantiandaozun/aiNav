@@ -1,5 +1,55 @@
 [
   {
+    "id": "1x8r9yj",
+    "title": "ScreenGuard v0.1.1-beta.6 (A Digital wellbeing system FOR LINUX ) New fixes and features",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8r9yj/screenguard_v011beta6_a_digital_wellbeing_system/",
+    "excerpt": "ScreenGuard a software for Digital wellbeing natively on Linux, was my personal project which i uploaded to share with the community. Ever since , thanks to con…",
+    "createdAt": "2026-10-18T01:57:26.000Z"
+  },
+  {
+    "id": "1x8r5do",
+    "title": "I built InstaFix to make Instagram Reels playable directly in Discord",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8r5do/i_built_instafix_to_make_instagram_reels_playable/",
+    "excerpt": "Hey everyone! I'm a developer from Brazil, and I built **InstaFix** to solve a small but annoying problem: when you share Instagram Reels on Discord, you often …",
+    "createdAt": "2026-10-18T01:50:33.000Z"
+  },
+  {
+    "id": "1x8r21n",
+    "title": "Testers for Voice Recorder for content Creators",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8r21n/testers_for_voice_recorder_for_content_creators/",
+    "excerpt": "I built an Android voice recorder for short-video creators (TikTok, Reels, Shorts), and I'm looking for testers for the closed test on Google Play. 🎙️What it do…",
+    "createdAt": "2026-10-18T01:45:34.000Z"
+  },
+  {
+    "id": "1x8qzjh",
+    "title": "Can You Tell Psychology Fact From Fiction? 10-question quiz",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8qzjh/can_you_tell_psychology_fact_from_fiction/",
+    "excerpt": "I made a short 10-question quiz about psychology facts and misconceptions. Some of the questions are pretty straightforward, while a couple are designed to catc…",
+    "createdAt": "2026-10-18T01:41:52.000Z"
+  },
+  {
+    "id": "1x8pke6",
+    "title": "Silly first attempt at full ai music video using only astra",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x8pke6/silly_first_attempt_at_full_ai_music_video_using/",
+    "excerpt": "It actually built a pretty interesting song analysis, Python script to determine all of the song elements and key moments. If anyone’s interested, I can throw i…",
+    "createdAt": "2026-10-18T00:28:36.000Z"
+  },
+  {
     "id": "1x7ybrz",
     "title": "Time Crisis II (1997 arcade) in REAL 3D VR on Quest 3: the soldiers come right at you, take cover for real.",
     "sourceName": "Reddit · r/SideProject",
@@ -1148,55 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wun4m3/would_you_launch_a_narrow_app_while_its_hardest/",
     "excerpt": "I launched a small Shopify app for HTS code suggestions. The straightforward products look good. The awkward part is the long tail: vague titles, missing materi…",
     "createdAt": "2026-10-01T01:53:13.000Z"
-  },
-  {
-    "id": "1wun3rr",
-    "title": "Picked up writing a book as my new hobby. Ended up building a writing app instead.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wun3rr/picked_up_writing_a_book_as_my_new_hobby_ended_up/",
-    "excerpt": "I wanted to get into writing and went through a number of the recommended tools. None of them fit what I wanted, and some were actually rather complicated and o…",
-    "createdAt": "2026-10-01T01:52:08.000Z"
-  },
-  {
-    "id": "1wulld7",
-    "title": "I made an unnecessarily complex Bluetooth remote control 🤣",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wulld7/i_made_an_unnecessarily_complex_bluetooth_remote/",
-    "excerpt": "I made a thing tonight. A vibe coded, Bluetooth keychain remote control for Spotify. Very unwieldy",
-    "createdAt": "2026-10-01T00:38:17.000Z"
-  },
-  {
-    "id": "1wul8e2",
-    "title": "I built a bridge that allows Jev to play Stardew Valley",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wul8e2/i_built_a_bridge_that_allows_jev_to_play_stardew/",
-    "excerpt": "I'm live-streaming the play through at [tilly.farm](https://tilly.farm)",
-    "createdAt": "2026-10-01T00:20:36.000Z"
-  },
-  {
-    "id": "1wukrrr",
-    "title": "Crazy Idea. AI seem to do well working together and coordinating. Let’s let them..",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wukrrr/crazy_idea_ai_seem_to_do_well_working_together/",
-    "excerpt": "You know all the news about AI hacking and working together to evade and do not so good stuff… They seem to get work done when doing so, so why not let them. Bu…",
-    "createdAt": "2026-09-30T23:59:50.000Z"
-  },
-  {
-    "id": "1wtszoc",
-    "title": "Built a site/tool that turns your own ideas into an ongoing story that remembers everything — bedtime tales, character fiction, or real TTRPG session logs",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wtszoc/built_a_sitetool_that_turns_your_own_ideas_into/",
-    "excerpt": "Hey folks, first time posting something like this. So I hope this is the place for it, so if this is not on let me know... I have been working on this side proj…",
-    "createdAt": "2026-09-30T02:12:31.000Z"
   }
 ]
