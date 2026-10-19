@@ -1,5 +1,109 @@
 [
   {
+    "title": "DoorDash的Flux在云端智能体上运行130000个工程任务",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/4IPptJpXQqX5Lr77uBFZ?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-19T15:42:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:42.350Z"
+  },
+  {
+    "title": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/2uG3W14THqtLhb5Vou51?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-19T14:38:24.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:42.350Z"
+  },
+  {
+    "title": "2连板海洋王：AI+智慧照明业务收入规模有限",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032782692308104?f=rss",
+    "publishedAt": "2026-10-19T12:38:41.000Z",
+    "excerpt": "36氪获悉，海洋王发布异动公告，公司AI+智慧照明相关业务属于公司“照明+”战略下的布局，公司依托自有移动摄像照明产品，通过AI视觉识别算法挖掘现场数据价值打造智能仓储、智慧工地等行业定制方案。目前阶段该类收入规模有限，对公司整体业绩尚不构成重大影响，请广大投资者谨慎决策，注意投…",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:40.886Z"
+  },
+  {
+    "title": "美光科技将于10月21日举办技术网络研讨会，聚焦DRAM、HBM及NAND创新",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032778992374664?f=rss",
+    "publishedAt": "2026-10-19T12:34:55.000Z",
+    "excerpt": "美光科技宣布，将于当地时间10月21日上午8时举办技术网络研讨会，由公司总裁兼首席技术与产品官Scott DeBoer主讲，讨论DRAM、HBM及NAND领域的技术创新。美光表示，下一代AI基础设施将需要更高的带宽、容量及数据传输、存储和访问效率，此次研讨会将介绍公司未来多代技术…",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-19T13:21:40.886Z"
+  },
+  {
+    "title": "微软回应退出Nscale英国数据中心项目：仍维持合作关系",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032746406908808?f=rss",
+    "publishedAt": "2026-10-19T12:10:05.000Z",
+    "excerpt": "算力租赁服务商Nscale（新一代云服务商）上周末披露，微软已撤回对其伦敦附近在建数据中心项目的合作承诺。原因在于：该站点可能还要数年才能接入电网。微软退出的举动，再度引发市场担忧，全球如火如荼的AI基础设施建设热潮潜藏风险。Nscale与微软试图淡化上述担忧。Nscale一名代…",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:40.886Z"
+  },
+  {
+    "title": "MiniMax M3.1 Flash上线，性能全面加强，速度提升3倍，价格降低70%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032748449026946?f=rss",
+    "publishedAt": "2026-10-19T12:03:51.000Z",
+    "excerpt": "36氪获悉，MiniMax正式发布新一代Flash模型M3.1 Flash。此前以匿名身份处理了超过 200T Token 的 Space Bunny 模型，正是MiniMax M3.1 Flash的早期版本。作为新一代 Flash 模型，M3.1 Flash在Agentic任务…",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:40.886Z"
+  },
+  {
+    "title": "深兰科技发布自研影视智能体操作系统DFAgent",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032708860433286?f=rss",
+    "publishedAt": "2026-10-19T11:40:31.000Z",
+    "excerpt": "36氪获悉，10月19日，深兰科技旗下深视星影发布自研影视智能体操作系统DFAgent，并签约院线科幻电影《气候战争》。据介绍，DFAgent定位院线长片全链条AI基础设施，由JEV System One决策中枢、DeepBlue Film Model影视大模型、全球化内容数据飞…",
+    "scenes": [
+      "writing",
+      "video"
+    ],
+    "collectedAt": "2026-10-19T13:21:40.886Z"
+  },
+  {
+    "title": "Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Ddda0DF68laqfoqa4Lju?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-19T11:27:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:42.350Z"
+  },
+  {
+    "title": "Gemini 4 Argon：为您解决最棘手的问题",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/LkxBOvOJWmQGMQemUOrX?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-19T11:10:27.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:42.350Z"
+  },
+  {
+    "title": "打造生产级的 Agent｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/oZHrjYAsXvjOZXRwLt6T?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-19T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:42.350Z"
+  },
+  {
+    "title": "36氪报告图解 | 《2026年中国AI Agent行业发展研究报告》",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4032427409609096?f=rss",
+    "publishedAt": "2026-10-19T06:49:04.000Z",
+    "excerpt": "2026年，随着基础模型能力持续成熟、推理成本下降，AI的价值重心正在从“简单对话”转向“决策执行”。AI Agent以大模型为决策大脑，集成环境感知、长期记忆、规划推理与工具调用能力，能够在较少人工干预下自主理解目标、拆解任务、调用工具并交付结果，当前AI Agent市场已从概…",
+    "scenes": [],
+    "collectedAt": "2026-10-19T13:21:40.884Z"
+  },
+  {
     "title": "A股三大指数集体低开",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4032123578667655?f=rss",
@@ -146,18 +250,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -3092,18 +3196,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
