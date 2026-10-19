@@ -1,5 +1,75 @@
 [
   {
+    "id": "1x9krst",
+    "title": "M41, probably ADHD, never finished a coding course, and I just shipped my first iOS app: a Tamagotchi you keep alive by finishing your to-dos",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9krst/m41_probably_adhd_never_finished_a_coding_course/",
+    "excerpt": "I’ve never been officially diagnosed, but I’m 99% sure I have ADHD. When I’m into something, I’m like REAAALLY into it, and then I’m onto the next thing. I’ve s…",
+    "createdAt": "2026-10-19T02:07:05.000Z"
+  },
+  {
+    "id": "1x9khj6",
+    "title": "Calling builders who've made games, creative tools and fun apps",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9khj6/calling_builders_whove_made_games_creative_tools/",
+    "excerpt": "I'm Anou, founder of Whimsi- a digital catalogue for games, creative tools and fun apps. We're officially launching end of this month with a hackathon in collab…",
+    "createdAt": "2026-10-19T01:52:41.000Z"
+  },
+  {
+    "id": "1x9kfs1",
+    "title": "I Made a Free Chrome Extension to Multi-Stream Sports, Youtube, TV Shows, Movies, etc.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9kfs1/i_made_a_free_chrome_extension_to_multistream/",
+    "excerpt": "I like watching two things at once, like a game on one screen and a tv show on the other, and the sound was always a mess. I hated having to click around and mu…",
+    "createdAt": "2026-10-19T01:50:10.000Z"
+  },
+  {
+    "id": "1x9kaf9",
+    "title": "Been building something to help me find what to automate in my day to day",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9kaf9/been_building_something_to_help_me_find_what_to/",
+    "excerpt": "I've been building RideAlong (joinridealong.com), a bottoms up training utility for enterprises to help enable people unfamiliar with AI. I was running it obvio…",
+    "createdAt": "2026-10-19T01:42:31.000Z"
+  },
+  {
+    "id": "1x9k9pp",
+    "title": "How I built and hosted a 24/7 browser multiplayer game for the price of lunch",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9k9pp/how_i_built_and_hosted_a_247_browser_multiplayer/",
+    "excerpt": "I'm a Senior Software Engineer who is building a free multiplayer browser RPG. Here's how I did it for about **$10/month**. # 1. Separate game rules from visual…",
+    "createdAt": "2026-10-19T01:41:29.000Z"
+  },
+  {
+    "id": "1x9jmxh",
+    "title": "Recommendations to improve my stack?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x9jmxh/recommendations_to_improve_my_stack/",
+    "excerpt": "**Claude Pro Max $130/month** \\- overall coding, Co-Work, animation using Blender, etc. *(I usually use Opus 5.5 Medium for everything)* **Grok Pro $40/month** …",
+    "createdAt": "2026-10-19T01:09:18.000Z"
+  },
+  {
+    "id": "1x9in4q",
+    "title": "After 6 years, I am moving on from my hobby project.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x9in4q/after_6_years_i_am_moving_on_from_my_hobby_project/",
+    "excerpt": "I started on CoinCurrently with less than 1 year of experience. iOS 14 had just come out, SwiftUI was brand new, and Home Screen widgets were one of the new fea…",
+    "createdAt": "2026-10-19T00:19:50.000Z"
+  },
+  {
     "id": "1x8r9yj",
     "title": "ScreenGuard v0.1.1-beta.6 (A Digital wellbeing system FOR LINUX ) New fixes and features",
     "sourceName": "Reddit · r/SideProject",
@@ -1128,75 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvgl9c/i_made_a_very_powerful_codebase_mapper/",
     "excerpt": "The same task done in 6 minutes versus 20 is insane to me, anyway. I made an MCP tool that helps AI coding agents spend less time digging through your codebase …",
     "createdAt": "2026-10-02T01:04:37.000Z"
-  },
-  {
-    "id": "1wvexix",
-    "title": "Building an open-world game with Opus and Sonnet 5.5",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvexix/building_an_openworld_game_with_opus_and_sonnet_55/",
-    "excerpt": "This is Trailer 1 for **Project Hallow**, an open-world game I've been building with Opus and Sonnet 5.5. It's been interesting to see how far I can push this w…",
-    "createdAt": "2026-10-01T23:46:16.000Z"
-  },
-  {
-    "id": "1wvc6l9",
-    "title": "The tropical breeze enhances my vibes. Casual tips to enhance yours",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvc6l9/the_tropical_breeze_enhances_my_vibes_casual_tips/",
-    "excerpt": "Celebrating a year in business! Not here to promote (like actually, not even gonna name my business at all), just got inspired by the view to take a pic. I'm ve…",
-    "createdAt": "2026-10-01T21:43:05.000Z"
-  },
-  {
-    "id": "1wvc4kv",
-    "title": "The best brain dump to-do app ever! (imo ;p) Stupido 4.0 is live!",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvc4kv/the_best_brain_dump_todo_app_ever_imo_p_stupido/",
-    "excerpt": "I launched Stupido here on r/vibecoding a year ago and it has come along way since then! Stupido's latest version is available on the app store [https://apps.ap…",
-    "createdAt": "2026-10-01T21:40:36.000Z"
-  },
-  {
-    "id": "1wunmr7",
-    "title": "Google deleted every Fitbit badge, so I rebuilt them as a fully in-browser app",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wunmr7/google_deleted_every_fitbit_badge_so_i_rebuilt/",
-    "excerpt": "On May 19, Google turned the Fitbit app into Google Health and the badges disappeared with it. Nobody had brought them back, so I did. **How it works:** you dro…",
-    "createdAt": "2026-10-01T02:17:57.000Z"
-  },
-  {
-    "id": "1wunkd1",
-    "title": "I built a free Chrome extension that turns any webpage into audio in one click",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wunkd1/i_built_a_free_chrome_extension_that_turns_any/",
-    "excerpt": "I’ve been working on Frateca, a text-to-speech app that converts articles, PDFs, documents, and other text into natural-sounding audio, for more than a year now…",
-    "createdAt": "2026-10-01T02:14:36.000Z"
-  },
-  {
-    "id": "1wun54u",
-    "title": "Picked up writing a book as my new hobby. Ended up building a writing app instead.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wun54u/picked_up_writing_a_book_as_my_new_hobby_ended_up/",
-    "excerpt": "I wanted to get into writing and went through a number of the recommended tools. None of them fit what I wanted, and some were actually rather complicated and o…",
-    "createdAt": "2026-10-01T01:53:55.000Z"
-  },
-  {
-    "id": "1wun4m3",
-    "title": "Would you launch a narrow app while its hardest edge cases are still ugly?",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wun4m3/would_you_launch_a_narrow_app_while_its_hardest/",
-    "excerpt": "I launched a small Shopify app for HTS code suggestions. The straightforward products look good. The awkward part is the long tail: vague titles, missing materi…",
-    "createdAt": "2026-10-01T01:53:13.000Z"
   }
 ]
