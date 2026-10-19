@@ -1,5 +1,52 @@
 [
   {
+    "title": "A股三大指数集体低开",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032123578667655?f=rss",
+    "publishedAt": "2026-10-19T01:28:12.000Z",
+    "excerpt": "晶雪节能跌超12%，果麦文化跌超6%，慈文传媒跌超5%；冰雪旅游、网络游戏、AI语料概念下挫，油气开采、减肥药概念走强；沪指低开0.6%，深成指低开0.5%，创业板指低开0.43%。",
+    "scenes": [],
+    "collectedAt": "2026-10-19T01:28:34.865Z"
+  },
+  {
+    "title": "国金证券A股策略：A股当下最差的环境已经过去",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032081165062532?f=rss",
+    "publishedAt": "2026-10-19T00:45:03.000Z",
+    "excerpt": "36氪获悉，国金证券A股策略指出，对于A股投资者而言，至少当下最差的环境已经过去：AI投资带来高利率与全球资本成本上升，但AI缩圈至美国科技。当下，美国科技投资的裂痕将在一段时间支撑实际利率的下行。市场当下不具备V形的基础，但是风险期阶段性度过，非AI领域开始去做适当下注。总体而…",
+    "scenes": [],
+    "collectedAt": "2026-10-19T01:28:34.865Z"
+  },
+  {
+    "title": "中信证券：看好国产大模型持续崛起",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032057728275080?f=rss",
+    "publishedAt": "2026-10-19T00:21:13.000Z",
+    "excerpt": "36氪获悉，中信证券认为，Harness有望成为DeepSeek从模型供给走向平台生态的关键一环，将开源与工程优势转化为用户基础、生态影响力和商业化能力。随着Agent竞争从模型能力扩展至稳定、易用且低成本的任务交付，DeepSeek通过插件化、场景预设与跨Agent协作拓展用户…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-19T01:28:34.865Z"
+  },
+  {
+    "title": "8点1氪丨iPhone Duo溢价暴跌至3000元；多家A股科技龙头公司宣布计划回购；王自如称想与罗永浩和解",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4032044521558403?f=rss",
+    "publishedAt": "2026-10-19T00:10:05.000Z",
+    "excerpt": "今日热点导览 DeepSeek新模型Token消耗降超五成 燃油车在中国市场销售占比首次跌破三分之一 特斯拉将发布财报，SpaceX将公布上市后的第二份财报 Swisse“抗糖丸”被检出铅超标，官方客服：相关批次未进入中国销售 港股结算机制生变：“T+2”将改为“T+1”，202…",
+    "scenes": [],
+    "collectedAt": "2026-10-19T01:28:34.864Z"
+  },
+  {
+    "title": "第一生命证实向澳大利亚Challenger公司提交非约束性收购提案",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4032042361803142?f=rss",
+    "publishedAt": "2026-10-19T00:05:35.000Z",
+    "excerpt": "第一生命集团10月19日发布公告，部分媒体报道称，本公司的澳大利亚子公司 TAL Daiichi Life Australia Pty Limited（以下简称“TDA”）已提交收购 Challenger Limited股份的非约束性提案。然而，此类报道并非基于本公司发布的任何公…",
+    "scenes": [],
+    "collectedAt": "2026-10-19T01:28:34.866Z"
+  },
+  {
     "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
@@ -99,18 +146,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -3045,18 +3092,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
