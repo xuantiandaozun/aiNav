@@ -1,5 +1,95 @@
 [
   {
+    "id": "1xafqko",
+    "title": "Colmi - Open Source iOS App",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafqko/colmi_open_source_ios_app/",
+    "excerpt": "**\\*\\*Check out the original post for images\\*\\*** [**https://www.reddit.com/r/SmartRings/comments/1xafmyl/colmi\\_open\\_source\\_ios\\_app/**](https://www.reddit.…",
+    "createdAt": "2026-10-20T01:59:02.000Z"
+  },
+  {
+    "id": "1xafpx0",
+    "title": "Pop that Corn!",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xafpx0/pop_that_corn/",
+    "excerpt": "[Popcorn Drop](https://popcorndrop.netlify.app/) My first try at building something using Claude. Used Claude Opus 5.5 medium, built in an HTML file using three…",
+    "createdAt": "2026-10-20T01:58:08.000Z"
+  },
+  {
+    "id": "1xafmyz",
+    "title": "I built a tool that chases your clients for documents so you don't have to (solo dev, feedback wanted)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafmyz/i_built_a_tool_that_chases_your_clients_for/",
+    "excerpt": "I kept seeing small businesses spend their days replying to clients email after email, just to collect the same paperwork every year. So I built ClientPulse. Ho…",
+    "createdAt": "2026-10-20T01:54:08.000Z"
+  },
+  {
+    "id": "1xafbub",
+    "title": "Vending Machine Project",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafbub/vending_machine_project/",
+    "excerpt": "Hi everyone! I'm currently working on a project to build a fully automated pancake vending machine, with a total project budget of around SGD 6,000. The machine…",
+    "createdAt": "2026-10-20T01:39:16.000Z"
+  },
+  {
+    "id": "1xafbsw",
+    "title": "We built Chortke: review Canadian bank-statement PDFs on iPhone without linking your bank",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafbsw/we_built_chortke_review_canadian_bankstatement/",
+    "excerpt": "We’re Kasabeh Technology, the team behind Chortke Money Tracker. It’s an iPhone app for Canadians who want to organize income and spending without a bank login …",
+    "createdAt": "2026-10-20T01:39:13.000Z"
+  },
+  {
+    "id": "1xafazw",
+    "title": "OutSpan | Safari extension that expands web pages to the full outer screen",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafazw/outspan_safari_extension_that_expands_web_pages/",
+    "excerpt": "The iPhone Duo comes out on the 23rd. While testing in Apple's simulator, one thing about the outer screen kept bugging me. Safari puts its controls in a strip …",
+    "createdAt": "2026-10-20T01:38:09.000Z"
+  },
+  {
+    "id": "1xaf9xs",
+    "title": "I built a free lead tool for fire-protection contractors that scores public building permits. Looking for honest feedback.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xaf9xs/i_built_a_free_lead_tool_for_fireprotection/",
+    "excerpt": "Hey all, I've been building PermitTorch (permittorch.com). It pulls public building permits from city and county sources and finds the ones with fire-protection…",
+    "createdAt": "2026-10-20T01:36:47.000Z"
+  },
+  {
+    "id": "1xaf88z",
+    "title": "I built a free website to help people decide whether to buy or rent a home. Looking for honest feedback!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xaf88z/i_built_a_free_website_to_help_people_decide/",
+    "excerpt": "Hey everyone! I've been working on **HomeIntel**, a free real estate platform designed for the **U.S. housing market** that helps people compare buying versus r…",
+    "createdAt": "2026-10-20T01:34:28.000Z"
+  },
+  {
+    "id": "1xaam3p",
+    "title": "Wolf Leader- The Vibe Coders Best Friend",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xaam3p/wolf_leader_the_vibe_coders_best_friend/",
+    "excerpt": "Hey All! I created this app recently and I'd love any thoughts or feedback. The idea is an anchored journal for any sort of project your working on using AI, so…",
+    "createdAt": "2026-10-19T22:05:50.000Z"
+  },
+  {
     "id": "1x9krst",
     "title": "M41, probably ADHD, never finished a coding course, and I just shipped my first iOS app: a Tamagotchi you keep alive by finishing your to-dos",
     "sourceName": "Reddit · r/SideProject",
@@ -1108,95 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhvxy/i_built_an_app_so_the_cards_people_send_you/",
     "excerpt": "Last year I went through a serious injury, and during recovery I got a lot of handwritten cards from people — real ones, written by hand. I kept every single on…",
     "createdAt": "2026-10-02T02:07:16.000Z"
-  },
-  {
-    "id": "1wvhv1k",
-    "title": "I built the Facebook Marketplace tool I kept wishing existed. How would you find your customer outside your network?",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhv1k/i_built_the_facebook_marketplace_tool_i_kept/",
-    "excerpt": "I sell cars full time, and before building this, I used plenty of Facebook auto listers. The ones that actually got vehicles posted did help me sell cars, so I …",
-    "createdAt": "2026-10-02T02:06:06.000Z"
-  },
-  {
-    "id": "1wvhiqf",
-    "title": "Sent 100+ hours building and refining.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhiqf/sent_100_hours_building_and_refining/",
-    "excerpt": "01 Summon: Ctrl+Alt or a mouse thumb button, and the wheel opens under your cursor. 02 Windows: live previews of every open window. 03 Media: Spotify, browsers …",
-    "createdAt": "2026-10-02T01:49:29.000Z"
-  },
-  {
-    "id": "1wvha6p",
-    "title": "I built a social app. Promoting on TikTok gets likes, but not converting to downloads. I'm considering more niche targeting. Who would you target first?",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvha6p/i_built_a_social_app_promoting_on_tiktok_gets/",
-    "excerpt": "I’ve built Decidr, an iPhone social app for side-by-side posts. Someone puts up two photos or short clips—an outfit, a before/after, a sports moment, a visual j…",
-    "createdAt": "2026-10-02T01:37:53.000Z"
-  },
-  {
-    "id": "1wvh41w",
-    "title": "AI skill/builds portal. My obsession for the past 2 weeks.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvh41w/ai_skillbuilds_portal_my_obsession_for_the_past_2/",
-    "excerpt": "Hi I've been playing around with muse for a bit now. Shared it with friends and had fun with it. At first it was the easy stuff, email, calendar. I then realize…",
-    "createdAt": "2026-10-02T01:29:36.000Z"
-  },
-  {
-    "id": "1wvh40n",
-    "title": "I built a credential broker so nobody on the team holds prod keys. Would love brutal feedback on whether this makes sense",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvh40n/i_built_a_credential_broker_so_nobody_on_the_team/",
-    "excerpt": "Problem: every team I've worked with has prod credentials scattered across laptops, Slack, and `.env` files, and offboarding is a guess. Shortspan stores secret…",
-    "createdAt": "2026-10-02T01:29:34.000Z"
-  },
-  {
-    "id": "1wvgxtb",
-    "title": "6 months building HousingPal, a zero-brokerage rental platform for Hyderabad: what worked, what didn't",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvgxtb/6_months_building_housingpal_a_zerobrokerage/",
-    "excerpt": "Six months ago I started HousingPal as a solo founder with no audience, no budget, and a day job. Here's where it stands and what I learned. The problem: Rentin…",
-    "createdAt": "2026-10-02T01:21:02.000Z"
-  },
-  {
-    "id": "1wvgtnf",
-    "title": "I'm building a claude skillset that allows you to create videos like this in one prompt",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvgtnf/im_building_a_claude_skillset_that_allows_you_to/",
-    "excerpt": "The video you're seeing was made by me in 1 prompt (some feedback about speed at the end), I just gave the general idea of making it an 'investigation' and the …",
-    "createdAt": "2026-10-02T01:15:38.000Z"
-  },
-  {
-    "id": "1wvgq0k",
-    "title": "I built this website that finds the fast or most fuel-efficent maritime route between two ports (and i think it looks pretty cool)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvgq0k/i_built_this_website_that_finds_the_fast_or_most/",
-    "excerpt": "Just finished up this website and would like some feedback and opinions on it. Been wanting to get more into coding and website creation recently. I think its p…",
-    "createdAt": "2026-10-02T01:10:43.000Z"
-  },
-  {
-    "id": "1wvgl9c",
-    "title": "I made a VERY powerful codebase mapper.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wvgl9c/i_made_a_very_powerful_codebase_mapper/",
-    "excerpt": "The same task done in 6 minutes versus 20 is insane to me, anyway. I made an MCP tool that helps AI coding agents spend less time digging through your codebase …",
-    "createdAt": "2026-10-02T01:04:37.000Z"
   }
 ]
