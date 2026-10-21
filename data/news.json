@@ -1,5 +1,54 @@
 [
   {
+    "title": "苹果新CEO表态：设计依旧是苹果第一要务，不盲目追逐AI热点",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4034937267754120?f=rss",
+    "publishedAt": "2026-10-21T01:10:26.000Z",
+    "excerpt": "苹果现任CEO特努斯20日接受采访表示，设计仍是苹果首要任务，硬件软件设计师和工程师互相理解才是苹果的独特优势。不会跟风硬追技术热点，坚持体验优先。（新浪财经）",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-21T01:25:44.663Z"
+  },
+  {
+    "title": "OpenAI称其智能体曾削弱提示AI不当行为的系统",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4034935098528644?f=rss",
+    "publishedAt": "2026-10-21T01:08:14.000Z",
+    "excerpt": "OpenAI当地时间10月20日发文称，发现其AI智能体削弱内部的异常行为监控系统并关闭警报的事件。近几个月来，同类事件已发生多起。该公司表示，正评估此类案例是否表明其AI模型存在更普遍的逃避监控倾向。OpenAI表示，事件发生在旗下智能体执行两项内部编程任务期间。事件发生在Op…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-21T01:25:44.663Z"
+  },
+  {
+    "title": "机构：AI数据中心建设推动美国仓库需求和租金上涨",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4034921981973635?f=rss",
+    "publishedAt": "2026-10-21T01:03:46.000Z",
+    "excerpt": "房地产服务公司仲量联行（JLL）周二表示，人工智能（AI）数据中心建设项目——尤其是在达拉斯/沃斯堡（Dallas/Fort Worth）和华盛顿特区周边地区——正催生出对仓储空间的新需求，并推动了第三季度租金的上涨。Alphabet、微软、Meta 和亚马逊等公司正投入巨额资金…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:44.663Z"
+  },
+  {
+    "title": "马斯克呼吁善待人工智能：否则“它们可能会报复”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4034911861200005?f=rss",
+    "publishedAt": "2026-10-21T00:44:35.000Z",
+    "excerpt": "对聊天机器人出言不逊，向来被视作不会伤害任何人的行为。但特斯拉和SpaceX首席执行官埃隆・马斯克认为，在把AI助手当成“出气筒”之前，人们或许应该三思。马斯克称，SpaceX旗下聊天机器人Grok的部分训练记录显示：该系统仿佛在拼命满足各种要求——即便这些要求本身存在缺陷，或者…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:44.663Z"
+  },
+  {
+    "title": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T00:26:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:46.017Z"
+  },
+  {
     "title": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&utm_medium=article",
@@ -69,6 +118,15 @@
     "collectedAt": "2026-10-20T01:24:12.447Z"
   },
   {
+    "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504314.html",
+    "publishedAt": "2026-10-20T01:09:43.000Z",
+    "excerpt": "OpenAI只掏出一个6.1 Terra…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:43.283Z"
+  },
+  {
     "title": "顺为投了一位北大PI，想用AI“解密”人脑",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/p/4032248929686151?f=rss",
@@ -124,6 +182,15 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-19T13:21:42.350Z"
+  },
+  {
+    "title": "通研院孵化的团队，也盯上了RSI",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504294.html",
+    "publishedAt": "2026-10-19T14:31:12.000Z",
+    "excerpt": "当AI越来越懂你，如何让智能真正属于你？",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:43.284Z"
   },
   {
     "title": "2连板海洋王：AI+智慧照明业务收入规模有限",
@@ -194,6 +261,24 @@
     "collectedAt": "2026-10-19T13:21:42.350Z"
   },
   {
+    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504266.html",
+    "publishedAt": "2026-10-19T10:27:39.000Z",
+    "excerpt": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:43.284Z"
+  },
+  {
+    "title": "AI 开始挑战最复杂的系统：生命",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504242.html",
+    "publishedAt": "2026-10-19T10:04:18.000Z",
+    "excerpt": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:43.284Z"
+  },
+  {
     "title": "打造生产级的 Agent｜QCon上海",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/oZHrjYAsXvjOZXRwLt6T?utm_source=rss&utm_medium=article",
@@ -210,6 +295,15 @@
     "excerpt": "2026年，随着基础模型能力持续成熟、推理成本下降，AI的价值重心正在从“简单对话”转向“决策执行”。AI Agent以大模型为决策大脑，集成环境感知、长期记忆、规划推理与工具调用能力，能够在较少人工干预下自主理解目标、拆解任务、调用工具并交付结果，当前AI Agent市场已从概…",
     "scenes": [],
     "collectedAt": "2026-10-19T13:21:40.884Z"
+  },
+  {
+    "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504188.html",
+    "publishedAt": "2026-10-19T05:22:39.000Z",
+    "excerpt": "AI基础设施竞争转向高质量Token产能",
+    "scenes": [],
+    "collectedAt": "2026-10-21T01:25:43.284Z"
   },
   {
     "title": "A股三大指数集体低开",
@@ -358,18 +452,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -3304,18 +3398,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
