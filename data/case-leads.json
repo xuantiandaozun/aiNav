@@ -1,5 +1,55 @@
 [
   {
+    "id": "1xbamva",
+    "title": "AirFliq - I built a Mac app to save a couple of clicks. Reddit had opinions.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbamva/airfliq_i_built_a_mac_app_to_save_a_couple_of/",
+    "excerpt": "When I first shared AirFliq on Reddit, some people liked it. Others questioned why anyone needed another app for something macOS already does. Fair question. Si…",
+    "createdAt": "2026-10-21T01:56:38.000Z"
+  },
+  {
+    "id": "1xbal12",
+    "title": "opinion? how do i grow this?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbal12/opinion_how_do_i_grow_this/",
+    "excerpt": "few of my homies built this retro platformer thing as a side project, you can play it in the browser, no download [https://stay-foolish-capital.com/Games/The-La…",
+    "createdAt": "2026-10-21T01:54:08.000Z"
+  },
+  {
+    "id": "1xbaheq",
+    "title": "I built an old school Football Pickem Contest site",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbaheq/i_built_an_old_school_football_pickem_contest_site/",
+    "excerpt": "I got 77 users in the season long college contest and just created a Mid-Season classic league that starts this week with 12 folks so far. It’s pretty simple, c…",
+    "createdAt": "2026-10-21T01:49:02.000Z"
+  },
+  {
+    "id": "1xbacvt",
+    "title": "I built a tool that turns your CV into a portfolio site",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbacvt/i_built_a_tool_that_turns_your_cv_into_a/",
+    "excerpt": "I kept meeting people with a CV but no portfolio, and every site builder asks you to retype everything into a blank template. So I built Cveelo: you upload your…",
+    "createdAt": "2026-10-21T01:42:48.000Z"
+  },
+  {
+    "id": "1xba91i",
+    "title": "[C++20] I built an offshore operations system for crew management, safety drills and audit tracking",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xba91i/c20_i_built_an_offshore_operations_system_for/",
+    "excerpt": "I've been working on OFS2X Offshore Operations, a C++20 project focused on managing offshore crew assignments, emergency stations and safety drills. The idea wa…",
+    "createdAt": "2026-10-21T01:37:33.000Z"
+  },
+  {
     "id": "1xafqko",
     "title": "Colmi - Open Source iOS App",
     "sourceName": "Reddit · r/SideProject",
@@ -1148,55 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wwashu/i_built_origin_an_iphone_app_for_translated_phone/",
     "excerpt": "I'm building Origin at Avatar8 LLC. It lets you choose two languages and call a regular phone number, with speech translated in both directions and original/tra…",
     "createdAt": "2026-10-03T01:28:24.000Z"
-  },
-  {
-    "id": "1ww950f",
-    "title": "the 60 second challenge sol 6.1 (sound on)",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1ww950f/the_60_second_challenge_sol_61_sound_on/",
-    "excerpt": "the time is 00:48 and i've just got home. time for a burger & vibecode. what it built is actually quite therapeutic... almost a makeshift choir .. goal: build s…",
-    "createdAt": "2026-10-03T00:03:29.000Z"
-  },
-  {
-    "id": "1ww8ilx",
-    "title": "A group chat app where friends can bet on real life events",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1ww8ilx/a_group_chat_app_where_friends_can_bet_on_real/",
-    "excerpt": "Example: “Mike will be late to dinner” 1. Anyone who joins the bet puts in $50 2. If Mike is late, the winners split the pot 3. Everyone else loses their $50 []…",
-    "createdAt": "2026-10-02T23:34:03.000Z"
-  },
-  {
-    "id": "1ww7apv",
-    "title": "Fully given over to the vibe, letting my AI overlord create my next t-shirt",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1ww7apv/fully_given_over_to_the_vibe_letting_my_ai/",
-    "excerpt": "Ok at this point I'm giving up and just going as low effort as possible. Not shilling but am sharing what I made and yes it has a gift shop... AI agent starting…",
-    "createdAt": "2026-10-02T22:36:17.000Z"
-  },
-  {
-    "id": "1wvhwk1",
-    "title": "Bio Student here: I Built a research platform for Biohacking, Looksmaxing and PED's With a massive costume library that the ai draws from.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhwk1/bio_student_here_i_built_a_research_platform_for/",
-    "excerpt": "I recently launched Enhanced AI ([https://enhancedai.app](https://enhancedai.app/)). I would be grateful if the people of this sub checked it out and gave me fe…",
-    "createdAt": "2026-10-02T02:08:07.000Z"
-  },
-  {
-    "id": "1wvhvxy",
-    "title": "I built an app so the cards people send you during hard times don't just end up in a box forever",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wvhvxy/i_built_an_app_so_the_cards_people_send_you/",
-    "excerpt": "Last year I went through a serious injury, and during recovery I got a lot of handwritten cards from people — real ones, written by hand. I kept every single on…",
-    "createdAt": "2026-10-02T02:07:16.000Z"
   }
 ]
