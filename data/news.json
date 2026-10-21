@@ -1,5 +1,236 @@
 [
   {
+    "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T18:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T15:19:41.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T15:00:29.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T13:47:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "4连板海洋王：公司AI+智慧照明相关业务收入规模有限",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035633160754056?f=rss",
+    "publishedAt": "2026-10-21T12:58:20.000Z",
+    "excerpt": "36氪获悉，4连板海洋王公告，公司AI+智慧照明相关业务收入规模有限，对公司整体业绩尚不构成重大影响。公司的照明产品广泛应用在铁路、电网、智慧电厂、应急救灾、海油钻采、智慧港口、海上平台等工业应用场景。公司具有耐辐照认证的专业灯具应用在核岛，积极布局核电照明市场，但照明设备不属于…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "亚马逊据悉提前接收英伟达AI服务器机架",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035618180174985?f=rss",
+    "publishedAt": "2026-10-21T12:43:06.000Z",
+    "excerpt": "10月21日，据报道，亚马逊云科技（AWS）通过新的提前接收流程，预计在美国设施接收约50亿美元的英伟达GB300服务器机架，此后每月还将接收约30亿美元的相关设备。（界面）",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "谷歌云与英伟达宣布Vera Rubin基础设施即将商用",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035611894027143?f=rss",
+    "publishedAt": "2026-10-21T12:36:42.000Z",
+    "excerpt": "10月21日，谷歌云与英伟达宣布，搭载英伟达Vera Rubin NVL72系统的A5X实例将于下月正式开放，计划进一步扩展至欧洲市场，为AI智能体推理和强化学习提供基础设施。（界面）",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "2连板日海智能：上半年高算力模组创新产品收入占总营收比重约1%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035608937173892?f=rss",
+    "publishedAt": "2026-10-21T12:33:42.000Z",
+    "excerpt": "36氪获悉，2连板日海智能公告，近期市场对端侧AI、机器人等领域关注度较高，为避免对投资者产生误导，现就主营产品情况说明如下：目前公司无线通信模组等主营产品结构较前期保持稳定，以4G、5G、NB等制式的蜂窝数传模组和GNSS定位模组为主，上半年高算力模组创新产品的收入占公司总营收…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "2连板同为股份：目前大模型AI产品出货数量及营收未形成规模",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035607277999240?f=rss",
+    "publishedAt": "2026-10-21T12:32:00.000Z",
+    "excerpt": "36氪获悉，2连板同为股份公告，目前公司大模型AI产品出货数量及营收未形成规模，在公司整体收入占比较低，对短期经营业绩不构成重大影响。公司AI应用主要是视频监控行业，目前不涉及人形机器人、空间计算、航天、无人驾驶、低空经济等领域。",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "OpenAI与谷歌云达成合作，将开放前沿模型及Codex",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035590806492294?f=rss",
+    "publishedAt": "2026-10-21T12:15:15.000Z",
+    "excerpt": "10月21日，OpenAI宣布与谷歌云合作，将其前沿模型及Codex智能体工作流接入谷歌云Model Garden，计划于未来几周内正式开放。企业客户还将能够通过谷歌云市场购买相关模型，并使用谷歌云消费承诺支付费用。OpenAI模型还将陆续接入谷歌Antigravity和Gemi…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T12:10:15.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "PerturbAI与OpenAI合作开发AI推理智能体，加速生物医学研究",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035583366681737?f=rss",
+    "publishedAt": "2026-10-21T12:07:41.000Z",
+    "excerpt": "10月21日，生物技术公司PerturbAI宣布与OpenAI及斯克里普斯研究所合作开发AI推理框架，利用数千个智能体并行分析生物实验数据、检索科学文献并提出可验证的研究假设。合作将进一步合作探索新药物靶点。（界面）",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T12:06:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T12:01:59.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "英飞凌与英伟达合作开发氮化镓电源转换系统，支持800伏直流AI数据中心",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035563698443396?f=rss",
+    "publishedAt": "2026-10-21T11:47:40.000Z",
+    "excerpt": "10月21日，英飞凌宣布深化与英伟达的合作，推进面向AI数据中心的800伏直流（800 VDC）供电架构，重点开发高压中间总线转换器（IBC）。英飞凌将利用氮化镓（GaN）功率半导体技术，提高电源转换效率和功率密度，降低能量损耗及散热需求。此次合作延续双方自2025年启动的800…",
+    "scenes": [
+      "coding",
+      "office"
+    ],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "雷军：未来5年，小米在硬核科技领域投资预计超2000亿元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4035551783572358?f=rss",
+    "publishedAt": "2026-10-21T11:35:33.000Z",
+    "excerpt": "10月21日，在2026世界智能网联汽车大会上，小米集团创始人、董事长兼CEO雷军表示，到目前为止，小米已经构建了全球最大规模的消费级loT平台，截至二季度末，小米全球loT的设备连接数已经超过11亿台，为了把整个生态的体验做好，过去几年，小米一直在芯片、操作系统、AI具身智能等…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.877Z"
+  },
+  {
+    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504734.html",
+    "publishedAt": "2026-10-21T11:30:59.000Z",
+    "excerpt": "医疗AI质变时刻",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:00.448Z"
+  },
+  {
+    "title": "AI 能否取代渗透测试？Cloudflare 的答案是：必须套上测试框架",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/R2z2kCkRHhXwGqDZeMKN?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T11:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-21T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:04.385Z"
+  },
+  {
+    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504730.html",
+    "publishedAt": "2026-10-21T09:45:22.000Z",
+    "excerpt": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:00.448Z"
+  },
+  {
+    "title": "AI的下一站:从Personal Agent到灯塔工厂",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4035016423347077?f=rss",
+    "publishedAt": "2026-10-21T09:00:27.000Z",
+    "excerpt": "特别鸣谢永艺UE对本次活动的支持，为现场提供Flow550人体工学椅。 AI正在走进越来越多的工作场景，但从\"会用工具\"到真正解决问题，仍有不少细节需要走到现场才能看清，个人的专业经验如何与Agent结合？制造业怎样判断一个AI项目值不值得做？企业又该如何处理数据，流程和交付中的…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.876Z"
+  },
+  {
+    "title": "AI时代，银龄生活更要看到“人”的价值",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4035048202359685?f=rss",
+    "publishedAt": "2026-10-21T04:21:05.000Z",
+    "excerpt": "10月17日，重阳节前夕，贝壳公益与《人物》杂志在京举办“新世界，老朋友——银龄生活主题沙龙”，并发布双方共同打造的同名别册《新世界，老朋友——AI时代银龄生活观察》。 沙龙现场邀请戴军、胡泳、张越、曹翠芬、汤拥华、董晨宇、詹青云、庞颖来自不同行业、不同代际的8位嘉宾，围绕AI浪…",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:02.876Z"
+  },
+  {
+    "title": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4034229489701764?f=rss",
+    "publishedAt": "2026-10-21T03:03:55.000Z",
+    "excerpt": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，「Flowtica AI」日前已完成新一轮数千万元融资，投资方为祥峰资本、源码资本、五源资本、清水湾基金。山与资本担任独家财务顾问。 过去两年，AI硬件赛道经历了一轮密集的产品迭代。录音卡、翻译耳机、AI眼镜等，几乎每一个能够被大模型增强的物理…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-10-21T13:19:02.876Z"
+  },
+  {
+    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504608.html",
+    "publishedAt": "2026-10-21T02:37:39.000Z",
+    "excerpt": "先看真实问题解决力",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:00.448Z"
+  },
+  {
     "title": "苹果新CEO表态：设计依旧是苹果第一要务，不盲目追逐AI热点",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4034937267754120?f=rss",
@@ -67,6 +298,15 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-20T13:19:40.219Z"
+  },
+  {
+    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504517.html",
+    "publishedAt": "2026-10-20T13:29:54.000Z",
+    "excerpt": "兔皮底下，竟然是MiniMax！",
+    "scenes": [],
+    "collectedAt": "2026-10-21T13:19:00.449Z"
   },
   {
     "title": "英伟达加大对欧投资，将扶持四家德企",
@@ -452,18 +692,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -3398,18 +3638,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
