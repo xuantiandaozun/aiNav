@@ -1,5 +1,15 @@
 [
   {
+    "id": "1xbz6aq",
+    "title": "Built a bunch of quizzes for learning about AI and Open Weights featuring my cat",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xbz6aq/built_a_bunch_of_quizzes_for_learning_about_ai/",
+    "excerpt": "It is all free, no ads there, no login but there are some promos of my newsletter and courses. I hope it is ok. Cusco is my orange Maine Coon. Spencer is my Sil…",
+    "createdAt": "2026-10-21T20:56:04.000Z"
+  },
+  {
     "id": "1xbamva",
     "title": "AirFliq - I built a Mac app to save a couple of clicks. Reddit had opinions.",
     "sourceName": "Reddit · r/SideProject",
@@ -1188,15 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wwayny/fallow_an_iphone_app_for_cutting_back_on_weed/",
     "excerpt": "so i finally shipped this today. i built it because i wanted to smoke less, but every time i tried cold turkey i'd last about four days, feel like i blew it and…",
     "createdAt": "2026-10-03T01:37:43.000Z"
-  },
-  {
-    "id": "1wwashu",
-    "title": "I built Origin, an iPhone app for translated phone calls",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wwashu/i_built_origin_an_iphone_app_for_translated_phone/",
-    "excerpt": "I'm building Origin at Avatar8 LLC. It lets you choose two languages and call a regular phone number, with speech translated in both directions and original/tra…",
-    "createdAt": "2026-10-03T01:28:24.000Z"
   }
 ]
