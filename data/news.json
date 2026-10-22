@@ -1,5 +1,50 @@
 [
   {
+    "title": "浦江中国完成配售，募资总额约1.3亿港元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4036333783274630?f=rss",
+    "publishedAt": "2026-10-22T00:51:03.000Z",
+    "excerpt": "36氪获悉，浦江中国于10月21日宣布，公司已根据一般授权完成配售新股份事宜，成功按每股4.00港元向不少于六名独立承配人发行33000000股新股，募资总额约1.3亿港元。据介绍，公司通过本次配售成功引入具有产业协同赋能效应的AI领域企业，以及看好公司转型前景及增长潜力的财务投…",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:19.961Z"
+  },
+  {
+    "title": "沃尔玛推出新工具，支持AI智能体协助顾客购物",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4036329977959305?f=rss",
+    "publishedAt": "2026-10-22T00:47:10.000Z",
+    "excerpt": "美国最大零售商沃尔玛周三发布了一系列新工具，支持AI智能体替消费者选购商品并完成交易。随着AI助手在网购领域的应用日益普及，该公司希望借此抢占赛道。（新浪财经）",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:19.961Z"
+  },
+  {
+    "title": "SK海力士加速部署iHBM技术，新一代HBM散热能力提升30%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4036310540686470?f=rss",
+    "publishedAt": "2026-10-22T00:27:24.000Z",
+    "excerpt": "韩国存储芯片巨头SK海力士正在推动新一代iHBM（Integrated High Bandwidth Memory）技术迈向量产阶段，并已开始讨论相关量产计划。面对人工智能产业快速发展带来的算力需求激增，高带宽存储器（HBM）的散热问题正成为影响性能提升的重要瓶颈，而iHBM被视…",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:19.961Z"
+  },
+  {
+    "title": "Anthropic宣布与HCLTech达成合作",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4036306894148743?f=rss",
+    "publishedAt": "2026-10-22T00:23:41.000Z",
+    "excerpt": "当地时间10月21日，Anthropic宣布正在与全球科技公司HCLTech建立合作，成为Claude合作伙伴网络中的全球首要合作伙伴（Global Premier Partner）。Anthropic表示，HCLTech将通过专门的Anthropic业务部门和卓越中心，为其客户…",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:19.961Z"
+  },
+  {
+    "title": "8点1氪丨宝马离职补偿最高487万，员工争着离职挤爆系统；iPhone Duo全球限购，每位顾客限购2台；Meta第三季度营收646亿美元，同比增长26%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4036266730886018?f=rss",
+    "publishedAt": "2026-10-21T23:46:32.000Z",
+    "excerpt": "今日热点导览 段永平称会继续买入泡泡玛特 阿宽食品停牌，阿宽食品利润暴跌90% 联想拟筹集20亿美元贷款，低成本置换旧债 SK海力士完成40万亿韩元股票回购 马斯克呼吁善待人工智能：否则“它们可能会报复” TOP 3 大新闻 宝马员工争着离职挤崩系统，离职补偿金最高487万 据德…",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:19.959Z"
+  },
+  {
     "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article",
@@ -347,6 +392,33 @@
     "collectedAt": "2026-10-20T13:19:40.219Z"
   },
   {
+    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504415.html",
+    "publishedAt": "2026-10-20T04:59:04.000Z",
+    "excerpt": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:18.323Z"
+  },
+  {
+    "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504395.html",
+    "publishedAt": "2026-10-20T04:18:29.000Z",
+    "excerpt": "宁德时代电池上车",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:18.323Z"
+  },
+  {
+    "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504372.html",
+    "publishedAt": "2026-10-20T04:08:15.000Z",
+    "excerpt": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
+    "scenes": [],
+    "collectedAt": "2026-10-22T01:23:18.323Z"
+  },
+  {
     "title": "硬氪首发｜用AI智能体辅助新材料研发，睿质科技完成数千万元天使轮融资",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/p/4033523733042053?f=rss",
@@ -692,18 +764,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -3638,18 +3710,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
