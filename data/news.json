@@ -1,5 +1,61 @@
 [
   {
+    "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-23T08:46:30.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-23T01:26:55.392Z"
+  },
+  {
+    "title": "AI房产经纪人，第一单成交了",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4037778327720835?f=rss",
+    "publishedAt": "2026-10-23T01:21:49.000Z",
+    "excerpt": "10月15日，卖方王女士和买方刘先生正式签订了珠海华发新城6期一套二手房的买卖合同，然后顺利办理过户手续。这套总价195万元的房子买卖，是国内AI经纪人主导的第一单交易。 这笔交易的线上挂牌、客户匹配、房源验真、输出小区成交参考价、线上议价等交易核心环节全由AI经纪人“易居小新”…",
+    "scenes": [],
+    "collectedAt": "2026-10-23T01:26:53.854Z"
+  },
+  {
+    "title": "美国IPO市场陷入“瘫痪”，Anthropic被寄望打破僵局",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4037747341497218?f=rss",
+    "publishedAt": "2026-10-23T01:09:52.000Z",
+    "excerpt": "围绕人工智能（AI）的争议令一些企业被迫按下了IPO暂停键，在Anthropic上市一天天迫近之际，数十亿美元资金和长达数月的筹备工作陷入停顿。Nscale、DayOne Data Centers等正在筹备赴美上市的AI基础设施公司，仍在向投资者强调自身对于AI基础设施建设的重要…",
+    "scenes": [],
+    "collectedAt": "2026-10-23T01:26:53.855Z"
+  },
+  {
+    "title": "Rivian收购AI公司Third Dimension，利用3D仿真技术加速自动驾驶研发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4037739376808839?f=rss",
+    "publishedAt": "2026-10-23T00:50:50.000Z",
+    "excerpt": "美国电动汽车制造商Rivian 10月22日宣布收购人工智能公司Third Dimension AI，以加快自动驾驶系统的研发及验证进程。Third Dimension AI专注于利用真实世界数据生成高精度、可控的3D虚拟环境，能够大规模模拟复杂驾驶场景，减少自动驾驶模型对现实道…",
+    "scenes": [],
+    "collectedAt": "2026-10-23T01:26:53.855Z"
+  },
+  {
+    "title": "中信证券：持续看好国产半导体零部件及设备产业链",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4037726135456648?f=rss",
+    "publishedAt": "2026-10-23T00:39:21.000Z",
+    "excerpt": "36氪获悉，中信证券指出，2026湾芯展规模进一步扩大，吸引超过6500位专业采购商到场，国产设备新品及新工艺集中亮相。2026年三季度设备新增订单延续旺盛态势，产业界对未来三年以上设备需求保持乐观，部分企业认为本轮订单加速可延续至2028/2029年；中长期看，AI驱动的全球扩…",
+    "scenes": [],
+    "collectedAt": "2026-10-23T01:26:53.855Z"
+  },
+  {
+    "title": "8点1氪丨iPhone Duo约八成应用未适配；DeepSeek据悉完成1000亿元融资；长实集团再发澄清公告：李嘉诚健康情况良好",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4037687068021637?f=rss",
+    "publishedAt": "2026-10-22T23:49:42.000Z",
+    "excerpt": "今日热点导览 宇树科技王兴兴：宇树G1机器人已经累计生产下线约1-2万台 奥迪官网发布首位中国籍总裁任命 央行10月22日开展了1730亿元隔夜逆回购操作 Meta因隐私及内容审核问题被判支付250亿美元罚款 三星工会提议放宽亏损芯片部门奖金扣罚规则 TOP 3 大新闻 iPho…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-10-23T01:26:53.854Z"
+  },
+  {
     "title": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&utm_medium=article",
@@ -851,18 +907,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -3797,18 +3853,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
