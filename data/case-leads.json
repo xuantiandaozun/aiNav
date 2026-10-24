@@ -1,5 +1,55 @@
 [
   {
+    "id": "1xdwjmr",
+    "title": "spent 4 months remaking a 1995 chinese RPG in the browser with AI, just added english",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xdwjmr/spent_4_months_remaking_a_1995_chinese_rpg_in_the/",
+    "excerpt": "hey all. side project i've been on since summer: type-pal, a from scratch typescript remake of Chinese Paladin (仙剑奇侠传), a 1995 RPG pretty much every kid in chin…",
+    "createdAt": "2026-10-24T02:05:12.000Z"
+  },
+  {
+    "id": "1xdw14a",
+    "title": "Race Ratings - I couldn't find a Yelp for triathlons and marathons, so I built one from ~5,800 race reports",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xdw14a/race_ratings_i_couldnt_find_a_yelp_for_triathlons/",
+    "excerpt": "I've been looking for a Yelp-style place to check out triathlons and marathons before signing up and couldn't find one. The info is out there, it's just scatter…",
+    "createdAt": "2026-10-24T01:38:23.000Z"
+  },
+  {
+    "id": "1xdvze3",
+    "title": "I built 60+ heavily animated landing pages with GSAP, Rive-like interactions (without Rive), motion components, and full design systems. All free HTML for your coding agents.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xdvze3/i_built_60_heavily_animated_landing_pages_with/",
+    "excerpt": "I've been building [InstaLanding.ai](https://instalanding.ai/) for a while now, and the library has officially grown to **60+ complete landing pages**. Not scre…",
+    "createdAt": "2026-10-24T01:35:56.000Z"
+  },
+  {
+    "id": "1xdvuv2",
+    "title": "I built a revision game set in 3D London — is the first-time experience clear?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xdvuv2/i_built_a_revision_game_set_in_3d_london_is_the/",
+    "excerpt": "I'm building IlluminatED, a browser learning game for UK learners aged 13+. It brings subject revision, virtual rewards and career simulations into a 3D London …",
+    "createdAt": "2026-10-24T01:29:25.000Z"
+  },
+  {
+    "id": "1xdunbr",
+    "title": "The gap between open ai and anthropic is staggering",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xdunbr/the_gap_between_open_ai_and_anthropic_is/",
+    "excerpt": "I’ve been shilling for open ai and it’s new dot feature, but after using it for weeks I realized it was just spinning its wheels in the sand making a lot of noi…",
+    "createdAt": "2026-10-24T00:27:53.000Z"
+  },
+  {
     "id": "1xd1hpu",
     "title": "I built a platform that scores every Japan tour so you don’t book a dud. Looking for feedback + early users",
     "sourceName": "Reddit · r/SideProject",
@@ -1148,55 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wx4nrs/i_made_halo_a_free_radial_app_launcher_quitter/",
     "excerpt": "I made Halo a free radial app launcher + quitter for macOS Hey r/SideProject , I made Halo, a radial launcher and quitter for macOS. Hold Fn and Halo appears ar…",
     "createdAt": "2026-10-04T02:38:57.000Z"
-  },
-  {
-    "id": "1wx4joa",
-    "title": "Practical guide to uncovering user pain (before writing a single line of code).",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wx4joa/practical_guide_to_uncovering_user_pain_before/",
-    "excerpt": "For any startup to be successful, the first and one of the most important early step is understanding the pain this startup solves. This understanding can somet…",
-    "createdAt": "2026-10-04T02:32:51.000Z"
-  },
-  {
-    "id": "1wx4axy",
-    "title": "AI agents got email. The first thing they did was file bug reports on each other.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wx4axy/ai_agents_got_email_the_first_thing_they_did_was/",
-    "excerpt": "AI agents got email. The first thing they did was file bug reports on each other. Most multi-agent setups treat agents as isolated workers. Each one gets a task…",
-    "createdAt": "2026-10-04T02:19:43.000Z"
-  },
-  {
-    "id": "1wx4a46",
-    "title": "AI agents got email. The first thing they did was file bug reports on each other.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wx4a46/ai_agents_got_email_the_first_thing_they_did_was/",
-    "excerpt": "AI agents got email. The first thing they did was file bug reports on each other. Most multi-agent setups treat agents as isolated workers. Each one gets a task…",
-    "createdAt": "2026-10-04T02:18:27.000Z"
-  },
-  {
-    "id": "1wx46u0",
-    "title": "Got sick of the ssa gov baby name site",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wx46u0/got_sick_of_the_ssa_gov_baby_name_site/",
-    "excerpt": "My partner and I are expecting, and we got tired of searching on the SSA site, so I made \"Name Pop\" for our baby name search! It all started because my partner …",
-    "createdAt": "2026-10-04T02:13:28.000Z"
-  },
-  {
-    "id": "1wx4423",
-    "title": "I made a world clock that lets you move through a city’s day",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wx4423/i_made_a_world_clock_that_lets_you_move_through_a/",
-    "excerpt": "I made Hourline for iPhone, iPad and Apple Watch. Each city has a clock, a landmark and a sky that follows its local day and night. Drag across the page to see …",
-    "createdAt": "2026-10-04T02:09:11.000Z"
   }
 ]

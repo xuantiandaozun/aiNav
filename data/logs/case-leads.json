@@ -1,5 +1,50 @@
 [
   {
+    "ranAt": "2026-10-24T02:07:15.562Z",
+    "sources": [
+      {
+        "name": "reddit-seeds",
+        "ok": true,
+        "fetched": 3,
+        "error": ""
+      },
+      {
+        "name": "r/vibecoding",
+        "ok": true,
+        "fetched": 25,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "r/SideProject",
+        "ok": true,
+        "fetched": 20,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "r/indiehackers",
+        "ok": true,
+        "fetched": 15,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "hn:vibe coding",
+        "ok": true,
+        "fetched": 15,
+        "error": ""
+      },
+      {
+        "name": "hn:AI side project revenue",
+        "ok": true,
+        "fetched": 10,
+        "error": ""
+      }
+    ],
+    "kept": 120
+  },
+  {
     "ranAt": "2026-10-23T02:08:44.838Z",
     "sources": [
       {
@@ -582,48 +627,5 @@
       }
     ],
     "kept": 120
-  },
-  {
-    "ranAt": "2026-10-10T02:15:36.176Z",
-    "sources": [
-      {
-        "name": "reddit-seeds",
-        "ok": false,
-        "fetched": 0,
-        "error": "This operation was aborted"
-      },
-      {
-        "name": "r/vibecoding",
-        "ok": true,
-        "fetched": 25,
-        "error": "",
-        "via": "archive"
-      },
-      {
-        "name": "r/SideProject",
-        "ok": false,
-        "fetched": 0,
-        "error": "HTTP 522"
-      },
-      {
-        "name": "r/indiehackers",
-        "ok": false,
-        "fetched": 0,
-        "error": "HTTP 522"
-      },
-      {
-        "name": "hn:vibe coding",
-        "ok": true,
-        "fetched": 15,
-        "error": ""
-      },
-      {
-        "name": "hn:AI side project revenue",
-        "ok": true,
-        "fetched": 10,
-        "error": ""
-      }
-    ],
-    "kept": 114
   }
 ]
