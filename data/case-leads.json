@@ -1,5 +1,55 @@
 [
   {
+    "id": "1xeq327",
+    "title": "Giving 5 founders a free month of a tool I built to run missions",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xeq327/giving_5_founders_a_free_month_of_a_tool_i_built/",
+    "excerpt": "Hey everyone, I’m Ali, founder of NearbyCrew. I’ve been using our tools to run real projects, including recruiting app testers and video creators. I’m opening t…",
+    "createdAt": "2026-10-25T01:59:33.000Z"
+  },
+  {
+    "id": "1xepz20",
+    "title": "CCC - a free local board for coding-agent sessions that need your attention",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xepz20/ccc_a_free_local_board_for_codingagent_sessions/",
+    "excerpt": "I'm the maker of Claude Command Center (CCC). I built it because switching between coding-agent sessions made it too easy to miss a question or lose track of wh…",
+    "createdAt": "2026-10-25T01:53:40.000Z"
+  },
+  {
+    "id": "1xept54",
+    "title": "I built a personal dashboard that pulls my money, running, journal and reading into one place",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xept54/i_built_a_personal_dashboard_that_pulls_my_money/",
+    "excerpt": "For the last little while I've been building a self-hosted dashboard that runs on my laptop. It's a Flask (Python) backend with a React/Vite frontend. There are…",
+    "createdAt": "2026-10-25T01:45:05.000Z"
+  },
+  {
+    "id": "1xepqnc",
+    "title": "I built a video editor because AI kept messing up parts I'd already edited",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xepqnc/i_built_a_video_editor_because_ai_kept_messing_up/",
+    "excerpt": "I've been experimenting with AI for editing my vlogs, and one thing that frustrated me was how easily it could change something I was already happy with. So I b…",
+    "createdAt": "2026-10-25T01:41:37.000Z"
+  },
+  {
+    "id": "1xemoxs",
+    "title": "How do you manage context between multiple agents and chats, I built a second brain for that",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xemoxs/how_do_you_manage_context_between_multiple_agents/",
+    "excerpt": "A second brain, to me, is basically a place outside your head where useful context can accumulate, connect, and still be there when you need it again. If you bu…",
+    "createdAt": "2026-10-24T23:13:30.000Z"
+  },
+  {
     "id": "1xdwjmr",
     "title": "spent 4 months remaking a 1995 chinese RPG in the browser with AI, just added english",
     "sourceName": "Reddit · r/SideProject",
@@ -1148,55 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwktu/i_built_an_app_thats_like_fantasy_football_but/",
     "excerpt": "My friends and I have been running a league in an app called [Fantasy Critic](https://www.fantasycritic.games/home) for years, which is the same concept but for…",
     "createdAt": "2026-10-05T01:52:50.000Z"
-  },
-  {
-    "id": "1wxwknd",
-    "title": "Little Grimoire: Learn Tarot, One Card at a Time",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwknd/little_grimoire_learn_tarot_one_card_at_a_time/",
-    "excerpt": "I'm the developer of this one. Little Grimoire is a side project of mine (under Escapement LLC) that teaches tarot as a system, like learning a language, instea…",
-    "createdAt": "2026-10-05T01:52:34.000Z"
-  },
-  {
-    "id": "1wxu8zi",
-    "title": "I got tired of not knowing what my Claude Code agents were doing, so I built a terminal that shows them working live",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wxu8zi/i_got_tired_of_not_knowing_what_my_claude_code/",
-    "excerpt": "I run a few Claude Code and Codex sessions at once, and I kept losing track: which one is waiting for permission, which one is editing what, did two of them jus…",
-    "createdAt": "2026-10-04T23:56:03.000Z"
-  },
-  {
-    "id": "1wxt78i",
-    "title": "I used AI coding agents extensively to build a real network diagnostic CLI. My rule: prove every bug before fixing it",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wxt78i/i_used_ai_coding_agents_extensively_to_build_a/",
-    "excerpt": "I've been using AI coding agents extensively to build an open-source project called **Network Doctor (`netdoc`)**. GitHub: https://github.com/heymaikol/network-…",
-    "createdAt": "2026-10-04T23:03:37.000Z"
-  },
-  {
-    "id": "hn-49957425",
-    "title": "Show HN: Web Analytics Focused on Revenue",
-    "sourceName": "Hacker News",
-    "subreddit": "",
-    "score": 1,
-    "sourceUrl": "https://news.ycombinator.com/item?id=49957425",
-    "excerpt": "I was frustrated with Google Analytics and Plausible, and I wanted something simple that highlighted actionable things I could focus on to improve revenue. Less…",
-    "createdAt": "2026-10-04T20:20:35.000Z"
-  },
-  {
-    "id": "1wx4nrs",
-    "title": "I made Halo, a free radial app launcher + quitter for macOS. [FREE]",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wx4nrs/i_made_halo_a_free_radial_app_launcher_quitter/",
-    "excerpt": "I made Halo a free radial app launcher + quitter for macOS Hey r/SideProject , I made Halo, a radial launcher and quitter for macOS. Hold Fn and Halo appears ar…",
-    "createdAt": "2026-10-04T02:38:57.000Z"
   }
 ]
