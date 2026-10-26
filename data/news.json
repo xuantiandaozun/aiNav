@@ -1,5 +1,59 @@
 [
   {
+    "title": "中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4041976290055045?f=rss",
+    "publishedAt": "2026-10-26T00:59:58.000Z",
+    "excerpt": "36氪获悉，中信证券研报称，通用大模型正在从机器人的高层任务规划，进一步向动作生成和执行控制延伸。机器人大脑主要依赖经过机器人动作数据训练的VLA、WAM等专用模型，将视觉和语言指令转化为动作。近期，NVIDIA、Stanford等研究机构陆续探索将GPT-6 Astra应用于机…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T01:29:00.722Z"
+  },
+  {
+    "title": "中信建投：关注物理AI数据与仿真、AI安全、国产芯片等方向",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4041963126313864?f=rss",
+    "publishedAt": "2026-10-26T00:45:36.000Z",
+    "excerpt": "36氪获悉，中信建投研报称，寒武纪、海光信息三季度收入增长，毛利率环比提升；国内部分配置及海外高端GPU租金上行，算力服务景气延续。���用大模型与执行框架协同提升机器人操作能力，头部厂商推进产能建设，高质量交互数据、仿真合成及评测体系建设有望扩大物理AI产业需求。PHP漏洞和L…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T01:29:00.722Z"
+  },
+  {
+    "title": "AI圈最神秘的一家公司，终于公开了它的“豪赌”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4026922691236484?f=rss",
+    "publishedAt": "2026-10-26T00:34:46.000Z",
+    "excerpt": "文｜邓咏仪 编辑｜张雨忻 Vivix到底在做什么？这是过去一年多以来，AI圈对这家神秘公司的最大好奇。 Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元，背后站满了背景华丽的投资人们。 但很少有人能说…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T01:29:00.720Z"
+  },
+  {
+    "title": "华泰证券：物理AI加速从概念走向落地，全产业链环节均有望受益",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4041953665193088?f=rss",
+    "publishedAt": "2026-10-26T00:30:58.000Z",
+    "excerpt": "36氪获悉，华泰证券研报认为，物理AI正逐步从概念走向落地，OpenAI等模型企业自研人形机器人有望加速这一进程，数据、模型、本体及零部件、应用等全产业链环节均有望受益。",
+    "scenes": [],
+    "collectedAt": "2026-10-26T01:29:00.722Z"
+  },
+  {
+    "title": "马斯克：SpaceX为GPU采购敲定400亿美元债务融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4041962249311112?f=rss",
+    "publishedAt": "2026-10-26T00:18:01.000Z",
+    "excerpt": "北京时间10月26日凌晨，埃隆·马斯克在社交平台发文表示：过去这几周，债市几乎彻底关上了大门——任何公司，只要没有独立于AI数据中心的大规模收入，基本都拿不到钱了。SpaceX刚为GPU敲定了400亿美元的债务融资，但我们是投资级信用评级，而且有Starlink和发射业务带来的收…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T01:29:00.722Z"
+  },
+  {
+    "title": "8点1氪丨金价连日大跌，深圳水贝被挤爆；开售仅两天，苹果iPhone Duo破发；德明利：前三季度净利润87.46亿元 同比增长32399.91%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4041951412343942?f=rss",
+    "publishedAt": "2026-10-26T00:08:18.000Z",
+    "excerpt": "今日热点导览 DeepSeek、MiniMax，完成AI模型出海登记 企业微信回应部分账号发色情链接 31省份去年平均工资出炉 张雪在家乡刷新吉尼斯纪录 存储芯片龙头德明利，前三季度净利同比增长32399.91% TOP 3 大新闻 金价大跌，深圳水贝被挤爆 受国际金价下跌影响，…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T01:29:00.720Z"
+  },
+  {
     "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
@@ -1238,18 +1292,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4184,18 +4238,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
