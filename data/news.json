@@ -1,5 +1,147 @@
 [
   {
+    "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-26T18:08:13.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-26T14:46:09.869Z"
+  },
+  {
+    "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-26T15:05:27.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:09.869Z"
+  },
+  {
+    "title": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-26T14:57:35.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding",
+      "office"
+    ],
+    "collectedAt": "2026-10-26T14:46:09.869Z"
+  },
+  {
+    "title": "甲骨文推出智能体AI平台，助力加速Fusion Cloud应用实施",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4042651302318979?f=rss",
+    "publishedAt": "2026-10-26T12:58:23.000Z",
+    "excerpt": "甲骨文（Oracle）宣布推出智能体人工智能平台Oracle AI Success Navigator，旨在加快Oracle Fusion Cloud应用的实施与现代化升级。该平台整合专业AI智能体、甲骨文实施经验及指导培训，帮助企业减少人工操作、简化复杂任务并更快实现业务价值。…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:08.314Z"
+  },
+  {
+    "title": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4042650558616712?f=rss",
+    "publishedAt": "2026-10-26T12:53:35.000Z",
+    "excerpt": "席卷全球经济的人工智能热潮正在带来深刻变革，但这股浪潮也会在所到之处留下一些“牺牲者” —— 至少，城堡投资联席首席投资官Pablo Salame是这样认为的。Salame在一次罕见的采访中表示，支撑AI革命的巨大资本需求，正与态度谨慎、不愿承担如此大风险的贷款机构发生冲突。他表…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:08.314Z"
+  },
+  {
+    "title": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-26T11:53:09.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:09.869Z"
+  },
+  {
+    "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505539.html",
+    "publishedAt": "2026-10-26T09:46:13.000Z",
+    "excerpt": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-26T14:46:06.654Z"
+  },
+  {
+    "title": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4042455475475586?f=rss",
+    "publishedAt": "2026-10-26T09:43:46.000Z",
+    "excerpt": "城市节奏越快，咖啡越像年轻人的“日常开关”。白天靠咖啡续命，周末咖啡店是见面、拍照、遛猫、带娃、逛市集的空间。 “日咖夜酒”“奶茶咖啡化”之外，咖啡消费还在长出更多新组合：咖啡+烘焙、咖啡+宠物、咖啡+博物馆、咖啡+市集、咖啡+文创。有人用9.9元完成日常摄入，也有人愿意为一杯手…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:08.312Z"
+  },
+  {
+    "title": "OpenAI开始断网训练最强模型：“安全起见”",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505529.html",
+    "publishedAt": "2026-10-26T09:37:57.000Z",
+    "excerpt": "模型开始利用GPU缓存聊天？",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:06.654Z"
+  },
+  {
+    "title": "A社联创演讲：AI奇点已来",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505521.html",
+    "publishedAt": "2026-10-26T09:35:14.000Z",
+    "excerpt": "所谓奇点，或许是AI跃过人类的那个点。",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:06.654Z"
+  },
+  {
+    "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505443.html",
+    "publishedAt": "2026-10-26T08:38:49.000Z",
+    "excerpt": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:06.654Z"
+  },
+  {
+    "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505436.html",
+    "publishedAt": "2026-10-26T08:04:10.000Z",
+    "excerpt": "10月21日，2026世界智能网联汽车大会在北京召开",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:06.654Z"
+  },
+  {
+    "title": "有个业务问题，想找技术伙伴聊聊？WISE2026「世界咖啡·产业对接」征集需求中",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4042414899270790?f=rss",
+    "publishedAt": "2026-10-26T07:59:36.000Z",
+    "excerpt": "如果你有一个具体业务问题，想看看AI或具身智能能不能帮上忙，可以把问题带来，和技术团队坐下来聊聊。 有些技术问题，找懂行的人一起拆开看看 你大概有过这种时候。 公司里总有那么一个环节，明显不顺。可能是客服，工单越堆越多，人手排不开；可能是质检，常年靠人眼盯着，慢，还容易漏；可能是…",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:08.312Z"
+  },
+  {
+    "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505429.html",
+    "publishedAt": "2026-10-26T06:50:44.000Z",
+    "excerpt": "高品质 AI Token 成为行业新风向",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:06.654Z"
+  },
+  {
+    "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505365.html",
+    "publishedAt": "2026-10-26T06:42:48.000Z",
+    "excerpt": "AI同事自带工作记忆上岗",
+    "scenes": [],
+    "collectedAt": "2026-10-26T14:46:06.654Z"
+  },
+  {
     "title": "中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4041976290055045?f=rss",
@@ -1292,18 +1434,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4238,18 +4380,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
