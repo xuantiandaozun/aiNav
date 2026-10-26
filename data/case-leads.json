@@ -1,5 +1,75 @@
 [
   {
+    "id": "1xfklct",
+    "title": "I cut my hotfix deploys from 3 hours to 8 minutes, then built a console to watch them land",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfklct/i_cut_my_hotfix_deploys_from_3_hours_to_8_minutes/",
+    "excerpt": "I run a small SaaS on GitHub Actions + Azure. Our full release takes about **3 hours** (builds, tests, e2e, migration checks). Fine for features. Painful when a…",
+    "createdAt": "2026-10-26T02:10:11.000Z"
+  },
+  {
+    "id": "1xfkej9",
+    "title": "I made a free email authentication checker that tells you exactly which DNS record to fix, no signup",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfkej9/i_made_a_free_email_authentication_checker_that/",
+    "excerpt": "Enter any domain and Rigcheck checks its SPF, DKIM, DMARC and MX records, then explains what's wrong in plain English and gives you the exact record to paste in…",
+    "createdAt": "2026-10-26T02:00:57.000Z"
+  },
+  {
+    "id": "1xfkdpz",
+    "title": "I rebuilt the VS Code git extension I used every day after it stopped getting updates",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfkdpz/i_rebuilt_the_vs_code_git_extension_i_used_every/",
+    "excerpt": "Git Graph was the extension I used every single day in VS Code. It hasn't had a release since April 2021, and my day changed: feature branches that land through…",
+    "createdAt": "2026-10-26T02:00:04.000Z"
+  },
+  {
+    "id": "1xfkd8o",
+    "title": "My last post got 1 comment, so I kept building anyway. Round 2 of my study app, please roast it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfkd8o/my_last_post_got_1_comment_so_i_kept_building/",
+    "excerpt": "A while ago I posted StudySync here (an app that turns your Moodle/Canvas course into practice). It got exactly one comment, so thanks to that one legend . I've…",
+    "createdAt": "2026-10-26T01:59:26.000Z"
+  },
+  {
+    "id": "1xfk6wu",
+    "title": "I built Loomi.bio — what if your link-in-bio could do more than just share links?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfk6wu/i_built_loomibio_what_if_your_linkinbio_could_do/",
+    "excerpt": "Hey everyone! 👋 I've been building Loomi.bio, a platform for creators, freelancers, and small businesses. The idea is simple: instead of just sharing links, wha…",
+    "createdAt": "2026-10-26T01:50:51.000Z"
+  },
+  {
+    "id": "1xfjrz7",
+    "title": "I built a chiptune music workstation where you can compose by hand or let an AI agent build the song live",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfjrz7/i_built_a_chiptune_music_workstation_where_you/",
+    "excerpt": "SoundBit started because I wanted to make 8-bit and 16-bit style music for games without fighting old trackers, and because I wanted to see how far an AI agent …",
+    "createdAt": "2026-10-26T01:30:44.000Z"
+  },
+  {
+    "id": "1xff8dc",
+    "title": "Vibe coders: where would you tell your agent to stop? I made a 5-minute game about it",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xff8dc/vibe_coders_where_would_you_tell_your_agent_to/",
+    "excerpt": "I kept watching my agent do one more reasonable thing after another, until the task wasn’t the task anymore. So I made it a game: ten YES/NO calls, each one rea…",
+    "createdAt": "2026-10-25T22:06:04.000Z"
+  },
+  {
     "id": "1xeq327",
     "title": "Giving 5 founders a free month of a tool I built to run missions",
     "sourceName": "Reddit · r/SideProject",
@@ -1128,75 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyq0fu/built_a_proactive_study_agent_with_claude_code/",
     "excerpt": "orla sends you a push every morning with what's due, pulled from canvas. here's what took the time, in case it saves someone a weekend 1. canvas without the api…",
     "createdAt": "2026-10-06T01:25:17.000Z"
-  },
-  {
-    "id": "1wyofck",
-    "title": "Randomly got a paying customer!",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyofck/randomly_got_a_paying_customer/",
-    "excerpt": "I made a simple web app about 3 months ago but I got busy and sort of abandoned it I never posted about it, I don't have social media for it, I didn't launch it…",
-    "createdAt": "2026-10-06T00:08:08.000Z"
-  },
-  {
-    "id": "1wyms7q",
-    "title": "How I manage to ship over 100 PRs per day across all of my repositories... and still know what's going on",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyms7q/how_i_manage_to_ship_over_100_prs_per_day_across/",
-    "excerpt": "Hey everyone, I keep asking myself how to *actually* automate end-to-end development with AI. Neetcode mentioned that most people are being pretty secretive abo…",
-    "createdAt": "2026-10-05T22:52:02.000Z"
-  },
-  {
-    "id": "1wxx1ya",
-    "title": "I made my phone a remote for my PC monitor because the brightness buttons are on the back",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxx1ya/i_made_my_phone_a_remote_for_my_pc_monitor/",
-    "excerpt": "Every night the same thing: I'm on the couch, the monitor across the room is too bright, and the only way to dim it is the tiny buttons behind the panel. TVs ha…",
-    "createdAt": "2026-10-05T02:17:15.000Z"
-  },
-  {
-    "id": "1wxwu4h",
-    "title": "I built a free tool that rewrites boring job experiences into compelling stories — would love feedback from this community",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwu4h/i_built_a_free_tool_that_rewrites_boring_job/",
-    "excerpt": "Hey everyone, I've been helping friends and former colleagues with their resumes for a while now, and I kept noticing the same problem over and over: Most peopl…",
-    "createdAt": "2026-10-05T02:05:53.000Z"
-  },
-  {
-    "id": "1wxwtm2",
-    "title": "I built a site where a book is explained by the people who read it — the useful parts, the parts that didn't hold, and the questions left over",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwtm2/i_built_a_site_where_a_book_is_explained_by_the/",
-    "excerpt": "I read a lot of non-fiction and kept hitting the same wall: a summary tells you what the author said, but not what happened when someone actually tried it, wher…",
-    "createdAt": "2026-10-05T02:05:10.000Z"
-  },
-  {
-    "id": "1wxwkuj",
-    "title": "made a small web app that keeps all your package tracking in one place. would love blunt feedback on signup",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwkuj/made_a_small_web_app_that_keeps_all_your_package/",
-    "excerpt": "solo project, i built it and run it myself. it's called Voyager. you add tracking numbers (ups, usps, fedex, dhl, amazon, ontrac, lasership are in the picker) a…",
-    "createdAt": "2026-10-05T01:52:51.000Z"
-  },
-  {
-    "id": "1wxwktu",
-    "title": "I built an app that’s like Fantasy Football but for Movies",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wxwktu/i_built_an_app_thats_like_fantasy_football_but/",
-    "excerpt": "My friends and I have been running a league in an app called [Fantasy Critic](https://www.fantasycritic.games/home) for years, which is the same concept but for…",
-    "createdAt": "2026-10-05T01:52:50.000Z"
   }
 ]
