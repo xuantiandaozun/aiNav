@@ -1,5 +1,93 @@
 [
   {
+    "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-27T17:17:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-27T13:22:49.274Z"
+  },
+  {
+    "title": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-27T15:22:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-27T13:22:49.274Z"
+  },
+  {
+    "title": "雷鸟第四代双目全彩AI眼镜雷鸟iO+即将发布",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4044074190115717?f=rss",
+    "publishedAt": "2026-10-27T12:05:00.000Z",
+    "excerpt": "10月27日，雷鸟创新正式官宣第四代双目全彩AI眼镜雷鸟iO+即将发布，产品采用全新玳瑁设计，搭载双目异显全彩MicroLED光波导显示方案，光引擎体积进一步压缩，使得两侧镜桩体积与市面上常见的单绿眼镜接近，同时，新一波光波导有效解决了彩虹纹、漏光、反光等问题。",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-27T13:22:47.729Z"
+  },
+  {
+    "title": "REDMI K100正式发布",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4044070508761986?f=rss",
+    "publishedAt": "2026-10-27T12:01:15.000Z",
+    "excerpt": "36氪获悉，10月26日，REDMI K100正式发布。新机在骁龙8至尊版的基础上，首次为K系列标准版配备AI独显D2，并搭载10000mAh小米金沙江电池和165Hz高刷护眼屏。",
+    "scenes": [],
+    "collectedAt": "2026-10-27T13:22:47.729Z"
+  },
+  {
+    "title": "这回，换技术方带着实际解决方案上桌了——WISE2026「世界咖啡」技术方招募开启",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4044004395930753?f=rss",
+    "publishedAt": "2026-10-27T10:54:53.000Z",
+    "excerpt": "上一篇聊完需求方，这篇轮到技术方了。桌上摆的，是审过的真需求，就等你来了。 上一篇发出去之后多家需求方来报名，后台也留言了不少问题 上一篇稿子发出去没几天，后台就开始出现同一种留言：“我们是做AI应用、具身智能等相关产品或解决方案的企业和团队，这边有我们的入口吗？” 有。就是现在…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-10-27T13:22:47.728Z"
+  },
+  {
+    "title": "当AI学会了预测，发现马斯克的预测不靠谱",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4043729792635779?f=rss",
+    "publishedAt": "2026-10-27T06:40:24.000Z",
+    "excerpt": "AI预测是介于量化与主观投研之间的新物种。 文 | 刘思洁 编辑 | 张薇 封面来源 | Pixabay 2025年，25岁的Henry重仓了一只十倍股Nebius。靠着这笔投资，他在很长时间里都不需要工作。 Nebius是一家做AI neocloud也就是新云的公司。这并非是一…",
+    "scenes": [],
+    "collectedAt": "2026-10-27T13:22:47.728Z"
+  },
+  {
+    "title": "华为「天才少年」回应DeepSeek面试争议：想象中的「殿堂」，没能接住敬仰",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4043725177001089?f=rss",
+    "publishedAt": "2026-10-27T06:37:20.000Z",
+    "excerpt": "DeepSeek这座“金字塔尖的殿堂”跟想象中有点不一样 撰文 | 刘思洁 编辑 | 张薇 头图来源 | Nano Banana生图 封面来源|Unsplash 7月6日下午，华为首批“天才少年”李博杰在X等社交平台发文吐槽自己在DeepSeek的面试经历：面试是远程，二面写代码…",
+    "scenes": [
+      "image",
+      "coding"
+    ],
+    "collectedAt": "2026-10-27T13:22:47.728Z"
+  },
+  {
+    "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505580.html",
+    "publishedAt": "2026-10-27T03:23:55.000Z",
+    "excerpt": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+    "scenes": [],
+    "collectedAt": "2026-10-27T13:22:46.054Z"
+  },
+  {
+    "title": "36氪首发丨红杉、高瓴、智元投过的全身触觉解决方案公司再获亿元级融资，团队来自港科大",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4043477378880388?f=rss",
+    "publishedAt": "2026-10-27T01:59:55.000Z",
+    "excerpt": "作者 | 乔钰杰 编辑 | 袁斯来 本文约2500字，建议阅读5分钟 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成亿元级天使+轮融资，由鼎晖投资、绿洲资本领投，逐际动力、龙芯创投、中科创星、华山资本、浦东创投以及某国内头部具身厂商跟投。后浪资本担任长…",
+    "scenes": [],
+    "collectedAt": "2026-10-27T13:22:47.728Z"
+  },
+  {
     "title": "英矽智能：公布ISM6331首次人体I期临床试验初步积极数据",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4043432360793222?f=rss",
@@ -38,6 +126,15 @@
       "coding"
     ],
     "collectedAt": "2026-10-26T14:46:09.869Z"
+  },
+  {
+    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505551.html",
+    "publishedAt": "2026-10-26T16:06:31.000Z",
+    "excerpt": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+    "scenes": [],
+    "collectedAt": "2026-10-27T13:22:46.054Z"
   },
   {
     "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
@@ -1463,18 +1560,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4409,18 +4506,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
