@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xgfz9y",
+    "title": "Script Clock - a little script timer + teleprompter I built while trying to start a YouTube channel",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfz9y/script_clock_a_little_script_timer_teleprompter_i/",
+    "excerpt": "I've been writing scripts for a YouTube channel I want to start, and I could never tell how long they'd actually run. I'm not a dev, but I got curious and start…",
+    "createdAt": "2026-10-27T01:54:28.000Z"
+  },
+  {
+    "id": "1xgfvjn",
+    "title": "I built RepoRun to show what a GitHub repo needs before you try to run it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfvjn/i_built_reporun_to_show_what_a_github_repo_needs/",
+    "excerpt": "I’m the maker of RepoRun. It’s a free, open-source desktop app for the gap between finding an interesting repo and figuring out why it won’t start on your lapto…",
+    "createdAt": "2026-10-27T01:49:49.000Z"
+  },
+  {
+    "id": "1xgfuqz",
+    "title": "ModusPad 2.0 - A Mac launcher that also replaces your Dock, with profiles that switch automatically",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfuqz/moduspad_20_a_mac_launcher_that_also_replaces/",
+    "excerpt": "I'm the developer of ModusPad, a launcher for macOS 26 and 27. Version 1 was a classic Launchpad-style grid with one twist: profiles. Each profile has its own a…",
+    "createdAt": "2026-10-27T01:48:46.000Z"
+  },
+  {
+    "id": "1xgfp43",
+    "title": "made a cubing timer inspired on monkeytype",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfp43/made_a_cubing_timer_inspired_on_monkeytype/",
+    "excerpt": "this is not a vibe coded project ai slop. It just an alternative to cs timer, i made it mostly for myself, it has automatic cloud sync between devices for your …",
+    "createdAt": "2026-10-27T01:41:31.000Z"
+  },
+  {
+    "id": "1xgfkpz",
+    "title": "I built a lightweight JSON formatter with share links that keep your data out of a database",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfkpz/i_built_a_lightweight_json_formatter_with_share/",
+    "excerpt": "I've been working on this JSON formatter since last summer. I wanted a lightweight formatting tool that could make share links, so I could easily send JSON to m…",
+    "createdAt": "2026-10-27T01:35:48.000Z"
+  },
+  {
+    "id": "1xgdo4w",
+    "title": "Vibecoded DJ app",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xgdo4w/vibecoded_dj_app/",
+    "excerpt": "Hi everyone, brand new to vibecoding but been using AI for a couple of years for other creative purposes. I'm a DJ of 13 years and absolutely love hardware and …",
+    "createdAt": "2026-10-27T00:10:22.000Z"
+  },
+  {
+    "id": "1xgd77d",
+    "title": "Anyone have an NYC social life? I vibe coded an NYC live music aggregator.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xgd77d/anyone_have_an_nyc_social_life_i_vibe_coded_an/",
+    "excerpt": "We go out ALOT. We see lots of stuff. It's hard to know what's happening TONIGHT in NYC. SO: [music.gaf.nyc](https://music.gaf.nyc) Pulls shows from a ton of my…",
+    "createdAt": "2026-10-26T23:50:56.000Z"
+  },
+  {
+    "id": "1xgazns",
+    "title": "Rebuilt Netscape Navigator and Winamp on modern macOS 27 with Google Antigravity and Xcode 27",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xgazns/rebuilt_netscape_navigator_and_winamp_on_modern/",
+    "excerpt": "![img](jzu2ttgnyvxh1 \"Netscape Navigator with Safari base, and rebuilt Winamp with Apple Music\") \"StreamAmp\", a Winamp-clone with Apple Music support, awaiting …",
+    "createdAt": "2026-10-26T22:16:36.000Z"
+  },
+  {
     "id": "1xfklct",
     "title": "I cut my hotfix deploys from 3 hours to 8 minutes, then built a console to watch them land",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkgud/everyone_can_tell_when_you_used_ai_to_write/",
     "excerpt": "We hired a contractor who would take our code review comments, paste them into Cursor, and paste whatever came out back as his reply. We'd leave a comment like …",
     "createdAt": "2026-10-07T01:51:41.000Z"
-  },
-  {
-    "id": "1wzkena",
-    "title": "I built a browser music studio where a pixel band performs your tracks",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkena/i_built_a_browser_music_studio_where_a_pixel_band/",
-    "excerpt": "Hi r/SideProject! I'm the maker of Island Music, a desktop-browser music project that turns instrumental tracks into a little pixel-band performance. You can de…",
-    "createdAt": "2026-10-07T01:48:36.000Z"
-  },
-  {
-    "id": "1wzk4vo",
-    "title": "Since you guys thought my RTS was a waste of tokens, I’ll take on a few testers ; ) pretty sure it’s dope",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wzk4vo/since_you_guys_thought_my_rts_was_a_waste_of/",
-    "excerpt": "So yeah crazy token consumption but I’m happy to compare my results against other similar games built in a weeks worth of part time working. Would love to talk …",
-    "createdAt": "2026-10-07T01:34:34.000Z"
-  },
-  {
-    "id": "1wzicov",
-    "title": "I vibe-coded a real iPhone + Android app that backs up your photos directly to USB",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wzicov/i_vibecoded_a_real_iphone_android_app_that_backs/",
-    "excerpt": "I wanted to see how far vibe coding could go beyond prototypes and AI wrappers. So I used a vibe-coding / AI-assisted development workflow to build and ship **V…",
-    "createdAt": "2026-10-07T00:06:55.000Z"
-  },
-  {
-    "id": "1wzhw0q",
-    "title": "Women's Vibe Collective",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wzhw0q/womens_vibe_collective/",
-    "excerpt": "I've been loving using AI tools to build personal projects, and I wanted a space where women and non-binary builders could share work, swap ideas, and learn tog…",
-    "createdAt": "2026-10-06T23:45:35.000Z"
-  },
-  {
-    "id": "1wyqba4",
-    "title": "CarricoClock ⏱️",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyqba4/carricoclock/",
-    "excerpt": "Big news…CarricoClock is live! When Clockify switched to a paid model & capped its free plan at 5 users, the Carrico Center for Pro Bono & Public Service for at…",
-    "createdAt": "2026-10-06T01:40:17.000Z"
-  },
-  {
-    "id": "1wyq9nk",
-    "title": "I built KeyHarbor to organize multi env secrets without a cloud account",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wyq9nk/i_built_keyharbor_to_organize_multi_env_secrets/",
-    "excerpt": "I’m the developer of KeyHarbor, a desktop app for managing development credentials locally. It organizes secrets into projects and separate dev, staging, and pr…",
-    "createdAt": "2026-10-06T01:38:00.000Z"
-  },
-  {
-    "id": "1wyq4ff",
-    "title": "I rebuilt my finance app from the ground up after 5,000 users and 166k USD moved through it. Here’s what I learnt.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wyq4ff/i_rebuilt_my_finance_app_from_the_ground_up_after/",
-    "excerpt": "Chipp is a bill splitting app. Two years in it had over 5,000 sign-ups and $166k had moved through it on Stripe. It looked like a working product. It was not on…",
-    "createdAt": "2026-10-06T01:30:54.000Z"
-  },
-  {
-    "id": "1wyq0fu",
-    "title": "built a proactive study agent with claude code. the 3 parts that were actually hard",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wyq0fu/built_a_proactive_study_agent_with_claude_code/",
-    "excerpt": "orla sends you a push every morning with what's due, pulled from canvas. here's what took the time, in case it saves someone a weekend 1. canvas without the api…",
-    "createdAt": "2026-10-06T01:25:17.000Z"
   }
 ]
