@@ -1,5 +1,34 @@
 [
   {
+    "title": "英矽智能：公布ISM6331首次人体I期临床试验初步积极数据",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4043432360793222?f=rss",
+    "publishedAt": "2026-10-27T01:12:05.000Z",
+    "excerpt": "36氪获悉，英矽智能在港交所公告，公司近日于2026年欧洲肿瘤内科学会（ESMO）年会上以快速口头报告形式发布ISM6331的首次人体I期临床试验初步积极数据。ISM6331是一款由Chemistry42生成式AI平台赋能设计的在研口服泛TEAD抑制剂。截至2026年8月14日数…",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-27T01:29:18.692Z"
+  },
+  {
+    "title": "OpenAI宣布在数学、计算机科学、物理学领域取得三项新发现",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4043403309552769?f=rss",
+    "publishedAt": "2026-10-27T00:50:32.000Z",
+    "excerpt": "当地时间10月26日，OpenAI宣布在数学、计算机科学和物理学领域取得三项新发现，并表示其正在与学术界的合作中尝试一种新方法。三项新发现分别涉及调和分析、复杂性理论和量子场论。OpenAI表示，其已联系外部专家，请他们充当引导者，组织团队来理解研究结果。其补充称，参与者不会被要…",
+    "scenes": [],
+    "collectedAt": "2026-10-27T01:29:18.692Z"
+  },
+  {
+    "title": "8点1氪丨Anthropic正式提交IPO申请；寿司郎传送带被曝窜出活老鼠；苹果客服称很多客户取消iPhone Duo订单",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4043364384707456?f=rss",
+    "publishedAt": "2026-10-27T00:08:10.000Z",
+    "excerpt": "今日热点导览 Kimi致歉：将为会员提供重置机会 马斯克宣布X长按点赞可向对方转账1美元 微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算 中国石油午后涨近4%，创2008年5月以来新高 科学家展示全球首款织进衣服的触摸屏 TOP 3大新闻 Anthropic正式提交…",
+    "scenes": [],
+    "collectedAt": "2026-10-27T01:29:18.688Z"
+  },
+  {
     "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
@@ -1434,18 +1463,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4380,18 +4409,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
