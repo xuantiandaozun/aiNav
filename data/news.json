@@ -1,5 +1,92 @@
 [
   {
+    "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T21:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
+    "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T19:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
+    "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T18:14:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
+    "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T17:54:54.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
+    "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T17:45:17.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
+    "title": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T16:57:57.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
+    "title": "豆包工作电脑操作能力升级：Mac锁屏后可继续执行任务",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4045524137546625?f=rss",
+    "publishedAt": "2026-10-28T12:39:57.000Z",
+    "excerpt": "从豆包方面获悉，近期，豆包工作电脑操作能力升级，屏幕点击精度、速度提升，更准、更快。用户在对话中直接提出操作电脑的相关需求，经授权后，豆包工作可自动查看电脑屏幕，模拟人工鼠标和键盘操作相关应用。在任务执行方面，用户可进入“设置→工作任务模式设置”，开启“允许豆包在锁屏时工作”。启…",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:19.821Z"
+  },
+  {
+    "title": "智能指数得分创新高！蚂蚁百灵开源Ling-3.1-flash-1019：让Personal Agent走向真实业务",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/wIuu0NSaLSaqJJpXVExD?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T12:13:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
+    "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T10:37:05.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:21.067Z"
+  },
+  {
     "title": "在AI时代如何提升软件工程能力",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&utm_medium=article",
@@ -7,6 +94,26 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-28T01:12:08.475Z"
+  },
+  {
+    "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505928.html",
+    "publishedAt": "2026-10-28T04:04:48.000Z",
+    "excerpt": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-28T13:14:18.205Z"
+  },
+  {
+    "title": "接入AI半年后，一家自闭症康复机构辞了兼职督导",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4044028040844417?f=rss",
+    "publishedAt": "2026-10-28T02:33:44.000Z",
+    "excerpt": "文 | 刘凌果 编辑 | 海若镜 教一个四岁半的孩子认识什么是苹果，要花多长时间？对自闭症儿童而言，这是个未知数。 欢欢坐在小板凳上，康复师将印有苹果图样的小卡，一张一张举到她的眼前：红苹果、蛇果、切开的苹果、咬了一口的苹果、苹果简笔画，她要辨认并回答，以上都是苹果吗？答对了会被…",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:19.819Z"
   },
   {
     "title": "AI用电需求催生设备订单，燃气轮机产业链投资机会受关注",
@@ -85,6 +192,53 @@
       "writing"
     ],
     "collectedAt": "2026-10-27T13:22:47.728Z"
+  },
+  {
+    "title": "印奇把4D雷达也端到端了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505852.html",
+    "publishedAt": "2026-10-27T10:40:12.000Z",
+    "excerpt": "毫米波雷达，AI算力10TOPS",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:18.205Z"
+  },
+  {
+    "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505830.html",
+    "publishedAt": "2026-10-27T09:54:51.000Z",
+    "excerpt": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:18.205Z"
+  },
+  {
+    "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505799.html",
+    "publishedAt": "2026-10-27T08:46:12.000Z",
+    "excerpt": "无人在环进店实测啃下长尾场景",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:18.205Z"
+  },
+  {
+    "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505719.html",
+    "publishedAt": "2026-10-27T08:27:46.000Z",
+    "excerpt": "同一天，OpenAI还甩出3项AI科学新发现",
+    "scenes": [],
+    "collectedAt": "2026-10-28T13:14:18.205Z"
+  },
+  {
+    "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505694.html",
+    "publishedAt": "2026-10-27T08:18:59.000Z",
+    "excerpt": "还是专业的模型做专业的事情",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-28T13:14:18.205Z"
   },
   {
     "title": "当AI学会了预测，发现马斯克的预测不靠谱",
@@ -1598,18 +1752,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4544,18 +4698,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
