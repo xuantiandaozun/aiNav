@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xhbko9",
+    "title": "I'm a solo guy with a day job and I turned my tiny Monad memecoin into a full site: a fantasy RPG, a blog, game guides, and now a built-in swap",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbko9/im_a_solo_guy_with_a_day_job_and_i_turned_my_tiny/",
+    "excerpt": "A few weeks ago WIZY was just a small memecoin on Monad with a basic landing page. I wanted it to be more than a ticker, so I've been building around it after w…",
+    "createdAt": "2026-10-28T01:55:10.000Z"
+  },
+  {
+    "id": "1xhbkkd",
+    "title": "[30 day update] My Codex reset alerts service passed 500 subscribers",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbkkd/30_day_update_my_codex_reset_alerts_service/",
+    "excerpt": "I recently built a text alerts service to ease my Codex usage anxiety called Reset Alerts. It texts users when resets are announced (with the idea to burn remai…",
+    "createdAt": "2026-10-28T01:55:02.000Z"
+  },
+  {
+    "id": "1xhbgb1",
+    "title": "I made a cozy idle RPG game 🙂",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbgb1/i_made_a_cozy_idle_rpg_game/",
+    "excerpt": "Hi all! I love idle games and I began making my own for fun with certain things that I wish other games had. It's been a lot of fun! It's only on Google Play cu…",
+    "createdAt": "2026-10-28T01:49:18.000Z"
+  },
+  {
+    "id": "1xhbbjf",
+    "title": "Repwarden - A free Android workout tracker I built with AI and use myself",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbbjf/repwarden_a_free_android_workout_tracker_i_built/",
+    "excerpt": "I started taking fitness seriously in May 2026. I was using FitNotes to log workouts and Bend for stretching, and wanted something that brought more of my routi…",
+    "createdAt": "2026-10-28T01:43:10.000Z"
+  },
+  {
+    "id": "1xhbbdz",
+    "title": "Solo dev: I built Everdust, a universe simulator where you collide galaxies, play Black Hole Golf and bend light in Lightfold. Free on Android + Vision Pro, roast it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbbdz/solo_dev_i_built_everdust_a_universe_simulator/",
+    "excerpt": "I've been building Everdust for a while and it's now live on Android and Apple Vision Pro. It's a universe simulator you can hold and play with, in three parts:…",
+    "createdAt": "2026-10-28T01:42:57.000Z"
+  },
+  {
+    "id": "1xhb9yh",
+    "title": "I made a simple pay calculator for Australian shift workers",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhb9yh/i_made_a_simple_pay_calculator_for_australian/",
+    "excerpt": "I've been working on a side project called [WorkRate](https://workrate.me/?utm_source=reddit&utm_medium=social&utm_campaign=sideproject_post), a free website th…",
+    "createdAt": "2026-10-28T01:41:05.000Z"
+  },
+  {
+    "id": "1xhb85i",
+    "title": "Built a restock tracker for a blind-box toy craze (Sonny Angel)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhb85i/built_a_restock_tracker_for_a_blindbox_toy_craze/",
+    "excerpt": "Sonny Angel figures sell out constantly and restocks vanish in minutes, so I built a scraper that polls Shopify's public products.json across the official store…",
+    "createdAt": "2026-10-28T01:38:49.000Z"
+  },
+  {
+    "id": "1xh95py",
+    "title": "I built an Interactive Astronomy platform that let's you fly around planets and explore in 3D",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xh95py/i_built_an_interactive_astronomy_platform_that/",
+    "excerpt": "Hi everyone! I'm a software developer with some background in physics. Recently, I built an interactive astronomy platform where you can fly around planets and …",
+    "createdAt": "2026-10-28T00:04:03.000Z"
+  },
+  {
     "id": "1xgfz9y",
     "title": "Script Clock - a little script timer + teleprompter I built while trying to start a YouTube channel",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0ex2m/i_made_an_app_for_shared_bills_that_keeps_the/",
     "excerpt": "I'm Spawn. I built CoolMeow for people sharing expenses with a partner, roommates or friends on a trip. Each expense records who paid and who should split it, w…",
     "createdAt": "2026-10-08T02:05:00.000Z"
-  },
-  {
-    "id": "1x0erq1",
-    "title": "I built a free daily puzzle site - 8 games, no login, no paywall",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0erq1/i_built_a_free_daily_puzzle_site_8_games_no_login/",
-    "excerpt": "Hi - I started this as a little logic puzzle for myself and it got out of hand. It's now 8 daily puzzle games (logic, numbers, words) with streaks, leaderboards…",
-    "createdAt": "2026-10-08T01:57:41.000Z"
-  },
-  {
-    "id": "1x0eog6",
-    "title": "I spent a week taking apart AI detectors with controlled experiments, then open-sourced the tool: a local model that takes text from 45% to 0% in Grammarly, GPTZero and ZeroGPT",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0eog6/i_spent_a_week_taking_apart_ai_detectors_with/",
-    "excerpt": "**TL;DR:** detectors mostly catch *chat training*, not \"AI\". A base model paraphrasing reads human. Then each detector wants something different, and the fix fo…",
-    "createdAt": "2026-10-08T01:53:10.000Z"
-  },
-  {
-    "id": "1x0ekps",
-    "title": "I got sick of AI slop so I built a Chrome extension that hides it",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0ekps/i_got_sick_of_ai_slop_so_i_built_a_chrome/",
-    "excerpt": "**How it works:** * Works on Reddit, X and LinkedIn * Runs on your existing ChatGPT plan, a free API key/paid API providers, or a our foundational model that ru…",
-    "createdAt": "2026-10-08T01:48:04.000Z"
-  },
-  {
-    "id": "1wzku68",
-    "title": "Free language learning app: Japanese, Korean, Spanish, French · Open Lingo",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzku68/free_language_learning_app_japanese_korean/",
-    "excerpt": "Hey guys! My brother and I are two foreign language learners who did not want to pay for Duolingo's 160$ a year family plan anymore, and were tired of using a s…",
-    "createdAt": "2026-10-07T02:10:30.000Z"
-  },
-  {
-    "id": "1wzkrlt",
-    "title": "I built a way to send a file as one link you can update later without changing the link. Looking for honest feedback",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkrlt/i_built_a_way_to_send_a_file_as_one_link_you_can/",
-    "excerpt": "I'm the maker, so this is self-promo, but I'm mostly after feedback. **Problem:** freelancers and small businesses send a PDF (menu, proposal, report, price lis…",
-    "createdAt": "2026-10-07T02:06:50.000Z"
-  },
-  {
-    "id": "1wzkml6",
-    "title": "I built AISportLive to make following sports a little easier",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkml6/i_built_aisportlive_to_make_following_sports_a/",
-    "excerpt": "I’ve been working on AISportLive, a side project focused on making it easier to keep up with sports information in one place. The idea came from noticing how fr…",
-    "createdAt": "2026-10-07T01:59:54.000Z"
-  },
-  {
-    "id": "1wzkiuu",
-    "title": "I review AI-written code all day at work, so I built interview prep for it",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkiuu/i_review_aiwritten_code_all_day_at_work_so_i/",
-    "excerpt": "I'm a corporate SWE and I spend like 80% of my time reviewing AI-written code. Interviews are starting to test the same thing, so I wanted to make a product to …",
-    "createdAt": "2026-10-07T01:54:31.000Z"
-  },
-  {
-    "id": "1wzkgud",
-    "title": "Everyone can tell when you used AI to write something",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1wzkgud/everyone_can_tell_when_you_used_ai_to_write/",
-    "excerpt": "We hired a contractor who would take our code review comments, paste them into Cursor, and paste whatever came out back as his reply. We'd leave a comment like …",
-    "createdAt": "2026-10-07T01:51:41.000Z"
   }
 ]
