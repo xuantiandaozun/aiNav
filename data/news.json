@@ -1,5 +1,43 @@
 [
   {
+    "title": "在AI时代如何提升软件工程能力",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T09:07:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-28T01:12:08.475Z"
+  },
+  {
+    "title": "AI用电需求催生设备订单，燃气轮机产业链投资机会受关注",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4044790994539395?f=rss",
+    "publishedAt": "2026-10-28T00:26:59.000Z",
+    "excerpt": "当前，AI数据中心建设提速，带动供电设备需求增长，燃气轮机产业链投资机会受到关注。近期，杰瑞股份推进大额订单履约及产能建设，中超控股拓展零部件合作，汽轮科技加快自主燃气轮机商业化，产业链多环节布局持续推进。分析人士认为，北美AI用电需求增长与电网扩容周期较长的矛盾，为燃气轮机现场…",
+    "scenes": [],
+    "collectedAt": "2026-10-28T01:12:07.154Z"
+  },
+  {
+    "title": "UPS称数据中心相关的物流市场规模将达到每年150亿美元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4044790299300739?f=rss",
+    "publishedAt": "2026-10-28T00:22:17.000Z",
+    "excerpt": "UPS首席执行官卡罗尔·托梅周二表示，人工智能（AI）数据中心的兴起，为这家全球最大的包裹递送与物流公司带来了长达数十年的发展机遇。公司计划通过减少货运总量、转而专注于处理更高价值的货件，来提升利润水平。据估计，到2026年，全球数据中心支出将达到约1万亿美元，并有望在本十年末实…",
+    "scenes": [],
+    "collectedAt": "2026-10-28T01:12:07.154Z"
+  },
+  {
+    "title": "8点1氪丨iPhone Duo内屏开裂可免费换机；A股只剩一只千元股；外交部回应姆巴佩遭多品牌解约",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4044782264193925?f=rss",
+    "publishedAt": "2026-10-28T00:06:54.000Z",
+    "excerpt": "今日热点导览 OpenAI发布GPT-6.1 Terra，可解读图纸、编辑视频 首饰金大幅回落，投资金条重返“8”字头 A股三大指数集体收跌，工商银行、建设银行股价再创新高 泡泡玛特正推进下个乐园项目 马斯克称SpaceX移动网络建设将耗时2至3年 TOP3大新闻 iPhone …",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-28T01:12:07.153Z"
+  },
+  {
     "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
@@ -1560,18 +1598,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4506,18 +4544,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
