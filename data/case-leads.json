@@ -1,5 +1,45 @@
 [
   {
+    "id": "1xi70sn",
+    "title": "I was tired of shady keyboard apps and ad-filled websites, so I coded a 100% client-side, zero-ad aesthetic font & bio generator",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xi70sn/i_was_tired_of_shady_keyboard_apps_and_adfilled/",
+    "excerpt": "Hey r/SideProject, A quick weekend build to solve a small personal annoyance. A while ago, I was looking for clean Unicode font variations (like Fraktur, cursiv…",
+    "createdAt": "2026-10-29T01:39:44.000Z"
+  },
+  {
+    "id": "1xi6tn0",
+    "title": "Self-taught sewist here. I built an app so I could see a garment before cutting into expensive fabric",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xi6tn0/selftaught_sewist_here_i_built_an_app_so_i_could/",
+    "excerpt": "I taught myself to sew with persistence and a healthy jealousy fueled from watching TikTok videos. I mostly sew for my daughter, usually from vintage patterns, …",
+    "createdAt": "2026-10-29T01:30:25.000Z"
+  },
+  {
+    "id": "1xi6ir8",
+    "title": "What was the first thing you ever vibe coded?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xi6ir8/what_was_the_first_thing_you_ever_vibe_coded/",
+    "excerpt": "Mine was this image similarity detector flask app from September 2024. All it does is take two images and then give you the percentage of similarity. [https://g…",
+    "createdAt": "2026-10-29T01:16:31.000Z"
+  },
+  {
+    "id": "1xi5yzq",
+    "title": "Day 2: AI made all my animations",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xi5yzq/day_2_ai_made_all_my_animations/",
+    "excerpt": "Day 2 of the build Focused was put on the basic animations. Walking, running, sliding, jumping, levitating etc Gave Claude a free animation pack, it REA, keyed …",
+    "createdAt": "2026-10-29T00:51:37.000Z"
+  },
+  {
     "id": "1xhbko9",
     "title": "I'm a solo guy with a day job and I turned my tiny Monad memecoin into a full site: a fantasy RPG, a blog, game guides, and now a built-in swap",
     "sourceName": "Reddit · r/SideProject",
@@ -1158,45 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x18w6l/i_built_an_ai_girlfriend_app_and_made_it/",
     "excerpt": "I've been building PureLove for the past few months, an AI companion chat where you pick a character (or create your own) and just talk. Right now everything is…",
     "createdAt": "2026-10-09T01:45:38.000Z"
-  },
-  {
-    "id": "1x17wc4",
-    "title": "So where are we going with this?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x17wc4/so_where_are_we_going_with_this/",
-    "excerpt": "I think vibe coding IS the future. I see a fair bit of naysayers and deniers (mostly on other subreddits, not on this one). I think we have let the genie out of…",
-    "createdAt": "2026-10-09T00:55:55.000Z"
-  },
-  {
-    "id": "1x17nh3",
-    "title": "A visual way to browse products and shop",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x17nh3/a_visual_way_to_browse_products_and_shop/",
-    "excerpt": "I built Enikq to make browsing products feel a bit more like exploring than searching through filters. You can move around, open items, save things you like, an…",
-    "createdAt": "2026-10-09T00:43:32.000Z"
-  },
-  {
-    "id": "1x176o7",
-    "title": "I built a zombie shooter using Opus 5.5",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x176o7/i_built_a_zombie_shooter_using_opus_55/",
-    "excerpt": "Opus 5.5 helped me to build this zombie shooter. Everything you see here was built using Claude + Chatgpt + Meshy Claude to build the game , Chatgpt to generate…",
-    "createdAt": "2026-10-09T00:20:11.000Z"
-  },
-  {
-    "id": "1x0ex2m",
-    "title": "I made an app for shared bills that keeps the receipts with each expense",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x0ex2m/i_made_an_app_for_shared_bills_that_keeps_the/",
-    "excerpt": "I'm Spawn. I built CoolMeow for people sharing expenses with a partner, roommates or friends on a trip. Each expense records who paid and who should split it, w…",
-    "createdAt": "2026-10-08T02:05:00.000Z"
   }
 ]
