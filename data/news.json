@@ -1,5 +1,76 @@
 [
   {
+    "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-29T01:11:37.692Z"
+  },
+  {
+    "title": "三星电子：存储需求将进一步增长，继续扩大HBM、服务器DRAM以及SSD的销售规模",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4046261569983363?f=rss",
+    "publishedAt": "2026-10-29T01:10:07.000Z",
+    "excerpt": "三星电子在Q3财报中表示，存储需求将进一步增长，需求重心集中在适配新一代CPU/GPU平台的存储产品。伴随个人AI智能代理服务扩张，QLC固态硬盘需求大幅攀升。继续扩大HBM、服务器DRAM以及SSD的销售规模，提升高速服务器DDR5、QLC产品的供货量。（财联社）",
+    "scenes": [],
+    "collectedAt": "2026-10-29T01:11:36.504Z"
+  },
+  {
+    "title": "现代汽车将投资近4.5亿美元扩建美国阿拉巴马州工厂",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4046259853890696?f=rss",
+    "publishedAt": "2026-10-29T01:08:22.000Z",
+    "excerpt": "当地时间10月28日，现代汽车美国制造子公司Hyundai Motor Manufacturing Alabama宣布，计划投资约4.5亿美元扩建阿拉巴马州工厂。此次投资将扩大该工厂的发动机产能，以支持更多类型的动力总成，包括专为混动车和增程式电动汽车（EREV）设计的动力系统。…",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-29T01:11:36.504Z"
+  },
+  {
+    "title": "8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4046203581289345?f=rss",
+    "publishedAt": "2026-10-29T00:13:55.000Z",
+    "excerpt": "今日热点导览 特朗普将“正式禁用”AI一词 泡泡玛特回应业绩大跌，管理层称高基数叠加“炒娃降温” iPhone Duo首次支持Apple Pencil，仅限USB-C款且需有线配对 海力士DRAM到2029年产能已售罄 小鹏机器人固态电池小批量量产 TOP3大新闻 姆巴佩中国代言…",
+    "scenes": [],
+    "collectedAt": "2026-10-29T01:11:36.503Z"
+  },
+  {
+    "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T22:53:53.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-29T01:11:37.692Z"
+  },
+  {
+    "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T22:05:40.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-10-29T01:11:37.692Z"
+  },
+  {
+    "title": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-28T21:39:45.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-29T01:11:37.692Z"
+  },
+  {
     "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article",
@@ -1752,18 +1823,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4698,18 +4769,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
