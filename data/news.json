@@ -1,5 +1,99 @@
 [
   {
+    "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T20:13:07.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
+    "title": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T18:00:23.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
+    "title": "生产级 AI：隐性故障、工程落地与智能体治理",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T15:21:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
+    "title": "微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Lg6RgMudjiWIVQllmz8a?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T13:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
+    "title": "XHEART正式发布大模型芯片X7 Ultra",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4046954407213315?f=rss",
+    "publishedAt": "2026-10-29T12:54:54.000Z",
+    "excerpt": "36氪获悉，XHEART正式发布大模型芯片X7 Ultra，截至目前，X7系列已量产8个月，累计出货超过20万颗，搭载10款量产车型，获得超过40款车型订单。",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:12.025Z"
+  },
+  {
+    "title": "Shopify采用维萨、万事达卡的智能体支付技术",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4046930726566153?f=rss",
+    "publishedAt": "2026-10-29T12:38:40.000Z",
+    "excerpt": "Shopify宣布，已经在自家结账功能Shop Pay中接入由维萨、万事达卡以及美国运通开发的智能体支付技术。这一选择与Stripe处理智能体购物与信用卡业务的主流方案形成鲜明反差。维萨、万事达卡、美国运通推出了智能体支付令牌。该令牌代表用户的银行卡信息，授权后的AI智能体可以直…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-29T13:14:12.025Z"
+  },
+  {
+    "title": "36氪研究院 | 2026年中国自动驾驶行业发展研究报告",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4046684874429576?f=rss",
+    "publishedAt": "2026-10-29T10:59:23.000Z",
+    "excerpt": "自动驾驶是人工智能与汽车工业深度融合的战略性技术方向，也是中国智能网联新能源汽车战略性新兴产业中增长最为活跃的领域之一。当前，中国自动驾驶行业正处于从全域道路测试、示范应用迈向规模化商业落地的关键阶段。政策层面，2026年7月，首部针对L3、L4级自动驾驶系统的强制性国家标准（G…",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:12.024Z"
+  },
+  {
+    "title": "AI 用起来了，业务价值谁来打分？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T10:37:25.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
+    "title": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T09:58:08.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
+    "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-29T09:55:47.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
     "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o?utm_source=rss&utm_medium=article",
@@ -9,6 +103,15 @@
       "coding"
     ],
     "collectedAt": "2026-10-29T01:11:37.692Z"
+  },
+  {
+    "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/505934.html",
+    "publishedAt": "2026-10-29T02:18:28.000Z",
+    "excerpt": "用扩散模型怎么做做Agent？",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:10.444Z"
   },
   {
     "title": "三星电子：存储需求将进一步增长，继续扩大HBM、服务器DRAM以及SSD的销售规模",
@@ -38,6 +141,17 @@
     "excerpt": "今日热点导览 特朗普将“正式禁用”AI一词 泡泡玛特回应业绩大跌，管理层称高基数叠加“炒娃降温” iPhone Duo首次支持Apple Pencil，仅限USB-C款且需有线配对 海力士DRAM到2029年产能已售罄 小鹏机器人固态电池小批量量产 TOP3大新闻 姆巴佩中国代言…",
     "scenes": [],
     "collectedAt": "2026-10-29T01:11:36.503Z"
+  },
+  {
+    "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506227.html",
+    "publishedAt": "2026-10-29T00:03:58.000Z",
+    "excerpt": "能连肝数日修Bug，免疫提示词注入",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-10-29T13:14:10.444Z"
   },
   {
     "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
@@ -165,6 +279,26 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-28T01:12:08.475Z"
+  },
+  {
+    "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506055.html",
+    "publishedAt": "2026-10-28T08:59:00.000Z",
+    "excerpt": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-29T13:14:10.444Z"
+  },
+  {
+    "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506042.html",
+    "publishedAt": "2026-10-28T08:55:26.000Z",
+    "excerpt": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+    "scenes": [],
+    "collectedAt": "2026-10-29T13:14:10.444Z"
   },
   {
     "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
@@ -1823,18 +1957,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4769,18 +4903,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
