@@ -1,5 +1,43 @@
 [
   {
+    "title": "纳斯达克100指数期货跌幅扩大至2%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4047660925843977?f=rss",
+    "publishedAt": "2026-10-30T00:53:37.000Z",
+    "excerpt": "纳斯达克100指数期货跌幅扩大至2%。最新触发因素包括亚马逊的大规模资本支出数字、英特尔因个人电脑处理器需求疲软发布低于预期的销售预测。这进一步加剧了投资者对AI热潮融资成本高昂以及这些巨额投资能否获得回报的担忧。（财联社）",
+    "scenes": [],
+    "collectedAt": "2026-10-30T01:13:04.320Z"
+  },
+  {
+    "title": "外资公募优化持仓结构，科技成长仍是关注重点",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4047614167333123?f=rss",
+    "publishedAt": "2026-10-30T00:19:47.000Z",
+    "excerpt": "随着公募基金2026年三季报披露收官，外商独资公募基金的最新持仓动向逐渐明晰。从三季度调仓情况来看，部分外资公募在保持权益资产配置的同时，适度增加银行等稳健型资产持仓，并继续挖掘人工智能、半导体等科技领域的投资机会，投资组合更加注重行业均衡与风险收益匹配。多位受访人士认为，相关调…",
+    "scenes": [],
+    "collectedAt": "2026-10-30T01:13:04.321Z"
+  },
+  {
+    "title": "8点1氪丨外交部回应三丽鸥取消Vivant联名；科创50指数创新低；上海一宜家餐厅开始实行“消费入座”，周二、周四有保安劝离",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4047618190883331?f=rss",
+    "publishedAt": "2026-10-30T00:12:47.000Z",
+    "excerpt": "今日热点导览 宇树回应净利润下滑：系算力、大模型方向研发投入增加所致 美国司法部调查英伟达收购HuggingFace 美国知名投资人质疑美联储利率决议 机器人也有KPI考核标准了，智元发布首个“工时KPI”Worken 成都国星宇航科技股份有限公司通过港交所上市聆讯 TOP3大新…",
+    "scenes": [],
+    "collectedAt": "2026-10-30T01:13:04.319Z"
+  },
+  {
+    "title": "英伟达据悉洽谈为Nscale数据中心项目提供数十亿美元债务信用担保",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4047608885688581?f=rss",
+    "publishedAt": "2026-10-30T00:06:30.000Z",
+    "excerpt": "据知情人士透露，英伟达正与新兴人工智能云服务商 Nscale 洽谈，拟为其提供数十亿美元的债务信用担保，用于开发一座 460 兆瓦的数据中心；该数据中心计划由人工智能公司 Anthropic 租用。消息人士称，目前该交易尚未最终签署，具体条款仍可能发生变化。不过，这再次表明英伟达…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-30T01:13:04.321Z"
+  },
+  {
     "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&utm_medium=article",
@@ -25,6 +63,15 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-29T13:14:13.261Z"
+  },
+  {
+    "title": "部署态加速，智元要打通物理AI全链路",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4047032889800965?f=rss",
+    "publishedAt": "2026-10-29T14:25:57.000Z",
+    "excerpt": "在具身智能行业仍热衷于用高难度动作展示技术进步时，智元创新日上呈现了另外一种思路。 在这场发布会上，没有太多眼花缭乱的机器人特技，也没有太多夺眼球的集体舞蹈，反而更像是一场信息密度极高的技术研讨会。甚至，在世博中心的入口，智元还设置了一大面“论文墙”，呈现智元团队近期的核心技术进…",
+    "scenes": [],
+    "collectedAt": "2026-10-30T01:13:04.320Z"
   },
   {
     "title": "微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
@@ -1957,18 +2004,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4903,18 +4950,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
