@@ -1,5 +1,125 @@
 [
   {
+    "id": "1xj31w8",
+    "title": "I spent 2.5 years building software for the most boring business on earth: apartment buildings. It’s live!!!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj31w8/i_spent_25_years_building_software_for_the_most/",
+    "excerpt": "Every apartment building is a tiny company nobody wants to run. Someone has to collect water meter readings from 47 flats, split the heating bill, chase the guy…",
+    "createdAt": "2026-10-30T02:02:22.000Z"
+  },
+  {
+    "id": "1xj2zj2",
+    "title": "Does my app look to stereotypically vibe coded?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj2zj2/does_my_app_look_to_stereotypically_vibe_coded/",
+    "excerpt": "Just wanted to get some opinions on these screenshots. Does it have the typical vibe coded look?",
+    "createdAt": "2026-10-30T01:59:24.000Z"
+  },
+  {
+    "id": "1xj2xmc",
+    "title": "43 hours of Claude and Codex agent time to rebuild my 2008 iPhone game. It launched on Steam today.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj2xmc/43_hours_of_claude_and_codex_agent_time_to/",
+    "excerpt": "When I originally released Tatomic, there were fewer than 1,000 apps on the App Store. The game was designed for the original iPhone’s 480×320 screen. 18 years …",
+    "createdAt": "2026-10-30T01:56:49.000Z"
+  },
+  {
+    "id": "1xj2v1a",
+    "title": "I started making holograms of real objects and accidentally ended up building an open-source 3D system",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2v1a/i_started_making_holograms_of_real_objects_and/",
+    "excerpt": "This project got somewhat out of hand. Construct started with a pretty simple idea: I wanted to make holographic versions of real things that assemble themselve…",
+    "createdAt": "2026-10-30T01:53:19.000Z"
+  },
+  {
+    "id": "1xj2r95",
+    "title": "I built CineLocal, a free and offline app to organize and watch your movies collection.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2r95/i_built_cinelocal_a_free_and_offline_app_to/",
+    "excerpt": "CineLocal is free, ad-free software that works offline to organize and watch your personal movie and series collection. To use it, you just have to select your …",
+    "createdAt": "2026-10-30T01:48:00.000Z"
+  },
+  {
+    "id": "1xj2n8b",
+    "title": "I save everything and still can’t find anything later. So I built LinkMinds. Save it once, then find it by what it was about.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2n8b/i_save_everything_and_still_cant_find_anything/",
+    "excerpt": "I have hundreds of bookmarks across Chrome, Twitter, LinkedIn, and my notes app. Last month I needed one article I’d read about onboarding emails. I knew exactl…",
+    "createdAt": "2026-10-30T01:42:36.000Z"
+  },
+  {
+    "id": "1xj2lzr",
+    "title": "I turned my brokerage portfolio into a tiny 3D house you can share with friends",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2lzr/i_turned_my_brokerage_portfolio_into_a_tiny_3d/",
+    "excerpt": "I wanted a way to show friends what I invest in without showing how much, so I built Dwellth. You connect your brokerage (read-only, through SnapTrade) and ever…",
+    "createdAt": "2026-10-30T01:40:56.000Z"
+  },
+  {
+    "id": "1xj2jlx",
+    "title": "I built an Android app to solve a problem I had while working as a bicycle courier",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2jlx/i_built_an_android_app_to_solve_a_problem_i_had/",
+    "excerpt": "Hi everyone! I wanted to share a little project I've recently finished. I'm a bicycle courier based in London, working with platforms such as Uber Eats, Deliver…",
+    "createdAt": "2026-10-30T01:37:49.000Z"
+  },
+  {
+    "id": "1xj2ikl",
+    "title": "I made a psychedelic acid machine you can play right in your browser.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2ikl/i_made_a_psychedelic_acid_machine_you_can_play/",
+    "excerpt": "Hi! A couple of days ago I shared a small project I’ve been building to let people enjoy a jam session in their browser without the struggle. It’s a free instru…",
+    "createdAt": "2026-10-30T01:36:29.000Z"
+  },
+  {
+    "id": "1xj2gbw",
+    "title": "Systems Online. Multi-agent 24/7 workflow with statistical analysis... Live.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj2gbw/systems_online_multiagent_247_workflow_with/",
+    "excerpt": "I managed to piece together a network of things that just work for my workflow. It's hard to explain.. but if you watch the video, you can see the hundreds of d…",
+    "createdAt": "2026-10-30T01:33:32.000Z"
+  },
+  {
+    "id": "1xj19ds",
+    "title": "I asked OpenAI and big AI company developers this question. How would you answer?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj19ds/i_asked_openai_and_big_ai_company_developers_this/",
+    "excerpt": "How would you answer what I asked them? I would genuinely appreciate your feedback. \"Is there anyone from OpenAI that could answer this question for me? Or any …",
+    "createdAt": "2026-10-30T00:36:36.000Z"
+  },
+  {
+    "id": "1xiyq75",
+    "title": "I made a dough calculator app for pizzas breads sweets and more, looking for feedback",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xiyq75/i_made_a_dough_calculator_app_for_pizzas_breads/",
+    "excerpt": "Hi all, over the course of the past few months, I made an app to help me with my weekly pizza dough recipes, it's called DoughBoy. It started as a pizza dough c…",
+    "createdAt": "2026-10-29T22:46:43.000Z"
+  },
+  {
     "id": "1xi70sn",
     "title": "I was tired of shady keyboard apps and ad-filled websites, so I coded a 100% client-side, zero-ad aesthetic font & bio generator",
     "sourceName": "Reddit · r/SideProject",
@@ -1078,125 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2waq9/would_this_be_a_good_final_year_capstone_project/",
     "excerpt": "Hi everyone, I’m working on a project idea and wanted to validate whether it is strong enough for a university capstone project. Our professor was having us do …",
     "createdAt": "2026-10-11T02:09:06.000Z"
-  },
-  {
-    "id": "1x2w5pv",
-    "title": "NyaIcon: free icon themes for Mac",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2w5pv/nyaicon_free_icon_themes_for_mac/",
-    "excerpt": "Sharing my app NyaIcon. Give your apps and folders a matching look with ready-made themes. An alternative to IconChamp with no paid tier. Free, no account neede…",
-    "createdAt": "2026-10-11T02:01:26.000Z"
-  },
-  {
-    "id": "1x2w1dg",
-    "title": "🎵 [Android Beta] Looking for 20 music lovers to test ZIIIK – Discover music beyond borders",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2w1dg/android_beta_looking_for_20_music_lovers_to_test/",
-    "excerpt": "Hey everyone! 👋🎵 I'm Adrien, an independent developer from France, and I've just released the English version of my Android app, **ZIIIK**! I wanted to create s…",
-    "createdAt": "2026-10-11T01:55:20.000Z"
-  },
-  {
-    "id": "1x2tpkx",
-    "title": "I don't trust AI enough, so I'm asking you for advice",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x2tpkx/i_dont_trust_ai_enough_so_im_asking_you_for_advice/",
-    "excerpt": "I run a small business and we use a wide range of tools to do our work. * A proprietary intranet we built moons ago * Clickup * Custom vibe coded apps ... you g…",
-    "createdAt": "2026-10-10T23:56:55.000Z"
-  },
-  {
-    "id": "1x2rfus",
-    "title": "I built an Gladiator Arena for AI to fight (Jev and others)",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x2rfus/i_built_an_gladiator_arena_for_ai_to_fight_jev/",
-    "excerpt": "Two weeks ago I was at a hackathon and had an idea about the newly released Typesafe.ai Jev decision model. Here is [Blood & Sand](http://bloodsand.com) \\- a Ro…",
-    "createdAt": "2026-10-10T22:06:53.000Z"
-  },
-  {
-    "id": "1x1k53v",
-    "title": "How's my vibe coded YouTube?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x1k53v/hows_my_vibe_coded_youtube/",
-    "excerpt": "https://preview.redd.it/zif0y966rfuh1.png?width=3829&format=png&auto=webp&s=d493c45cce53d50d8b7100a8ec7b6f15f31eaf71 I tried remaking the YouTube UI using Claud…",
-    "createdAt": "2026-10-09T12:32:00.000Z"
-  },
-  {
-    "id": "1x1jxe6",
-    "title": "meet breakaway: an engineering department for you and your Claude Code agents that never clocks off while keeping you in control.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x1jxe6/meet_breakaway_an_engineering_department_for_you/",
-    "excerpt": "breakaway started as a task board for me and my coding agents: they claim the work, I merge it. It's grown into something closer to an engineering department th…",
-    "createdAt": "2026-10-09T12:21:53.000Z"
-  },
-  {
-    "id": "1x19fi8",
-    "title": "For you Android users, I made a clean, free, no ads, no account launcher!",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19fi8/for_you_android_users_i_made_a_clean_free_no_ads/",
-    "excerpt": "Hey all! I just released the my launcher Glint (in an open beta because I don't have access to more than a handful of devices). It'll always be free, require no…",
-    "createdAt": "2026-10-09T02:12:37.000Z"
-  },
-  {
-    "id": "1x19efj",
-    "title": "Made a User-Interface for Space Fans!",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19efj/made_a_userinterface_for_space_fans/",
-    "excerpt": "There will be quaterly releases, every 3 months. This project is still a Work-In-Progress and is not YET daily drivable, but we are working hard to make it so i…",
-    "createdAt": "2026-10-09T02:11:03.000Z"
-  },
-  {
-    "id": "1x19dux",
-    "title": "After the digital rain one, I made something softer: a fireside cats screensaver",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19dux/after_the_digital_rain_one_i_made_something/",
-    "excerpt": "Some of you saw the digital rain and Vortext screensavers I posted before. This one is the opposite mood, the slow and cozy one. It's a set of photos of cats cu…",
-    "createdAt": "2026-10-09T02:10:13.000Z"
-  },
-  {
-    "id": "1x19dqx",
-    "title": "I'm a keys player and wanted MainStage on Windows, so I built a free, open-source one",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19dqx/im_a_keys_player_and_wanted_mainstage_on_windows/",
-    "excerpt": "Hey all. I play keys, and the go-to app for running your sounds live (MainStage) is Mac only. The Windows options are either paid or not really built for keyboa…",
-    "createdAt": "2026-10-09T02:10:04.000Z"
-  },
-  {
-    "id": "1x19cmg",
-    "title": "I Recompiled The Darkness (2007) into a Native PC Game",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x19cmg/i_recompiled_the_darkness_2007_into_a_native_pc/",
-    "excerpt": "*The Darkness* (2007) is one of those games I’ve always thought deserved a proper PC release, so I decided to work on one myself. I’ve been developing **Estacad…",
-    "createdAt": "2026-10-09T02:08:29.000Z"
-  },
-  {
-    "id": "1x18w6l",
-    "title": "I built an AI girlfriend app and made it completely free while I test it. Roast it.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x18w6l/i_built_an_ai_girlfriend_app_and_made_it/",
-    "excerpt": "I've been building PureLove for the past few months, an AI companion chat where you pick a character (or create your own) and just talk. Right now everything is…",
-    "createdAt": "2026-10-09T01:45:38.000Z"
   }
 ]
