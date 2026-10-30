@@ -1,5 +1,110 @@
 [
   {
+    "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-30T19:27:02.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:09.227Z"
+  },
+  {
+    "title": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-30T18:53:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:09.227Z"
+  },
+  {
+    "title": "2026年AI技术演进与2027年趋势前瞻报告",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-30T14:41:36.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:09.227Z"
+  },
+  {
+    "title": "法国Mistral发布新一代AI模型 瞄准企业网络安全市场",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4048309279701253?f=rss",
+    "publishedAt": "2026-10-30T12:06:58.000Z",
+    "excerpt": "法国人工智能公司Mistral AI当地时间周四表示，其最新发布的Large 4模型（简称ML4）具备先进的编程和网络防御能力，企业可以将其部署在自己的计算机和服务器上运行。该模型在Mistral位于欧洲的数据中心训练，使用了3800颗英伟达Grace Blackwell GPU…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-30T13:14:07.919Z"
+  },
+  {
+    "title": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-30T11:22:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:09.227Z"
+  },
+  {
+    "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-30T10:04:10.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:09.227Z"
+  },
+  {
+    "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-10-30T09:23:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:09.227Z"
+  },
+  {
+    "title": "AI初创企业的下半场：钱往哪里去？",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4048078906800642?f=rss",
+    "publishedAt": "2026-10-30T08:00:29.000Z",
+    "excerpt": "作者｜王晗玉 编辑｜张帆 2026年的风险投资市场，正在上演一场前所未有的“AI大分流”。据Crunchbase数据，今年上半年全球初创企业融资额约5100亿美元，已超过去年全年；仅第一季度，约80%的风险投资便流向了AI公司。OpenAI单轮融资1220亿美元、估值冲上8520…",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:07.918Z"
+  },
+  {
+    "title": "Claude新模型曝光：新Fable，新Opus…",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506674.html",
+    "publishedAt": "2026-10-30T05:50:44.000Z",
+    "excerpt": "",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:06.367Z"
+  },
+  {
+    "title": "36氪首发丨前华为VP创业做AI原生电力资产运营，获宁德时代旗下基金数千万美元A轮融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4047734928259592?f=rss",
+    "publishedAt": "2026-10-30T02:10:29.000Z",
+    "excerpt": "作者 | 乔钰杰 编辑 | 袁斯来 本文约3600字，建议阅读9分钟 硬氪获悉，总部位于瑞典的AI原生电力资产运营商Green Voltis近日宣布完成数千万美元A轮融资，由宁德时代支持设立的美元基金Lochpine Capital 独家投资。 本轮融资资金将主要用于三个方面：继…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-10-30T13:14:07.918Z"
+  },
+  {
+    "title": "AI进入细胞工厂，资本等的「大结果」快到了？",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4046754792543106?f=rss",
+    "publishedAt": "2026-10-30T01:31:17.000Z",
+    "excerpt": "文 | 刘凌果 编辑 | 海若镜 10月14日，诺贝尔化学奖得主David Baker团队连发两篇《Nature》，宣布AI能从头设计蛋白酶；9月以来，Claude、Gemini 4接连宣称具备发现、设计新酶的能力。 AI4S水温沸腾，以酶为关键工具的昔日顶流“合成生物”，能否复…",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-10-30T13:14:07.918Z"
+  },
+  {
     "title": "纳斯达克100指数期货跌幅扩大至2%",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4047660925843977?f=rss",
@@ -16,6 +121,15 @@
     "excerpt": "随着公募基金2026年三季报披露收官，外商独资公募基金的最新持仓动向逐渐明晰。从三季度调仓情况来看，部分外资公募在保持权益资产配置的同时，适度增加银行等稳健型资产持仓，并继续挖掘人工智能、半导体等科技领域的投资机会，投资组合更加注重行业均衡与风险收益匹配。多位受访人士认为，相关调…",
     "scenes": [],
     "collectedAt": "2026-10-30T01:13:04.321Z"
+  },
+  {
+    "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506569.html",
+    "publishedAt": "2026-10-30T00:19:06.000Z",
+    "excerpt": "Momenta世界模型上车",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:06.367Z"
   },
   {
     "title": "8点1氪丨外交部回应三丽鸥取消Vivant联名；科创50指数创新低；上海一宜家餐厅开始实行“消费入座”，周二、周四有保安劝离",
@@ -123,6 +237,15 @@
     "collectedAt": "2026-10-29T13:14:13.261Z"
   },
   {
+    "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506554.html",
+    "publishedAt": "2026-10-29T09:58:26.000Z",
+    "excerpt": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:06.367Z"
+  },
+  {
     "title": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53?utm_source=rss&utm_medium=article",
@@ -141,6 +264,24 @@
     "collectedAt": "2026-10-29T13:14:13.261Z"
   },
   {
+    "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506550.html",
+    "publishedAt": "2026-10-29T09:52:05.000Z",
+    "excerpt": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:06.367Z"
+  },
+  {
+    "title": "AI安全是AI规模化应用“加速器”",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506544.html",
+    "publishedAt": "2026-10-29T08:50:14.000Z",
+    "excerpt": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
+    "scenes": [],
+    "collectedAt": "2026-10-30T13:14:06.367Z"
+  },
+  {
     "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o?utm_source=rss&utm_medium=article",
@@ -150,6 +291,17 @@
       "coding"
     ],
     "collectedAt": "2026-10-29T01:11:37.692Z"
+  },
+  {
+    "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506478.html",
+    "publishedAt": "2026-10-29T06:53:19.000Z",
+    "excerpt": "All in one、任何人都能用",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-10-30T13:14:06.367Z"
   },
   {
     "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
@@ -2004,18 +2156,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4950,18 +5102,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
