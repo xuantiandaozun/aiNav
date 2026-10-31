@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xjy2fw",
+    "title": "I made a free iPhone travel journal that looks like a real passport. Nothing stamps until you confirm.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjy2fw/i_made_a_free_iphone_travel_journal_that_looks/",
+    "excerpt": "Hi, I'm the solo developer. Passo is a private travel journal for iPhone. Your passport details are encrypted on your phone, with no account and no analytics. A…",
+    "createdAt": "2026-10-31T02:00:26.000Z"
+  },
+  {
+    "id": "1xjxxl4",
+    "title": "A ChatGPT Prompt Library for Small Business Marketing (1,000+ Prompts)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxxl4/a_chatgpt_prompt_library_for_small_business/",
+    "excerpt": "Hello everyone, I’d like to share a digital product that could be useful for small business owners, shop owners, and anyone trying to grow and market their busi…",
+    "createdAt": "2026-10-31T01:53:42.000Z"
+  },
+  {
+    "id": "1xjxtfe",
+    "title": "Iris - an AI you text on WhatsApp that sends back the finished deck or doc. roast it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxtfe/iris_an_ai_you_text_on_whatsapp_that_sends_back/",
+    "excerpt": "i got tired of copy pasting between chatbots and docs, so i built an ai you just text on whatsapp (or telegram/email). you ask for a deck, doc or spreadsheet an…",
+    "createdAt": "2026-10-31T01:48:01.000Z"
+  },
+  {
+    "id": "1xjxt5m",
+    "title": "I built a what-if check for the moment a friend suggests an expensive dinner",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxt5m/i_built_a_whatif_check_for_the_moment_a_friend/",
+    "excerpt": "Say a friend suggests dinner and payday is still a week away. Looking at the bank balance alone doesn’t answer the useful question: what would be left after thi…",
+    "createdAt": "2026-10-31T01:47:34.000Z"
+  },
+  {
+    "id": "1xjxm6a",
+    "title": "I built a free app that turns dog walks into a \"claim your block\" map game. Looking for honest feedback",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxm6a/i_built_a_free_app_that_turns_dog_walks_into_a/",
+    "excerpt": "Hey all, I'm Dmytro, a solo dev in NYC. I walk my dog every day and wanted walks to feel less like a chore, so I built **WalkPack**. What it does: - Walk your d…",
+    "createdAt": "2026-10-31T01:37:54.000Z"
+  },
+  {
+    "id": "1xjxler",
+    "title": "LexiSphere - A word search game on a sphere",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxler/lexisphere_a_word_search_game_on_a_sphere/",
+    "excerpt": "I enjoy word search games and wanted to try taking them to a different level, so I built LexiSphere. The letters wrap around a sphere you rotate to find words. …",
+    "createdAt": "2026-10-31T01:36:48.000Z"
+  },
+  {
+    "id": "1xjx7z7",
+    "title": "Professor Clippy - a desktop sticky note where your AI agents leave you notes, reminders and questions",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjx7z7/professor_clippy_a_desktop_sticky_note_where_your/",
+    "excerpt": "I've been running AI coding agents (Claude Code) and wanted a better way to know when one is done, stuck, or asking me something than staring at terminal window…",
+    "createdAt": "2026-10-31T01:18:37.000Z"
+  },
+  {
+    "id": "1xjte03",
+    "title": "battle of the elements - 5v5v5v5 arena battler",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xjte03/battle_of_the_elements_5v5v5v5_arena_battler/",
+    "excerpt": "used ai to make a game inspired by avatar the last airbender. it's a 5v5v5v5 arena with 4 playable nations(wind,water,fire,earth). some features include element…",
+    "createdAt": "2026-10-30T22:28:47.000Z"
+  },
+  {
     "id": "1xj31w8",
     "title": "I spent 2.5 years building software for the most boring business on earth: apartment buildings. It’s live!!!",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4k92u/im_a_new_mom_and_i_decided_to_take_a_chance_on/",
     "excerpt": "Hi everyone! I wanted to share something a little personal and hopefully get some honest opinions. I'm a new mom, and I've been thinking a lot about my future a…",
     "createdAt": "2026-10-13T01:52:16.000Z"
-  },
-  {
-    "id": "1x4k696",
-    "title": "Virtua Cop (1994 arcade) in REAL 3D VR on Quest 3, with a 3D virtual homemade gun in hand. You're not shooting on a flat screen (but you can) and it's free.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4k696/virtua_cop_1994_arcade_in_real_3d_vr_on_quest_3/",
-    "excerpt": "\"Don't shoot me!\" The legendary Virtua Cop is out in VR. First, thank you for the incredible welcome you gave Sega Rally. We're already more than 150 on the Dis…",
-    "createdAt": "2026-10-13T01:48:29.000Z"
-  },
-  {
-    "id": "1x4i9rh",
-    "title": "I had fun building a Discord/Slack alternative",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x4i9rh/i_had_fun_building_a_discordslack_alternative/",
-    "excerpt": "Hey everyone! I wanted to share something I have just been building for fun and truly seeing how far I can take it. Still a long ways to go but its truly been a…",
-    "createdAt": "2026-10-13T00:15:36.000Z"
-  },
-  {
-    "id": "1x3pvea",
-    "title": "I created Trek Tracker, a site for watching the entirety of Star Trek in either release or Chronological order",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x3pvea/i_created_trek_tracker_a_site_for_watching_the/",
-    "excerpt": "I made a site that extends on the great work done by the Star Trek Chronology Project for compiling a complete list of Star Trek episodes and movies in the orde…",
-    "createdAt": "2026-10-12T02:09:33.000Z"
-  },
-  {
-    "id": "1x3pujw",
-    "title": "MyoGo - Making myofunctional exercises more engaging for kids",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x3pujw/myogo_making_myofunctional_exercises_more/",
-    "excerpt": "I built MyoGo after seeing parents who wanted to help their kids but didn't really understand what myofunctional therapy was or how it could help. When a dentis…",
-    "createdAt": "2026-10-12T02:08:12.000Z"
-  },
-  {
-    "id": "1x3pri0",
-    "title": "I built a way to personalize my AI and use it everywhere",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x3pri0/i_built_a_way_to_personalize_my_ai_and_use_it/",
-    "excerpt": "If you're anything like me in using AI tools, you must have seen this problem too. I use AI a lot, for daily tasks as well as coding. I use different AI tools f…",
-    "createdAt": "2026-10-12T02:03:44.000Z"
-  },
-  {
-    "id": "1x3mc72",
-    "title": "I updated my Matrix protocol room tracker so that it integrates into the search of the Cinny and Element clients",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x3mc72/i_updated_my_matrix_protocol_room_tracker_so_that/",
-    "excerpt": "[https://activematrixrooms.com/faq](https://activematrixrooms.com/faq) This should make it much easier for people who use the protocol to find rooms based on ac…",
-    "createdAt": "2026-10-11T23:12:24.000Z"
-  },
-  {
-    "id": "1x2wb2j",
-    "title": "HabitInk – a small, private habit tracker that helps you start again after missed days",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2wb2j/habitink_a_small_private_habit_tracker_that_helps/",
-    "excerpt": "Hi, I'm the developer. I built HabitInk for myself when I was trying to read 10 pages a day, and I've been using it every day since late June. **App Name:** Hab…",
-    "createdAt": "2026-10-11T02:09:36.000Z"
-  },
-  {
-    "id": "1x2waq9",
-    "title": "Would this be a good final year capstone project? Portfolio tracker + strategy backtesting platform",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x2waq9/would_this_be_a_good_final_year_capstone_project/",
-    "excerpt": "Hi everyone, I’m working on a project idea and wanted to validate whether it is strong enough for a university capstone project. Our professor was having us do …",
-    "createdAt": "2026-10-11T02:09:06.000Z"
   }
 ]
