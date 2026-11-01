@@ -1,5 +1,52 @@
 [
   {
+    "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-01T17:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-01T13:09:57.729Z"
+  },
+  {
+    "title": "新入口和旧城墙之下，“中国版Muse”有多远？",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4051143495603336?f=rss",
+    "publishedAt": "2026-11-01T12:01:00.000Z",
+    "excerpt": "文 | 李炤锋 编辑 | 张雨忻 1040万次，这是Meta的AI个人助理Muse上线不足两个月的累计下载量，由此，国内快速掀起了一轮Personal Agent产品热潮——谁能做出一个“中国版Muse”，成为了全行业都在关注的话题。 一批创业团队正在加速入场。去年离开字节的原豆…",
+    "scenes": [],
+    "collectedAt": "2026-11-01T13:09:56.068Z"
+  },
+  {
+    "title": "汤道生谈WorkBuddy商业化：不靠收入数字催团队",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4051138782860421?f=rss",
+    "publishedAt": "2026-11-01T12:00:00.000Z",
+    "excerpt": "腾讯正在把更多办公能力接入WorkBuddy。 10月29日，在2026腾讯全球数字生态大会上，腾讯发布跨应用办公协同体系Buddy One，连接腾讯文档、腾讯会议、ima和腾讯网盘等产品，推进账号、AI积分及部分服务权益互通。WorkBuddy也将进一步开放产品架构，支持企业自…",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-01T13:09:56.068Z"
+  },
+  {
+    "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-01T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-01T13:09:57.729Z"
+  },
+  {
+    "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507031.html",
+    "publishedAt": "2026-11-01T08:02:37.000Z",
+    "excerpt": "让AI像牛顿一样思考",
+    "scenes": [],
+    "collectedAt": "2026-11-01T13:09:54.590Z"
+  },
+  {
     "title": "DeepSeek发布全新Agent架构",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4050491685507971?f=rss",
@@ -39,6 +86,17 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-31T13:10:10.565Z"
+  },
+  {
+    "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/506904.html",
+    "publishedAt": "2026-10-31T13:49:44.000Z",
+    "excerpt": "AI已经自己找到Bug并提交PR",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-01T13:09:54.590Z"
   },
   {
     "title": "三星高管会见OpenAI首席执行官，探讨人工智能转型",
@@ -2327,18 +2385,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -5273,18 +5331,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
