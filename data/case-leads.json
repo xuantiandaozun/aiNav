@@ -1,5 +1,105 @@
 [
   {
+    "id": "1xkrhdp",
+    "title": "I built a tool that makes faceless short videos and posts them for you. Opening it to 50 beta testers",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkrhdp/i_built_a_tool_that_makes_faceless_short_videos/",
+    "excerpt": "I've been building VidPost (https://vidpost.app) for the past few months. I got tired of spending hours making shorts for my own channels, so I built something …",
+    "createdAt": "2026-11-01T02:04:45.000Z"
+  },
+  {
+    "id": "1xkre8b",
+    "title": "8-Bit-Weather - Windows",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkre8b/8bitweather_windows/",
+    "excerpt": "I created a cute windows app that simplifies weather. It's a simple multilayered weather app that shows highs and lows as well a visual translation of the actua…",
+    "createdAt": "2026-11-01T02:00:06.000Z"
+  },
+  {
+    "id": "1xkr7ct",
+    "title": "I kept seeing good shops lose customers to a bad website, so I built a free scan to show them where",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkr7ct/i_kept_seeing_good_shops_lose_customers_to_a_bad/",
+    "excerpt": "I'm Mehyar. I build small software in Brooklyn. This one started with shops I actually know. A guy does great work, his regulars love him, and then I look at hi…",
+    "createdAt": "2026-11-01T01:49:54.000Z"
+  },
+  {
+    "id": "1xkqsrz",
+    "title": "Cyber Merit Temple - free browser wooden-fish clicker with temple hall UX (feedback welcome)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkqsrz/cyber_merit_temple_free_browser_woodenfish/",
+    "excerpt": "Hey — solo side project by KK. I built a free, phone-first browser page called \\*\\*Cyber Merit Temple\\*\\* (赛博功德殿): you pick a nickname, enter a small temple hal…",
+    "createdAt": "2026-11-01T01:27:59.000Z"
+  },
+  {
+    "id": "1xkqppa",
+    "title": "I’m building CallCatchAI to help businesses stop losing customers to missed calls 📞",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkqppa/im_building_callcatchai_to_help_businesses_stop/",
+    "excerpt": "One thing I’ve noticed about running a business is that every missed phone call could mean a missed customer. Business owners are busy. They’re working with cli…",
+    "createdAt": "2026-11-01T01:23:29.000Z"
+  },
+  {
+    "id": "1xkpw07",
+    "title": "Claude Code made a unique trailer for my game",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkpw07/claude_code_made_a_unique_trailer_for_my_game/",
+    "excerpt": "I thought this was an interesting way to show off my game. I gave it some parameters and had it build this opus 5.5. My game is still early in beta and availabl…",
+    "createdAt": "2026-11-01T00:40:01.000Z"
+  },
+  {
+    "id": "1xkpppo",
+    "title": "Halloween Castlevania-like game",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkpppo/halloween_castlevanialike_game/",
+    "excerpt": "Built a Halloween Castlevania-like game with my kid. Incredible how easy this is getting. Used Gemini 4 and Google models for art, music and voice. ElevenLabs u…",
+    "createdAt": "2026-11-01T00:30:59.000Z"
+  },
+  {
+    "id": "1xkpldy",
+    "title": "Built a Halloweek Castlevania-like game",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkpldy/built_a_halloweek_castlevanialike_game/",
+    "excerpt": "Built a Halloweek Castlevania-like game with my kid. Incredible how easy this is getting. Used Gemini 4 and Google models for art, music and voice. ElevenLabs f…",
+    "createdAt": "2026-11-01T00:24:57.000Z"
+  },
+  {
+    "id": "1xkofv3",
+    "title": "I built a pokemon-like roguelite autobattler with Claude, and the demo is now live!",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkofv3/i_built_a_pokemonlike_roguelite_autobattler_with/",
+    "excerpt": "TL;DR: I built Tinymon Tactics, a roguelite auto-battler about collecting monsters, mostly with Claude. The playtest is open on Steam: [https://store.steampower…",
+    "createdAt": "2026-10-31T23:28:50.000Z"
+  },
+  {
+    "id": "1xknul8",
+    "title": "This is what I made",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xknul8/this_is_what_i_made/",
+    "excerpt": "This is what I made. Claude Max account over four months, in three Js, I had to tinker a ton and completely restart many facets of the game. But it all started …",
+    "createdAt": "2026-10-31T23:00:29.000Z"
+  },
+  {
     "id": "1xjy2fw",
     "title": "I made a free iPhone travel journal that looks like a real passport. Nothing stamps until you confirm.",
     "sourceName": "Reddit · r/SideProject",
@@ -1098,105 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x5f8qb/i_built_a_personal_nutrition_platform_with_our/",
     "excerpt": "[www.wondish.io](http://www.wondish.io) I always felt lazy mid day after food and I thought it was natural but then a doctor from a small company told me a secr…",
     "createdAt": "2026-10-14T02:02:39.000Z"
-  },
-  {
-    "id": "1x5f3iu",
-    "title": "I streamed a 141 GB AI model through a 48 GB MacBook so I could train my own small models",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x5f3iu/i_streamed_a_141_gb_ai_model_through_a_48_gb/",
-    "excerpt": "I kept wanting small, custom models for my own tasks without renting GPUs or sending my data anywhere. So I built streamweights: give it a CSV of examples (inpu…",
-    "createdAt": "2026-10-14T01:55:41.000Z"
-  },
-  {
-    "id": "1x5exaa",
-    "title": "I built a community hub for my discord",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x5exaa/i_built_a_community_hub_for_my_discord/",
-    "excerpt": "It’s still a work in progress but I released this today and have a working backend. I started a discord for builders and this allows everyone to claim a room an…",
-    "createdAt": "2026-10-14T01:46:47.000Z"
-  },
-  {
-    "id": "1x5dtpm",
-    "title": "Giving away a free year to my caffeine decay app… I want feedback on whether to integrate AI or not? My hand coded app is dying.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x5dtpm/giving_away_a_free_year_to_my_caffeine_decay_app/",
-    "excerpt": "Hey everyone, I’m the developer of Caffeine Curfew. So far the app has done just over 6,000 downloads and has a small MRR + decent lifetime purchases. Lately, d…",
-    "createdAt": "2026-10-14T00:52:18.000Z"
-  },
-  {
-    "id": "1x4ksuw",
-    "title": "Im (sorta) vibe coding a Tesla web browser app store",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x4ksuw/im_sorta_vibe_coding_a_tesla_web_browser_app_store/",
-    "excerpt": "I say sorta because I was a developer for 10 years so I know some code stuff but ive been sitting back and letting Claude do most of the work. Im making [frunk.…",
-    "createdAt": "2026-10-13T02:19:26.000Z"
-  },
-  {
-    "id": "1x4kqck",
-    "title": "GleamRoll - the free photo cleaner I built for my own phone. Local only, a few minutes a day.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4kqck/gleamroll_the_free_photo_cleaner_i_built_for_my/",
-    "excerpt": "Hi all. I made GleamRoll. I know what you are thinking. Another gallery cleaning app. Fair. The store is full of them. I tried a few of the big ones first. Most…",
-    "createdAt": "2026-10-13T02:15:46.000Z"
-  },
-  {
-    "id": "1x4kmtb",
-    "title": "20 years in sales. Built an iPhone app with AI. Still underestimated the hardest part…",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4kmtb/20_years_in_sales_built_an_iphone_app_with_ai/",
-    "excerpt": "I’ve spent 20 years in sales. I thought I understood how to bring best product to market. Then I built my own iPhone app. 😂 No coding background. The whole thin…",
-    "createdAt": "2026-10-13T02:10:52.000Z"
-  },
-  {
-    "id": "1x4klbh",
-    "title": "I launched a free, browser-based cricket game - would love your feedback!",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4klbh/i_launched_a_free_browserbased_cricket_game_would/",
-    "excerpt": "Hi everyone, Today, I launched a free, browser-based cricket game named [Super Slog](https://cricketgame.me/). Features: two playing modes, three types of camer…",
-    "createdAt": "2026-10-13T02:08:50.000Z"
-  },
-  {
-    "id": "1x4keo0",
-    "title": "Built a dating app, but getting the first users seems harder than building it.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4keo0/built_a_dating_app_but_getting_the_first_users/",
-    "excerpt": "&#x200B; I'm a solo developer from Singapore, currently building a dating/social app that focuses on connecting people through shared interests, hobbies and act…",
-    "createdAt": "2026-10-13T02:00:03.000Z"
-  },
-  {
-    "id": "1x4kajz",
-    "title": "I made a website that does in-depth research of stocks using mathematics",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4kajz/i_made_a_website_that_does_indepth_research_of/",
-    "excerpt": "I made Q-netix. You enter a list of stocks, and it analyses them using established mathematical models, then gives you research reports in plain English. The id…",
-    "createdAt": "2026-10-13T01:54:21.000Z"
-  },
-  {
-    "id": "1x4k92u",
-    "title": "I'm a new mom, and I decided to take a chance on building my own app",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x4k92u/im_a_new_mom_and_i_decided_to_take_a_chance_on/",
-    "excerpt": "Hi everyone! I wanted to share something a little personal and hopefully get some honest opinions. I'm a new mom, and I've been thinking a lot about my future a…",
-    "createdAt": "2026-10-13T01:52:16.000Z"
   }
 ]
