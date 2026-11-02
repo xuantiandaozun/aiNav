@@ -1,5 +1,180 @@
 [
   {
+    "title": "AI+艺术：想让AI演得像“老戏骨”，多写提示词不如先演一遍 ｜ 奇点川越创始人 程佳伟导演分享",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/pXJoz3XPv5D224a9Fro1?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T20:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-11-02T13:14:01.225Z"
+  },
+  {
+    "title": "谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/JoVxAdq1OjtIDkRBjWOW?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T18:52:12.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T18:33:55.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁 张献涛分享",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Vryq1f3C0f5uZHOlmIp4?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T18:08:42.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T17:39:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "AI+FDE：合格的FDE，要亲手跟老师傅做业务，再把经验解法做成Skill ｜深空之序联合创始人兼COO 芦宇峰分享",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/FckEhkVfCLoXg0jvaKBa?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T17:01:29.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "别再迷信 Agent 的自主性了",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/UMvAAwoFByxvWLLVVJYY?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T16:50:26.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "道通发布AAGI空地智能解决方案，以AIP平台打通无人集群协同作业｜最前线",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4052501649789825?f=rss",
+    "publishedAt": "2026-11-02T11:04:26.000Z",
+    "excerpt": "作者｜黄楠 编辑｜袁斯来 近日，道通智能在深圳发布AAGI（Autel Air-Ground Intelligence，道通空地智能）解决方案品牌，并联合道和通泰、塞防科技推出AIP底座及EIS 2.0、Avant Hub 2.0、Skyshield 2.0三大行业应用平台。 活…",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:00.128Z"
+  },
+  {
+    "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T09:20:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T09:16:03.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-02T09:12:15.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding",
+      "office"
+    ],
+    "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "今日宜休王腾发布两款睡眠科技新品，对标Oura与Eight Sleep丨最前线",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4052338713056393?f=rss",
+    "publishedAt": "2026-11-02T08:12:23.000Z",
+    "excerpt": "今日宜休创始人王腾（图源/企业） 作者丨欧雪 编辑丨袁斯来 睡眠，这个占据人生三分之一时间的场景，正在成为AI硬件竞逐的新战场。10月29日，ISHO今日宜休在北京发布两款睡眠科技旗舰新品——ISHO Ring智能戒指与ISHO iFlow智能温控系统，并推出个人睡眠健康AI技术…",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:14:00.128Z"
+  },
+  {
+    "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507225.html",
+    "publishedAt": "2026-11-02T07:27:54.000Z",
+    "excerpt": "新版“机器人三定律”。",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:13:59.003Z"
+  },
+  {
+    "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507150.html",
+    "publishedAt": "2026-11-02T06:28:07.000Z",
+    "excerpt": "模型管线双驱动",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:13:59.003Z"
+  },
+  {
+    "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507107.html",
+    "publishedAt": "2026-11-02T06:08:04.000Z",
+    "excerpt": "能指挥Agent干活，还能控制智能家居",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-02T13:13:59.004Z"
+  },
+  {
+    "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507082.html",
+    "publishedAt": "2026-11-02T04:28:53.000Z",
+    "excerpt": "HuggingFace疑似泄露权重已被下5000次",
+    "scenes": [],
+    "collectedAt": "2026-11-02T13:13:59.004Z"
+  },
+  {
+    "title": "给一个人的邀请函丨来WISE2026，把「了不起」做成动词",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4052067795325825?f=rss",
+    "publishedAt": "2026-11-02T03:39:40.000Z",
+    "excerpt": "一个人，做成一件事。 不知道你有没有觉得：一个人做事的时候AI用得越顺手，瓶颈往往却越真实。 一方面，工具确实把门槛压低了：方案、设计、应用，一个人借AI也能做出专业水准的交付； 另一方面，真正卡住一个人的，从来不是工具——而是从想到到收到，中间隔着的那道生死线。 从「0」到「了…",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-11-02T13:14:00.128Z"
+  },
+  {
+    "title": "8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4051860578702216?f=rss",
+    "publishedAt": "2026-11-02T00:08:26.000Z",
+    "excerpt": "今日热点导览 币安在遭遇史上最大规模加密货币黑客盗窃案后恢复提现 央行、金融监管总局、证监会，今日将召开会议 Anthropic招股文件披露：未来“隐性债务”规模近9000亿美元 全球MLCC龙头，宣布扩产计划 苹果CEO：不会为了做AI而做产品 TOP3大新闻 中国贵金属首饰出…",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-02T13:14:00.129Z"
+  },
+  {
     "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article",
@@ -2394,18 +2569,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -5340,18 +5515,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
