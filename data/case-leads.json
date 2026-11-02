@@ -1,5 +1,125 @@
 [
   {
+    "id": "1xll0ag",
+    "title": "Built this last week, one AI race caller, zero adults who like her and a lot of kids who do. Built a 30 second fake horse race for Australia's big race day and I need an outside opinion",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xll0ag/built_this_last_week_one_ai_race_caller_zero/",
+    "excerpt": "Context for non-Aussies: Tuesday is Melbourne Cup, the one horse race the whole country stops for. Every office runs a sweep, meaning everyone puts in a few dol…",
+    "createdAt": "2026-11-02T02:04:13.000Z"
+  },
+  {
+    "id": "1xlkyts",
+    "title": "LeakWatch - a read-only check for leaked keys and open Supabase tables in AI-built apps",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkyts/leakwatch_a_readonly_check_for_leaked_keys_and/",
+    "excerpt": "I build this, so this is self-promo, and I'm mostly here for feedback. You paste a public URL. It loads the page and up to 12 of the scripts it references, the …",
+    "createdAt": "2026-11-02T02:02:11.000Z"
+  },
+  {
+    "id": "1xlkwev",
+    "title": "[Pixel Agents] - A pixel-art office for Claude Code sessions",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkwev/pixel_agents_a_pixelart_office_for_claude_code/",
+    "excerpt": "https://reddit.com/link/1xlkwev/video/n3wjvu5vv3zh1/player I built Pixel Agents because I kept missing permission requests when I was running a few Claude Code …",
+    "createdAt": "2026-11-02T01:58:59.000Z"
+  },
+  {
+    "id": "1xlkqnq",
+    "title": "I got a parking ticket in Brooklyn and had no idea if it was worth fighting, so I built a thing that shows the city's own numbers",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkqnq/i_got_a_parking_ticket_in_brooklyn_and_had_no/",
+    "excerpt": "I'm Mehyar. I build small software in Brooklyn. This one started with a ticket on my own windshield. I stood there doing the same thing everyone does — is this …",
+    "createdAt": "2026-11-02T01:51:04.000Z"
+  },
+  {
+    "id": "1xlklwl",
+    "title": "I built WalkPack, a game where dog walks claim map territory. Here are Buddy and Mia, my testers",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlklwl/i_built_walkpack_a_game_where_dog_walks_claim_map/",
+    "excerpt": "I'm a solo dev and made WalkPack (walkdogpack.com). These are my dogs, Buddy (Rottweiler) and Mia, who do most of the testing. The second image is one of our wa…",
+    "createdAt": "2026-11-02T01:44:27.000Z"
+  },
+  {
+    "id": "1xlkll5",
+    "title": "I built NowForge, a niche marketplace for ServiceNow add-ons",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkll5/i_built_nowforge_a_niche_marketplace_for/",
+    "excerpt": "ServiceNow admins live in a huge enterprise platform, and plenty of small annoyances never get a fix: notifications that reach nobody, scheduled jobs that quiet…",
+    "createdAt": "2026-11-02T01:43:58.000Z"
+  },
+  {
+    "id": "1xlk69f",
+    "title": "I vibe coded a solo superhero MMO with Claude Opus 5.5",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xlk69f/i_vibe_coded_a_solo_superhero_mmo_with_claude/",
+    "excerpt": "I'm 32, living in New York, and I've been building this by myself since Opus 5.5 came out about 6 weeks ago. It took 18 versions to get here. Even the trailer w…",
+    "createdAt": "2026-11-02T01:22:48.000Z"
+  },
+  {
+    "id": "1xljqpg",
+    "title": "What's the biggest loop you've ever built?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xljqpg/whats_the_biggest_loop_youve_ever_built/",
+    "excerpt": "https://i.redd.it/3c6qye6yk3zh1.png We have built a semi-automatic system that builds and runs agentic loops. These issues each tied to at least one PR which is…",
+    "createdAt": "2026-11-02T01:02:10.000Z"
+  },
+  {
+    "id": "1xljip3",
+    "title": "Creating Maya + CAD + Unreal for AI",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xljip3/creating_maya_cad_unreal_for_ai/",
+    "excerpt": "I’m vibe coding an engine ai uses to make assets. This engine forces ai into a 20 phase creation process invoking research, building, judging, and more. It incl…",
+    "createdAt": "2026-11-02T00:51:42.000Z"
+  },
+  {
+    "id": "1xli71o",
+    "title": "Made a game on Opus 5.5 where you can roam around real-world locations.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xli71o/made_a_game_on_opus_55_where_you_can_roam_around/",
+    "excerpt": "This time I started to create this game in a little town in France called Marmande. This is about one week of sending prompts to Opus 5.5",
+    "createdAt": "2026-11-01T23:49:33.000Z"
+  },
+  {
+    "id": "1xli4wl",
+    "title": "I just shipped my first Android game using ChatGPT, Codex and Blender MCP!",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xli4wl/i_just_shipped_my_first_android_game_using/",
+    "excerpt": "Hey everyone! I recently released my first game, Aether Run, on Google Play Store! It's a snowy endless runner where you're chased by a giant snowball or an ang…",
+    "createdAt": "2026-11-01T23:46:45.000Z"
+  },
+  {
+    "id": "1xlhrau",
+    "title": "I vibe coded a superhero MMO solo with Opus 5.5",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xlhrau/i_vibe_coded_a_superhero_mmo_solo_with_opus_55/",
+    "excerpt": "I'm 32, living in New York, and I've been building this by myself since Opus 5.5 came out about 6 weeks ago. It took 18 versions to get here. Even the trailer w…",
+    "createdAt": "2026-11-01T23:29:15.000Z"
+  },
+  {
     "id": "1xkrhdp",
     "title": "I built a tool that makes faceless short videos and posts them for you. Opening it to 50 beta testers",
     "sourceName": "Reddit · r/SideProject",
@@ -1078,125 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x73w3m/i_made_a_3d_cricket_game_with_220_players_in_3/",
     "excerpt": "Hi everyone, I am an indie developer who grew up watching and playing cricket, and it was my dream to build my own cricket game. This week, I launched a browser…",
     "createdAt": "2026-10-16T01:54:48.000Z"
-  },
-  {
-    "id": "1x73pi9",
-    "title": "I built analytics where you watch every visit like a video to improve conversion, and see which visitors were bots (53% of global web traffic is bots now)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x73pi9/i_built_analytics_where_you_watch_every_visit/",
-    "excerpt": "Hi everyone, I have many years of experience with bot detection, user fingerprinting and analytics, and this is the first time I've turned it into some sort of …",
-    "createdAt": "2026-10-16T01:45:26.000Z"
-  },
-  {
-    "id": "1x73hqo",
-    "title": "Built AI for candlechart simulation",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x73hqo/built_ai_for_candlechart_simulation/",
-    "excerpt": "Just thought it was very interesting how plausible looking the trajectories look shape wise. Not selling anything",
-    "createdAt": "2026-10-16T01:34:43.000Z"
-  },
-  {
-    "id": "1x72vd0",
-    "title": "Vibe coded a Startup Simulator Game is it slop or sweet?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x72vd0/vibe_coded_a_startup_simulator_game_is_it_slop_or/",
-    "excerpt": "I vibe coded a Startup Simulator game built directly into Reddit using GitHub Copilot as my primary coding assistant to move fast. It runs on Reddit’s Devvit fr…",
-    "createdAt": "2026-10-16T01:03:11.000Z"
-  },
-  {
-    "id": "1x723m1",
-    "title": "The code wasn't the only problem with my first game. The art didn't match either.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x723m1/the_code_wasnt_the_only_problem_with_my_first/",
-    "excerpt": "I shared my FrogPop demo here in August. It's a frog game inspired by Bubble Trouble, built in Unity with help from Claude Code and Codex. A big criticism was t…",
-    "createdAt": "2026-10-16T00:25:18.000Z"
-  },
-  {
-    "id": "1x64gy0",
-    "title": "I made an interactive 3D brain/drug simulator with GPT 6 Astra",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x64gy0/i_made_an_interactive_3d_braindrug_simulator_with/",
-    "excerpt": "This started with a pretty specific idea: I wanted to see how escitalopram affects serotonin reuptake in 3D. Then I kept adding things. It’s now called NeuroSco…",
-    "createdAt": "2026-10-14T22:02:50.000Z"
-  },
-  {
-    "id": "1x64doz",
-    "title": "I made Noid3a a zero-log API gateway that catches 429 rate limits, buffers in RAM, and rotates keys automatically",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x64doz/i_made_noid3a_a_zerolog_api_gateway_that_catches/",
-    "excerpt": "Hello! I made Noid3a, a universal API gateway for your app. What does Noid3a bring? Why use Noid3a in the first place? Zero log policy. Only logging operational…",
-    "createdAt": "2026-10-14T21:59:20.000Z"
-  },
-  {
-    "id": "1x64age",
-    "title": "I was tired of how awkward it is to read on a computer, so I created a minimalist and lightweight e-reader for Windows. Here's the result.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x64age/i_was_tired_of_how_awkward_it_is_to_read_on_a/",
-    "excerpt": "Hello everyone 👋 I’ve always enjoyed reading in digital format, but most options for PC left me with the same impression: they’re either outdated programs clutt…",
-    "createdAt": "2026-10-14T21:55:27.000Z"
-  },
-  {
-    "id": "1x648l5",
-    "title": "6 months building an AI tool, 2 grand in ads, almost no paying users. We turned off ads and things finally started working.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x648l5/6_months_building_an_ai_tool_2_grand_in_ads/",
-    "excerpt": "I've spent the last six months building an AI tool that redesigns existing PowerPoint presentations. After a lot of building, testing, and trying pretty much ev…",
-    "createdAt": "2026-10-14T21:53:10.000Z"
-  },
-  {
-    "id": "1x647pg",
-    "title": "Pori's Picture Book - a free read-aloud picture-book app for little kids where every character has its own voice, in 4 languages",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x647pg/poris_picture_book_a_free_readaloud_picturebook/",
-    "excerpt": "Hi r/SideProject! I'm a solo developer from Korea, and this is **Pori's Picture Book**: five watercolor stories for young kids, read aloud. Pori, a little book …",
-    "createdAt": "2026-10-14T21:52:05.000Z"
-  },
-  {
-    "id": "1x6463k",
-    "title": "[FirstUsers.club] - Get your first 25 users, guaranteed",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x6463k/firstusersclub_get_your_first_25_users_guaranteed/",
-    "excerpt": "I've shipped more products in the last year than I care to count. Nearly every launch went the same way: build, post, crickets. Building is nearly free now — ge…",
-    "createdAt": "2026-10-14T21:50:09.000Z"
-  },
-  {
-    "id": "1x64360",
-    "title": "I got tired of never finding things on my phone, so I built an app that finds any file when you describe it, and the AI never leaves the phone",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x64360/i_got_tired_of_never_finding_things_on_my_phone/",
-    "excerpt": "The screenshot of the Wi-Fi password. The boarding pass PDF. That one photo of a parrot. File names are useless and Google Photos only searches photos, so I bui…",
-    "createdAt": "2026-10-14T21:46:41.000Z"
-  },
-  {
-    "id": "1x5f8qb",
-    "title": "I built a personal nutrition platform with our small startup and am making it completely free for 2 weeks! Spend our tokens lol",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x5f8qb/i_built_a_personal_nutrition_platform_with_our/",
-    "excerpt": "[www.wondish.io](http://www.wondish.io) I always felt lazy mid day after food and I thought it was natural but then a doctor from a small company told me a secr…",
-    "createdAt": "2026-10-14T02:02:39.000Z"
   }
 ]
