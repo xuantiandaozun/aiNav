@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xmggop",
+    "title": "I built a video game in less time than it takes to watch a movie",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmggop/i_built_a_video_game_in_less_time_than_it_takes/",
+    "excerpt": "Always loved Mega Man 4, so I figured I'd try making my own platformer. Still experimenting with the difficulty. Here's some gameplay.",
+    "createdAt": "2026-11-03T02:02:20.000Z"
+  },
+  {
+    "id": "1xmg2n5",
+    "title": "Built a free interactive Global Threat Desk: 18 cyber incident dossiers, sources and preparedness tools",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmg2n5/built_a_free_interactive_global_threat_desk_18/",
+    "excerpt": "Built an interactive Global Cyber Threat Desk covering cyber incidents across critical infrastructure, finance, healthcare and AI. Includes 18 incident dossiers…",
+    "createdAt": "2026-11-03T01:44:01.000Z"
+  },
+  {
+    "id": "1xmfyox",
+    "title": "Games.io.lol: Made a free host for web games: upload your game, get yourname.io.lol for life",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmfyox/gamesiolol_made_a_free_host_for_web_games_upload/",
+    "excerpt": "Hi r/SideProject! I built [games.io.lol](http://games.io.lol/), a free place to host your web game. Drag and drop an .html file or a .zip and it's live in secon…",
+    "createdAt": "2026-11-03T01:38:42.000Z"
+  },
+  {
+    "id": "1xmfxbm",
+    "title": "I built a proximity social app as a web app instead of native here’s why, and what broke",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmfxbm/i_built_a_proximity_social_app_as_a_web_app/",
+    "excerpt": "I'm a solo dev in South Jersey. The big proximity apps bury people under ads and paywalls, so I built my own: hole-eaters for guys, trans and nonbinary folks. D…",
+    "createdAt": "2026-11-03T01:36:50.000Z"
+  },
+  {
+    "id": "1xmfvdb",
+    "title": "Made a web app to end the 40-minute \"what should we watch\" scroll. Looking for groups to test it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmfvdb/made_a_web_app_to_end_the_40minute_what_should_we/",
+    "excerpt": "My friends and I kept losing half of movie night to scrolling. The real problem wasn't choice, it was that nobody wanted to be the one to shoot down someone els…",
+    "createdAt": "2026-11-03T01:34:10.000Z"
+  },
+  {
+    "id": "1xmeyh6",
+    "title": "Built a supply chain security tool you can see",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xmeyh6/built_a_supply_chain_security_tool_you_can_see/",
+    "excerpt": "Teardown breaks your app’s dependencies into a 3D view then ranks what to fix first (KEV, public exploits, EPSS) instead of CVSS. It also writes a fix prompt fo…",
+    "createdAt": "2026-11-03T00:52:00.000Z"
+  },
+  {
+    "id": "1xmbwpc",
+    "title": "Since nowadays most code editors are slop, I vibecoded my own. Surprisingly it works well.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xmbwpc/since_nowadays_most_code_editors_are_slop_i/",
+    "excerpt": "Funnily enough, I will probably genuinely be using this as my primary code editor, since it is so basic in functionality that it works really well (buttery smoo…",
+    "createdAt": "2026-11-02T22:40:02.000Z"
+  },
+  {
+    "id": "1xmbles",
+    "title": "Since nowadays most code editors are slop, I vibecoded my own. It works surprisingly well.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xmbles/since_nowadays_most_code_editors_are_slop_i/",
+    "excerpt": "Funnily enough, I will probably genuinely be using this as my primary code editor, since it is so basic in functionality that it works really well (buttery smoo…",
+    "createdAt": "2026-11-02T22:27:04.000Z"
+  },
+  {
     "id": "1xll0ag",
     "title": "Built this last week, one AI race caller, zero adults who like her and a lot of kids who do. Built a 30 second fake horse race for Australia's big race day and I need an outside opinion",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x7ybrz/time_crisis_ii_1997_arcade_in_real_3d_vr_on_quest/",
     "excerpt": "Time Crisis II is out in VR. Thank you for House of the Dead last night: we're now 295 on the Discord, and your bug reports and wishes shape every release and u…",
     "createdAt": "2026-10-17T02:00:51.000Z"
-  },
-  {
-    "id": "1x7y6hs",
-    "title": "Building a production company (audio & video)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x7y6hs/building_a_production_company_audio_video/",
-    "excerpt": "Hi, I have a podcast on books that is working pretty well and I am developing a podcast on movies. Not a review-podcast but a community podcast where 3 people t…",
-    "createdAt": "2026-10-17T01:53:13.000Z"
-  },
-  {
-    "id": "1x7y3jj",
-    "title": "Made A Different Restroom Rating App",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x7y3jj/made_a_different_restroom_rating_app/",
-    "excerpt": "Check out my new app. It allows users to rate restrooms. It’s not like the other apps. This app only focuses on gas stations because most people stop at Gas sta…",
-    "createdAt": "2026-10-17T01:48:44.000Z"
-  },
-  {
-    "id": "1x7xzf5",
-    "title": "I built a website that only one person can own at a time",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x7xzf5/i_built_a_website_that_only_one_person_can_own_at/",
-    "excerpt": "I made THE ONE: one screen with one person’s nickname and message. You hit “TAKE IT,” leave a thought, and become the current owner. Then someone else can take …",
-    "createdAt": "2026-10-17T01:42:39.000Z"
-  },
-  {
-    "id": "1x7xuxx",
-    "title": "Built a free tool for the first few days after you get accused of something",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x7xuxx/built_a_free_tool_for_the_first_few_days_after/",
-    "excerpt": "Your phone logged where you were and your bank logged when you paid. Some of that deletes itself after a while, and people rarely mention it when it matters. Fo…",
-    "createdAt": "2026-10-17T01:35:58.000Z"
-  },
-  {
-    "id": "1x7xnaf",
-    "title": "Built Kesslersky, a browser based space sim",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x7xnaf/built_kesslersky_a_browser_based_space_sim/",
-    "excerpt": "Hello! I had some down time between projects so I built a game to play casually in my browser or on my phone. I mostly just felt there weren’t great free mobile…",
-    "createdAt": "2026-10-17T01:24:43.000Z"
-  },
-  {
-    "id": "1x7vfl2",
-    "title": "Formula Cat was built with Astra: 22 cats on racing vacuums, battery-swap pit stops, and some very questionable tail placement. Coming out on Steam soon!",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x7vfl2/formula_cat_was_built_with_astra_22_cats_on/",
-    "excerpt": "Formula Cat started with this prompt: >I want to make a racing game about cats driving roomabs. Can you make a model of a cat riding on a roomba and show it to …",
-    "createdAt": "2026-10-16T23:35:18.000Z"
-  },
-  {
-    "id": "1x73wcs",
-    "title": "I got tired of paid soundboards so I made my own",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x73wcs/i_got_tired_of_paid_soundboards_so_i_made_my_own/",
-    "excerpt": "I wanted a soundboard for gaming and streaming without paying a subscription or dealing with loads of extra features. Ended up building Cueboard. It’s a Windows…",
-    "createdAt": "2026-10-16T01:55:10.000Z"
-  },
-  {
-    "id": "1x73w3m",
-    "title": "I made a 3D cricket game with 220+ players in 3 days, and some of them are addicted. Here are the key stats, what I learnt, and would love your feedback!",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x73w3m/i_made_a_3d_cricket_game_with_220_players_in_3/",
-    "excerpt": "Hi everyone, I am an indie developer who grew up watching and playing cricket, and it was my dream to build my own cricket game. This week, I launched a browser…",
-    "createdAt": "2026-10-16T01:54:48.000Z"
   }
 ]
