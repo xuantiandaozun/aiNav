@@ -1,5 +1,59 @@
 [
   {
+    "title": "36氪首发丨上海交大副教授做光计算芯片，成立半年获云启、原子等连投5轮，已送流片",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4053338933105795?f=rss",
+    "publishedAt": "2026-11-03T01:09:56.000Z",
+    "excerpt": "图源/企业 本文约3300字，建议阅读8分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。公司成立后已连续完成5轮种子轮次融资，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本和上海交通大学AI未来基金。资金将主要…",
+    "scenes": [],
+    "collectedAt": "2026-11-03T01:10:39.281Z"
+  },
+  {
+    "title": "中信建投：AI需求高景气驱动功率半导体迈向新周期",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4053299386422409?f=rss",
+    "publishedAt": "2026-11-03T01:08:10.000Z",
+    "excerpt": "36氪获悉，中信建投研报称，AIDC爆发+新能源车增量驱动下，2026年以来功率半导体掀起涨价潮。从技术迭代角度来看，以SiC为代表的第三代功率半导体器件非常适配AIDC高压直流化迭代的技术趋势，因此在SST、HVDC、固态断路器等多环节均有渗透率提升趋势，增量更为明显。经测算，…",
+    "scenes": [],
+    "collectedAt": "2026-11-03T01:10:39.282Z"
+  },
+  {
+    "title": "AI落地节奏不一，教育板块上市公司业绩兑现差异大",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4053327089489025?f=rss",
+    "publishedAt": "2026-11-03T01:05:24.000Z",
+    "excerpt": "A股教育行业上市公司2026年三季报全部“交卷”。记者统计发现，15家公司前三季度合计实现营业收入约187.75亿元，其中8家营业收入实现增长、10家保持盈利。梳理来看，教育行业上市公司业绩冷暖分化，多家企业转向存量提效，以及寻找第二增长曲线。同时，AI既是降本增效的核心工具，也…",
+    "scenes": [],
+    "collectedAt": "2026-11-03T01:10:39.282Z"
+  },
+  {
+    "title": "OpenAI聘请前美国陆军部长担任高级顾问",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4053289561871492?f=rss",
+    "publishedAt": "2026-11-03T00:44:13.000Z",
+    "excerpt": "OpenAI 周一表示，已任命前美国陆军部长丹·德里斯科尔（Dan Driscoll）担任一个新设立的职位，专注于国家安全现代化。德里斯科尔将出任国家安全现代化高级顾问，负责为 OpenAI 领导层提供建议，并与外部合作伙伴协作，探讨如何利用先进人工智能技术来加强国家安全与网络安…",
+    "scenes": [],
+    "collectedAt": "2026-11-03T01:10:39.282Z"
+  },
+  {
+    "title": "AI算力驱动PCB行业呈现结构性高景气，全链加码高端产能",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4053281589072771?f=rss",
+    "publishedAt": "2026-11-03T00:22:06.000Z",
+    "excerpt": "随着2026年三季报披露收官，PCB（印制电路板）行业景气分化特征进一步凸显。据Choice金融终端数据统计，PCB板块213家企业中，145家业绩向好；其中，有126家归母净利润同比增长，12家扭亏，7家减亏；另有68家业绩承压，行业结构性行情特征显著。黑龙江省证券经济研究会副…",
+    "scenes": [],
+    "collectedAt": "2026-11-03T01:10:39.283Z"
+  },
+  {
+    "title": "OpenAI承诺：极端天气下，旗下美国数据中心可削减用电负荷",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4053267930420357?f=rss",
+    "publishedAt": "2026-11-03T00:14:06.000Z",
+    "excerpt": "在该项目上，OpenAI承诺电网需要减负时，最多可削减1吉瓦用电负荷，大致相当于70万户家庭的用电量。OpenAI于当地时间11月2日在博客中表示：“我们的目标是，把这类负荷调节能力，作为未来数据中心园区建设与运营的核心组成部分。”博文写道：“这意味着……我们将和电力公司协商确定…",
+    "scenes": [],
+    "collectedAt": "2026-11-03T01:10:39.283Z"
+  },
+  {
     "title": "AI+艺术：想让AI演得像“老戏骨”，多写提示词不如先演一遍 ｜ 奇点川越创始人 程佳伟导演分享",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/pXJoz3XPv5D224a9Fro1?utm_source=rss&utm_medium=article",
@@ -65,6 +119,15 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-02T13:14:01.226Z"
+  },
+  {
+    "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507277.html",
+    "publishedAt": "2026-11-02T13:36:41.000Z",
+    "excerpt": "商汤SenseNova 6.8 Flash",
+    "scenes": [],
+    "collectedAt": "2026-11-03T01:10:37.735Z"
   },
   {
     "title": "道通发布AAGI空地智能解决方案，以AIP平台打通无人集群协同作业｜最前线",
@@ -2569,18 +2632,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -5515,18 +5578,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
