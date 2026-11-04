@@ -1,5 +1,157 @@
 [
   {
+    "title": "谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T20:01:56.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/pgmES06L2MAH2TCSMhJ9?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T17:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "研究发现：AI 生成代码受下游环节瓶颈制约，无法提升整体生产力",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T16:20:50.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "员工都会用一点 AI，团队下一步怎么走？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/6oGyozHwd1WjYyEGjpbk?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T15:17:15.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "如何把目标定得更大胆：写给 AI 使用者的实践指南",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/F1ms7x7KI1p7UfocCywh?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T15:15:13.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T14:02:24.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "豆包工作接入抖音生活服务经营等官方插件",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4055439067993217?f=rss",
+    "publishedAt": "2026-11-04T12:45:57.000Z",
+    "excerpt": "11月4日，豆包工作宣布接入抖音生活服务经营、巨量本地推、TikTok for Business三款官方插件。据介绍，完成相应账户授权后，用自然语言查询门店数据、做经营复盘、拿建议，减少报表搬运和重复整理，也无需在多个后台之间反复切换。（界面）",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:15.824Z"
+  },
+  {
+    "title": "Alphabet豪掷150亿美元扩建马来西亚AI数据中心",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4055396228289666?f=rss",
+    "publishedAt": "2026-11-04T12:42:17.000Z",
+    "excerpt": "谷歌母公司Alphabet表示，计划投资150亿美元，扩大位于马来西亚的AI数据中心和传统云计算相关业务，凸显出史无前例的人工智能应用热潮正在推动AI算力资源需求以及数字化基础设施需求加速增长。据了解，马来西亚已经成为东南亚主要的数据中心枢纽，吸引了甲骨文、亚马逊、阿里巴巴集团和…",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:15.824Z"
+  },
+  {
+    "title": "OpenAI将收购开发工具初创公司Pierre Computer，瞄准微软GitHub代码托管业务",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4055381539345536?f=rss",
+    "publishedAt": "2026-11-04T11:54:15.000Z",
+    "excerpt": "11月4日，OpenAI将收购开发工具初创公司Pierre Computer，进一步扩大旗下Codex编程平台的功能，并向微软GitHub长期占据主导地位的代码托管市场发起挑战。Pierre Computer的部分技术目前已经应用于Codex，OpenAI计划进一步整合其代码存储…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-04T13:11:15.824Z"
+  },
+  {
+    "title": "诺基亚预测：到2035年，人工智能将驱动全球44%的网络流量",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4055347300816005?f=rss",
+    "publishedAt": "2026-11-04T11:25:30.000Z",
+    "excerpt": "11月4日，诺基亚发布《全球网络流量报告》，预测到2035年，AI将驱动全球近一半的网络流量，同时全球月度总流量将增长近四倍，达到约3,789艾字节。诺基亚预测代理式AI流量预计到2035年将达到其2026年水平的160倍，而物理AI流量预计在同一时期将达到其2026年水平的10…",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:15.824Z"
+  },
+  {
+    "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T11:02:35.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507567.html",
+    "publishedAt": "2026-11-04T08:49:12.000Z",
+    "excerpt": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-11-04T13:11:14.303Z"
+  },
+  {
+    "title": "“AI+咖啡”改写产业链：新消费场景下的降本增效与青年机会",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4054786040026244?f=rss",
+    "publishedAt": "2026-11-04T06:00:53.000Z",
+    "excerpt": "随着城市节奏加快，咖啡愈发成为年轻人的日常刚需，日常之外，年轻人对咖啡的期待愈发多元，他们开始为空间氛围、风味探索和社交表达买单，线下咖啡的竞争焦点也从便利转向体验。从平价高频到体验创新，线下咖啡场景正在经历深刻的重构。与此同时，AI技术正加速进入咖啡产业链，被改变的不仅是出品效…",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:15.823Z"
+  },
+  {
+    "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507533.html",
+    "publishedAt": "2026-11-04T02:49:02.000Z",
+    "excerpt": "长视频记忆精度飙升，问答时延最高降97%",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-11-04T13:11:14.303Z"
+  },
+  {
+    "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4054776980378758?f=rss",
+    "publishedAt": "2026-11-04T01:33:32.000Z",
+    "excerpt": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成10亿元B轮融资，本轮融资将主要用于下一代芯片研发与量产及全球市场拓展。 本轮由亦庄国投屹唐盛和基金、启明创投、朝晖资本联合领投，知名投资机构国泰海通开元、华控投资、国寿长三角科创基金、北工投资、建…",
+    "scenes": [],
+    "collectedAt": "2026-11-04T13:11:15.823Z"
+  },
+  {
     "title": "用“DNA活字印刷术”给AI造生物数据，「涌源合生」获5000万天使轮融资｜36氪首发",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/p/4047812928518660?f=rss",
@@ -2914,18 +3066,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -5860,18 +6012,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
