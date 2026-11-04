@@ -1,5 +1,65 @@
 [
   {
+    "id": "1xnbx9r",
+    "title": "I made and discord bot for github notifications",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xnbx9r/i_made_and_discord_bot_for_github_notifications/",
+    "excerpt": "Hello! We’re a game development studio. So why did we build a GitHub–Discord integration tool? At Team HJD, we use GitHub and Discord every day while developing…",
+    "createdAt": "2026-11-04T01:58:18.000Z"
+  },
+  {
+    "id": "1xnbs6o",
+    "title": "I used my open-source charting library (rhp) and the libraries agent skill to help create an Election Day website",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xnbs6o/i_used_my_opensource_charting_library_rhp_and_the/",
+    "excerpt": "**Live site:** [https://rhp.vercel.app/gallery/articles/election-night/](https://rhp.vercel.app/gallery/articles/election-night/) **rhp ( React Html Plots):** […",
+    "createdAt": "2026-11-04T01:51:21.000Z"
+  },
+  {
+    "id": "1xnbl1e",
+    "title": "ReTab - Cmd+Tab for your Safari tabs, on Mac, iPhone and iPad",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xnbl1e/retab_cmdtab_for_your_safari_tabs_on_mac_iphone/",
+    "excerpt": "I kept losing the tab I was just on in Safari. Chrome and Firefox have extensions for jumping to your last tab, but Safari never really did, so I built one. ReT…",
+    "createdAt": "2026-11-04T01:41:40.000Z"
+  },
+  {
+    "id": "1xnb4yy",
+    "title": "How is my Claude-made artsy landing page? Does it look AI?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xnb4yy/how_is_my_claudemade_artsy_landing_page_does_it/",
+    "excerpt": "Does this make it clear what the product is? Does it speak to you? Or does it occupy some kind of artsy-creative-but-AI uncanny valley? Curious to hear your tho…",
+    "createdAt": "2026-11-04T01:20:00.000Z"
+  },
+  {
+    "id": "1xn9a8u",
+    "title": "Built a website for my cat Cusco.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xn9a8u/built_a_website_for_my_cat_cusco/",
+    "excerpt": "This is Cusco. He is an orange cat. I saw today that Cuscocat.com was unregistered. Now this is his website. Took me 5 minutes, but Cusco likes it. Deployed on …",
+    "createdAt": "2026-11-03T23:55:32.000Z"
+  },
+  {
+    "id": "1xn924v",
+    "title": "I launched! Annnnnnd it flopped. [pt. 2: What now?]",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xn924v/i_launched_annnnnnd_it_flopped_pt_2_what_now/",
+    "excerpt": "Part one here: [https://www.reddit.com/r/vibecoding/comments/1x10ref/i\\_launched\\_annnnnnd\\_it\\_flopped/](https://www.reddit.com/r/vibecoding/comments/1x10ref/i…",
+    "createdAt": "2026-11-03T23:45:37.000Z"
+  },
+  {
     "id": "1xmggop",
     "title": "I built a video game in less time than it takes to watch a movie",
     "sourceName": "Reddit · r/SideProject",
@@ -1138,65 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x9in4q/after_6_years_i_am_moving_on_from_my_hobby_project/",
     "excerpt": "I started on CoinCurrently with less than 1 year of experience. iOS 14 had just come out, SwiftUI was brand new, and Home Screen widgets were one of the new fea…",
     "createdAt": "2026-10-19T00:19:50.000Z"
-  },
-  {
-    "id": "1x8r9yj",
-    "title": "ScreenGuard v0.1.1-beta.6 (A Digital wellbeing system FOR LINUX ) New fixes and features",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8r9yj/screenguard_v011beta6_a_digital_wellbeing_system/",
-    "excerpt": "ScreenGuard a software for Digital wellbeing natively on Linux, was my personal project which i uploaded to share with the community. Ever since , thanks to con…",
-    "createdAt": "2026-10-18T01:57:26.000Z"
-  },
-  {
-    "id": "1x8r5do",
-    "title": "I built InstaFix to make Instagram Reels playable directly in Discord",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8r5do/i_built_instafix_to_make_instagram_reels_playable/",
-    "excerpt": "Hey everyone! I'm a developer from Brazil, and I built **InstaFix** to solve a small but annoying problem: when you share Instagram Reels on Discord, you often …",
-    "createdAt": "2026-10-18T01:50:33.000Z"
-  },
-  {
-    "id": "1x8r21n",
-    "title": "Testers for Voice Recorder for content Creators",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8r21n/testers_for_voice_recorder_for_content_creators/",
-    "excerpt": "I built an Android voice recorder for short-video creators (TikTok, Reels, Shorts), and I'm looking for testers for the closed test on Google Play. 🎙️What it do…",
-    "createdAt": "2026-10-18T01:45:34.000Z"
-  },
-  {
-    "id": "1x8qzjh",
-    "title": "Can You Tell Psychology Fact From Fiction? 10-question quiz",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x8qzjh/can_you_tell_psychology_fact_from_fiction/",
-    "excerpt": "I made a short 10-question quiz about psychology facts and misconceptions. Some of the questions are pretty straightforward, while a couple are designed to catc…",
-    "createdAt": "2026-10-18T01:41:52.000Z"
-  },
-  {
-    "id": "1x8pke6",
-    "title": "Silly first attempt at full ai music video using only astra",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x8pke6/silly_first_attempt_at_full_ai_music_video_using/",
-    "excerpt": "It actually built a pretty interesting song analysis, Python script to determine all of the song elements and key moments. If anyone’s interested, I can throw i…",
-    "createdAt": "2026-10-18T00:28:36.000Z"
-  },
-  {
-    "id": "1x7ybrz",
-    "title": "Time Crisis II (1997 arcade) in REAL 3D VR on Quest 3: the soldiers come right at you, take cover for real.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x7ybrz/time_crisis_ii_1997_arcade_in_real_3d_vr_on_quest/",
-    "excerpt": "Time Crisis II is out in VR. Thank you for House of the Dead last night: we're now 295 on the Discord, and your bug reports and wishes shape every release and u…",
-    "createdAt": "2026-10-17T02:00:51.000Z"
   }
 ]
