@@ -1,5 +1,55 @@
 [
   {
+    "id": "1xo6liw",
+    "title": "I built an Omni-Tracker + Digital Garden so I could stop using 5 different apps for my media and notes",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6liw/i_built_an_omnitracker_digital_garden_so_i_could/",
+    "excerpt": "Hey r/SideProject! I was tired of my personal data and thoughts being scattered across the internet: Letterboxd for movies, Goodreads for books, Backloggd for g…",
+    "createdAt": "2026-11-05T01:59:52.000Z"
+  },
+  {
+    "id": "1xo6l2w",
+    "title": "\"DeepCheap\", I built a tool that ranks LLM APIs by actual cost per task, not just token prices",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6l2w/deepcheap_i_built_a_tool_that_ranks_llm_apis_by/",
+    "excerpt": "Most LLM API pricing comparisons focus on cost per million tokens, but different models can consume vastly different numbers of tokens to complete the same task…",
+    "createdAt": "2026-11-05T01:59:14.000Z"
+  },
+  {
+    "id": "1xo6kgj",
+    "title": "Ran out of free Notion blocks planning our next project, so we built our own workspace (Burrow)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6kgj/ran_out_of_free_notion_blocks_planning_our_next/",
+    "excerpt": ">",
+    "createdAt": "2026-11-05T01:58:24.000Z"
+  },
+  {
+    "id": "1xo6i17",
+    "title": "I built a free Reddit bot to steelman and spot logical fallacies/errors in comments/debate",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6i17/i_built_a_free_reddit_bot_to_steelman_and_spot/",
+    "excerpt": "They are free to use, and customizable to a subreddit's norms/culture. More detail on their Devvit listings: [Stu Steelman](https://developers.reddit.com/apps/l…",
+    "createdAt": "2026-11-05T01:55:00.000Z"
+  },
+  {
+    "id": "1xo1hps",
+    "title": "Payback math on switching subscription infrastructure: about 4 years at $6,200/mo, about 1 year at $50K with paywalls on half",
+    "sourceName": "Reddit · r/indiehackers",
+    "subreddit": "indiehackers",
+    "score": 2,
+    "sourceUrl": "https://www.reddit.com/r/indiehackers/comments/1xo1hps/payback_math_on_switching_subscription/",
+    "excerpt": "https://i.redd.it/nh5znrhr5ozh1.png I think most indie apps shouldn't switch subscription provider because of fees alone. I'm a RevenueCat customer, so I have a…",
+    "createdAt": "2026-11-04T22:09:10.000Z"
+  },
+  {
     "id": "1xnbx9r",
     "title": "I made and discord bot for github notifications",
     "sourceName": "Reddit · r/SideProject",
@@ -1148,55 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9khj6/calling_builders_whove_made_games_creative_tools/",
     "excerpt": "I'm Anou, founder of Whimsi- a digital catalogue for games, creative tools and fun apps. We're officially launching end of this month with a hackathon in collab…",
     "createdAt": "2026-10-19T01:52:41.000Z"
-  },
-  {
-    "id": "1x9kfs1",
-    "title": "I Made a Free Chrome Extension to Multi-Stream Sports, Youtube, TV Shows, Movies, etc.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9kfs1/i_made_a_free_chrome_extension_to_multistream/",
-    "excerpt": "I like watching two things at once, like a game on one screen and a tv show on the other, and the sound was always a mess. I hated having to click around and mu…",
-    "createdAt": "2026-10-19T01:50:10.000Z"
-  },
-  {
-    "id": "1x9kaf9",
-    "title": "Been building something to help me find what to automate in my day to day",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9kaf9/been_building_something_to_help_me_find_what_to/",
-    "excerpt": "I've been building RideAlong (joinridealong.com), a bottoms up training utility for enterprises to help enable people unfamiliar with AI. I was running it obvio…",
-    "createdAt": "2026-10-19T01:42:31.000Z"
-  },
-  {
-    "id": "1x9k9pp",
-    "title": "How I built and hosted a 24/7 browser multiplayer game for the price of lunch",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9k9pp/how_i_built_and_hosted_a_247_browser_multiplayer/",
-    "excerpt": "I'm a Senior Software Engineer who is building a free multiplayer browser RPG. Here's how I did it for about **$10/month**. # 1. Separate game rules from visual…",
-    "createdAt": "2026-10-19T01:41:29.000Z"
-  },
-  {
-    "id": "1x9jmxh",
-    "title": "Recommendations to improve my stack?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x9jmxh/recommendations_to_improve_my_stack/",
-    "excerpt": "**Claude Pro Max $130/month** \\- overall coding, Co-Work, animation using Blender, etc. *(I usually use Opus 5.5 Medium for everything)* **Grok Pro $40/month** …",
-    "createdAt": "2026-10-19T01:09:18.000Z"
-  },
-  {
-    "id": "1x9in4q",
-    "title": "After 6 years, I am moving on from my hobby project.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1x9in4q/after_6_years_i_am_moving_on_from_my_hobby_project/",
-    "excerpt": "I started on CoinCurrently with less than 1 year of experience. iOS 14 had just come out, SwiftUI was brand new, and Home Screen widgets were one of the new fea…",
-    "createdAt": "2026-10-19T00:19:50.000Z"
   }
 ]
