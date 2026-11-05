@@ -1,5 +1,46 @@
 [
   {
+    "title": "国金证券：AI眼镜全彩化与AI交互共振，镜片与渠道有望提前受益",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4056136274465921?f=rss",
+    "publishedAt": "2026-11-05T00:35:11.000Z",
+    "excerpt": "36氪获悉，国金证券研报称，深圳智能眼镜产业发展论坛举办，Rokid Color发布，雷鸟iO+官宣，行业竞争重心转向全彩显示+Agent能力+内容生态的综合体验竞争。AI眼镜向可承载社交内容、任务流交互等的下一代近眼终端演进。国金证券认为，内容承载能力提升会提高配套的近视配镜、…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-11-05T01:11:18.916Z"
+  },
+  {
+    "title": "字节新规限制员工使用外部AI？知情人士回应",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4056135544165507?f=rss",
+    "publishedAt": "2026-11-05T00:34:26.000Z",
+    "excerpt": "据媒体报道，近日，字节跳动出台新规，将大面积限制Claude、Codex等个人账号的内部使用。消息称，本月起，字节跳动将会对所有L4级别的代码仓库和飞书文档进行外部AI访问封禁，覆盖范围全公司，员工个人采买的AI账号不能再用。对此，有知情人士表示，“员工使用外部AI工具的个人账号…",
+    "scenes": [
+      "coding",
+      "office"
+    ],
+    "collectedAt": "2026-11-05T01:11:18.916Z"
+  },
+  {
+    "title": "当 Agent 成为数据库新用户，腾讯云如何解决“未知”的难题？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T22:00:23.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-05T01:11:19.869Z"
+  },
+  {
+    "title": "Token 暴涨 5000 倍之后，企业 Agent 落地还卡在哪里？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/VUmIUJ0ST9xIlPoViXmz?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-04T21:56:58.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-05T01:11:19.869Z"
+  },
+  {
     "title": "谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e?utm_source=rss&utm_medium=article",
@@ -54,6 +95,17 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-04T13:11:17.262Z"
+  },
+  {
+    "title": "当AI不再「夸夸其谈」：决策模型爆红，物理世界需要端侧「快判断」",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4055330063766663?f=rss",
+    "publishedAt": "2026-11-04T14:00:00.000Z",
+    "excerpt": "9月中旬，一家名叫TypeSafeAI的初创公司发布了一个叫Jev的模型。它不写文章，不聊天，甚至不输出一段完整的句子。它做的事只有一件：把输入归入预设的选项，返回一个是/否、一个评分、一个概率。就是这样一款“不会说话”的模型，上线数周用户破百万，财富500强中约三分之一的企业开…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-11-05T01:11:18.915Z"
   },
   {
     "title": "豆包工作接入抖音生活服务经营等官方插件",
@@ -3066,18 +3118,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -6012,18 +6064,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
