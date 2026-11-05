@@ -1,5 +1,133 @@
 [
   {
+    "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-05T16:53:21.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:46.258Z"
+  },
+  {
+    "title": "视频生成只是开始，AI 如何把内容做对？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-05T13:54:21.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "writing",
+      "video"
+    ],
+    "collectedAt": "2026-11-05T13:11:46.258Z"
+  },
+  {
+    "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-05T13:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:46.258Z"
+  },
+  {
+    "title": "AI数据中心需求蓬勃推动瑞典建筑商订单积压总额达2242亿元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4056833516967047?f=rss",
+    "publishedAt": "2026-11-05T12:35:18.000Z",
+    "excerpt": "瑞典建筑商斯堪斯卡（Skanska）首席执行官Anders Danielsson表示，该公司在选择人工智能数据中心项目时变得更加挑剔，更倾向于成熟的技术客户，同时对面临融资和执行风险的新兴开发商采取谨慎态度。“我们没有看到任何放缓的迹象，”他表示，现有客户并没有推迟项目，而是委托…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-05T13:11:44.548Z"
+  },
+  {
+    "title": "我国轻工行业数字化研发设计工具普及率超86%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4056777454834569?f=rss",
+    "publishedAt": "2026-11-05T11:27:25.000Z",
+    "excerpt": "从中国轻工业联合会获悉，近年来，轻工业数智化转型取得积极成效。最新数据显示，行业数字化研发设计工具普及率达86.2%，经营管理数字化普及率达82.3%，轻工5G工厂累计建成167家。中国轻工业联合会秘书长郭永新在当日举行的第十六届轻工业信息化大会上说，大模型、智能体、机器人等新技…",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-11-05T13:11:44.548Z"
+  },
+  {
+    "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-05T11:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-05T13:11:46.258Z"
+  },
+  {
+    "title": "Personal Agent的竞争，开始于用户想清楚之前",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4056508925432710?f=rss",
+    "publishedAt": "2026-11-05T10:10:00.000Z",
+    "excerpt": "谁能更早承接用户尚未明确的需求，谁就更有机会成为新的消费入口。 一笔消费，究竟从什么时候开始？很多人会觉得，是下单付款的那一刻。但只要回想一次最近的外出，就会发现它的起点其实早得多。 订下一家餐厅之前，可能经历过想见朋友、想庆祝、想换个环境等不同念头；同样一句今晚想出去，最终可能…",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:44.547Z"
+  },
+  {
+    "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-05T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:46.258Z"
+  },
+  {
+    "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507787.html",
+    "publishedAt": "2026-11-05T07:15:13.000Z",
+    "excerpt": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-05T13:11:43.008Z"
+  },
+  {
+    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507696.html",
+    "publishedAt": "2026-11-05T02:01:51.000Z",
+    "excerpt": "Data + AI 技术实践巡展 · 上海站",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:43.008Z"
+  },
+  {
+    "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507707.html",
+    "publishedAt": "2026-11-05T01:59:37.000Z",
+    "excerpt": "最快6秒出图",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:43.008Z"
+  },
+  {
+    "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507697.html",
+    "publishedAt": "2026-11-05T01:54:44.000Z",
+    "excerpt": "被轰成筛子了…",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:43.008Z"
+  },
+  {
+    "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507675.html",
+    "publishedAt": "2026-11-05T00:41:34.000Z",
+    "excerpt": "薪资+期权不限！实习生也能训核心模型",
+    "scenes": [],
+    "collectedAt": "2026-11-05T13:11:43.008Z"
+  },
+  {
     "title": "国金证券：AI眼镜全彩化与AI交互共振，镜片与渠道有望提前受益",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4056136274465921?f=rss",
@@ -3118,18 +3246,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -6064,18 +6192,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
