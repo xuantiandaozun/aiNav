@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xp0xh5",
+    "title": "I built a Mac app because I kept running out of time halfway through PR reviews",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0xh5/i_built_a_mac_app_because_i_kept_running_out_of/",
+    "excerpt": "My calendar looks like spaghetti, and PR reviews became the bottleneck once AI started writing more of our code. I’d have 20 minutes before a meeting, open a PR…",
+    "createdAt": "2026-11-06T02:02:03.000Z"
+  },
+  {
+    "id": "1xp0fqv",
+    "title": "I built an app that picks your food better than you do - DINETUNED",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0fqv/i_built_an_app_that_picks_your_food_better_than/",
+    "excerpt": "I’ve always been the person who stares at a menu for 10 minutes and still orders wrong. So for my first-ever hackathon (Meta’s Global AI Hackathon), I built Din…",
+    "createdAt": "2026-11-06T01:38:02.000Z"
+  },
+  {
+    "id": "1xp0fdg",
+    "title": "I turned a PC or Mac into a set-top box for one streaming app. Free, no ads, nothing sent home",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0fdg/i_turned_a_pc_or_mac_into_a_settop_box_for_one/",
+    "excerpt": "My brother loves films, and the TV-box app we use only runs on Android boxes. So I built WatchlistBox. It runs a small Android TV system in a virtual machine an…",
+    "createdAt": "2026-11-06T01:37:30.000Z"
+  },
+  {
+    "id": "1xp0cap",
+    "title": "I built an app to help me manage my kitchen because being the only person to cook in the household is the most underappreciated job in the world.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0cap/i_built_an_app_to_help_me_manage_my_kitchen/",
+    "excerpt": "[www.mealsmealsmeals.com](http://www.mealsmealsmeals.com) Being the only cook in your house is more than cooking. It's deciding what everyone eats, working out …",
+    "createdAt": "2026-11-06T01:33:12.000Z"
+  },
+  {
+    "id": "1xozhvu",
+    "title": "WoW Forever running natively on an iPhone Duo – WolkaraForever fork with a touch UI (spell wheel, jump while running, auto-saving add-on)",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xozhvu/wow_forever_running_natively_on_an_iphone_duo/",
+    "excerpt": "I've been playing WoW Forever on my **iPhone Duo (iOS 27.2)** with \\[WolkaraForever\\]([https://github.com/jklock/wolkaraforever](https://github.com/jklock/wolka…",
+    "createdAt": "2026-11-06T00:52:16.000Z"
+  },
+  {
+    "id": "1xoy6k3",
+    "title": "I've always loved designing t-shirts, so I vibe coded a platform to create t shirt designs, get paid when they sell, and discover others designs.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xoy6k3/ive_always_loved_designing_tshirts_so_i_vibe/",
+    "excerpt": "Under the hood, the platform is powered by a server-rendered Python and Django backend paired with lightweight vanilla JavaScript. I relied heavily on Claude as…",
+    "createdAt": "2026-11-05T23:52:17.000Z"
+  },
+  {
+    "id": "1xoy3hp",
+    "title": "Introducing Nopekit: A Software Style Test Framework For Vibecoding The Physical World",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xoy3hp/introducing_nopekit_a_software_style_test/",
+    "excerpt": "I've been doing physical design work in my free time with AI for the last two years. During that time I observed something: AI was getting better at physical de…",
+    "createdAt": "2026-11-05T23:48:19.000Z"
+  },
+  {
+    "id": "1xovnth",
+    "title": "A year of vibe coding a mech RTS in Unity: 372k lines, 14 chats open at once, and Claude drives the Unity editor itself",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xovnth/a_year_of_vibe_coding_a_mech_rts_in_unity_372k/",
+    "excerpt": "Interesting little fact first. My last game, Beneath the Mountain, had 76k lines that I wrote by hand over 2.5 years. This one is a little over a year in and al…",
+    "createdAt": "2026-11-05T22:00:55.000Z"
+  },
+  {
     "id": "1xo6liw",
     "title": "I built an Omni-Tracker + Digital Garden so I could stop using 5 different apps for my media and notes",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafmyz/i_built_a_tool_that_chases_your_clients_for/",
     "excerpt": "I kept seeing small businesses spend their days replying to clients email after email, just to collect the same paperwork every year. So I built ClientPulse. Ho…",
     "createdAt": "2026-10-20T01:54:08.000Z"
-  },
-  {
-    "id": "1xafbub",
-    "title": "Vending Machine Project",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafbub/vending_machine_project/",
-    "excerpt": "Hi everyone! I'm currently working on a project to build a fully automated pancake vending machine, with a total project budget of around SGD 6,000. The machine…",
-    "createdAt": "2026-10-20T01:39:16.000Z"
-  },
-  {
-    "id": "1xafbsw",
-    "title": "We built Chortke: review Canadian bank-statement PDFs on iPhone without linking your bank",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafbsw/we_built_chortke_review_canadian_bankstatement/",
-    "excerpt": "We’re Kasabeh Technology, the team behind Chortke Money Tracker. It’s an iPhone app for Canadians who want to organize income and spending without a bank login …",
-    "createdAt": "2026-10-20T01:39:13.000Z"
-  },
-  {
-    "id": "1xafazw",
-    "title": "OutSpan | Safari extension that expands web pages to the full outer screen",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafazw/outspan_safari_extension_that_expands_web_pages/",
-    "excerpt": "The iPhone Duo comes out on the 23rd. While testing in Apple's simulator, one thing about the outer screen kept bugging me. Safari puts its controls in a strip …",
-    "createdAt": "2026-10-20T01:38:09.000Z"
-  },
-  {
-    "id": "1xaf9xs",
-    "title": "I built a free lead tool for fire-protection contractors that scores public building permits. Looking for honest feedback.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xaf9xs/i_built_a_free_lead_tool_for_fireprotection/",
-    "excerpt": "Hey all, I've been building PermitTorch (permittorch.com). It pulls public building permits from city and county sources and finds the ones with fire-protection…",
-    "createdAt": "2026-10-20T01:36:47.000Z"
-  },
-  {
-    "id": "1xaf88z",
-    "title": "I built a free website to help people decide whether to buy or rent a home. Looking for honest feedback!",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xaf88z/i_built_a_free_website_to_help_people_decide/",
-    "excerpt": "Hey everyone! I've been working on **HomeIntel**, a free real estate platform designed for the **U.S. housing market** that helps people compare buying versus r…",
-    "createdAt": "2026-10-20T01:34:28.000Z"
-  },
-  {
-    "id": "1xaam3p",
-    "title": "Wolf Leader- The Vibe Coders Best Friend",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xaam3p/wolf_leader_the_vibe_coders_best_friend/",
-    "excerpt": "Hey All! I created this app recently and I'd love any thoughts or feedback. The idea is an anchored journal for any sort of project your working on using AI, so…",
-    "createdAt": "2026-10-19T22:05:50.000Z"
-  },
-  {
-    "id": "1x9krst",
-    "title": "M41, probably ADHD, never finished a coding course, and I just shipped my first iOS app: a Tamagotchi you keep alive by finishing your to-dos",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9krst/m41_probably_adhd_never_finished_a_coding_course/",
-    "excerpt": "I’ve never been officially diagnosed, but I’m 99% sure I have ADHD. When I’m into something, I’m like REAAALLY into it, and then I’m onto the next thing. I’ve s…",
-    "createdAt": "2026-10-19T02:07:05.000Z"
-  },
-  {
-    "id": "1x9khj6",
-    "title": "Calling builders who've made games, creative tools and fun apps",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1x9khj6/calling_builders_whove_made_games_creative_tools/",
-    "excerpt": "I'm Anou, founder of Whimsi- a digital catalogue for games, creative tools and fun apps. We're officially launching end of this month with a hackathon in collab…",
-    "createdAt": "2026-10-19T01:52:41.000Z"
   }
 ]
