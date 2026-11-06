@@ -8,6 +8,12 @@ astro dev --background
 
 Manage the background server with `astro dev stop`, `astro dev status`, and `astro dev logs`.
 
+## Cursor Cloud specific instructions
+
+- Dependencies need Node.js 22.19 or newer (`undici`). A shell may resolve `/exec-daemon/node` (v22.14) first. Before `npm` or `astro`, prepend the newest directory under `~/.nvm/versions/node` to `PATH`.
+- The environment start script already serves the site at http://127.0.0.1:4321 (`npm run dev -- --host 0.0.0.0 --port 4321`) and skips startup when that URL responds. Do not start a second dev server while it is up.
+- `npm run build` writes the static site to `dist/`. There is no automated test suite. Check `/`, `/tools/` (scene filter), a tool detail page, `/cases/`, and `/news/`.
+
 ## Documentation
 
 Full documentation: https://docs.astro.build
