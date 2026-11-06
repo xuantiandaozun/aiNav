@@ -1,5 +1,83 @@
 [
   {
+    "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-06T08:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-06T01:10:29.700Z"
+  },
+  {
+    "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-06T07:14:48.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-06T01:10:29.700Z"
+  },
+  {
+    "title": "工信部：加强智能体终端设备进网管理",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4057584511800452?f=rss",
+    "publishedAt": "2026-11-06T01:08:24.000Z",
+    "excerpt": "36氪获悉，工信部发布关于加强智能体终端设备进网管理的通知。其中提到，改进智能体终端进网管理。开展风险评估，完善电信设备进网检测机制，细化特别规定事项要求。预置智能体的手机、平板、可穿戴设备等智能体终端，须在进网检测中依据有关标准开展智能体适配验证；依法开展智能体终端涉诈风险安全…",
+    "scenes": [],
+    "collectedAt": "2026-11-06T01:10:28.404Z"
+  },
+  {
+    "title": "对冲基金VARA在AI股票的“惨烈”10月暴跌33%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4057557508379783?f=rss",
+    "publishedAt": "2026-11-06T00:52:54.000Z",
+    "excerpt": "全仓押注AI概念的对冲基金Value Aligned Research Advisors（VARA）上个月遭遇了重创，随着AI股票面临痛苦的估值重估，该基金单月暴跌33%。据一位要求匿名以讨论非公开信息的知情人士透露，VARA的投资组合与Leopold Aschenbrenner…",
+    "scenes": [],
+    "collectedAt": "2026-11-06T01:10:28.404Z"
+  },
+  {
+    "title": "“大空头”伯里称无意买入Anthropic股票：将自身存亡押注在乐观预期上",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4057546664727430?f=rss",
+    "publishedAt": "2026-11-06T00:38:51.000Z",
+    "excerpt": "电影《大空头》原型人物迈克尔·伯里表示，当人工智能巨头Anthropic上市时，他不会买入其股票。自Anthropic上个月公布招股说明书以来，这位知名投资者就一直对其IPO持看空态度。他指出，该公司巨额的支出承诺，印证了他对AI交易行情的看空逻辑。周三，他在Substack上发…",
+    "scenes": [],
+    "collectedAt": "2026-11-06T01:10:28.404Z"
+  },
+  {
+    "title": "韩国财长承诺采取措施缓解股市波动",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4057545781777285?f=rss",
+    "publishedAt": "2026-11-06T00:36:59.000Z",
+    "excerpt": "韩国财长李炯日周五表示，面对持续的科技股抛售潮，金融监管部门将制定相关措施，以缓解当地股市的波动。在一次经济相关会议上，李炯日指出，美国中期选举是全球经济的一个重要转折点。他还表示，受人工智能（AI）相关领域监管趋严的影响，美股隔夜的跌势将对全球市场造成冲击。（新浪财经）",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-06T01:10:28.404Z"
+  },
+  {
+    "title": "谷歌加入科技企业裁员大潮",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4057537288377474?f=rss",
+    "publishedAt": "2026-11-06T00:28:20.000Z",
+    "excerpt": "谷歌正在推出自愿离职补偿方案；与此同时微软、甲骨文、Meta也在收缩人员规模。今年大型科技企业的裁员+买断离职总人数已经突破10万人。无论裁员动因是AI带来的效率提升，还是数据中心巨额开支造成的压力，裁员节奏几乎没有放缓迹象，甚至可能进一步加速。（新浪财经）",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-06T01:10:28.404Z"
+  },
+  {
+    "title": "8点1氪丨2027放假安排出炉，是近年调休最少的一年；美股现史诗级抛售，马斯克损失近千亿美元；《后会友期》爆火，致芒果服务器故障",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4057514219131783?f=rss",
+    "publishedAt": "2026-11-06T00:00:34.000Z",
+    "excerpt": "今日热点导览 前三季度结婚登记464.8万对 苹果下调员工AI使用预算，部分工程团队日额度或降至100美元 全球平板电脑出货量创新低，苹果跌近3成 C罗宣布从葡萄牙国家队退役 华虹宏力：前三季度净利润16.03亿元，同比增长138.23% 特朗普中期选举惨败，马斯克删帖 TOP …",
+    "scenes": [],
+    "collectedAt": "2026-11-06T01:10:28.402Z"
+  },
+  {
     "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
@@ -3246,18 +3324,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -6192,18 +6270,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
