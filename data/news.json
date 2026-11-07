@@ -1,5 +1,34 @@
 [
   {
+    "title": "Anthropic拟于下周启动IPO路演",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4058931650761863?f=rss",
+    "publishedAt": "2026-11-07T01:03:39.000Z",
+    "excerpt": "媒体援引知情人士报道称，Anthropic PBC计划于下周启动首次公开募股（IPO）的正式推介，向潜在投资者展开营销。此次IPO路演是在科技股经历两周剧烈波动之后进行的。此前，投资者对亚马逊和谷歌公布的巨额AI支出计划，以及民主党在中期选举中的压倒性胜利作出了反应。周五，科技股…",
+    "scenes": [],
+    "collectedAt": "2026-11-07T01:09:48.497Z"
+  },
+  {
+    "title": "微软据悉逐步终止从甲骨文租用AI云算力的安排",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4058927613580166?f=rss",
+    "publishedAt": "2026-11-07T00:30:19.000Z",
+    "excerpt": "微软正在逐步终止从甲骨文租用AI算力的安排。知情人士称，微软在决定不续签合同后，几个月来微软开始逐步停用从甲骨文租用的算力。知情人士表示，随着时间推移，微软租用的这些算力已不再那么有用，因为不再符合公司的规格要求。知情人士称，甲骨文的硬件使用的是较老一代英伟达芯片。（财联社）",
+    "scenes": [],
+    "collectedAt": "2026-11-07T01:09:48.497Z"
+  },
+  {
+    "title": "OpenAI完成110亿美元新融资，估值1.25万亿美元，软银、红杉资本等参投",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4058926444729220?f=rss",
+    "publishedAt": "2026-11-07T00:15:17.000Z",
+    "excerpt": "据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。 资金已于周五划入公司账户。本轮剩余部分——总额可能增至最高200亿美元——预计将在未来数周内完成。 在推迟了首次公开募股（IPO）计划后，这家AI开发商已就一轮大额融资洽谈了一…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-07T01:09:48.497Z"
+  },
+  {
     "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
@@ -7,6 +36,15 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-06T13:11:36.284Z"
+  },
+  {
+    "title": "科氪 | 荣耀李健：以用户为中心，共建入口、共筑信任， 开启智能经济时代AI终端生态新范式",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4058473008616581?f=rss",
+    "publishedAt": "2026-11-06T16:12:19.000Z",
+    "excerpt": "荣耀CEO李健在2026移动网络大会发表主题演讲，围绕“以用户为中心，共建入口、共筑信任、共创未来”分享对智能经济时代产业演进的思考。他提出，AI入口之争并非存量零和博弈，行业应以赢得用户信任为导向，开放协同，让入口主权回归用户，共创智能经济新生态。 官方供图 李健表示，算力、大…",
+    "scenes": [],
+    "collectedAt": "2026-11-07T01:09:48.496Z"
   },
   {
     "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
@@ -75,6 +113,35 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-06T13:11:36.284Z"
+  },
+  {
+    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508174.html",
+    "publishedAt": "2026-11-06T09:25:59.000Z",
+    "excerpt": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-07T01:09:47.145Z"
+  },
+  {
+    "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508170.html",
+    "publishedAt": "2026-11-06T09:21:51.000Z",
+    "excerpt": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+    "scenes": [],
+    "collectedAt": "2026-11-07T01:09:47.145Z"
+  },
+  {
+    "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508165.html",
+    "publishedAt": "2026-11-06T09:19:00.000Z",
+    "excerpt": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+    "scenes": [],
+    "collectedAt": "2026-11-07T01:09:47.145Z"
   },
   {
     "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
@@ -3497,18 +3564,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -6443,18 +6510,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
