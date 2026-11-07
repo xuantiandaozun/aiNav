@@ -1,5 +1,130 @@
 [
   {
+    "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-07T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:59.539Z"
+  },
+  {
+    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508449.html",
+    "publishedAt": "2026-11-07T09:38:56.000Z",
+    "excerpt": "AI写代码太快，基础设施跟不上了",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-07T13:09:56.178Z"
+  },
+  {
+    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508344.html",
+    "publishedAt": "2026-11-07T08:11:25.000Z",
+    "excerpt": "融资缩水，硅谷投资人也谨慎了",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:56.178Z"
+  },
+  {
+    "title": "为了去AI味，人类开始主动写烂文章了……",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508330.html",
+    "publishedAt": "2026-11-07T07:59:28.000Z",
+    "excerpt": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-11-07T13:09:56.178Z"
+  },
+  {
+    "title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4059085827527815?f=rss",
+    "publishedAt": "2026-11-07T07:26:22.000Z",
+    "excerpt": "Meta首席战略官戴夫·韦纳周五确认，他将离开公司，出任AI推理初创企业Fireworks的首席财务官。韦纳2012年加入脸书，担任企业财务与业务规划副总裁，2014年升任首席财务官，在该岗位任职逾八年，2022年转任首席战略官。(财联社)",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:58.271Z"
+  },
+  {
+    "title": "Meta首席战略官离职",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4059310472615049?f=rss",
+    "publishedAt": "2026-11-07T06:24:08.000Z",
+    "excerpt": "据报道，Meta首席战略官戴夫·韦纳确认将离开公司，出任AI推理初创企业Fireworks的首席财务官。（界面）",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:58.271Z"
+  },
+  {
+    "title": "A股一周牛股出炉：最牛股ST豆神涨超65%，浙文影业五连板",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4059042576307333?f=rss",
+    "publishedAt": "2026-11-07T06:18:27.000Z",
+    "excerpt": "剔除月内上市新股和退市整理期个股，前20只牛股当周股价均涨超33%。其中电力设备板块独占8席，光伏上下游全线走强，成为本周市场焦点；传媒板块紧随其后，短剧、AI影视题材持续发酵，多股涨幅居前。最牛股ST豆神主营业务是人工智能（AI）教育、艺术类学习服务、智慧教育服务及文旅研学，受…",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-11-07T13:09:58.271Z"
+  },
+  {
+    "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508264.html",
+    "publishedAt": "2026-11-07T05:01:17.000Z",
+    "excerpt": "苦单Session久矣，两大Agent玩家不谋而合。",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:56.178Z"
+  },
+  {
+    "title": "欧洲央行考虑审查银行对数据中心的贷款，以评估人工智能相关风险",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4059026136388742?f=rss",
+    "publishedAt": "2026-11-07T04:42:44.000Z",
+    "excerpt": "11月6日，据报道，欧洲央行正考虑审查银行对数据中心的贷款，以评估人工智能市场情绪变化及估值波动可能带来的风险。据悉，欧洲央行高级官员已在内部及与受其监管的银行讨论这一方案。审查可能包括现场检查，重点考察银行如何评估未来现金流、抵押品价值及应对潜在违约风险。此次审查范围可能小于欧…",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:58.272Z"
+  },
+  {
+    "title": "台积电据悉考虑进军先进存储芯片领域，为英伟达生产3D DRAM",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4059024621392777?f=rss",
+    "publishedAt": "2026-11-07T03:58:13.000Z",
+    "excerpt": "11月6日，据报道，台积电正评估扩大先进存储芯片生产，以争取更多人工智能基础设施投资。据悉，台积电应主要客户英伟达要求，已开始制定生产垂直堆叠3D DRAM的计划。消息传台积电据悉考虑进军先进存储芯片领域，为英伟达生产3D DRAM出后，台积电美国存托凭证周五早盘一度上涨7.7%…",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:58.272Z"
+  },
+  {
+    "title": "AI板块遭“聪明钱”抛售，美国对冲基金10月普遍亏损",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4059020817273728?f=rss",
+    "publishedAt": "2026-11-07T03:55:20.000Z",
+    "excerpt": "10月以来，围绕人工智能投资前景、融资成本与盈利兑现的担忧持续发酵，美股科技股剧烈调整并迅速传导至对冲基金业绩，无论是老虎环球等押注科技成长的明星选股基金，还是千禧年基金等以风控分散见长的多策略巨头，大多没能躲过这波回撤。进入11月，“聪明钱”抛售潮仍在继续，对冲基金集中减持半导…",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:58.272Z"
+  },
+  {
+    "title": "AGENTS.MD，危险危险危险！！！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508244.html",
+    "publishedAt": "2026-11-07T03:43:55.000Z",
+    "excerpt": "全新的电脑病毒",
+    "scenes": [],
+    "collectedAt": "2026-11-07T13:09:56.178Z"
+  },
+  {
+    "title": "9点1氪丨豆包工作个人版取消5小时额度限制；人类低温纪录被打破；美科技股反弹，SpaceX市值一夜暴涨9653亿",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4058997417563266?f=rss",
+    "publishedAt": "2026-11-07T01:10:18.000Z",
+    "excerpt": "今日热点导览 OpenAI完成110亿美元新融资，估值1.25万亿美元 美国企业支付开源模型费用89%流向中国 宝马中国辟谣气囊召回短信 谷歌加入科技企业裁员大潮 日本股市进入技术性熊市，日经225指数盘中跌超6% TOP 3大新闻 豆包工作个人版取消5小时额度限制 记者获悉，1…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-07T13:09:58.270Z"
+  },
+  {
     "title": "Anthropic拟于下周启动IPO路演",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4058931650761863?f=rss",
@@ -3564,18 +3689,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -6510,18 +6635,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
