@@ -1,5 +1,115 @@
 [
   {
+    "id": "1xpuov0",
+    "title": "made a physical sticker product and got it to customers in under 10 days (half of it was usps)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpuov0/made_a_physical_sticker_product_and_got_it_to/",
+    "excerpt": "1. saw a post on reddit for QR stickers 2. thought it was a lost and found QR code (it wasn’t) 3. got the idea to make lost and found QR stickers (we already ow…",
+    "createdAt": "2026-11-07T02:03:57.000Z"
+  },
+  {
+    "id": "1xpujpj",
+    "title": "I built Select, an open-source platform where AI agents have to earn autonomy",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpujpj/i_built_select_an_opensource_platform_where_ai/",
+    "excerpt": "Hi everyone! I've been building **Select**, an open-source platform for managing teams of AI agents. The idea is simple: instead of giving agents full autonomy …",
+    "createdAt": "2026-11-07T01:56:51.000Z"
+  },
+  {
+    "id": "1xpughx",
+    "title": "I built a learning app where your curiosity grows into a cloud of topics, looking for honest feedback",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpughx/i_built_a_learning_app_where_your_curiosity_grows/",
+    "excerpt": "Hi all, I'm a solo builder from Toronto and this is IkoLearn. You tell it what you're curious about, it builds a small \"learning cloud\" around your interests, a…",
+    "createdAt": "2026-11-07T01:52:22.000Z"
+  },
+  {
+    "id": "1xpue7a",
+    "title": "I made a sandbox with my friends that lets us vibe code changes in real-time",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpue7a/i_made_a_sandbox_with_my_friends_that_lets_us/",
+    "excerpt": "This is a demo clip of a game we have been working on called frenslop. It's a free multiplayer sandbox that runs in the browser. You and your friends join a sha…",
+    "createdAt": "2026-11-07T01:49:02.000Z"
+  },
+  {
+    "id": "1xpubin",
+    "title": "Zipclay – describe an object, an AI agent builds the 3D model (I'm the founder)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpubin/zipclay_describe_an_object_an_ai_agent_builds_the/",
+    "excerpt": "I built Zipclay, a place where you describe an object and an AI agent builds an editable 3D model. Then you change it by chat (\"make it purple\"), share it, and …",
+    "createdAt": "2026-11-07T01:45:07.000Z"
+  },
+  {
+    "id": "1xpua0f",
+    "title": "I built a free survival app that runs a real AI model completely offline — and finally got it working in airplane mode",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpua0f/i_built_a_free_survival_app_that_runs_a_real_ai/",
+    "excerpt": "I’ve been working on something called **AEGIS Wildlands**, an offline-first survival and emergency preparedness app. The idea started pretty simply: What if the…",
+    "createdAt": "2026-11-07T01:42:58.000Z"
+  },
+  {
+    "id": "1xpszx7",
+    "title": "i dont know what react is and 90 dentists use my app every day",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xpszx7/i_dont_know_what_react_is_and_90_dentists_use_my/",
+    "excerpt": "My girlfriend is a dental assistant and her clinic tracked sterilizer runs on a clipboard taped to the machine. Every cycle someone writes the time, the temp an…",
+    "createdAt": "2026-11-07T00:40:42.000Z"
+  },
+  {
+    "id": "1xprtra",
+    "title": "Real paper or not? - I built a game featuring my cat Cusco",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xprtra/real_paper_or_not_i_built_a_game_featuring_my_cat/",
+    "excerpt": "I like building simple educational games and quizzes featuring my cats as mascots. EMNLP2026 just finished in Budapest. It’s a top NLP (coolest AI sub-domain) c…",
+    "createdAt": "2026-11-06T23:45:51.000Z"
+  },
+  {
+    "id": "1xprh8j",
+    "title": "I built an open-source sales agent that runs on your Claude or Codex subscription (4.6k stars)",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 2,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xprh8j/i_built_an_opensource_sales_agent_that_runs_on/",
+    "excerpt": "It's an outreach agent that runs on your machine, on the Claude or ChatGPT plan you already pay for. No model API key. It runs a loop every 15 minutes. Wake up,…",
+    "createdAt": "2026-11-06T23:29:05.000Z"
+  },
+  {
+    "id": "1xpq4zv",
+    "title": "Tiller Code -N8N married to T3Code - Visual First",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xpq4zv/tiller_code_n8n_married_to_t3code_visual_first/",
+    "excerpt": "&#x200B; Introducing Tiller An Opinionated fork of T3code What's different: workflows, visual first \\-Everything you like about T3 Code(Runners keep it updated …",
+    "createdAt": "2026-11-06T22:28:42.000Z"
+  },
+  {
+    "id": "1xppze5",
+    "title": "T3 code harness wrapper saved me $2,798.66",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 0,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xppze5/t3_code_harness_wrapper_saved_me_279866/",
+    "excerpt": "T3 code is not a harness but a wrapper for codex cli and claude code. It also has tools like agent-devices super useful for making apps. has anyone tried this?",
+    "createdAt": "2026-11-06T22:21:55.000Z"
+  },
+  {
     "id": "1xp0xh5",
     "title": "I built a Mac app because I kept running out of time halfway through PR reviews",
     "sourceName": "Reddit · r/SideProject",
@@ -1088,115 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xd0znk/jotjam_a_free_browser_sketch_pad_floor_plan_tool/",
     "excerpt": "JotJam opens in the browser on a phone, tablet or laptop and has three separate tools: Sketch pad: pencil, pen, marker and eraser on blank, dotted or squared pa…",
     "createdAt": "2026-10-23T01:40:10.000Z"
-  },
-  {
-    "id": "1xd0w7u",
-    "title": "after PHP2Shell I used Opus 5.5 to convert 45 client WordPress sites to Astro in the past 36 hours",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xd0w7u/after_php2shell_i_used_opus_55_to_convert_45/",
-    "excerpt": "After the whole PHP2Shell thing I finally pulled the trigger and converted 45 of my client sites to static Astro sites. The sites look exactly the same, just wa…",
-    "createdAt": "2026-10-23T01:35:32.000Z"
-  },
-  {
-    "id": "1xczr9j",
-    "title": "I built SwarmOS to help AI coding agents work together instead of stepping on each other. Would you use something like this?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xczr9j/i_built_swarmos_to_help_ai_coding_agents_work/",
-    "excerpt": "A lot to digest from my project, but basically its a swarm orchestration system that just uses github to help swarm on issues. Think of something like Seti@home…",
-    "createdAt": "2026-10-23T00:41:15.000Z"
-  },
-  {
-    "id": "1xbz6aq",
-    "title": "Built a bunch of quizzes for learning about AI and Open Weights featuring my cat",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xbz6aq/built_a_bunch_of_quizzes_for_learning_about_ai/",
-    "excerpt": "It is all free, no ads there, no login but there are some promos of my newsletter and courses. I hope it is ok. Cusco is my orange Maine Coon. Spencer is my Sil…",
-    "createdAt": "2026-10-21T20:56:04.000Z"
-  },
-  {
-    "id": "1xbamva",
-    "title": "AirFliq - I built a Mac app to save a couple of clicks. Reddit had opinions.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbamva/airfliq_i_built_a_mac_app_to_save_a_couple_of/",
-    "excerpt": "When I first shared AirFliq on Reddit, some people liked it. Others questioned why anyone needed another app for something macOS already does. Fair question. Si…",
-    "createdAt": "2026-10-21T01:56:38.000Z"
-  },
-  {
-    "id": "1xbal12",
-    "title": "opinion? how do i grow this?",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbal12/opinion_how_do_i_grow_this/",
-    "excerpt": "few of my homies built this retro platformer thing as a side project, you can play it in the browser, no download [https://stay-foolish-capital.com/Games/The-La…",
-    "createdAt": "2026-10-21T01:54:08.000Z"
-  },
-  {
-    "id": "1xbaheq",
-    "title": "I built an old school Football Pickem Contest site",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbaheq/i_built_an_old_school_football_pickem_contest_site/",
-    "excerpt": "I got 77 users in the season long college contest and just created a Mid-Season classic league that starts this week with 12 folks so far. It’s pretty simple, c…",
-    "createdAt": "2026-10-21T01:49:02.000Z"
-  },
-  {
-    "id": "1xbacvt",
-    "title": "I built a tool that turns your CV into a portfolio site",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xbacvt/i_built_a_tool_that_turns_your_cv_into_a/",
-    "excerpt": "I kept meeting people with a CV but no portfolio, and every site builder asks you to retype everything into a blank template. So I built Cveelo: you upload your…",
-    "createdAt": "2026-10-21T01:42:48.000Z"
-  },
-  {
-    "id": "1xba91i",
-    "title": "[C++20] I built an offshore operations system for crew management, safety drills and audit tracking",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xba91i/c20_i_built_an_offshore_operations_system_for/",
-    "excerpt": "I've been working on OFS2X Offshore Operations, a C++20 project focused on managing offshore crew assignments, emergency stations and safety drills. The idea wa…",
-    "createdAt": "2026-10-21T01:37:33.000Z"
-  },
-  {
-    "id": "1xafqko",
-    "title": "Colmi - Open Source iOS App",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafqko/colmi_open_source_ios_app/",
-    "excerpt": "**\\*\\*Check out the original post for images\\*\\*** [**https://www.reddit.com/r/SmartRings/comments/1xafmyl/colmi\\_open\\_source\\_ios\\_app/**](https://www.reddit.…",
-    "createdAt": "2026-10-20T01:59:02.000Z"
-  },
-  {
-    "id": "1xafpx0",
-    "title": "Pop that Corn!",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xafpx0/pop_that_corn/",
-    "excerpt": "[Popcorn Drop](https://popcorndrop.netlify.app/) My first try at building something using Claude. Used Claude Opus 5.5 medium, built in an HTML file using three…",
-    "createdAt": "2026-10-20T01:58:08.000Z"
-  },
-  {
-    "id": "1xafmyz",
-    "title": "I built a tool that chases your clients for documents so you don't have to (solo dev, feedback wanted)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xafmyz/i_built_a_tool_that_chases_your_clients_for/",
-    "excerpt": "I kept seeing small businesses spend their days replying to clients email after email, just to collect the same paperwork every year. So I built ClientPulse. Ho…",
-    "createdAt": "2026-10-20T01:54:08.000Z"
   }
 ]
