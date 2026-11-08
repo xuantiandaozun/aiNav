@@ -1,5 +1,75 @@
 [
   {
+    "id": "1xqn0tk",
+    "title": "I built an autonomous AI Agent Oracle for critical minerals & satellite EUDR audits (FastAPI + 39 MCP Tools)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xqn0tk/i_built_an_autonomous_ai_agent_oracle_for/",
+    "excerpt": "Hey r/SideProject! 👋 Over the past few months, I’ve been building \\*\\*minerals-oracle-x402\\*\\* — a production micro-oracle and Model Context Protocol (MCP) serv…",
+    "createdAt": "2026-11-08T01:58:45.000Z"
+  },
+  {
+    "id": "1xqmwk3",
+    "title": "Shipped my first iOS app on Nov 7. For those who got past zero users, what actually worked?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xqmwk3/shipped_my_first_ios_app_on_nov_7_for_those_who/",
+    "excerpt": "i'm a solo dev in vn. my first iOS app, mhm: you too, went live on the app store on nov 7. it's a small app for gen z friends and siblings to say the things tha…",
+    "createdAt": "2026-11-08T01:52:34.000Z"
+  },
+  {
+    "id": "1xqmozh",
+    "title": "I made an Android food diary that starts with a photo",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xqmozh/i_made_an_android_food_diary_that_starts_with_a/",
+    "excerpt": "I worked on Bitepixa for people who want to log a meal without typing out every ingredient. Take a photo, get a rough estimate of calories and macros, then fix …",
+    "createdAt": "2026-11-08T01:41:57.000Z"
+  },
+  {
+    "id": "1xqmido",
+    "title": "probe0 - a local proxy that prices your own Claude Code logs before asking you to trust it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xqmido/probe0_a_local_proxy_that_prices_your_own_claude/",
+    "excerpt": "I posted probe0 here about a week ago. It's a small local proxy that runs under Claude Code and Codex on a Mac and logs what every call uses. The thing I keep r…",
+    "createdAt": "2026-11-08T01:32:23.000Z"
+  },
+  {
+    "id": "1xqm7if",
+    "title": "I built an Android app that makes me pause before I scroll",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xqm7if/i_built_an_android_app_that_makes_me_pause_before/",
+    "excerpt": "I kept picking up my phone to check one thing and opening a feed out of habit. So I built Appause to give myself a few seconds to catch that. You pick which app…",
+    "createdAt": "2026-11-08T01:17:00.000Z"
+  },
+  {
+    "id": "1xqm6vc",
+    "title": "I built a kid-friendly Plex player for my daughter and it just launched on the App Store (5 free lifetime unlock codes)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xqm6vc/i_built_a_kidfriendly_plex_player_for_my_daughter/",
+    "excerpt": "Hi all! My first kids app, SnuggleTV, just made it through App Review (third time's the charm), so I wanted to share it here. It started as a weekend project be…",
+    "createdAt": "2026-11-08T01:16:05.000Z"
+  },
+  {
+    "id": "1xqdzza",
+    "title": "Schedule button disabled itself after one click. One user still got 6 duplicate posts",
+    "sourceName": "Reddit · r/indiehackers",
+    "subreddit": "indiehackers",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/indiehackers/comments/1xqdzza/schedule_button_disabled_itself_after_one_click/",
+    "excerpt": "One of our API customers built a social media scheduler into their app. When you hit Schedule, the button greyed out immediately. Pretty standard. Then one of t…",
+    "createdAt": "2026-11-07T18:58:47.000Z"
+  },
+  {
     "id": "1xpuov0",
     "title": "made a physical sticker product and got it to customers in under 10 days (half of it was usps)",
     "sourceName": "Reddit · r/SideProject",
@@ -1128,75 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xdwjmr/spent_4_months_remaking_a_1995_chinese_rpg_in_the/",
     "excerpt": "hey all. side project i've been on since summer: type-pal, a from scratch typescript remake of Chinese Paladin (仙剑奇侠传), a 1995 RPG pretty much every kid in chin…",
     "createdAt": "2026-10-24T02:05:12.000Z"
-  },
-  {
-    "id": "1xdw14a",
-    "title": "Race Ratings - I couldn't find a Yelp for triathlons and marathons, so I built one from ~5,800 race reports",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xdw14a/race_ratings_i_couldnt_find_a_yelp_for_triathlons/",
-    "excerpt": "I've been looking for a Yelp-style place to check out triathlons and marathons before signing up and couldn't find one. The info is out there, it's just scatter…",
-    "createdAt": "2026-10-24T01:38:23.000Z"
-  },
-  {
-    "id": "1xdvze3",
-    "title": "I built 60+ heavily animated landing pages with GSAP, Rive-like interactions (without Rive), motion components, and full design systems. All free HTML for your coding agents.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xdvze3/i_built_60_heavily_animated_landing_pages_with/",
-    "excerpt": "I've been building [InstaLanding.ai](https://instalanding.ai/) for a while now, and the library has officially grown to **60+ complete landing pages**. Not scre…",
-    "createdAt": "2026-10-24T01:35:56.000Z"
-  },
-  {
-    "id": "1xdvuv2",
-    "title": "I built a revision game set in 3D London — is the first-time experience clear?",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xdvuv2/i_built_a_revision_game_set_in_3d_london_is_the/",
-    "excerpt": "I'm building IlluminatED, a browser learning game for UK learners aged 13+. It brings subject revision, virtual rewards and career simulations into a 3D London …",
-    "createdAt": "2026-10-24T01:29:25.000Z"
-  },
-  {
-    "id": "1xdunbr",
-    "title": "The gap between open ai and anthropic is staggering",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xdunbr/the_gap_between_open_ai_and_anthropic_is/",
-    "excerpt": "I’ve been shilling for open ai and it’s new dot feature, but after using it for weeks I realized it was just spinning its wheels in the sand making a lot of noi…",
-    "createdAt": "2026-10-24T00:27:53.000Z"
-  },
-  {
-    "id": "1xd1hpu",
-    "title": "I built a platform that scores every Japan tour so you don’t book a dud. Looking for feedback + early users",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xd1hpu/i_built_a_platform_that_scores_every_japan_tour/",
-    "excerpt": "I’ve been obsessed with Japan travel for a while and spent couple of years working with Viator and GetYourGuide tours. One thing I kept noticing: the star ratin…",
-    "createdAt": "2026-10-23T02:05:21.000Z"
-  },
-  {
-    "id": "1xd10w9",
-    "title": "I built With Alia for the unfinished thought you want to talk through",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xd10w9/i_built_with_alia_for_the_unfinished_thought_you/",
-    "excerpt": "I built With Alia for a very ordinary moment: you have something on your mind, but you haven't quite found the words for it. Maybe it's a small project you keep…",
-    "createdAt": "2026-10-23T01:41:52.000Z"
-  },
-  {
-    "id": "1xd0znk",
-    "title": "JotJam - a free browser sketch pad, floor plan tool and piano/drums recorder",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xd0znk/jotjam_a_free_browser_sketch_pad_floor_plan_tool/",
-    "excerpt": "JotJam opens in the browser on a phone, tablet or laptop and has three separate tools: Sketch pad: pencil, pen, marker and eraser on blank, dotted or squared pa…",
-    "createdAt": "2026-10-23T01:40:10.000Z"
   }
 ]
