@@ -1,5 +1,79 @@
 [
   {
+    "title": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-08T16:19:44.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-11-08T13:09:58.310Z"
+  },
+  {
+    "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-08T15:03:06.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-08T13:09:58.310Z"
+  },
+  {
+    "title": "数据显示三星电子将成为韩国首家现金资产超200万亿韩元的韩国企业",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4060676956476291?f=rss",
+    "publishedAt": "2026-11-08T10:00:53.000Z",
+    "excerpt": "行业数据周日显示，受AI芯片超级周期带动，三星电子有望成为韩国首家现金资产突破200万亿韩元（约合1466亿美元）的企业。数据估算，这家芯片巨头截至三季度现金及现金等价物达到214.8万亿韩元，较三个月前的190万亿韩元增加24.8万亿韩元。该规模也几乎是2025年三季度末108…",
+    "scenes": [],
+    "collectedAt": "2026-11-08T13:09:56.923Z"
+  },
+  {
+    "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-08T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-08T13:09:58.310Z"
+  },
+  {
+    "title": "伯恩斯坦：OpenAI至2030年算力基础设施支出或达6140亿美元，低于市场广泛引用的7500亿美元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4060769889391489?f=rss",
+    "publishedAt": "2026-11-08T08:09:29.000Z",
+    "excerpt": "伯恩斯坦分析师Mark Moerdler估算，OpenAI已披露的算力合作协议对应的基础设施支出，到2030年累计可能达到6140亿美元，明显低于市场广泛引用的7500亿美元。该测算假设所有已识别合同均按计划执行，但实际支出可能因数据中心建设延期、项目取消及硬件采购安排调整而减少…",
+    "scenes": [],
+    "collectedAt": "2026-11-08T13:09:56.923Z"
+  },
+  {
+    "title": "上交所：沪市上市公司总市值超65万亿元",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4060828239221638?f=rss",
+    "publishedAt": "2026-11-08T08:08:06.000Z",
+    "excerpt": "上交所发布的最新数据显示，截至目前，沪市合计上市公司超2300家，总市值超65万亿元。其中，A股市值超千亿的头部上市公司近百家，合计市值超34.8万亿元。沪市头部公司中，科技制造企业在人工智能、集成电路、先进制造等领域加快成长，成为资本市场高质量发展的重要力量。（央视新闻）",
+    "scenes": [],
+    "collectedAt": "2026-11-08T13:09:56.923Z"
+  },
+  {
+    "title": "中国移动推进算网智协同",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4060790368785286?f=rss",
+    "publishedAt": "2026-11-08T07:29:34.000Z",
+    "excerpt": "“2026移动网络大会MobileLink 2026”在广州举办，中国移动董事长陈忠岳发表主旨讲话《网络强基智能共创》，指出新的智能经济需要新的基础设施。中国移动一体推进通信网、算力网和智能网建设，发布MoMA模型服务平台等成果，汇聚300多款主流大模型，大幅压降Token综合使…",
+    "scenes": [],
+    "collectedAt": "2026-11-08T13:09:56.923Z"
+  },
+  {
+    "title": "币安任命Justin Yek为新任CFO",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4060449588302976?f=rss",
+    "publishedAt": "2026-11-08T04:31:43.000Z",
+    "excerpt": "币安任命Justin Yek为新任CFO，Kaiser Ng离职创业。（新浪财经）",
+    "scenes": [],
+    "collectedAt": "2026-11-08T13:09:56.923Z"
+  },
+  {
     "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
@@ -3689,18 +3763,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -6635,18 +6709,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
