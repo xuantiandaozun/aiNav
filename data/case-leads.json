@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xre93x",
+    "title": "I made a site where you type a sentence and a hand-drawn landscape gets drawn live",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre93x/i_made_a_site_where_you_type_a_sentence_and_a/",
+    "excerpt": "Type \"foggy lake at dawn, one boat, no clouds\" and the scene sketches itself while you type. Runs fully in your browser, no backend or account required. Export …",
+    "createdAt": "2026-11-09T00:59:38.000Z"
+  },
+  {
+    "id": "1xre8tg",
+    "title": "Team Productivity Calculator: understand how your team performs, and what a new hire really changes",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre8tg/team_productivity_calculator_understand_how_your/",
+    "excerpt": "I built a free calculator that shows what adding, replacing or waiting to add a person really does to a team's output: when the new person starts paying off, an…",
+    "createdAt": "2026-11-09T00:59:13.000Z"
+  },
+  {
+    "id": "1xre6fl",
+    "title": "Building a spreadsheet app where each cell (optionally) being a terminal / coding agent is a first class property",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 2,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre6fl/building_a_spreadsheet_app_where_each_cell/",
+    "excerpt": "https://reddit.com/link/1xre6fl/video/kuobaorijh0i1/player [https://github.com/sshah03/recalc](https://github.com/sshah03/recalc) Since spreadsheets are so vers…",
+    "createdAt": "2026-11-09T00:55:53.000Z"
+  },
+  {
+    "id": "1xre19c",
+    "title": "I built a simple web tool to generate standardized technical spec sheets and export PDFs (SpecSheet Pro)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 4,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre19c/i_built_a_simple_web_tool_to_generate/",
+    "excerpt": "Hey everyone, Creating technical specification sheets in Excel or Word often leads to broken layouts, inconsistent formatting, and date ambiguity issues across …",
+    "createdAt": "2026-11-09T00:48:42.000Z"
+  },
+  {
+    "id": "1xrdxm3",
+    "title": "I made a page that process hours of finance YouTube videos everyday for you",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xrdxm3/i_made_a_page_that_process_hours_of_finance/",
+    "excerpt": "A lot of finance YouTube videos spend 20+ minutes to answer one basic question: does the creator think a stock is a good buy right now? I made a simple dashboar…",
+    "createdAt": "2026-11-09T00:43:41.000Z"
+  },
+  {
+    "id": "1xrdnpf",
+    "title": "After months of building with React & Capacitor, my Human Design & mysticism app 'KUT' is finally live on the App Store!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xrdnpf/after_months_of_building_with_react_capacitor_my/",
+    "excerpt": "Hi everyone! 👋 I'm excited to share that **KUT: Soul Compass** just officially launched on the App Store today! **The Concept:** A spiritual & self-discovery iO…",
+    "createdAt": "2026-11-09T00:30:42.000Z"
+  },
+  {
+    "id": "1xrdkzm",
+    "title": "[Giveaway]I just built a workout fitness app, ad-free with video coaches & Watch sync (Giving away free passes with code DRELENA)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xrdkzm/giveawayi_just_built_a_workout_fitness_app_adfree/",
+    "excerpt": "🎁 \\*\\*DIRECT FREE UNLOCK (Tap on iPhone to auto-redeem in App Store):\\*\\* 👉 [https://apps.apple.com/redeem?ctx=offercodes&id=6811742209&code=DRELENA](https://ap…",
+    "createdAt": "2026-11-09T00:27:15.000Z"
+  },
+  {
+    "id": "1xrdhh0",
+    "title": "I built a free Mac dictation app with extensions share and build yourself",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xrdhh0/i_built_a_free_mac_dictation_app_with_extensions/",
+    "excerpt": "hey everybody :) I got annoyed by Wispr Flow's pricing and by how clunky the open source dictation tools I tried felt. I wanted something as simple as Wispr, fr…",
+    "createdAt": "2026-11-09T00:22:31.000Z"
+  },
+  {
     "id": "1xqn0tk",
     "title": "I built an autonomous AI Agent Oracle for critical minerals & satellite EUDR audits (FastAPI + 39 MCP Tools)",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfk6wu/i_built_loomibio_what_if_your_linkinbio_could_do/",
     "excerpt": "Hey everyone! 👋 I've been building Loomi.bio, a platform for creators, freelancers, and small businesses. The idea is simple: instead of just sharing links, wha…",
     "createdAt": "2026-10-26T01:50:51.000Z"
-  },
-  {
-    "id": "1xfjrz7",
-    "title": "I built a chiptune music workstation where you can compose by hand or let an AI agent build the song live",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfjrz7/i_built_a_chiptune_music_workstation_where_you/",
-    "excerpt": "SoundBit started because I wanted to make 8-bit and 16-bit style music for games without fighting old trackers, and because I wanted to see how far an AI agent …",
-    "createdAt": "2026-10-26T01:30:44.000Z"
-  },
-  {
-    "id": "1xff8dc",
-    "title": "Vibe coders: where would you tell your agent to stop? I made a 5-minute game about it",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xff8dc/vibe_coders_where_would_you_tell_your_agent_to/",
-    "excerpt": "I kept watching my agent do one more reasonable thing after another, until the task wasn’t the task anymore. So I made it a game: ten YES/NO calls, each one rea…",
-    "createdAt": "2026-10-25T22:06:04.000Z"
-  },
-  {
-    "id": "1xeq327",
-    "title": "Giving 5 founders a free month of a tool I built to run missions",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xeq327/giving_5_founders_a_free_month_of_a_tool_i_built/",
-    "excerpt": "Hey everyone, I’m Ali, founder of NearbyCrew. I’ve been using our tools to run real projects, including recruiting app testers and video creators. I’m opening t…",
-    "createdAt": "2026-10-25T01:59:33.000Z"
-  },
-  {
-    "id": "1xepz20",
-    "title": "CCC - a free local board for coding-agent sessions that need your attention",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xepz20/ccc_a_free_local_board_for_codingagent_sessions/",
-    "excerpt": "I'm the maker of Claude Command Center (CCC). I built it because switching between coding-agent sessions made it too easy to miss a question or lose track of wh…",
-    "createdAt": "2026-10-25T01:53:40.000Z"
-  },
-  {
-    "id": "1xept54",
-    "title": "I built a personal dashboard that pulls my money, running, journal and reading into one place",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xept54/i_built_a_personal_dashboard_that_pulls_my_money/",
-    "excerpt": "For the last little while I've been building a self-hosted dashboard that runs on my laptop. It's a Flask (Python) backend with a React/Vite frontend. There are…",
-    "createdAt": "2026-10-25T01:45:05.000Z"
-  },
-  {
-    "id": "1xepqnc",
-    "title": "I built a video editor because AI kept messing up parts I'd already edited",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xepqnc/i_built_a_video_editor_because_ai_kept_messing_up/",
-    "excerpt": "I've been experimenting with AI for editing my vlogs, and one thing that frustrated me was how easily it could change something I was already happy with. So I b…",
-    "createdAt": "2026-10-25T01:41:37.000Z"
-  },
-  {
-    "id": "1xemoxs",
-    "title": "How do you manage context between multiple agents and chats, I built a second brain for that",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xemoxs/how_do_you_manage_context_between_multiple_agents/",
-    "excerpt": "A second brain, to me, is basically a place outside your head where useful context can accumulate, connect, and still be there when you need it again. If you bu…",
-    "createdAt": "2026-10-24T23:13:30.000Z"
-  },
-  {
-    "id": "1xdwjmr",
-    "title": "spent 4 months remaking a 1995 chinese RPG in the browser with AI, just added english",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xdwjmr/spent_4_months_remaking_a_1995_chinese_rpg_in_the/",
-    "excerpt": "hey all. side project i've been on since summer: type-pal, a from scratch typescript remake of Chinese Paladin (仙剑奇侠传), a 1995 RPG pretty much every kid in chin…",
-    "createdAt": "2026-10-24T02:05:12.000Z"
   }
 ]
