@@ -1,5 +1,41 @@
 [
   {
+    "title": "中信建投计算机行业2027年投资策略：建议关注国产算力等四个方向",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4063229051458433?f=rss",
+    "publishedAt": "2026-11-10T01:09:01.000Z",
+    "excerpt": "36氪获悉，中信建投证券研报称，2026年A股AI产业基于“小龙虾”的火爆、模型快速迭代和全球Capex投入持续加大，计算机板块走出上半年“资本开支增加带动硬件需求预期持续上升”，下半年“应用预期升温”的行情。当前，国内智算中心建设加速，国产AI芯片在训练、推理侧渗透率持续提升，…",
+    "scenes": [],
+    "collectedAt": "2026-11-10T01:09:27.849Z"
+  },
+  {
+    "title": "券商密集发布2027年投资策略：AI叙事尚未结束，做好分散配置",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4063197970174850?f=rss",
+    "publishedAt": "2026-11-10T01:01:32.000Z",
+    "excerpt": "进入11月，卖方机构密集发布2027年投资策略。继中信证券、华泰证券之后，中信建投证券、浙商证券等多家券商本周将举办线下策略会。整体来看，券商普遍认为，AI（人工智能）产业叙事尚未结束，科技板块内部走势或将分化，非AI板块同样具备结构性修复空间，市场不必过度悲观。在结构性机会大于…",
+    "scenes": [],
+    "collectedAt": "2026-11-10T01:09:27.849Z"
+  },
+  {
+    "title": "英伟达、SK电信与Rebellions签署备忘录，共建异构AI计算系统",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4063168669700997?f=rss",
+    "publishedAt": "2026-11-10T00:10:42.000Z",
+    "excerpt": "英伟达、SK电信以及韩国本土AI芯片初创企业Rebellions周一达成合作，将整合各自技术优势搭建异构计算系统。根据三方谅解备忘录，各方将合作搭建异构AI计算系统，把英伟达GPU与Rebellions自研NPU联动，这套系统将用于SK电信AI数据中心建设。韩国产业部补充称，本次…",
+    "scenes": [],
+    "collectedAt": "2026-11-10T01:09:27.849Z"
+  },
+  {
+    "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4063180322526336?f=rss",
+    "publishedAt": "2026-11-10T00:01:00.000Z",
+    "excerpt": "今日热点导览 王健林任万达商管董事长 董宇辉自有品牌回应“首款蛋糕9个月保质期” 玛莎拉蒂将与尊界合作，推动本地化生产 美民主党拟对马斯克等发起调查 SpaceX拟在得州建设240亿美元超级计算设施 TOP 3大新闻 外媒：黄仁勋或被英伟达免职，尚未指定接班人 美东时间11月8日…",
+    "scenes": [],
+    "collectedAt": "2026-11-10T01:09:27.848Z"
+  },
+  {
     "title": "不想当管理者，就用不好 Coding Agent？Anthropic 工程师长文谈 Agent 管理实战",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/YPQyY6bqhzhtO8MN6XUb?utm_source=rss&utm_medium=article",
@@ -4056,18 +4092,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -7002,18 +7038,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
