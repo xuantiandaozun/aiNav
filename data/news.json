@@ -1,5 +1,158 @@
 [
   {
+    "title": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T18:58:56.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/MQTTu6dgGxHBZm1wOLPI?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T16:04:53.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T15:53:17.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T15:22:09.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T15:20:56.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T11:56:55.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "台积电：董事会核准以不超5亿美元认购OpenAI特别股股份",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4063884296230020?f=rss",
+    "publishedAt": "2026-11-10T11:56:53.000Z",
+    "excerpt": "台积电11月10日公告，董事会核准以不超过5亿美元的额度认购OpenAI特别股股份。（界面）",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:55.721Z"
+  },
+  {
+    "title": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T11:28:43.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "G7易流7700亿Token背后：物流AI从屏幕走向一线现场｜最前线",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4063605732627331?f=rss",
+    "publishedAt": "2026-11-10T10:52:12.000Z",
+    "excerpt": "作者｜黄楠 编辑｜袁斯来 当大模型的概念热潮逐渐回落，物流行业的AI竞赛正在发生微妙转向。行业不再满足于演示台上的效果，开始追问：AI如何真正走进场站、车厢、装卸交接的真实现场，转化成看得见的经营结果。 在无锡举办的2026数字物流大会上，三千余位产业从业者围绕“AI开工”，抛出…",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:55.719Z"
+  },
+  {
+    "title": "普通人也能搞硬件开发了？这很「何同学」",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4063781243884679?f=rss",
+    "publishedAt": "2026-11-10T10:22:05.000Z",
+    "excerpt": "如何在专业性和用户友好度之间把握平衡，是AI硬件平台不得不跨过的一道门槛。 文 | 李嘉星 编辑 | 张薇 封面来源 | Unsplash 你有没有想过，亲手做个市面上买不到的电子小玩意儿？ 每次看何同学、稚晖君的视频，我都忍不住想：要是我也能做一个就好了。 图源：老师好我叫何同…",
+    "scenes": [
+      "video",
+      "coding"
+    ],
+    "collectedAt": "2026-11-10T13:11:55.719Z"
+  },
+  {
+    "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/yuRNB72KsEbjGYSkV7FY?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-10T09:11:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:57.291Z"
+  },
+  {
+    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508998.html",
+    "publishedAt": "2026-11-10T07:56:29.000Z",
+    "excerpt": "让每一次任务，都成为下一次进步的起点",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:53.137Z"
+  },
+  {
+    "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508985.html",
+    "publishedAt": "2026-11-10T07:33:19.000Z",
+    "excerpt": "加速东部城市型智算中心向E-AIDC演进",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:53.137Z"
+  },
+  {
+    "title": "2026商业世界值得关注的人，齐聚WISE现场丨首批嘉宾正式官宣",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4063344462304388?f=rss",
+    "publishedAt": "2026-11-10T02:57:39.000Z",
+    "excerpt": "又是一年11月，36氪WISE2026商业之王大会，今年在北京亦庄和你见面。 WISE商业之王大会像一扇持续打开的窗口，每一年都向我们展示中国商业世界不断发生的变化。今年是WISE大会走过的第14年，从互联网浪潮到AI时代，从商业模式创新到技术驱动的产业变革，每一年，都有新的故事…",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:55.720Z"
+  },
+  {
+    "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508798.html",
+    "publishedAt": "2026-11-10T01:27:09.000Z",
+    "excerpt": "办公AI结束单机模式",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-10T13:11:53.137Z"
+  },
+  {
     "title": "中信建投计算机行业2027年投资策略：建议关注国产算力等四个方向",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4063229051458433?f=rss",
@@ -34,6 +187,15 @@
     "excerpt": "今日热点导览 王健林任万达商管董事长 董宇辉自有品牌回应“首款蛋糕9个月保质期” 玛莎拉蒂将与尊界合作，推动本地化生产 美民主党拟对马斯克等发起调查 SpaceX拟在得州建设240亿美元超级计算设施 TOP 3大新闻 外媒：黄仁勋或被英伟达免职，尚未指定接班人 美东时间11月8日…",
     "scenes": [],
     "collectedAt": "2026-11-10T01:09:27.848Z"
+  },
+  {
+    "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508787.html",
+    "publishedAt": "2026-11-09T22:11:49.000Z",
+    "excerpt": "投毒 → 耗尽预算 → 诱导误判",
+    "scenes": [],
+    "collectedAt": "2026-11-10T13:11:53.137Z"
   },
   {
     "title": "不想当管理者，就用不好 Coding Agent？Anthropic 工程师长文谈 Agent 管理实战",
@@ -4092,18 +4254,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -7038,18 +7200,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
