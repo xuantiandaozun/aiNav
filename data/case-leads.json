@@ -1,5 +1,45 @@
 [
   {
+    "id": "1xsalrs",
+    "title": "I rebuilt Seoul's tech districts in 3D so you can walk to the company buildings and see their real job postings",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xsalrs/i_rebuilt_seouls_tech_districts_in_3d_so_you_can/",
+    "excerpt": "Hi r/SideProject! I'm a solo dev from Korea. Job hunting here means juggling 5 job sites, and none of them show you where you'd actually work. So I rebuilt Seou…",
+    "createdAt": "2026-11-10T01:57:33.000Z"
+  },
+  {
+    "id": "1xsag7y",
+    "title": "I built a site that tells you what a used car is actually worth, from real sales instead of asking prices",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xsag7y/i_built_a_site_that_tells_you_what_a_used_car_is/",
+    "excerpt": "I got tired of guessing whether a listing was a fair price, so I built OttoQuest. It tracks used cars for sale across the US, and shows market values computed f…",
+    "createdAt": "2026-11-10T01:50:02.000Z"
+  },
+  {
+    "id": "1xsafhz",
+    "title": "The app to 'measure' your consistency",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xsafhz/the_app_to_measure_your_consistency/",
+    "excerpt": "If you are someone like me that has always sucked at being consistent with your habits, a habit tracking app like UVU might be your solution! Inspired by the bo…",
+    "createdAt": "2026-11-10T01:49:06.000Z"
+  },
+  {
+    "id": "1xs7rb7",
+    "title": "Last time I made a computer sing “Daisy Bell”. Now it has a music video.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xs7rb7/last_time_i_made_a_computer_sing_daisy_bell_now/",
+    "excerpt": "A while back I posted a little .exe that sings *Daisy Bell*, the first song a computer ever sang (IBM 7094, Bell Labs, 1961) Now it has a music video. Code: [ht…",
+    "createdAt": "2026-11-09T23:47:01.000Z"
+  },
+  {
     "id": "1xre93x",
     "title": "I made a site where you type a sentence and a hand-drawn landscape gets drawn live",
     "sourceName": "Reddit · r/SideProject",
@@ -1158,45 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfklct/i_cut_my_hotfix_deploys_from_3_hours_to_8_minutes/",
     "excerpt": "I run a small SaaS on GitHub Actions + Azure. Our full release takes about **3 hours** (builds, tests, e2e, migration checks). Fine for features. Painful when a…",
     "createdAt": "2026-10-26T02:10:11.000Z"
-  },
-  {
-    "id": "1xfkej9",
-    "title": "I made a free email authentication checker that tells you exactly which DNS record to fix, no signup",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfkej9/i_made_a_free_email_authentication_checker_that/",
-    "excerpt": "Enter any domain and Rigcheck checks its SPF, DKIM, DMARC and MX records, then explains what's wrong in plain English and gives you the exact record to paste in…",
-    "createdAt": "2026-10-26T02:00:57.000Z"
-  },
-  {
-    "id": "1xfkdpz",
-    "title": "I rebuilt the VS Code git extension I used every day after it stopped getting updates",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfkdpz/i_rebuilt_the_vs_code_git_extension_i_used_every/",
-    "excerpt": "Git Graph was the extension I used every single day in VS Code. It hasn't had a release since April 2021, and my day changed: feature branches that land through…",
-    "createdAt": "2026-10-26T02:00:04.000Z"
-  },
-  {
-    "id": "1xfkd8o",
-    "title": "My last post got 1 comment, so I kept building anyway. Round 2 of my study app, please roast it",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfkd8o/my_last_post_got_1_comment_so_i_kept_building/",
-    "excerpt": "A while ago I posted StudySync here (an app that turns your Moodle/Canvas course into practice). It got exactly one comment, so thanks to that one legend . I've…",
-    "createdAt": "2026-10-26T01:59:26.000Z"
-  },
-  {
-    "id": "1xfk6wu",
-    "title": "I built Loomi.bio — what if your link-in-bio could do more than just share links?",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfk6wu/i_built_loomibio_what_if_your_linkinbio_could_do/",
-    "excerpt": "Hey everyone! 👋 I've been building Loomi.bio, a platform for creators, freelancers, and small businesses. The idea is simple: instead of just sharing links, wha…",
-    "createdAt": "2026-10-26T01:50:51.000Z"
   }
 ]
