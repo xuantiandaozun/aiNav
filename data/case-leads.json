@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xt5hdh",
+    "title": "CatLens - an offline iPhone journal for your cat",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5hdh/catlens_an_offline_iphone_journal_for_your_cat/",
+    "excerpt": "I’m the developer of CatLens, an iPhone app for saving everyday observations about your cat. Pick a photo or short video and the app organizes visible expressio…",
+    "createdAt": "2026-11-11T02:01:30.000Z"
+  },
+  {
+    "id": "1xt5epj",
+    "title": "I made an iPhone app that translates screenshots in place",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5epj/i_made_an_iphone_app_that_translates_screenshots/",
+    "excerpt": "I was tired of screenshotting convos and social media posts in other languages and uploading them to chatgpt to translate them so I built Onscreen Translate tha…",
+    "createdAt": "2026-11-11T01:58:01.000Z"
+  },
+  {
+    "id": "1xt5b3j",
+    "title": "How do you distribute a free desktop app when most people find it on their phone?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5b3j/how_do_you_distribute_a_free_desktop_app_when/",
+    "excerpt": "Solo founder here. 10 days ago I launched a free Windows productivity tool (it helps you write and edit text inside other apps). 40 users so far, and I'm trying…",
+    "createdAt": "2026-11-11T01:53:03.000Z"
+  },
+  {
+    "id": "1xt5aeg",
+    "title": "I built Sirenfall (open source browser experience)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5aeg/i_built_sirenfall_open_source_browser_experience/",
+    "excerpt": "Sirenfall is unique because each experience is different. My goal is to have it provide a whole night's worth of entertainment by adding events that play out ov…",
+    "createdAt": "2026-11-11T01:52:09.000Z"
+  },
+  {
+    "id": "1xt51rw",
+    "title": "Wallpaper tool I made",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt51rw/wallpaper_tool_i_made/",
+    "excerpt": "Recently i decided Wallpaper Engine used too much of my GPU, so I made this, one person was too busy liking WE and decided to leave a not very constructive resp…",
+    "createdAt": "2026-11-11T01:40:21.000Z"
+  },
+  {
+    "id": "1xt5175",
+    "title": "Condo/TH owners — how do you keep track of everything your HOA throws at you? I built a tool that keeps track of it for owners — feedback wanted",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5175/condoth_owners_how_do_you_keep_track_of/",
+    "excerpt": "An HOA sends its owners a constant stream of notices, bills, and project updates — scattered across email, paper mailers, the management company's portal, and g…",
+    "createdAt": "2026-11-11T01:39:36.000Z"
+  },
+  {
+    "id": "1xt50tr",
+    "title": "Joinable – a free way to add multiplayer to a web game, without writing a server",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt50tr/joinable_a_free_way_to_add_multiplayer_to_a_web/",
+    "excerpt": "I made this, mostly on my own, with AI, while building the browser games on Etheria. Multiplayer was the part I did not want to keep rebuilding, so I turned it …",
+    "createdAt": "2026-11-11T01:39:06.000Z"
+  },
+  {
+    "id": "1xt39cf",
+    "title": "3DA",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xt39cf/3da/",
+    "excerpt": "I've been building small things on one idea: any place on Earth as a clean 3D model in the browser, made from open data. **Your Place**: search a place, get it …",
+    "createdAt": "2026-11-11T00:17:26.000Z"
+  },
+  {
     "id": "1xsalrs",
     "title": "I rebuilt Seoul's tech districts in 3D so you can walk to the company buildings and see their real job postings",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfz9y/script_clock_a_little_script_timer_teleprompter_i/",
     "excerpt": "I've been writing scripts for a YouTube channel I want to start, and I could never tell how long they'd actually run. I'm not a dev, but I got curious and start…",
     "createdAt": "2026-10-27T01:54:28.000Z"
-  },
-  {
-    "id": "1xgfvjn",
-    "title": "I built RepoRun to show what a GitHub repo needs before you try to run it",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfvjn/i_built_reporun_to_show_what_a_github_repo_needs/",
-    "excerpt": "I’m the maker of RepoRun. It’s a free, open-source desktop app for the gap between finding an interesting repo and figuring out why it won’t start on your lapto…",
-    "createdAt": "2026-10-27T01:49:49.000Z"
-  },
-  {
-    "id": "1xgfuqz",
-    "title": "ModusPad 2.0 - A Mac launcher that also replaces your Dock, with profiles that switch automatically",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfuqz/moduspad_20_a_mac_launcher_that_also_replaces/",
-    "excerpt": "I'm the developer of ModusPad, a launcher for macOS 26 and 27. Version 1 was a classic Launchpad-style grid with one twist: profiles. Each profile has its own a…",
-    "createdAt": "2026-10-27T01:48:46.000Z"
-  },
-  {
-    "id": "1xgfp43",
-    "title": "made a cubing timer inspired on monkeytype",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfp43/made_a_cubing_timer_inspired_on_monkeytype/",
-    "excerpt": "this is not a vibe coded project ai slop. It just an alternative to cs timer, i made it mostly for myself, it has automatic cloud sync between devices for your …",
-    "createdAt": "2026-10-27T01:41:31.000Z"
-  },
-  {
-    "id": "1xgfkpz",
-    "title": "I built a lightweight JSON formatter with share links that keep your data out of a database",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfkpz/i_built_a_lightweight_json_formatter_with_share/",
-    "excerpt": "I've been working on this JSON formatter since last summer. I wanted a lightweight formatting tool that could make share links, so I could easily send JSON to m…",
-    "createdAt": "2026-10-27T01:35:48.000Z"
-  },
-  {
-    "id": "1xgdo4w",
-    "title": "Vibecoded DJ app",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xgdo4w/vibecoded_dj_app/",
-    "excerpt": "Hi everyone, brand new to vibecoding but been using AI for a couple of years for other creative purposes. I'm a DJ of 13 years and absolutely love hardware and …",
-    "createdAt": "2026-10-27T00:10:22.000Z"
-  },
-  {
-    "id": "1xgd77d",
-    "title": "Anyone have an NYC social life? I vibe coded an NYC live music aggregator.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xgd77d/anyone_have_an_nyc_social_life_i_vibe_coded_an/",
-    "excerpt": "We go out ALOT. We see lots of stuff. It's hard to know what's happening TONIGHT in NYC. SO: [music.gaf.nyc](https://music.gaf.nyc) Pulls shows from a ton of my…",
-    "createdAt": "2026-10-26T23:50:56.000Z"
-  },
-  {
-    "id": "1xgazns",
-    "title": "Rebuilt Netscape Navigator and Winamp on modern macOS 27 with Google Antigravity and Xcode 27",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xgazns/rebuilt_netscape_navigator_and_winamp_on_modern/",
-    "excerpt": "![img](jzu2ttgnyvxh1 \"Netscape Navigator with Safari base, and rebuilt Winamp with Apple Music\") \"StreamAmp\", a Winamp-clone with Apple Music support, awaiting …",
-    "createdAt": "2026-10-26T22:16:36.000Z"
-  },
-  {
-    "id": "1xfklct",
-    "title": "I cut my hotfix deploys from 3 hours to 8 minutes, then built a console to watch them land",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xfklct/i_cut_my_hotfix_deploys_from_3_hours_to_8_minutes/",
-    "excerpt": "I run a small SaaS on GitHub Actions + Azure. Our full release takes about **3 hours** (builds, tests, e2e, migration checks). Fine for features. Painful when a…",
-    "createdAt": "2026-10-26T02:10:11.000Z"
   }
 ]
