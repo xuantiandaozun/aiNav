@@ -1,5 +1,135 @@
 [
   {
+    "id": "1xu054y",
+    "title": "I built a photo album that lives on a map, and the people you share it with need no account",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xu054y/i_built_a_photo_album_that_lives_on_a_map_and_the/",
+    "excerpt": "Every trip ends the same way. Forty photos spread across four group chats, and the good ones never reach anyone. Viallo groups them by place and by day and draw…",
+    "createdAt": "2026-11-12T01:47:24.000Z"
+  },
+  {
+    "id": "1xu047w",
+    "title": "I built a free, Jackbox-style site for playing classic card games with friends and family, in the same room or remotely. Still in development and looking for feedback.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xu047w/i_built_a_free_jackboxstyle_site_for_playing/",
+    "excerpt": "**TL;DR:** Classic card games free, no sign-up, no install: **cardsard.com**. Please try it and tell me what you think! Hello! I've been working on this project…",
+    "createdAt": "2026-11-12T01:46:08.000Z"
+  },
+  {
+    "id": "1xu008o",
+    "title": "ATLAS, an idea for getting AI tools and agents to work together",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xu008o/atlas_an_idea_for_getting_ai_tools_and_agents_to/",
+    "excerpt": "I’ve been building an AI ecosystem called ATLAS, and I’m trying to figure out which problem is worth solving first. The idea is to help people coordinate differ…",
+    "createdAt": "2026-11-12T01:40:43.000Z"
+  },
+  {
+    "id": "1xtzzzq",
+    "title": "I built a free, open-source music player for Mac that shows exactly what reaches your DAC",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzzzq/i_built_a_free_opensource_music_player_for_mac/",
+    "excerpt": "Vespertine 1.0 shipped today. It's a native macOS music player for people with real music libraries and decent audio gear. What it does: - Bit-perfect playback:…",
+    "createdAt": "2026-11-12T01:40:23.000Z"
+  },
+  {
+    "id": "1xtzxas",
+    "title": "I built a book tracker that doesn’t suck",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzxas/i_built_a_book_tracker_that_doesnt_suck/",
+    "excerpt": "Hey folks, I wanted to share a reading tracker I’ve been working on called Marloe. https://marloe.app I have a severe dislike of most book trackers that are loa…",
+    "createdAt": "2026-11-12T01:36:39.000Z"
+  },
+  {
+    "id": "1xtzu56",
+    "title": "AweClip: a small iPhone/iPad app for trimming, arranging and joining video clips",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzu56/aweclip_a_small_iphoneipad_app_for_trimming/",
+    "excerpt": "I'm Jeff, the developer of AweClip. It lets you import clips from Photos or Files, arrange them as scenes, trim them, preview the sequence, and export it to Pho…",
+    "createdAt": "2026-11-12T01:32:22.000Z"
+  },
+  {
+    "id": "1xtzqpa",
+    "title": "Made my Childhood Dream X-Men Fighting Game",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xtzqpa/made_my_childhood_dream_xmen_fighting_game/",
+    "excerpt": "I’ve been working on an X-Men game that’s basically the game I dreamed of playing as a kid. It has 41 characters, outfits mainly inspired by the ’90s cartoon, a…",
+    "createdAt": "2026-11-12T01:27:46.000Z"
+  },
+  {
+    "id": "1xtzqks",
+    "title": "I made the First AI Video Editing app for macOS & Free Screenshot Tool",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzqks/i_made_the_first_ai_video_editing_app_for_macos/",
+    "excerpt": "It works with Claude Code, Codex, Cursor and also has 290+ tools via local mcp server. It can **record screen including iphone mirroring**, **edit with prompts*…",
+    "createdAt": "2026-11-12T01:27:37.000Z"
+  },
+  {
+    "id": "1xtzqgw",
+    "title": "I built an iPhone browser that always loads the desktop site",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzqgw/i_built_an_iphone_browser_that_always_loads_the/",
+    "excerpt": "Hi r/SideProject, I'm Derek, and I built DeskView on my own. I kept running into mobile sites that hide features — banking portals, school systems, admin dashbo…",
+    "createdAt": "2026-11-12T01:27:28.000Z"
+  },
+  {
+    "id": "1xtzkh8",
+    "title": "I built a plant care app  iPhone Duo support",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzkh8/i_built_a_plant_care_app_iphone_duo_support/",
+    "excerpt": "Plant Buddha is an iPhone and iPad app that tells you which houseplants need water today. Each plant’s schedule adjusts with the seasons and the weather, and a …",
+    "createdAt": "2026-11-12T01:19:34.000Z"
+  },
+  {
+    "id": "1xty825",
+    "title": "I asked fable 5.2 to completely remake my entire website and holy shit it did good",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xty825/i_asked_fable_52_to_completely_remake_my_entire/",
+    "excerpt": "https://github.com/bybrooklyn/website See it [here](https://bybrooklyn.dev) I gave it two references or sites I wanted and a font I was considering and told it …",
+    "createdAt": "2026-11-12T00:17:18.000Z"
+  },
+  {
+    "id": "1xtx0wt",
+    "title": "An open-source Toolkit to Test What Kids Are Exposed to When AI Safety Breaks Down",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xtx0wt/an_opensource_toolkit_to_test_what_kids_are/",
+    "excerpt": "While building Koda (an app for kids), I could ask it a science question and see if the answer made sense. It was harder to test what a kid would see if the saf…",
+    "createdAt": "2026-11-11T23:24:38.000Z"
+  },
+  {
+    "id": "1xtwi5n",
+    "title": "Claude Fable 5.2 and a team of Opus 5.5 subagents made a 6-minute motion design film on the entire history of AI, 1950 to this week. Every shot is code.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xtwi5n/claude_fable_52_and_a_team_of_opus_55_subagents/",
+    "excerpt": "A motion design short film: every pivotal AI moment from 1950 to November 2026, in 5 and a half minutes How it was made: Every shot is an HTML page, 126 of them…",
+    "createdAt": "2026-11-11T23:02:01.000Z"
+  },
+  {
     "id": "1xt5hdh",
     "title": "CatLens - an offline iPhone journal for your cat",
     "sourceName": "Reddit · r/SideProject",
@@ -1068,135 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xiyq75/i_made_a_dough_calculator_app_for_pizzas_breads/",
     "excerpt": "Hi all, over the course of the past few months, I made an app to help me with my weekly pizza dough recipes, it's called DoughBoy. It started as a pizza dough c…",
     "createdAt": "2026-10-29T22:46:43.000Z"
-  },
-  {
-    "id": "1xi70sn",
-    "title": "I was tired of shady keyboard apps and ad-filled websites, so I coded a 100% client-side, zero-ad aesthetic font & bio generator",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xi70sn/i_was_tired_of_shady_keyboard_apps_and_adfilled/",
-    "excerpt": "Hey r/SideProject, A quick weekend build to solve a small personal annoyance. A while ago, I was looking for clean Unicode font variations (like Fraktur, cursiv…",
-    "createdAt": "2026-10-29T01:39:44.000Z"
-  },
-  {
-    "id": "1xi6tn0",
-    "title": "Self-taught sewist here. I built an app so I could see a garment before cutting into expensive fabric",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xi6tn0/selftaught_sewist_here_i_built_an_app_so_i_could/",
-    "excerpt": "I taught myself to sew with persistence and a healthy jealousy fueled from watching TikTok videos. I mostly sew for my daughter, usually from vintage patterns, …",
-    "createdAt": "2026-10-29T01:30:25.000Z"
-  },
-  {
-    "id": "1xi6ir8",
-    "title": "What was the first thing you ever vibe coded?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xi6ir8/what_was_the_first_thing_you_ever_vibe_coded/",
-    "excerpt": "Mine was this image similarity detector flask app from September 2024. All it does is take two images and then give you the percentage of similarity. [https://g…",
-    "createdAt": "2026-10-29T01:16:31.000Z"
-  },
-  {
-    "id": "1xi5yzq",
-    "title": "Day 2: AI made all my animations",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xi5yzq/day_2_ai_made_all_my_animations/",
-    "excerpt": "Day 2 of the build Focused was put on the basic animations. Walking, running, sliding, jumping, levitating etc Gave Claude a free animation pack, it REA, keyed …",
-    "createdAt": "2026-10-29T00:51:37.000Z"
-  },
-  {
-    "id": "1xhbko9",
-    "title": "I'm a solo guy with a day job and I turned my tiny Monad memecoin into a full site: a fantasy RPG, a blog, game guides, and now a built-in swap",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbko9/im_a_solo_guy_with_a_day_job_and_i_turned_my_tiny/",
-    "excerpt": "A few weeks ago WIZY was just a small memecoin on Monad with a basic landing page. I wanted it to be more than a ticker, so I've been building around it after w…",
-    "createdAt": "2026-10-28T01:55:10.000Z"
-  },
-  {
-    "id": "1xhbkkd",
-    "title": "[30 day update] My Codex reset alerts service passed 500 subscribers",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbkkd/30_day_update_my_codex_reset_alerts_service/",
-    "excerpt": "I recently built a text alerts service to ease my Codex usage anxiety called Reset Alerts. It texts users when resets are announced (with the idea to burn remai…",
-    "createdAt": "2026-10-28T01:55:02.000Z"
-  },
-  {
-    "id": "1xhbgb1",
-    "title": "I made a cozy idle RPG game 🙂",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbgb1/i_made_a_cozy_idle_rpg_game/",
-    "excerpt": "Hi all! I love idle games and I began making my own for fun with certain things that I wish other games had. It's been a lot of fun! It's only on Google Play cu…",
-    "createdAt": "2026-10-28T01:49:18.000Z"
-  },
-  {
-    "id": "1xhbbjf",
-    "title": "Repwarden - A free Android workout tracker I built with AI and use myself",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbbjf/repwarden_a_free_android_workout_tracker_i_built/",
-    "excerpt": "I started taking fitness seriously in May 2026. I was using FitNotes to log workouts and Bend for stretching, and wanted something that brought more of my routi…",
-    "createdAt": "2026-10-28T01:43:10.000Z"
-  },
-  {
-    "id": "1xhbbdz",
-    "title": "Solo dev: I built Everdust, a universe simulator where you collide galaxies, play Black Hole Golf and bend light in Lightfold. Free on Android + Vision Pro, roast it",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhbbdz/solo_dev_i_built_everdust_a_universe_simulator/",
-    "excerpt": "I've been building Everdust for a while and it's now live on Android and Apple Vision Pro. It's a universe simulator you can hold and play with, in three parts:…",
-    "createdAt": "2026-10-28T01:42:57.000Z"
-  },
-  {
-    "id": "1xhb9yh",
-    "title": "I made a simple pay calculator for Australian shift workers",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhb9yh/i_made_a_simple_pay_calculator_for_australian/",
-    "excerpt": "I've been working on a side project called [WorkRate](https://workrate.me/?utm_source=reddit&utm_medium=social&utm_campaign=sideproject_post), a free website th…",
-    "createdAt": "2026-10-28T01:41:05.000Z"
-  },
-  {
-    "id": "1xhb85i",
-    "title": "Built a restock tracker for a blind-box toy craze (Sonny Angel)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xhb85i/built_a_restock_tracker_for_a_blindbox_toy_craze/",
-    "excerpt": "Sonny Angel figures sell out constantly and restocks vanish in minutes, so I built a scraper that polls Shopify's public products.json across the official store…",
-    "createdAt": "2026-10-28T01:38:49.000Z"
-  },
-  {
-    "id": "1xh95py",
-    "title": "I built an Interactive Astronomy platform that let's you fly around planets and explore in 3D",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xh95py/i_built_an_interactive_astronomy_platform_that/",
-    "excerpt": "Hi everyone! I'm a software developer with some background in physics. Recently, I built an interactive astronomy platform where you can fly around planets and …",
-    "createdAt": "2026-10-28T00:04:03.000Z"
-  },
-  {
-    "id": "1xgfz9y",
-    "title": "Script Clock - a little script timer + teleprompter I built while trying to start a YouTube channel",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xgfz9y/script_clock_a_little_script_timer_teleprompter_i/",
-    "excerpt": "I've been writing scripts for a YouTube channel I want to start, and I could never tell how long they'd actually run. I'm not a dev, but I got curious and start…",
-    "createdAt": "2026-10-27T01:54:28.000Z"
   }
 ]
