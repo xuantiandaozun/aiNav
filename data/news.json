@@ -1,5 +1,52 @@
 [
   {
+    "title": "百亿私募逆势加仓，称AI长期发展趋势未改",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4066024373932937?f=rss",
+    "publishedAt": "2026-11-12T00:52:39.000Z",
+    "excerpt": "市场震荡之际，百亿私募仍在逆势加仓。截至10月底，百亿私募仓位指数升至83.10%，连续两周上升。值得关注的是，近期海外人工智能（AI）板块明显调整，市场对科技巨头资本开支、算力需求及未来盈利能力的担忧持续升温。但多家百亿私募认为，AI长期发展趋势并未改变，短期市场仍将以结构性机…",
+    "scenes": [],
+    "collectedAt": "2026-11-12T01:10:14.768Z"
+  },
+  {
+    "title": "AI数据中心初创公司Torus完成5亿美元融资，推出集成储能系统的模块化数据中心",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4066023469929351?f=rss",
+    "publishedAt": "2026-11-12T00:49:48.000Z",
+    "excerpt": "11月11日，美国能源存储初创公司Torus宣布完成5亿美元C轮融资，由Magnetar领投，Iconiq Capital、Origin Ventures和Trinity Capital等机构参与。本轮融资将用于生产名为Foundry的新型模块化AI数据中心产品，该产品将电池储能…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-12T01:10:14.768Z"
+  },
+  {
+    "title": "三季度多家消费电子代表性企业利润承压，打造新增长极",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4066010233934722?f=rss",
+    "publishedAt": "2026-11-12T00:39:18.000Z",
+    "excerpt": "受存储涨价、汇率波动、苹果调整产品发布周期以及AI等因素影响，今年第三季度消费电子传统出货旺季多家代表性企业毛利率下滑、利润承压，与此同时，因行业均在积极打造除传统消费电子以外的第二、第三增长极，多数公司营收保持增长，释放未来长期发展向好信号。过往多年，消费���子产业链的发展与…",
+    "scenes": [],
+    "collectedAt": "2026-11-12T01:10:14.768Z"
+  },
+  {
+    "title": "光通信行业“砍单”传闻不断，上市公司回应称“近期市场并没有不利变化”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4066001308111752?f=rss",
+    "publishedAt": "2026-11-12T00:12:12.000Z",
+    "excerpt": "作为AI赛道主线之一，11月11日，包括“易中天”、剑桥科技、源杰科技等在内的多只光通信龙头股涨停或大涨超过10%，引起市场广泛关注。近期市场上有关光通信行业“砍单”的传闻不断，有上市公司高管对记者表示“近期市场并没有不利变化”。与此同时，多家上市公司正积极“跨界”入局，切入AI…",
+    "scenes": [],
+    "collectedAt": "2026-11-12T01:10:14.768Z"
+  },
+  {
+    "title": "Meta基础设施主管兼工程联席主管将于2027年离职",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4066000230044803?f=rss",
+    "publishedAt": "2026-11-12T00:09:07.000Z",
+    "excerpt": "Meta长期负责基础设施业务的高管将于2027年初离职。眼下Meta正继续投入数千亿美元用于人工智能以及支撑AI所需的数据中心建设，此次离职将构成公司管理层的一项重大变动。据一份备忘录显示，Meta基础设施主管兼工程联席主管Santosh Janardhan周三向员工表示，他将卸…",
+    "scenes": [],
+    "collectedAt": "2026-11-12T01:10:14.768Z"
+  },
+  {
     "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article",
@@ -4422,18 +4469,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -7368,18 +7415,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
