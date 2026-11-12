@@ -1,5 +1,112 @@
 [
   {
+    "title": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-12T13:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:12:01.535Z"
+  },
+  {
+    "title": "高盛：AI投资明年将继续推动美国经济增长，资本开支增速或达8%",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4066745910809733?f=rss",
+    "publishedAt": "2026-11-12T12:37:13.000Z",
+    "excerpt": "高盛11月11日发布研报预计，人工智能（AI）投资将继续成为2027年美国企业资本开支增长的主要动力，推动实际商业固定投资增长8%，远高于市场一致预期的4.2%，并支撑美国实际GDP增长2.4%。 高盛预计，美国AI相关硬件及知识产权投资到2026年底将达到年化9000亿美元以上…",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:12:00.309Z"
+  },
+  {
+    "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/509440.html",
+    "publishedAt": "2026-11-12T11:36:20.000Z",
+    "excerpt": "「CAD拆解」",
+    "scenes": [
+      "image",
+      "coding"
+    ],
+    "collectedAt": "2026-11-12T13:11:57.773Z"
+  },
+  {
+    "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-12T11:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:12:01.535Z"
+  },
+  {
+    "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/509404.html",
+    "publishedAt": "2026-11-12T10:45:33.000Z",
+    "excerpt": "银河智学首席科学家邓澍军博士发表主题演讲",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:11:57.774Z"
+  },
+  {
+    "title": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-12T10:23:32.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:12:01.535Z"
+  },
+  {
+    "title": "从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-12T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:12:01.535Z"
+  },
+  {
+    "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/509349.html",
+    "publishedAt": "2026-11-12T09:34:06.000Z",
+    "excerpt": "企业 AI 的难题，不只是模型够不够强",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:11:57.774Z"
+  },
+  {
+    "title": "硬氪首发丨前迪士尼亚太成员下场“造”交互智能基座，获数百万种子轮融资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4066337448907656?f=rss",
+    "publishedAt": "2026-11-12T05:33:36.000Z",
+    "excerpt": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，面向AI Native终端的交互智能SYNAPUFF近期完成数百万元种子轮融资，资方为FIRST RULE VENTURES、浦东创投。 SYNAPUFF联合创始人兼CEO李诗淼向硬氪表示，他们希望开发面向AI Native终端的交互…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-12T13:12:00.307Z"
+  },
+  {
+    "title": "元宝搜索上线，腾讯再争默认入口​",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4066338158695304?f=rss",
+    "publishedAt": "2026-11-12T05:33:21.000Z",
+    "excerpt": "昨日，腾讯旗下元宝搜索正式面向普通用户开放，提供独立网站so.qq.com，用户也可以在最新版QQ浏览器中，将其设为默认搜索引擎。 此前，腾讯已于通过腾讯云，面向开发者和企业开放元宝搜索服务。此次上线的网页版与其共享技术底座，将此前供AI产品调用的能力，进一步拓展成面向普通用户的…",
+    "scenes": [
+      "coding",
+      "office"
+    ],
+    "collectedAt": "2026-11-12T13:12:00.308Z"
+  },
+  {
+    "title": "36氪首发丨海光创始核心技术团队创业AGI架构芯片，获清华系等基金数亿投资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4066136377873286?f=rss",
+    "publishedAt": "2026-11-12T02:08:06.000Z",
+    "excerpt": "图源/视觉中国 本文约3400字，建议阅读8分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，原生通用人工智能（AGI）架构芯片研发商——通芯人工智能科技（北京）有限公司（下称“通芯智能”）成立半年已连续完成数亿元种子轮及天使轮融资。融资由清华校友种子基金、北京通用人工智能研究院、松霖科…",
+    "scenes": [],
+    "collectedAt": "2026-11-12T13:12:00.308Z"
+  },
+  {
     "title": "百亿私募逆势加仓，称AI长期发展趋势未改",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4066024373932937?f=rss",
@@ -114,6 +221,17 @@
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-11T13:12:10.215Z"
+  },
+  {
+    "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/509224.html",
+    "publishedAt": "2026-11-11T12:43:54.000Z",
+    "excerpt": "模型即将开源",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-12T13:11:57.774Z"
   },
   {
     "title": "广东省新增3款已完成备案的生成式人工智能服务",
@@ -4469,18 +4587,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -7415,18 +7533,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
