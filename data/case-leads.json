@@ -1,5 +1,65 @@
 [
   {
+    "id": "1xuvcfu",
+    "title": "Tired of guessing Chinese characters, so I built my own keyboard",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xuvcfu/tired_of_guessing_chinese_characters_so_i_built/",
+    "excerpt": "I’m learning Chinese, and one of my biggest frustrations is texting. I can understand some Chinese and know how to pronounce quite a few words, but I still stru…",
+    "createdAt": "2026-11-13T01:55:30.000Z"
+  },
+  {
+    "id": "1xuv8x5",
+    "title": "I built a paste-in playbook that lets an AI assistant buy Japan- and Korea-only items for you, with one all-in price",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xuv8x5/i_built_a_pastein_playbook_that_lets_an_ai/",
+    "excerpt": "Disclosure up front: I work at Buy&Ship, a company that buys from Japanese and Korean stores and ships overseas. This is a side project I built at work, and I'd…",
+    "createdAt": "2026-11-13T01:50:47.000Z"
+  },
+  {
+    "id": "1xuv5pu",
+    "title": "I built a desktop app for switching between AI coding tools in one conversation",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xuv5pu/i_built_a_desktop_app_for_switching_between_ai/",
+    "excerpt": "I switch between Claude Code, Codex, and Copilot in VS Code. Sometimes I hit a limit; sometimes I want another agent’s take on a problem. The frustrating part i…",
+    "createdAt": "2026-11-13T01:46:28.000Z"
+  },
+  {
+    "id": "1xuutte",
+    "title": "If you wished to add hand-written apple notes on notion",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xuutte/if_you_wished_to_add_handwritten_apple_notes_on/",
+    "excerpt": "# You can now add Apple Pencil notes to notion Hello…people like me who wants to keep their life documented and prefers keeping all those document all at once, …",
+    "createdAt": "2026-11-13T01:30:25.000Z"
+  },
+  {
+    "id": "1xuulnx",
+    "title": "I built a running app that rewrites your training plan when real life gets in the way. Roast it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xuulnx/i_built_a_running_app_that_rewrites_your_training/",
+    "excerpt": "Before and after work for the past few weeks I've been building Long Splice, a running-plan app for Android. The problem I wanted to fix: most plans are a fixed…",
+    "createdAt": "2026-11-13T01:19:24.000Z"
+  },
+  {
+    "id": "1xuuj4q",
+    "title": "BroBot - A Minecraft Java teammate you can give jobs to in chat",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xuuj4q/brobot_a_minecraft_java_teammate_you_can_give/",
+    "excerpt": "I've been building BroBot with help from Claude and Codex. It's a desktop app for Windows and Mac that puts a bot into Minecraft Java as another player. I'm the…",
+    "createdAt": "2026-11-13T01:16:12.000Z"
+  },
+  {
     "id": "1xu054y",
     "title": "I built a photo album that lives on a map, and the people you share it with need no account",
     "sourceName": "Reddit · r/SideProject",
@@ -1138,65 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2n8b/i_save_everything_and_still_cant_find_anything/",
     "excerpt": "I have hundreds of bookmarks across Chrome, Twitter, LinkedIn, and my notes app. Last month I needed one article I’d read about onboarding emails. I knew exactl…",
     "createdAt": "2026-10-30T01:42:36.000Z"
-  },
-  {
-    "id": "1xj2lzr",
-    "title": "I turned my brokerage portfolio into a tiny 3D house you can share with friends",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2lzr/i_turned_my_brokerage_portfolio_into_a_tiny_3d/",
-    "excerpt": "I wanted a way to show friends what I invest in without showing how much, so I built Dwellth. You connect your brokerage (read-only, through SnapTrade) and ever…",
-    "createdAt": "2026-10-30T01:40:56.000Z"
-  },
-  {
-    "id": "1xj2jlx",
-    "title": "I built an Android app to solve a problem I had while working as a bicycle courier",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2jlx/i_built_an_android_app_to_solve_a_problem_i_had/",
-    "excerpt": "Hi everyone! I wanted to share a little project I've recently finished. I'm a bicycle courier based in London, working with platforms such as Uber Eats, Deliver…",
-    "createdAt": "2026-10-30T01:37:49.000Z"
-  },
-  {
-    "id": "1xj2ikl",
-    "title": "I made a psychedelic acid machine you can play right in your browser.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2ikl/i_made_a_psychedelic_acid_machine_you_can_play/",
-    "excerpt": "Hi! A couple of days ago I shared a small project I’ve been building to let people enjoy a jam session in their browser without the struggle. It’s a free instru…",
-    "createdAt": "2026-10-30T01:36:29.000Z"
-  },
-  {
-    "id": "1xj2gbw",
-    "title": "Systems Online. Multi-agent 24/7 workflow with statistical analysis... Live.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj2gbw/systems_online_multiagent_247_workflow_with/",
-    "excerpt": "I managed to piece together a network of things that just work for my workflow. It's hard to explain.. but if you watch the video, you can see the hundreds of d…",
-    "createdAt": "2026-10-30T01:33:32.000Z"
-  },
-  {
-    "id": "1xj19ds",
-    "title": "I asked OpenAI and big AI company developers this question. How would you answer?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj19ds/i_asked_openai_and_big_ai_company_developers_this/",
-    "excerpt": "How would you answer what I asked them? I would genuinely appreciate your feedback. \"Is there anyone from OpenAI that could answer this question for me? Or any …",
-    "createdAt": "2026-10-30T00:36:36.000Z"
-  },
-  {
-    "id": "1xiyq75",
-    "title": "I made a dough calculator app for pizzas breads sweets and more, looking for feedback",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xiyq75/i_made_a_dough_calculator_app_for_pizzas_breads/",
-    "excerpt": "Hi all, over the course of the past few months, I made an app to help me with my weekly pizza dough recipes, it's called DoughBoy. It started as a pizza dough c…",
-    "createdAt": "2026-10-29T22:46:43.000Z"
   }
 ]
