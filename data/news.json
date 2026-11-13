@@ -1,5 +1,63 @@
 [
   {
+    "title": "中芯国际赵海军：Q3客户对人工智能配套芯片需求超过公司预期",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4067479402189699?f=rss",
+    "publishedAt": "2026-11-13T00:54:00.000Z",
+    "excerpt": "中芯国际联合CEO赵海军表示，三季度公司整体销售收入再创新高，达到了31.9亿美元，环比增长6.1%。比起三个月前，我们看到客户对BCD、专用存储、Control等人工智能配套芯片的提拉需求，增量速度比原来预期的更快，使得三季度收入超出指引上限。从量的方面看，公司加快新产线验证，…",
+    "scenes": [],
+    "collectedAt": "2026-11-13T01:09:42.149Z"
+  },
+  {
+    "title": "应用材料CEO：芯片是AI支出最大去向",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4067469434901384?f=rss",
+    "publishedAt": "2026-11-13T00:43:52.000Z",
+    "excerpt": "应用材料首席执行官盖瑞·狄克森在与分析师的电话会议上表示，AI超大规模云服务提供商的大量支出正流向半导体和芯片。狄克森估计，全部资本支出中的60%正投向硅领域，而其中超过85%的支出正流向晶圆代工、DRAM内存和先进封装，“这三个领域对AI计算路线图的影响最大，预计将在2027年…",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-13T01:09:42.149Z"
+  },
+  {
+    "title": "Anthropic与OpenAI被控抄袭神经网络专利",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4067456655758211?f=rss",
+    "publishedAt": "2026-11-13T00:30:52.000Z",
+    "excerpt": "周四，一家由计算机科学家创立的人工智能公司提起诉讼，指控Anthropic PBC和OpenAI OpCo涉嫌侵犯专利权。Flinn人工智能技术有限责任公司（Flinn AI）向美国特拉华州地区法院提交了两份诉状，指控Anthropic和OpenAI均侵犯了由联合发明人史蒂文·弗…",
+    "scenes": [],
+    "collectedAt": "2026-11-13T01:09:42.149Z"
+  },
+  {
+    "title": "微软仍在修复Outlook和Copilot系统，技术故障已出现数小时",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4067455398155401?f=rss",
+    "publishedAt": "2026-11-13T00:29:35.000Z",
+    "excerpt": "在系统出现故障数小时后，微软公司仍在努力恢复部分办公软件的访问，称用户可能仍然无法连接到电子邮件和聊天服务等产品。周四，部分用户在美国工作日的大部分时间里都无法使用Outlook、Teams和Copilot人工智能服务。（新浪财经）",
+    "scenes": [
+      "office"
+    ],
+    "collectedAt": "2026-11-13T01:09:42.149Z"
+  },
+  {
+    "title": "银河证券：电子行业具备超跌反弹的基本面基础，关注AI超跌修复窗口期",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4067449635230851?f=rss",
+    "publishedAt": "2026-11-13T00:23:44.000Z",
+    "excerpt": "36氪获悉，中国银河证券研报发布11月电子行业展望与配置思路。电子行业具备超跌反弹的基本面基础，关注AI超跌修复窗口期。进入11月，市场重心将从题材预期转向真实业绩兑现，优先选择三季报已经验证盈利、四季度景气延续、估值匹配的标的，关注三条主线：（1）存储与先进封装：算力拉动存储紧…",
+    "scenes": [],
+    "collectedAt": "2026-11-13T01:09:42.149Z"
+  },
+  {
+    "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职，特朗普：建议库克接任；腾讯“裁员50%”？知情人士回应；宣扬错误婚恋观，德芙代运营方被罚80万",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4067443683120000?f=rss",
+    "publishedAt": "2026-11-13T00:21:02.000Z",
+    "excerpt": "今日热点导览 张一鸣再发声谈字节AI 商务部：中美正就降税、贸易、投资等问题保持密切沟通 美股三大指数集体收跌，英伟达跌超4% SpaceX与特斯拉合并谈判取得进展，最早12月宣布交易 联合航空禁止Muse、Instinct等AI智能体预订航班 TOP3大新闻 英伟达宣布CEO黄…",
+    "scenes": [],
+    "collectedAt": "2026-11-13T01:09:42.148Z"
+  },
+  {
     "title": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&utm_medium=article",
@@ -4587,18 +4645,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -7533,18 +7591,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
