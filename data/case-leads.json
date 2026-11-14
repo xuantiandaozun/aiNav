@@ -1,5 +1,145 @@
 [
   {
+    "id": "1xvqf4r",
+    "title": "I built a site that finds movies from a vague description, a quote, or a screenshot",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvqf4r/i_built_a_site_that_finds_movies_from_a_vague/",
+    "excerpt": "Hey ! I’ve been working on a side project called MovieSeekr, a search engine for “that movie where…”. I wanted something more enjoyable than just searching for …",
+    "createdAt": "2026-11-14T02:03:21.000Z"
+  },
+  {
+    "id": "1xvqdmz",
+    "title": "I built a 24/7 radio station where everyone hangs out as little pixel characters on a dance floor",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvqdmz/i_built_a_247_radio_station_where_everyone_hangs/",
+    "excerpt": "This started as a way to share my music library with friends and got out of hand. It's a 24/7 radio station, but the page is a pixel art club: you show up as a …",
+    "createdAt": "2026-11-14T02:01:17.000Z"
+  },
+  {
+    "id": "1xvq8e4",
+    "title": "I automated a tool to help my organic social media content grow",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvq8e4/i_automated_a_tool_to_help_my_organic_social/",
+    "excerpt": "A while ago, I wasn't having the best views on my TikTok and Reels business page. So I manually put them in a notion file, listed the video names, retention rat…",
+    "createdAt": "2026-11-14T01:54:11.000Z"
+  },
+  {
+    "id": "1xvq60j",
+    "title": "I built an iPhone app that turns the trips in your camera roll into ready-to-post carousels",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvq60j/i_built_an_iphone_app_that_turns_the_trips_in/",
+    "excerpt": "Hi all. I just launched our first iPhone app, Trip Dump. The problem: after every trip we had hundreds of photos and never posted any of them, because picking p…",
+    "createdAt": "2026-11-14T01:50:42.000Z"
+  },
+  {
+    "id": "1xvq4lp",
+    "title": "I built Owl-L, a free and open-source offline translator for Windows (MIT)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvq4lp/i_built_owll_a_free_and_opensource_offline/",
+    "excerpt": "Hi all, I'm the developer. Owl-L is a desktop translator that runs completely on your own computer: no account, no telemetry, and your text never leaves your ma…",
+    "createdAt": "2026-11-14T01:48:37.000Z"
+  },
+  {
+    "id": "1xvpzqr",
+    "title": "I built a sprite atlas packer that runs entirely in the browser — OptiSheet",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvpzqr/i_built_a_sprite_atlas_packer_that_runs_entirely/",
+    "excerpt": "I'm a PixiJS developer by day, and I wanted a sprite sheet packer I could open in a browser tab instead of installing a desktop app. So I built OptiSheet: [http…",
+    "createdAt": "2026-11-14T01:41:37.000Z"
+  },
+  {
+    "id": "1xvpz80",
+    "title": "I built a Mac browser for running many accounts: each one gets its own Safari, its own cookies and its own IP",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvpz80/i_built_a_mac_browser_for_running_many_accounts/",
+    "excerpt": "What it does: * Every account lives in its own profile: a separate Safari with its own cookies, logins and history. Nothing is shared between them. * Every prof…",
+    "createdAt": "2026-11-14T01:40:56.000Z"
+  },
+  {
+    "id": "1xvpz1p",
+    "title": "I built a 74 MB replacement for Acer's NitroSense because I was tired of fan noise and bloat",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvpz1p/i_built_a_74_mb_replacement_for_acers_nitrosense/",
+    "excerpt": "My Acer Nitro 16 is a great machine but NitroSense felt like a control panel that forgot it was a control panel. So over the last weeks I built NitroLite, an op…",
+    "createdAt": "2026-11-14T01:40:41.000Z"
+  },
+  {
+    "id": "1xvpwvh",
+    "title": "made 2 mac apps because i was too broke to buy them, now wondering if i can sell them lol",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvpwvh/made_2_mac_apps_because_i_was_too_broke_to_buy/",
+    "excerpt": "so i’m a final year student computer science student and money’s been rough since i'm a fresher and teh market needs someone with decades of experience for pean…",
+    "createdAt": "2026-11-14T01:37:34.000Z"
+  },
+  {
+    "id": "1xvptbi",
+    "title": "I built a Turkish directory of 398 AI agent skills with links to their source repositories",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xvptbi/i_built_a_turkish_directory_of_398_ai_agent/",
+    "excerpt": "I’m Efe, the maker of Shazeus. I built a Turkish-language catalogue for people who use coding agents but don’t want to dig through GitHub READMEs just to unders…",
+    "createdAt": "2026-11-14T01:32:29.000Z"
+  },
+  {
+    "id": "1xvouuk",
+    "title": "Gochi – a one-button pet with a big ego. Born on an ESP32 e-paper box, now also on your phone (Trump/Biden/AOC/Putin/Kim/Xi/Babiš/Zeman…-Gochi)",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xvouuk/gochi_a_onebutton_pet_with_a_big_ego_born_on_an/",
+    "excerpt": "Here’s the project, and here’s how I made it. **Gochi started as a little Arduino game and later \"ported\" on ESP32 e-paper box with one button. Now the same gam…",
+    "createdAt": "2026-11-14T00:46:00.000Z"
+  },
+  {
+    "id": "1xvliti",
+    "title": "My wife was feeding her slides to ChatGPT and reading walls of text, so I built her a study app (90s demo)",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xvliti/my_wife_was_feeding_her_slides_to_chatgpt_and/",
+    "excerpt": "**Why it exists** My wife is studying for exams. Her routine was pasting a pile of slides into ChatGPT and reading long answers for an hour. Reading feels like …",
+    "createdAt": "2026-11-13T22:17:54.000Z"
+  },
+  {
+    "id": "1xvk17c",
+    "title": "What I learnt getting my app on the App Store",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 3,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xvk17c/what_i_learnt_getting_my_app_on_the_app_store/",
+    "excerpt": "I'm a newbie, making a simple (so I thought!) app just for my own practice at first as I hope to go on a radio quiz and take part. 1) Where you get the data. It…",
+    "createdAt": "2026-11-13T21:17:37.000Z"
+  },
+  {
+    "id": "1xvk0rx",
+    "title": "Built an digging tool with the discogs API",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xvk0rx/built_an_digging_tool_with_the_discogs_api/",
+    "excerpt": "Hi all, So I’m a DJ and I usually mix vinyl records. That being said, I usually have like 100s of Discogs tabs open for releases I might be interested in. All o…",
+    "createdAt": "2026-11-13T21:17:08.000Z"
+  },
+  {
     "id": "1xuvcfu",
     "title": "Tired of guessing Chinese characters, so I built my own keyboard",
     "sourceName": "Reddit · r/SideProject",
@@ -1058,145 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xknul8/this_is_what_i_made/",
     "excerpt": "This is what I made. Claude Max account over four months, in three Js, I had to tinker a ton and completely restart many facets of the game. But it all started …",
     "createdAt": "2026-10-31T23:00:29.000Z"
-  },
-  {
-    "id": "1xjy2fw",
-    "title": "I made a free iPhone travel journal that looks like a real passport. Nothing stamps until you confirm.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjy2fw/i_made_a_free_iphone_travel_journal_that_looks/",
-    "excerpt": "Hi, I'm the solo developer. Passo is a private travel journal for iPhone. Your passport details are encrypted on your phone, with no account and no analytics. A…",
-    "createdAt": "2026-10-31T02:00:26.000Z"
-  },
-  {
-    "id": "1xjxxl4",
-    "title": "A ChatGPT Prompt Library for Small Business Marketing (1,000+ Prompts)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxxl4/a_chatgpt_prompt_library_for_small_business/",
-    "excerpt": "Hello everyone, I’d like to share a digital product that could be useful for small business owners, shop owners, and anyone trying to grow and market their busi…",
-    "createdAt": "2026-10-31T01:53:42.000Z"
-  },
-  {
-    "id": "1xjxtfe",
-    "title": "Iris - an AI you text on WhatsApp that sends back the finished deck or doc. roast it",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxtfe/iris_an_ai_you_text_on_whatsapp_that_sends_back/",
-    "excerpt": "i got tired of copy pasting between chatbots and docs, so i built an ai you just text on whatsapp (or telegram/email). you ask for a deck, doc or spreadsheet an…",
-    "createdAt": "2026-10-31T01:48:01.000Z"
-  },
-  {
-    "id": "1xjxt5m",
-    "title": "I built a what-if check for the moment a friend suggests an expensive dinner",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxt5m/i_built_a_whatif_check_for_the_moment_a_friend/",
-    "excerpt": "Say a friend suggests dinner and payday is still a week away. Looking at the bank balance alone doesn’t answer the useful question: what would be left after thi…",
-    "createdAt": "2026-10-31T01:47:34.000Z"
-  },
-  {
-    "id": "1xjxm6a",
-    "title": "I built a free app that turns dog walks into a \"claim your block\" map game. Looking for honest feedback",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxm6a/i_built_a_free_app_that_turns_dog_walks_into_a/",
-    "excerpt": "Hey all, I'm Dmytro, a solo dev in NYC. I walk my dog every day and wanted walks to feel less like a chore, so I built **WalkPack**. What it does: - Walk your d…",
-    "createdAt": "2026-10-31T01:37:54.000Z"
-  },
-  {
-    "id": "1xjxler",
-    "title": "LexiSphere - A word search game on a sphere",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjxler/lexisphere_a_word_search_game_on_a_sphere/",
-    "excerpt": "I enjoy word search games and wanted to try taking them to a different level, so I built LexiSphere. The letters wrap around a sphere you rotate to find words. …",
-    "createdAt": "2026-10-31T01:36:48.000Z"
-  },
-  {
-    "id": "1xjx7z7",
-    "title": "Professor Clippy - a desktop sticky note where your AI agents leave you notes, reminders and questions",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xjx7z7/professor_clippy_a_desktop_sticky_note_where_your/",
-    "excerpt": "I've been running AI coding agents (Claude Code) and wanted a better way to know when one is done, stuck, or asking me something than staring at terminal window…",
-    "createdAt": "2026-10-31T01:18:37.000Z"
-  },
-  {
-    "id": "1xjte03",
-    "title": "battle of the elements - 5v5v5v5 arena battler",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xjte03/battle_of_the_elements_5v5v5v5_arena_battler/",
-    "excerpt": "used ai to make a game inspired by avatar the last airbender. it's a 5v5v5v5 arena with 4 playable nations(wind,water,fire,earth). some features include element…",
-    "createdAt": "2026-10-30T22:28:47.000Z"
-  },
-  {
-    "id": "1xj31w8",
-    "title": "I spent 2.5 years building software for the most boring business on earth: apartment buildings. It’s live!!!",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj31w8/i_spent_25_years_building_software_for_the_most/",
-    "excerpt": "Every apartment building is a tiny company nobody wants to run. Someone has to collect water meter readings from 47 flats, split the heating bill, chase the guy…",
-    "createdAt": "2026-10-30T02:02:22.000Z"
-  },
-  {
-    "id": "1xj2zj2",
-    "title": "Does my app look to stereotypically vibe coded?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj2zj2/does_my_app_look_to_stereotypically_vibe_coded/",
-    "excerpt": "Just wanted to get some opinions on these screenshots. Does it have the typical vibe coded look?",
-    "createdAt": "2026-10-30T01:59:24.000Z"
-  },
-  {
-    "id": "1xj2xmc",
-    "title": "43 hours of Claude and Codex agent time to rebuild my 2008 iPhone game. It launched on Steam today.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xj2xmc/43_hours_of_claude_and_codex_agent_time_to/",
-    "excerpt": "When I originally released Tatomic, there were fewer than 1,000 apps on the App Store. The game was designed for the original iPhone’s 480×320 screen. 18 years …",
-    "createdAt": "2026-10-30T01:56:49.000Z"
-  },
-  {
-    "id": "1xj2v1a",
-    "title": "I started making holograms of real objects and accidentally ended up building an open-source 3D system",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2v1a/i_started_making_holograms_of_real_objects_and/",
-    "excerpt": "This project got somewhat out of hand. Construct started with a pretty simple idea: I wanted to make holographic versions of real things that assemble themselve…",
-    "createdAt": "2026-10-30T01:53:19.000Z"
-  },
-  {
-    "id": "1xj2r95",
-    "title": "I built CineLocal, a free and offline app to organize and watch your movies collection.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2r95/i_built_cinelocal_a_free_and_offline_app_to/",
-    "excerpt": "CineLocal is free, ad-free software that works offline to organize and watch your personal movie and series collection. To use it, you just have to select your …",
-    "createdAt": "2026-10-30T01:48:00.000Z"
-  },
-  {
-    "id": "1xj2n8b",
-    "title": "I save everything and still can’t find anything later. So I built LinkMinds. Save it once, then find it by what it was about.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xj2n8b/i_save_everything_and_still_cant_find_anything/",
-    "excerpt": "I have hundreds of bookmarks across Chrome, Twitter, LinkedIn, and my notes app. Last month I needed one article I’d read about onboarding emails. I knew exactl…",
-    "createdAt": "2026-10-30T01:42:36.000Z"
   }
 ]
