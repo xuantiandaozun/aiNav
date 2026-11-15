@@ -1,5 +1,35 @@
 [
   {
+    "id": "1xwhonw",
+    "title": "Unreal engine 5.9 - WASM - running in browser",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xwhonw/unreal_engine_59_wasm_running_in_browser/",
+    "excerpt": "Vibe coded with GPT 6 Astra. Quite close to the threejs webgpu version.. * Unreal Engine 5.9 MegaJam Preview, built with C++. * Compiled to WebAssembly; rendere…",
+    "createdAt": "2026-11-15T00:25:49.000Z"
+  },
+  {
+    "id": "1xwea8z",
+    "title": "Play Physically modeled instruments live",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xwea8z/play_physically_modeled_instruments_live/",
+    "excerpt": "Hi Everyone, I made this fun robotic music playing band. The main thing is to showcase the physically modeled acoustic instruments that use 0 clips pure synthet…",
+    "createdAt": "2026-11-14T21:49:36.000Z"
+  },
+  {
+    "id": "1xwdvhf",
+    "title": "I'm a huge fan of Microsoft Flight Sim 2024, but the crash physics always disappointed me. So I had Fable 5.2 and Opus 5.5 make my own flight sim!",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/",
+    "excerpt": "You can freely download the source code and compile the game here: [https://github.com/Rolandjg/fableflight](https://github.com/Rolandjg/fableflight) The game i…",
+    "createdAt": "2026-11-14T21:31:07.000Z"
+  },
+  {
     "id": "1xvqf4r",
     "title": "I built a site that finds movies from a vague description, a quote, or a screenshot",
     "sourceName": "Reddit · r/SideProject",
@@ -1168,35 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkpppo/halloween_castlevanialike_game/",
     "excerpt": "Built a Halloween Castlevania-like game with my kid. Incredible how easy this is getting. Used Gemini 4 and Google models for art, music and voice. ElevenLabs u…",
     "createdAt": "2026-11-01T00:30:59.000Z"
-  },
-  {
-    "id": "1xkpldy",
-    "title": "Built a Halloweek Castlevania-like game",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkpldy/built_a_halloweek_castlevanialike_game/",
-    "excerpt": "Built a Halloweek Castlevania-like game with my kid. Incredible how easy this is getting. Used Gemini 4 and Google models for art, music and voice. ElevenLabs f…",
-    "createdAt": "2026-11-01T00:24:57.000Z"
-  },
-  {
-    "id": "1xkofv3",
-    "title": "I built a pokemon-like roguelite autobattler with Claude, and the demo is now live!",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkofv3/i_built_a_pokemonlike_roguelite_autobattler_with/",
-    "excerpt": "TL;DR: I built Tinymon Tactics, a roguelite auto-battler about collecting monsters, mostly with Claude. The playtest is open on Steam: [https://store.steampower…",
-    "createdAt": "2026-10-31T23:28:50.000Z"
-  },
-  {
-    "id": "1xknul8",
-    "title": "This is what I made",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xknul8/this_is_what_i_made/",
-    "excerpt": "This is what I made. Claude Max account over four months, in three Js, I had to tinker a ton and completely restart many facets of the game. But it all started …",
-    "createdAt": "2026-10-31T23:00:29.000Z"
   }
 ]
