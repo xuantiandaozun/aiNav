@@ -1,5 +1,25 @@
 [
   {
+    "id": "1xxd1hi",
+    "title": "I got carried away vibe coding a drone racing game with ChatGPT. Now I need people to tell me if it's actually fun.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xxd1hi/i_got_carried_away_vibe_coding_a_drone_racing/",
+    "excerpt": "A while ago, I started experimenting with building a 3D flying game using ChatGPT. It was supposed to be a relatively simple prototype. Somehow, it turned into …",
+    "createdAt": "2026-11-16T01:49:39.000Z"
+  },
+  {
+    "id": "1xxav96",
+    "title": "Made an Open-Source Racing Simulator",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xxav96/made_an_opensource_racing_simulator/",
+    "excerpt": "Hello, I made an open-source racing simulator using Claude, it's been a blast. What do you guys think?",
+    "createdAt": "2026-11-16T00:05:11.000Z"
+  },
+  {
     "id": "1xwhonw",
     "title": "Unreal engine 5.9 - WASM - running in browser",
     "sourceName": "Reddit · r/vibecoding",
@@ -1178,25 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkqppa/im_building_callcatchai_to_help_businesses_stop/",
     "excerpt": "One thing I’ve noticed about running a business is that every missed phone call could mean a missed customer. Business owners are busy. They’re working with cli…",
     "createdAt": "2026-11-01T01:23:29.000Z"
-  },
-  {
-    "id": "1xkpw07",
-    "title": "Claude Code made a unique trailer for my game",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkpw07/claude_code_made_a_unique_trailer_for_my_game/",
-    "excerpt": "I thought this was an interesting way to show off my game. I gave it some parameters and had it build this opus 5.5. My game is still early in beta and availabl…",
-    "createdAt": "2026-11-01T00:40:01.000Z"
-  },
-  {
-    "id": "1xkpppo",
-    "title": "Halloween Castlevania-like game",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xkpppo/halloween_castlevanialike_game/",
-    "excerpt": "Built a Halloween Castlevania-like game with my kid. Incredible how easy this is getting. Used Gemini 4 and Google models for art, music and voice. ElevenLabs u…",
-    "createdAt": "2026-11-01T00:30:59.000Z"
   }
 ]
