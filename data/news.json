@@ -1,5 +1,61 @@
 [
   {
+    "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-16T08:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-11-16T01:12:43.077Z"
+  },
+  {
+    "title": "斑马AI学发布2027版本",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4071740620673924?f=rss",
+    "publishedAt": "2026-11-16T01:08:44.000Z",
+    "excerpt": "36氪获悉，近日，斑马AI学发布2027版本，面向小学高年级阶段的斑马英语S8、斑马思维S7、斑马大阅读S7正式发布，这是斑马针对旗下AI学产品体系的一次系统性升级，意味着其产品已从兴趣启蒙全面进化至小学高阶的学习阶段。斑马自主研发的斑马儿童科教大模型，面向儿童学习场景打造，并已…",
+    "scenes": [],
+    "collectedAt": "2026-11-16T01:12:41.920Z"
+  },
+  {
+    "title": "韩国LS电气斩获1300亿韩元美国AI数据中心电力设备订单",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4071729157641095?f=rss",
+    "publishedAt": "2026-11-16T00:57:05.000Z",
+    "excerpt": "据公司声明，LS电气获得了一家全球大型科技公司约1300亿韩元的订单，将为美国的一座超大规模AI数据中心提供配电系统。该公司将为该数据中心供应38千伏（kV）高压及低压开关柜。LS电气自该项目初期便已参与，并在此次扩建项目中再次中标。公司表示，近期已与另一家大型科技公司签署了长期…",
+    "scenes": [],
+    "collectedAt": "2026-11-16T01:12:41.920Z"
+  },
+  {
+    "title": "摩根士丹利预计标普500指数将升至8700点，看好2027年的德国国债和英国国债",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4071714541769865?f=rss",
+    "publishedAt": "2026-11-16T00:42:13.000Z",
+    "excerpt": "摩根士丹利在2027年市场展望中看好美国股票和部分G10国家债券。包括Marina Zavolock在内的策略师在11月15日的报告中写道，该行已将标普500指数的目标价上调至8700点，这意味着约有15%的上涨空间。“健康的盈利增长、趋稳的利率和油价、持续的人工智能投资与应用，…",
+    "scenes": [],
+    "collectedAt": "2026-11-16T01:12:41.920Z"
+  },
+  {
+    "title": "SK海力士将在五年内投入10亿美元支持芯片供应商",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4071686634067076?f=rss",
+    "publishedAt": "2026-11-16T00:23:49.000Z",
+    "excerpt": "韩国SK海力士周一表示，计划在未来五年内投入1.4万亿韩元（约合10.5亿美元），用于支持国内半导体材料、零部件及设备供应商，旨在随着AI芯片市场竞争加剧，进一步强化其供应链。（新浪财经）",
+    "scenes": [],
+    "collectedAt": "2026-11-16T01:12:41.920Z"
+  },
+  {
+    "title": "8点1氪丨黄仁勋考虑回归担任英伟达CEO；129万/支的“天价抗癌药”进医保了；美国罕见全国停飞超4小时",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4071682515817605?f=rss",
+    "publishedAt": "2026-11-16T00:09:56.000Z",
+    "excerpt": "今日热点导览 OpenAI解散机器人团队 SpaceX首次实现“筷子夹飞船” 2026年版国家基本医保药品目录发布，新增107种药品 微软就全球服务中断道歉 加密货币全线大跳水，超31万人爆仓 TOP3大新闻 黄仁勋讨论重掌英伟达，硅谷盟友游说支持回归 据报道，在被董事会驱逐数天…",
+    "scenes": [],
+    "collectedAt": "2026-11-16T01:12:41.919Z"
+  },
+  {
     "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy?utm_source=rss&utm_medium=article",
@@ -29,18 +85,18 @@
     "collectedAt": "2026-11-15T01:09:36.650Z"
   },
   {
-    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-14T13:09:55.262Z"
   },
   {
-    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -4839,18 +4895,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -7785,18 +7841,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
