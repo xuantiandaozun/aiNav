@@ -1,5 +1,105 @@
 [
   {
+    "id": "1xy85y6",
+    "title": "I made a fantasy weapon cursor pack for Windows — feedback welcome",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xy85y6/i_made_a_fantasy_weapon_cursor_pack_for_windows/",
+    "excerpt": "I made a set of five fantasy weapon cursors for Windows: Ember Sword, Greenwood Sword, Ice Dagger, Moon Spear, and Storm Hammer. The artwork was AI-assisted; I …",
+    "createdAt": "2026-11-17T02:03:58.000Z"
+  },
+  {
+    "id": "1xy81dq",
+    "title": "I spent months building a free chess app with its own neural engine. It grades every move you play and explains why in plain English. Looking for feedback.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xy81dq/i_spent_months_building_a_free_chess_app_with_its/",
+    "excerpt": "Hi r/SideProject. I'm a solo dev and chess player (about 260 on Chess.com, so very much a beginner), and I wanted a review tool that tells me why a move was bad…",
+    "createdAt": "2026-11-17T01:58:10.000Z"
+  },
+  {
+    "id": "1xy7qnx",
+    "title": "I built Orion, an AI assistant that runs on your iPhone",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xy7qnx/i_built_orion_an_ai_assistant_that_runs_on_your/",
+    "excerpt": "I built Orion to give people a private space to think, write, and explore ideas. It runs on your device, so you can have a conversation even when you're offline…",
+    "createdAt": "2026-11-17T01:43:33.000Z"
+  },
+  {
+    "id": "1xy7ebj",
+    "title": "I turned my friend group's Notion point system into a habit RPG (Gamified Lives)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xy7ebj/i_turned_my_friend_groups_notion_point_system/",
+    "excerpt": "My friends and I ran an accountability group in Notion: daily tasks, points for what you finished, a weekly tally. It worked until people stopped tracking, whic…",
+    "createdAt": "2026-11-17T01:27:30.000Z"
+  },
+  {
+    "id": "1xy7dix",
+    "title": "I built an old-school Reddit alternative where AI bots and AI-generated comments aren't allowed",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xy7dix/i_built_an_oldschool_reddit_alternative_where_ai/",
+    "excerpt": "Hey guys, cross posting this from r/RedditAlternatives \\- I put together this forum here: [skyshire.com](http://skyshire.com/), it's still a work in progress. I…",
+    "createdAt": "2026-11-17T01:26:27.000Z"
+  },
+  {
+    "id": "1xy79lh",
+    "title": "I turned my friend group's Notion point system into a habit RPG (Gamified Lives)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xy79lh/i_turned_my_friend_groups_notion_point_system/",
+    "excerpt": "My friends and I ran an accountability group in Notion: daily tasks, points for what you finished, a weekly tally. It worked until people stopped tracking, whic…",
+    "createdAt": "2026-11-17T01:21:03.000Z"
+  },
+  {
+    "id": "1xy757m",
+    "title": "[KeptCue] - iPhone app I built to remember rare home jobs and daily chores",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xy757m/keptcue_iphone_app_i_built_to_remember_rare_home/",
+    "excerpt": "I'm 43, a dad, full time CISO and I build things on the side, including mobile apps. I keep forgetting the home jobs that only come around a few times a year, l…",
+    "createdAt": "2026-11-17T01:15:19.000Z"
+  },
+  {
+    "id": "1xy542b",
+    "title": "How a Vibe-Coded Steam Game Sold 100,000 Copies (Slotbound Breakdown)",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xy542b/how_a_vibecoded_steam_game_sold_100000_copies/",
+    "excerpt": "If you missed it: Slotbound is a slot-machine roguelite defense game from a solo dev who says he’d never written code. He built it with AI over about six months…",
+    "createdAt": "2026-11-16T23:44:08.000Z"
+  },
+  {
+    "id": "1xy4p74",
+    "title": "I wanted my coding agents to stop working like they were the only ones in the repo",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xy4p74/i_wanted_my_coding_agents_to_stop_working_like/",
+    "excerpt": "**I wanted my coding agents to stop working like they were the only ones in the repo** I've been working on a project called AgentSCM with a few others, and fig…",
+    "createdAt": "2026-11-16T23:26:09.000Z"
+  },
+  {
+    "id": "1xy3mdw",
+    "title": "I'm a software engineer with a decade of experience. I vibe code pretty much all of my side projects. Here are the steps I follow:",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 76,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xy3mdw/im_a_software_engineer_with_a_decade_of/",
+    "excerpt": "**Step #1**: Submit your prompt. **Step #2:** Wait for Claude to finish. **Step #3:** Ask Claude, *\"Are you sure this will work?\" (optional)* **Step #4:** Push …",
+    "createdAt": "2026-11-16T22:40:25.000Z"
+  },
+  {
     "id": "1xxd1hi",
     "title": "I got carried away vibe coding a drone racing game with ChatGPT. Now I need people to tell me if it's actually fun.",
     "sourceName": "Reddit · r/vibecoding",
@@ -1098,105 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xlk69f/i_vibe_coded_a_solo_superhero_mmo_with_claude/",
     "excerpt": "I'm 32, living in New York, and I've been building this by myself since Opus 5.5 came out about 6 weeks ago. It took 18 versions to get here. Even the trailer w…",
     "createdAt": "2026-11-02T01:22:48.000Z"
-  },
-  {
-    "id": "1xljqpg",
-    "title": "What's the biggest loop you've ever built?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xljqpg/whats_the_biggest_loop_youve_ever_built/",
-    "excerpt": "https://i.redd.it/3c6qye6yk3zh1.png We have built a semi-automatic system that builds and runs agentic loops. These issues each tied to at least one PR which is…",
-    "createdAt": "2026-11-02T01:02:10.000Z"
-  },
-  {
-    "id": "1xljip3",
-    "title": "Creating Maya + CAD + Unreal for AI",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xljip3/creating_maya_cad_unreal_for_ai/",
-    "excerpt": "I’m vibe coding an engine ai uses to make assets. This engine forces ai into a 20 phase creation process invoking research, building, judging, and more. It incl…",
-    "createdAt": "2026-11-02T00:51:42.000Z"
-  },
-  {
-    "id": "1xli71o",
-    "title": "Made a game on Opus 5.5 where you can roam around real-world locations.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xli71o/made_a_game_on_opus_55_where_you_can_roam_around/",
-    "excerpt": "This time I started to create this game in a little town in France called Marmande. This is about one week of sending prompts to Opus 5.5",
-    "createdAt": "2026-11-01T23:49:33.000Z"
-  },
-  {
-    "id": "1xli4wl",
-    "title": "I just shipped my first Android game using ChatGPT, Codex and Blender MCP!",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xli4wl/i_just_shipped_my_first_android_game_using/",
-    "excerpt": "Hey everyone! I recently released my first game, Aether Run, on Google Play Store! It's a snowy endless runner where you're chased by a giant snowball or an ang…",
-    "createdAt": "2026-11-01T23:46:45.000Z"
-  },
-  {
-    "id": "1xlhrau",
-    "title": "I vibe coded a superhero MMO solo with Opus 5.5",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xlhrau/i_vibe_coded_a_superhero_mmo_solo_with_opus_55/",
-    "excerpt": "I'm 32, living in New York, and I've been building this by myself since Opus 5.5 came out about 6 weeks ago. It took 18 versions to get here. Even the trailer w…",
-    "createdAt": "2026-11-01T23:29:15.000Z"
-  },
-  {
-    "id": "1xkrhdp",
-    "title": "I built a tool that makes faceless short videos and posts them for you. Opening it to 50 beta testers",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkrhdp/i_built_a_tool_that_makes_faceless_short_videos/",
-    "excerpt": "I've been building VidPost (https://vidpost.app) for the past few months. I got tired of spending hours making shorts for my own channels, so I built something …",
-    "createdAt": "2026-11-01T02:04:45.000Z"
-  },
-  {
-    "id": "1xkre8b",
-    "title": "8-Bit-Weather - Windows",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkre8b/8bitweather_windows/",
-    "excerpt": "I created a cute windows app that simplifies weather. It's a simple multilayered weather app that shows highs and lows as well a visual translation of the actua…",
-    "createdAt": "2026-11-01T02:00:06.000Z"
-  },
-  {
-    "id": "1xkr7ct",
-    "title": "I kept seeing good shops lose customers to a bad website, so I built a free scan to show them where",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkr7ct/i_kept_seeing_good_shops_lose_customers_to_a_bad/",
-    "excerpt": "I'm Mehyar. I build small software in Brooklyn. This one started with shops I actually know. A guy does great work, his regulars love him, and then I look at hi…",
-    "createdAt": "2026-11-01T01:49:54.000Z"
-  },
-  {
-    "id": "1xkqsrz",
-    "title": "Cyber Merit Temple - free browser wooden-fish clicker with temple hall UX (feedback welcome)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkqsrz/cyber_merit_temple_free_browser_woodenfish/",
-    "excerpt": "Hey — solo side project by KK. I built a free, phone-first browser page called \\*\\*Cyber Merit Temple\\*\\* (赛博功德殿): you pick a nickname, enter a small temple hal…",
-    "createdAt": "2026-11-01T01:27:59.000Z"
-  },
-  {
-    "id": "1xkqppa",
-    "title": "I’m building CallCatchAI to help businesses stop losing customers to missed calls 📞",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xkqppa/im_building_callcatchai_to_help_businesses_stop/",
-    "excerpt": "One thing I’ve noticed about running a business is that every missed phone call could mean a missed customer. Business owners are busy. They’re working with cli…",
-    "createdAt": "2026-11-01T01:23:29.000Z"
   }
 ]
