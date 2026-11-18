@@ -1,5 +1,78 @@
 [
   {
+    "title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-18T01:10:22.929Z"
+  },
+  {
+    "title": "英伟达临时CEO称AI需求旺盛，预计将持续至2028年",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4074538601387141?f=rss",
+    "publishedAt": "2026-11-18T00:45:08.000Z",
+    "excerpt": "英伟达临时CEO兼首席财务官科莱特·克雷斯当地时间11月17日在第三财季财报电话会上表示，目前市场需求非常庞大，大型企业正持续开发各类智能体解决方案和新模型，客户近期仍在不断要求英伟达增加供货。她预计，相关需求不仅将在2027财年持续，还会延续至2028财年。克雷斯还表示，英伟达…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-18T01:10:21.543Z"
+  },
+  {
+    "title": "爱尔兰叫停X：禁止用AI智能体抓取第三方数据训练Grok",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4074539437888390?f=rss",
+    "publishedAt": "2026-11-18T00:42:48.000Z",
+    "excerpt": "爱尔兰数据保护委员会（DPC）证实，已勒令X停止将AI智能体采集的数据用于AI模型训练。这家马斯克旗下社交巨头已经暂停使用其Grok Bot AI智能体采集的第三方数据来训练AI系统。该智能体自10月末开始抓取这类数据。爱尔兰数据保护委员会专员戴尔·桑德兰在采访中表示，监管机构近…",
+    "scenes": [],
+    "collectedAt": "2026-11-18T01:10:21.543Z"
+  },
+  {
+    "title": "Anthropic投资方红杉资本与光速创投拟在IPO中追加投资",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4074533481091976?f=rss",
+    "publishedAt": "2026-11-18T00:35:40.000Z",
+    "excerpt": "据知情人士透露，人工智能初创公司Anthropic PBC的一批现有风投股东正计划在该公司即将进行的首次公开募股（IPO）中投入更多资金，这表明这些已大幅投资该公司的机构对其保持着持续的热情与支持。据要求匿名讨论私人信息的知情人士透露，红杉资本（Sequoia Capital）、…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-18T01:10:21.543Z"
+  },
+  {
+    "title": "黄仁勋离职动摇客户信心，AMD与谷歌蚕食英伟达市场份额",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4074519572337541?f=rss",
+    "publishedAt": "2026-11-18T00:27:36.000Z",
+    "excerpt": "早在黄仁勋上周辞去英伟达首席执行官一职之前，来自AMD等规模较小竞争对手的人工智能（AI）芯片，就已经开始赢得用户的青睐。黄仁勋的离职很可能会进一步强化这种市场情绪的转变。拥有16年行业经验、运营25个数据中心的云服务商Cirrascale的首席执行官戴维・德里格斯表示，去年就有…",
+    "scenes": [],
+    "collectedAt": "2026-11-18T01:10:21.543Z"
+  },
+  {
+    "title": "中信建投：旗舰模型加快迭代，Agent商业场景扩展",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4074518741030022?f=rss",
+    "publishedAt": "2026-11-18T00:25:43.000Z",
+    "excerpt": "36氪获悉，中信建投研报称，旗舰模型与Agent产品持续升级，继续看好兼具模型、云资源和应用入口的头部平台。Qwen 4 Max与Claude 5.2强化编程、专业工具和长任务能力，谷歌补充企业推理系统，OpenAI推出商家服务与授权支付，AI应用正向具体业务操作扩展。11月9日…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-18T01:10:21.543Z"
+  },
+  {
+    "title": "8点1氪丨李飞飞率World Labs正式加入AMD，苏姿丰主导庆祝仪式；360集团副总裁涉及大额贪腐被警方带走调查；高盛预测金价2年后才能重回高位",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4074508571104132?f=rss",
+    "publishedAt": "2026-11-18T00:04:54.000Z",
+    "excerpt": "今日热点导览 李飞飞率World Labs正式加入AMD，苏姿丰主导庆祝仪式 京东集团：第三季度营收3096亿元，同比增长3.5% OPPO Reno17系列正式发布 Siri AI每日限额，订阅后可获得最高20倍的额外使用额度 红果短剧有望推电视端App TOP 3大新闻 黄仁…",
+    "scenes": [
+      "video"
+    ],
+    "collectedAt": "2026-11-18T01:10:21.542Z"
+  },
+  {
     "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
@@ -69,6 +142,15 @@
     "collectedAt": "2026-11-17T13:12:33.213Z"
   },
   {
+    "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/510688.html",
+    "publishedAt": "2026-11-17T11:40:37.000Z",
+    "excerpt": "瞄准「产业级世界模型」",
+    "scenes": [],
+    "collectedAt": "2026-11-18T01:10:19.686Z"
+  },
+  {
     "title": "谷歌与Quaise Energy签署电力协议，布局地热技术",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4073773055186050?f=rss",
@@ -109,6 +191,17 @@
     "collectedAt": "2026-11-17T13:12:33.212Z"
   },
   {
+    "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/510652.html",
+    "publishedAt": "2026-11-17T06:09:40.000Z",
+    "excerpt": "筛材料、找配方、开发新模型…拿下多项科研任务",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-18T01:10:19.686Z"
+  },
+  {
     "title": "业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/p/4073327210304649?f=rss",
@@ -130,6 +223,15 @@
       "coding"
     ],
     "collectedAt": "2026-11-17T13:12:33.213Z"
+  },
+  {
+    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/510561.html",
+    "publishedAt": "2026-11-17T02:03:22.000Z",
+    "excerpt": "",
+    "scenes": [],
+    "collectedAt": "2026-11-18T01:10:19.686Z"
   },
   {
     "title": "工信部批准《人工智能 关键基础技术 具身智能数据生成系统技术要求》等274项行业标准",
@@ -459,18 +561,18 @@
     "collectedAt": "2026-11-15T01:09:36.650Z"
   },
   {
-    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-14T13:09:55.262Z"
   },
   {
-    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -5269,18 +5371,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -8215,18 +8317,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
