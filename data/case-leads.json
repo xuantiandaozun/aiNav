@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xz2vwt",
+    "title": "Side project for music lovers",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xz2vwt/side_project_for_music_lovers/",
+    "excerpt": "Hey guys. For the last couple of years I’ve been making playlists for whichever era I’m in in my life or wherever I’m at in the world, but I haven’t really foun…",
+    "createdAt": "2026-11-18T01:52:42.000Z"
+  },
+  {
+    "id": "1xz2ul6",
+    "title": "I built guided journal to cover my basic needs while job hunting :)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xz2ul6/i_built_guided_journal_to_cover_my_basic_needs/",
+    "excerpt": "Hi! job hunting has been brutal for months. I'm an unemployed Library grad📚. I've been applying to jobs non-stop for months with no luck yet, so while waiting t…",
+    "createdAt": "2026-11-18T01:50:56.000Z"
+  },
+  {
+    "id": "1xz2spa",
+    "title": "I was supposed to be doing literally anything else but I made a onewheel game instead",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xz2spa/i_was_supposed_to_be_doing_literally_anything/",
+    "excerpt": "started this as a “can I even do this” thing and it kinda snowballed. it’s a browser game where you ride a one-wheel board around a skatepark, a school, and a d…",
+    "createdAt": "2026-11-18T01:48:29.000Z"
+  },
+  {
+    "id": "1xz2lmh",
+    "title": "We built an AI fitness app because we were tired of switching between calorie trackers and ChatGPT",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xz2lmh/we_built_an_ai_fitness_app_because_we_were_tired/",
+    "excerpt": "Hey everyone! I'm one of three founders working on PRYVO, a fitness and nutrition app we recently launched on iOS. The idea started with a simple observation. P…",
+    "createdAt": "2026-11-18T01:38:58.000Z"
+  },
+  {
+    "id": "1xz2e35",
+    "title": "Vibecoding a first-person rollerblade racer in Godot, Trackmania x Mirror’s Edge vibes. Does this look worth pursuing?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xz2e35/vibecoding_a_firstperson_rollerblade_racer_in/",
+    "excerpt": "Hey everyone! I’m vibecoding my own game: some kind of Trackmania meets Mirror’s Edge, but on rollerblades. Yeah, something silly like that 😄 It’s made in Godot…",
+    "createdAt": "2026-11-18T01:29:02.000Z"
+  },
+  {
+    "id": "1xz2cu7",
+    "title": "I built a singing app that tells you exactly where you go off pitch",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xz2cu7/i_built_a_singing_app_that_tells_you_exactly/",
+    "excerpt": "Solo dev here. Every pitch app I tried either gave me a score at the end or a needle that jumped around too fast to read. I wanted something that tells you wher…",
+    "createdAt": "2026-11-18T01:27:22.000Z"
+  },
+  {
+    "id": "1xz1j59",
+    "title": "I spent almost a year using AI-assisted coding to build a local AI system. Here's where it led",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xz1j59/i_spent_almost_a_year_using_aiassisted_coding_to/",
+    "excerpt": "I don't have a traditional software engineering background, but I've spent most of this year building an AI system called Aura. I started with the idea of build…",
+    "createdAt": "2026-11-18T00:49:07.000Z"
+  },
+  {
+    "id": "1xz0dm4",
+    "title": "People Hate Us",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xz0dm4/people_hate_us/",
+    "excerpt": "I remember back in the day I was always excited to see someone do something interesting that they released for free. Now everyone automatically has a default \"s…",
+    "createdAt": "2026-11-17T23:58:15.000Z"
+  },
+  {
     "id": "1xy85y6",
     "title": "I made a fantasy weapon cursor pack for Windows — feedback welcome",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xmbwpc/since_nowadays_most_code_editors_are_slop_i/",
     "excerpt": "Funnily enough, I will probably genuinely be using this as my primary code editor, since it is so basic in functionality that it works really well (buttery smoo…",
     "createdAt": "2026-11-02T22:40:02.000Z"
-  },
-  {
-    "id": "1xmbles",
-    "title": "Since nowadays most code editors are slop, I vibecoded my own. It works surprisingly well.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xmbles/since_nowadays_most_code_editors_are_slop_i/",
-    "excerpt": "Funnily enough, I will probably genuinely be using this as my primary code editor, since it is so basic in functionality that it works really well (buttery smoo…",
-    "createdAt": "2026-11-02T22:27:04.000Z"
-  },
-  {
-    "id": "1xll0ag",
-    "title": "Built this last week, one AI race caller, zero adults who like her and a lot of kids who do. Built a 30 second fake horse race for Australia's big race day and I need an outside opinion",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xll0ag/built_this_last_week_one_ai_race_caller_zero/",
-    "excerpt": "Context for non-Aussies: Tuesday is Melbourne Cup, the one horse race the whole country stops for. Every office runs a sweep, meaning everyone puts in a few dol…",
-    "createdAt": "2026-11-02T02:04:13.000Z"
-  },
-  {
-    "id": "1xlkyts",
-    "title": "LeakWatch - a read-only check for leaked keys and open Supabase tables in AI-built apps",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkyts/leakwatch_a_readonly_check_for_leaked_keys_and/",
-    "excerpt": "I build this, so this is self-promo, and I'm mostly here for feedback. You paste a public URL. It loads the page and up to 12 of the scripts it references, the …",
-    "createdAt": "2026-11-02T02:02:11.000Z"
-  },
-  {
-    "id": "1xlkwev",
-    "title": "[Pixel Agents] - A pixel-art office for Claude Code sessions",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkwev/pixel_agents_a_pixelart_office_for_claude_code/",
-    "excerpt": "https://reddit.com/link/1xlkwev/video/n3wjvu5vv3zh1/player I built Pixel Agents because I kept missing permission requests when I was running a few Claude Code …",
-    "createdAt": "2026-11-02T01:58:59.000Z"
-  },
-  {
-    "id": "1xlkqnq",
-    "title": "I got a parking ticket in Brooklyn and had no idea if it was worth fighting, so I built a thing that shows the city's own numbers",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkqnq/i_got_a_parking_ticket_in_brooklyn_and_had_no/",
-    "excerpt": "I'm Mehyar. I build small software in Brooklyn. This one started with a ticket on my own windshield. I stood there doing the same thing everyone does — is this …",
-    "createdAt": "2026-11-02T01:51:04.000Z"
-  },
-  {
-    "id": "1xlklwl",
-    "title": "I built WalkPack, a game where dog walks claim map territory. Here are Buddy and Mia, my testers",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlklwl/i_built_walkpack_a_game_where_dog_walks_claim_map/",
-    "excerpt": "I'm a solo dev and made WalkPack (walkdogpack.com). These are my dogs, Buddy (Rottweiler) and Mia, who do most of the testing. The second image is one of our wa…",
-    "createdAt": "2026-11-02T01:44:27.000Z"
-  },
-  {
-    "id": "1xlkll5",
-    "title": "I built NowForge, a niche marketplace for ServiceNow add-ons",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xlkll5/i_built_nowforge_a_niche_marketplace_for/",
-    "excerpt": "ServiceNow admins live in a huge enterprise platform, and plenty of small annoyances never get a fix: notifications that reach nobody, scheduled jobs that quiet…",
-    "createdAt": "2026-11-02T01:43:58.000Z"
-  },
-  {
-    "id": "1xlk69f",
-    "title": "I vibe coded a solo superhero MMO with Claude Opus 5.5",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xlk69f/i_vibe_coded_a_solo_superhero_mmo_with_claude/",
-    "excerpt": "I'm 32, living in New York, and I've been building this by myself since Opus 5.5 came out about 6 weeks ago. It took 18 versions to get here. Even the trailer w…",
-    "createdAt": "2026-11-02T01:22:48.000Z"
   }
 ]
