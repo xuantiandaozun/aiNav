@@ -1,5 +1,221 @@
 [
   {
+    "title": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T18:05:40.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "杀入Agent主场之后：两年内部分替代自回归，扩散智能的底气从何而来？| 专访",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/rtBT5s1opGGazFgQi0YS?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T16:32:33.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "Agent 实干派：从人人可用到全栈工程进化 | InfoQ 小编探班",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/video/Cfrl4QYhD3dHMuhGt6hw?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T16:16:29.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "价值为先，金融智能体应用实践 | TF技术前线188期报名",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/NR0Wal4xOQ3b5flxE0Hi?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T16:11:32.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T16:08:30.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "街道办 AI 智能化白皮书",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/minibook/UAGTBMHJ8mTIx95CFzmo?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T15:41:28.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "12类高频任务、3类实践案例，商汤小浣熊带着街道办 AI 白皮书来了！",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/y1DHWaCUGxsuSrQwqEXi?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T13:56:19.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "超过10万名英国散户投资者争相认购Anthropic IPO股票",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4076679384732809?f=rss",
+    "publishedAt": "2026-11-19T12:52:43.000Z",
+    "excerpt": "约11万名英国散户投资者参与了人工智能巨头Anthropic规模创纪录的810亿美元首次公开募股（IPO），合计获配价值3亿美元的股票。在美国市场周四开盘后，该公司将在纳斯达克证券交易所正式上市。此次英国散户发行由金融科技平台RetailBook协调组织，认购需求远超可供分配的股…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
+    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4076643044430981?f=rss",
+    "publishedAt": "2026-11-19T12:15:45.000Z",
+    "excerpt": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
+    "title": "程一笑：将把AI短剧作为丰富平台内容生态的重要方向",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4076636904182914?f=rss",
+    "publishedAt": "2026-11-19T12:09:30.000Z",
+    "excerpt": "36氪获悉，11月19日，在快手2026年第三季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，公司将把AI短剧作为丰富平台内容生态的重要方向，并围绕优质供给、差异化内容和消费体验进一步推进短剧业务。 快手平台的短剧供给和营销需求也在同步增长。截至2026年9月，平台日均活…",
+    "scenes": [
+      "writing",
+      "video"
+    ],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
+    "title": "Kling 4.0上线后可灵AI流水实现提升，用户规模与ARPPU同步增长",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4076635958137992?f=rss",
+    "publishedAt": "2026-11-19T12:08:32.000Z",
+    "excerpt": "36氪获悉，11月19日，在快手2026年第三季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，Kling 4.0上线后，可灵流水实现提升，当前收入增长由B端企业客户API调用和P端专业创作者付费订阅双轮驱动，用户规模与ARPPU均保持增长。Kling 4.0于10月15日…",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-19T13:12:06.148Z"
+  },
+  {
+    "title": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T12:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.462Z"
+  },
+  {
+    "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T11:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.463Z"
+  },
+  {
+    "title": "WISE2026商业之王第二批嘉宾阵容官宣",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4076555275228041?f=rss",
+    "publishedAt": "2026-11-19T10:47:35.000Z",
+    "excerpt": "又是一年11月，36氪WISE2026商业之王大会，今年在北京亦庄和你见面。 WISE商业之王大会像一扇持续打开的窗口，每一年都向我们展示中国商业世界不断发生的变化。今年是WISE大会走过的第14年，从互联网浪潮到AI时代，从商业模式创新到技术驱动的产业变革，每一年，都有新的故事…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
+    "title": "改写行业默认，从他们的实践开始｜WISE2026特别策划ReFrame者揭晓",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4076543720854402?f=rss",
+    "publishedAt": "2026-11-19T10:35:02.000Z",
+    "excerpt": "行业的下一步，往往藏在对“理所当然”的重新追问里：AI能否从回答问题走向参与工作？机器人如何成为真正的生产力？产品能否突破材料与形态的限制？日常消费是否还有更简单、更可持续的解决方式？ 36氪WISE2026商业之王特别策划「Re：Frame再定义」，围绕重构问题、重构供给、重构…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
+    "title": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-19T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:07.463Z"
+  },
+  {
+    "title": "三个月四轮，估值近百亿，浙大、阿里系具身大脑公司再获新融资｜硬氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4075109837149321?f=rss",
+    "publishedAt": "2026-11-19T09:34:27.000Z",
+    "excerpt": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身大脑企业「原力无限INFIFORCE」近日完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。资金将重点投向具身大脑AtomBrain的技术研发，持续深耕真实落地场景，推进产品工程化打磨与规模化产业化落地。 这是公…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
+    "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511180.html",
+    "publishedAt": "2026-11-19T08:18:30.000Z",
+    "excerpt": "媒体均分登顶历史第一，细节多到爆炸",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:03.525Z"
+  },
+  {
+    "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511092.html",
+    "publishedAt": "2026-11-19T07:01:05.000Z",
+    "excerpt": "Kling Image 4.0",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:03.525Z"
+  },
+  {
+    "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511088.html",
+    "publishedAt": "2026-11-19T04:51:31.000Z",
+    "excerpt": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:03.525Z"
+  },
+  {
+    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511079.html",
+    "publishedAt": "2026-11-19T04:02:39.000Z",
+    "excerpt": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+    "scenes": [
+      "image"
+    ],
+    "collectedAt": "2026-11-19T13:12:03.525Z"
+  },
+  {
+    "title": "聚焦个人知识与成长领域，「Akasi」要做更垂直的Personal Agent｜早期项目",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4075055709508740?f=rss",
+    "publishedAt": "2026-11-19T03:40:21.000Z",
+    "excerpt": "毋庸置疑，PA（Personal Agent，个人智能体）已经是当下最热闹的AI产品方向。 2026年9月，Meta 发布 Muse，希望它能主动替用户处理邮件、安排旅行、推进长期目标；10月，国内的 Today AI 宣布累计融资超过 2 亿美元。能记住一个人、持续替他办事的 …",
+    "scenes": [],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
+    "title": "撕开欧美中高端健身器材缺口，浙江跑出健身器材全球化黑马",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4076016687617157?f=rss",
+    "publishedAt": "2026-11-19T02:50:37.000Z",
+    "excerpt": "过去三十年，全球家庭健身的话语权一直握在欧美品牌手中，从硬件、内容、到软件乃至AI的创新叙事，主场都在太平洋彼岸。中国虽然是全球最大的健身器材制造国，却始终只有工厂、没有品牌。 美国智能健身品牌Peloton市值一度自高位大幅回撤，使主流叙事判定“家庭健身”只是疫情催生的短暂泡沫…",
+    "scenes": [
+      "writing"
+    ],
+    "collectedAt": "2026-11-19T13:12:06.147Z"
+  },
+  {
     "title": "中信建投：建议关注具身智能与国产算力板块",
     "sourceName": "36氪",
     "sourceUrl": "https://36kr.com/newsflashes/4075937197937799?f=rss",
@@ -122,18 +338,18 @@
     "collectedAt": "2026-11-18T13:11:52.427Z"
   },
   {
-    "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+    "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-18T14:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-18T13:11:52.427Z"
   },
   {
-    "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+    "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-18T14:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -842,18 +1058,18 @@
     "collectedAt": "2026-11-15T01:09:36.650Z"
   },
   {
-    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-14T13:09:55.262Z"
   },
   {
-    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -5652,18 +5868,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -8598,18 +8814,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
