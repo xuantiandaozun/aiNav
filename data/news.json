@@ -1,5 +1,82 @@
 [
   {
+    "title": "中信建投：建议关注具身智能与国产算力板块",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4075937197937799?f=rss",
+    "publishedAt": "2026-11-19T00:39:33.000Z",
+    "excerpt": "36氪获悉，中信建投研报指出，通用大模型快速切入机器人任务规划层，但精密力控仍是落地瓶颈；本体产能爬坡、供给曲线抬升，北京地方产业政策同步加码算力、数据底座与场景建设。海外高端芯片管制持续收紧，境外算力租赁通道不确定性抬升。国产算力芯片供需两旺，叠加封装、HBM上游供给改善以及海…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T01:09:49.753Z"
+  },
+  {
+    "title": "OpenAI首款AI硬件或于年底启动出货，立讯精密等中国供应商参与",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4075950980699011?f=rss",
+    "publishedAt": "2026-11-19T00:31:44.000Z",
+    "excerpt": "据供应链消息，OpenAI首款AI端侧硬件产品或将于今年年底启动出货，多家中国厂商参与该项目。其中，立讯精密独家承担整机制造，并供应核心零部件。关于这款产品形态OpenAI尚未正式公布。不过，此前有消息称，OpenAI与苹果前首席设计官Jony Ive团队合作开发的首款消费级硬件…",
+    "scenes": [
+      "image",
+      "coding"
+    ],
+    "collectedAt": "2026-11-19T01:09:49.753Z"
+  },
+  {
+    "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4075322592187524?f=rss",
+    "publishedAt": "2026-11-19T00:30:00.000Z",
+    "excerpt": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资，亚投资本、Granite Asia、创新工场等老股东加注，招银国际、苏创投、三江招商集团等机构跟投，覆盖国际主权资本、头部金融资本及地方国…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T01:09:49.752Z"
+  },
+  {
+    "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/510947.html",
+    "publishedAt": "2026-11-19T00:26:40.000Z",
+    "excerpt": "国产AI工具实现「一个人就是一个剧组」",
+    "scenes": [],
+    "collectedAt": "2026-11-19T01:09:48.364Z"
+  },
+  {
+    "title": "马斯克：特斯拉将在未来两个月内进行Optimus机器人演示",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4075928048702593?f=rss",
+    "publishedAt": "2026-11-19T00:26:14.000Z",
+    "excerpt": "马斯克称，特斯拉将在未来两个月内进行Optimus机器人演示。SpaceX正在开发AI模型Grok 4.8。（财联社）",
+    "scenes": [
+      "coding"
+    ],
+    "collectedAt": "2026-11-19T01:09:49.753Z"
+  },
+  {
+    "title": "Anthropic IPO筹集813亿美元，超越SpaceX创下的上市纪录",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4075916769170562?f=rss",
+    "publishedAt": "2026-11-19T00:07:49.000Z",
+    "excerpt": "Anthropic PBC及其七位联合创始人通过扩大规模的IPO筹集了813亿美元，成为首家通过公开市场融资以推动智能机器研发的前沿AI实验室。这是有史以来规模最大的IPO，超越了SpaceX750亿美元的基础发行规模。结合Anthropic招股文件中列出的260亿美元私募配售，…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T01:09:49.753Z"
+  },
+  {
+    "title": "8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4075920892581000?f=rss",
+    "publishedAt": "2026-11-19T00:01:22.000Z",
+    "excerpt": "今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会，称格力研发机器人十几年了 马斯克：预计SpaceX不会向OpenAI出售任何算力 大疆Osmo Pocket 4系列涨价，最高涨560元 三星电机与英伟达扩大在…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T01:09:49.752Z"
+  },
+  {
+    "title": "欧洲央行行长拉加德：AI股票估值“非常激进”，最终可能出现调整",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4075904984241282?f=rss",
+    "publishedAt": "2026-11-18T23:50:49.000Z",
+    "excerpt": "欧洲央行行长克里斯蒂娜·拉加德表示，人工智能公司的高估值最终可能回落。尽管“过去几周出现了显著的价格回调”，拉加德仍将人工智能股的估值水平描述为“非常激进”。她周三表示，虽然欧洲央行并未将当前状况称为泡沫，但这种局面不太可能持续。市场“最终将面临调整”，拉加德表示。“这将取决于预…",
+    "scenes": [],
+    "collectedAt": "2026-11-19T01:09:49.753Z"
+  },
+  {
     "title": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/video/xsEfht2OwBZQBvWVHSIb?utm_source=rss&utm_medium=article",
@@ -45,18 +122,18 @@
     "collectedAt": "2026-11-18T13:11:52.427Z"
   },
   {
-    "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+    "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-18T14:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-18T13:11:52.427Z"
   },
   {
-    "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+    "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-18T14:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -765,18 +842,18 @@
     "collectedAt": "2026-11-15T01:09:36.650Z"
   },
   {
-    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-14T13:09:55.262Z"
   },
   {
-    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -5575,18 +5652,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -8521,18 +8598,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
