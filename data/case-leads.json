@@ -1,5 +1,85 @@
 [
   {
+    "id": "1xzxavb",
+    "title": "I built a private second brain that works across ChatGPT, Claude, and Perplexity — what would make you trust it?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xzxavb/i_built_a_private_second_brain_that_works_across/",
+    "excerpt": "I’m the founder of Selah, and I’ve been building the personal AI assistant I wanted for myself: one memory layer you can inspect and correct, instead of rebuild…",
+    "createdAt": "2026-11-19T01:52:05.000Z"
+  },
+  {
+    "id": "1xzx5gx",
+    "title": "I built an anime trivia game, but scaling the answer database is becoming my biggest challenge. How would you approach this?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xzx5gx/i_built_an_anime_trivia_game_but_scaling_the/",
+    "excerpt": "Hey everyone! My friend and I recently launched Anime Ascent, a free daily anime trivia game inspired by Krillion. Players answer 7 anime-related questions dail…",
+    "createdAt": "2026-11-19T01:45:01.000Z"
+  },
+  {
+    "id": "1xzx3zb",
+    "title": "One month after launching my peptide vendor comparison site: what I built from your feedback",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xzx3zb/one_month_after_launching_my_peptide_vendor/",
+    "excerpt": "A month ago I posted my side project here, a site for checking research and comparing peptide vendors (\\[original post\\](https://www.reddit.com/r/SideProject/co…",
+    "createdAt": "2026-11-19T01:42:58.000Z"
+  },
+  {
+    "id": "1xzx3od",
+    "title": "$50 a month to find viral and trending content?! I built a free service instead",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xzx3od/50_a_month_to_find_viral_and_trending_content_i/",
+    "excerpt": "This is a true story - my girlfriend decided to quit her full-time job and pursue her dream of becoming an influencer because her best friends are now making ov…",
+    "createdAt": "2026-11-19T01:42:31.000Z"
+  },
+  {
+    "id": "1xzx1r3",
+    "title": "I built a free quote generator for freelancers: PDF in 2 minutes, no sign-up, nothing leaves your browser",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xzx1r3/i_built_a_free_quote_generator_for_freelancers/",
+    "excerpt": "Hi! I kept seeing freelancers lose time building quotes in Word or Excel, so I built QuickQuote. \\- Free, no account: everything runs in your browser and nothin…",
+    "createdAt": "2026-11-19T01:39:57.000Z"
+  },
+  {
+    "id": "1xzwwb9",
+    "title": "I built feemates, a marketplace where people can split the cost of their favorite apps",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xzwwb9/i_built_feemates_a_marketplace_where_people_can/",
+    "excerpt": "Hey everyone! I’m Ricardo, the creator of feemates. I built it to make it easier to find people to split subscription costs with when the plan allows sharing. Y…",
+    "createdAt": "2026-11-19T01:32:23.000Z"
+  },
+  {
+    "id": "1xzv3e6",
+    "title": "Building Personalised Skills: An Agentic AI Dashboard to Monitor the Market",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xzv3e6/building_personalised_skills_an_agentic_ai/",
+    "excerpt": "So I built Stockwatcher, a skill that turns your chat into the interface. You install it as a plugin in Codex, Claude Code, OpenClaw or any other harness that s…",
+    "createdAt": "2026-11-19T00:06:57.000Z"
+  },
+  {
+    "id": "1xzsxgn",
+    "title": "I’ve vibe coded 5 apps this year. Only one has paying users and the code isn’t the difference",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 11,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xzsxgn/ive_vibe_coded_5_apps_this_year_only_one_has/",
+    "excerpt": "Quick context, I'm not a dev. Everything below was built with Claude and Cursor, mostly at night after work App 1 was a habit tracker. Took a weekend, looked gr…",
+    "createdAt": "2026-11-18T22:32:39.000Z"
+  },
+  {
     "id": "1xz2vwt",
     "title": "Side project for music lovers",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xn9a8u/built_a_website_for_my_cat_cusco/",
     "excerpt": "This is Cusco. He is an orange cat. I saw today that Cuscocat.com was unregistered. Now this is his website. Took me 5 minutes, but Cusco likes it. Deployed on …",
     "createdAt": "2026-11-03T23:55:32.000Z"
-  },
-  {
-    "id": "1xn924v",
-    "title": "I launched! Annnnnnd it flopped. [pt. 2: What now?]",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xn924v/i_launched_annnnnnd_it_flopped_pt_2_what_now/",
-    "excerpt": "Part one here: [https://www.reddit.com/r/vibecoding/comments/1x10ref/i\\_launched\\_annnnnnd\\_it\\_flopped/](https://www.reddit.com/r/vibecoding/comments/1x10ref/i…",
-    "createdAt": "2026-11-03T23:45:37.000Z"
-  },
-  {
-    "id": "1xmggop",
-    "title": "I built a video game in less time than it takes to watch a movie",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmggop/i_built_a_video_game_in_less_time_than_it_takes/",
-    "excerpt": "Always loved Mega Man 4, so I figured I'd try making my own platformer. Still experimenting with the difficulty. Here's some gameplay.",
-    "createdAt": "2026-11-03T02:02:20.000Z"
-  },
-  {
-    "id": "1xmg2n5",
-    "title": "Built a free interactive Global Threat Desk: 18 cyber incident dossiers, sources and preparedness tools",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmg2n5/built_a_free_interactive_global_threat_desk_18/",
-    "excerpt": "Built an interactive Global Cyber Threat Desk covering cyber incidents across critical infrastructure, finance, healthcare and AI. Includes 18 incident dossiers…",
-    "createdAt": "2026-11-03T01:44:01.000Z"
-  },
-  {
-    "id": "1xmfyox",
-    "title": "Games.io.lol: Made a free host for web games: upload your game, get yourname.io.lol for life",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmfyox/gamesiolol_made_a_free_host_for_web_games_upload/",
-    "excerpt": "Hi r/SideProject! I built [games.io.lol](http://games.io.lol/), a free place to host your web game. Drag and drop an .html file or a .zip and it's live in secon…",
-    "createdAt": "2026-11-03T01:38:42.000Z"
-  },
-  {
-    "id": "1xmfxbm",
-    "title": "I built a proximity social app as a web app instead of native here’s why, and what broke",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmfxbm/i_built_a_proximity_social_app_as_a_web_app/",
-    "excerpt": "I'm a solo dev in South Jersey. The big proximity apps bury people under ads and paywalls, so I built my own: hole-eaters for guys, trans and nonbinary folks. D…",
-    "createdAt": "2026-11-03T01:36:50.000Z"
-  },
-  {
-    "id": "1xmfvdb",
-    "title": "Made a web app to end the 40-minute \"what should we watch\" scroll. Looking for groups to test it",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xmfvdb/made_a_web_app_to_end_the_40minute_what_should_we/",
-    "excerpt": "My friends and I kept losing half of movie night to scrolling. The real problem wasn't choice, it was that nobody wanted to be the one to shoot down someone els…",
-    "createdAt": "2026-11-03T01:34:10.000Z"
-  },
-  {
-    "id": "1xmeyh6",
-    "title": "Built a supply chain security tool you can see",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xmeyh6/built_a_supply_chain_security_tool_you_can_see/",
-    "excerpt": "Teardown breaks your app’s dependencies into a 3D view then ranks what to fix first (KEV, public exploits, EPSS) instead of CVSS. It also writes a fix prompt fo…",
-    "createdAt": "2026-11-03T00:52:00.000Z"
-  },
-  {
-    "id": "1xmbwpc",
-    "title": "Since nowadays most code editors are slop, I vibecoded my own. Surprisingly it works well.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xmbwpc/since_nowadays_most_code_editors_are_slop_i/",
-    "excerpt": "Funnily enough, I will probably genuinely be using this as my primary code editor, since it is so basic in functionality that it works really well (buttery smoo…",
-    "createdAt": "2026-11-02T22:40:02.000Z"
   }
 ]
