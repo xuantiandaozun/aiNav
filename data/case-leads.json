@@ -1,5 +1,85 @@
 [
   {
+    "id": "1y0r9uw",
+    "title": "My accountability app got 10 users. 6 of them were completely alone, which kind of defeats the point",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y0r9uw/my_accountability_app_got_10_users_6_of_them_were/",
+    "excerpt": "I built Weightlss: small pods of up to 4 people who see each other check in every day for weight loss. The whole idea is that someone notices when you skip. I f…",
+    "createdAt": "2026-11-20T01:56:46.000Z"
+  },
+  {
+    "id": "1y0r5uz",
+    "title": "Pley - a fast, modern media server",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y0r5uz/pley_a_fast_modern_media_server/",
+    "excerpt": "Hi! A few weeks ago a certain yellow media server company released a terrible app update that made it almost impossible to watch anything. After complaining on …",
+    "createdAt": "2026-11-20T01:51:08.000Z"
+  },
+  {
+    "id": "1y0r3rk",
+    "title": "I built a site where 354 historical figures can be your boss: they interview you, write a brief, assign tasks and review your work",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y0r3rk/i_built_a_site_where_354_historical_figures_can/",
+    "excerpt": "Hi r/SideProject, solo dev here. I built Find a Boss: https://boss.vcorp.ai/?utm_source=reddit&utm_medium=forum&utm_campaign=launch **What it does** You tell a …",
+    "createdAt": "2026-11-20T01:48:21.000Z"
+  },
+  {
+    "id": "1y0quc2",
+    "title": "I made a browser kung fu game inspired by HK cinema: 40 levels, combos, no health bar",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y0quc2/i_made_a_browser_kung_fu_game_inspired_by_hk/",
+    "excerpt": "Free to play - desktop for best experience! Mobile is supported! [https://ascend8.vercel.app/?utm\\_source=reddit&utm\\_medium=social&utm\\_campaign=launch&utm\\_co…",
+    "createdAt": "2026-11-20T01:35:08.000Z"
+  },
+  {
+    "id": "1y0qjpn",
+    "title": "How I use my vibe coded app for real work",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y0qjpn/how_i_use_my_vibe_coded_app_for_real_work/",
+    "excerpt": "I've been working as a civil engineer for about 10 years. Earlier this year, I majorly got into agents. Since then, I've been building this app piece by piece. …",
+    "createdAt": "2026-11-20T01:20:39.000Z"
+  },
+  {
+    "id": "1y0pmra",
+    "title": "I built an app that turns PDFs, articles, and even photos into natural-sounding audio. Giving away 2 months of Premium for free",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y0pmra/i_built_an_app_that_turns_pdfs_articles_and_even/",
+    "excerpt": "I'm excited to share a project I've been working on for the past few months! It's called Frateca, a text-to-speech app that turns almost any text into high-qual…",
+    "createdAt": "2026-11-20T00:36:56.000Z"
+  },
+  {
+    "id": "1y0nxa6",
+    "title": "Vibe coding is the future",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 11,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y0nxa6/vibe_coding_is_the_future/",
+    "excerpt": "![img](ysbwbgwyjn2i1 \"with apologies to pixar\")",
+    "createdAt": "2026-11-19T23:19:01.000Z"
+  },
+  {
+    "id": "1y0n4fs",
+    "title": "7 ideas for Hero sections",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y0n4fs/7_ideas_for_hero_sections/",
+    "excerpt": "I'm prototyping a lot for my component library and really like to find different ways deliver the first message that people see. Here's 7 unpolished concepts th…",
+    "createdAt": "2026-11-19T22:42:53.000Z"
+  },
+  {
     "id": "1xzxavb",
     "title": "I built a private second brain that works across ChatGPT, Claude, and Perplexity — what would make you trust it?",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6l2w/deepcheap_i_built_a_tool_that_ranks_llm_apis_by/",
     "excerpt": "Most LLM API pricing comparisons focus on cost per million tokens, but different models can consume vastly different numbers of tokens to complete the same task…",
     "createdAt": "2026-11-05T01:59:14.000Z"
-  },
-  {
-    "id": "1xo6kgj",
-    "title": "Ran out of free Notion blocks planning our next project, so we built our own workspace (Burrow)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6kgj/ran_out_of_free_notion_blocks_planning_our_next/",
-    "excerpt": ">",
-    "createdAt": "2026-11-05T01:58:24.000Z"
-  },
-  {
-    "id": "1xo6i17",
-    "title": "I built a free Reddit bot to steelman and spot logical fallacies/errors in comments/debate",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6i17/i_built_a_free_reddit_bot_to_steelman_and_spot/",
-    "excerpt": "They are free to use, and customizable to a subreddit's norms/culture. More detail on their Devvit listings: [Stu Steelman](https://developers.reddit.com/apps/l…",
-    "createdAt": "2026-11-05T01:55:00.000Z"
-  },
-  {
-    "id": "1xo1hps",
-    "title": "Payback math on switching subscription infrastructure: about 4 years at $6,200/mo, about 1 year at $50K with paywalls on half",
-    "sourceName": "Reddit · r/indiehackers",
-    "subreddit": "indiehackers",
-    "score": 2,
-    "sourceUrl": "https://www.reddit.com/r/indiehackers/comments/1xo1hps/payback_math_on_switching_subscription/",
-    "excerpt": "https://i.redd.it/nh5znrhr5ozh1.png I think most indie apps shouldn't switch subscription provider because of fees alone. I'm a RevenueCat customer, so I have a…",
-    "createdAt": "2026-11-04T22:09:10.000Z"
-  },
-  {
-    "id": "1xnbx9r",
-    "title": "I made and discord bot for github notifications",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xnbx9r/i_made_and_discord_bot_for_github_notifications/",
-    "excerpt": "Hello! We’re a game development studio. So why did we build a GitHub–Discord integration tool? At Team HJD, we use GitHub and Discord every day while developing…",
-    "createdAt": "2026-11-04T01:58:18.000Z"
-  },
-  {
-    "id": "1xnbs6o",
-    "title": "I used my open-source charting library (rhp) and the libraries agent skill to help create an Election Day website",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xnbs6o/i_used_my_opensource_charting_library_rhp_and_the/",
-    "excerpt": "**Live site:** [https://rhp.vercel.app/gallery/articles/election-night/](https://rhp.vercel.app/gallery/articles/election-night/) **rhp ( React Html Plots):** […",
-    "createdAt": "2026-11-04T01:51:21.000Z"
-  },
-  {
-    "id": "1xnbl1e",
-    "title": "ReTab - Cmd+Tab for your Safari tabs, on Mac, iPhone and iPad",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xnbl1e/retab_cmdtab_for_your_safari_tabs_on_mac_iphone/",
-    "excerpt": "I kept losing the tab I was just on in Safari. Chrome and Firefox have extensions for jumping to your last tab, but Safari never really did, so I built one. ReT…",
-    "createdAt": "2026-11-04T01:41:40.000Z"
-  },
-  {
-    "id": "1xnb4yy",
-    "title": "How is my Claude-made artsy landing page? Does it look AI?",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xnb4yy/how_is_my_claudemade_artsy_landing_page_does_it/",
-    "excerpt": "Does this make it clear what the product is? Does it speak to you? Or does it occupy some kind of artsy-creative-but-AI uncanny valley? Curious to hear your tho…",
-    "createdAt": "2026-11-04T01:20:00.000Z"
-  },
-  {
-    "id": "1xn9a8u",
-    "title": "Built a website for my cat Cusco.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xn9a8u/built_a_website_for_my_cat_cusco/",
-    "excerpt": "This is Cusco. He is an orange cat. I saw today that Cuscocat.com was unregistered. Now this is his website. Took me 5 minutes, but Cusco likes it. Deployed on …",
-    "createdAt": "2026-11-03T23:55:32.000Z"
   }
 ]
