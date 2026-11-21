@@ -1,5 +1,125 @@
 [
   {
+    "id": "1y1lax7",
+    "title": "I built a calendar timeline for my time-blind ADHD brain, with desktop widgets to keep upcoming events in sight",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1lax7/i_built_a_calendar_timeline_for_my_timeblind_adhd/",
+    "excerpt": "I'm the creator of CalendarCascade. My problem was simple: I could add an event to a calendar and still lose sight of it if it was on another calendar or a week…",
+    "createdAt": "2026-11-21T02:04:14.000Z"
+  },
+  {
+    "id": "1y1l9dg",
+    "title": "I got tired of Spotify's boring lyrics, so I built a better version for Mac (free, open source)",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1l9dg/i_got_tired_of_spotifys_boring_lyrics_so_i_built/",
+    "excerpt": "Spotify's lyrics view is a plain scrolling list, and I wanted something more fun to have on a second screen. So I built **LyricBubbles**, a native macOS app tha…",
+    "createdAt": "2026-11-21T02:02:01.000Z"
+  },
+  {
+    "id": "1y1l99i",
+    "title": "I built a 1-second smartphone benchmark that shuffles poker decks to test CPU speed. I’m trying to pay my mechanic with it.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1l99i/i_built_a_1second_smartphone_benchmark_that/",
+    "excerpt": "A few weeks ago, my car’s engine suddenly broke down and left me with a massive repair bill I couldn't afford. Instead of panicked borrowing, I decided to build…",
+    "createdAt": "2026-11-21T02:01:52.000Z"
+  },
+  {
+    "id": "1y1l6ul",
+    "title": "My sports API just leveled up and is now 100% standalone 🏀🚀⚽️",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1l6ul/my_sports_api_just_leveled_up_and_is_now_100/",
+    "excerpt": "Hey everyone! 👋 A while back, I shared the early version of my sports API here with you guys. Today, I’m stoked to share a massive update. Thanks to the growing…",
+    "createdAt": "2026-11-21T01:58:57.000Z"
+  },
+  {
+    "id": "1y1l6l1",
+    "title": "I built an Apple Watch app to track my Sunday league matches: heat maps, sprints and friend comparisons",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1l6l1/i_built_an_apple_watch_app_to_track_my_sunday/",
+    "excerpt": "I play amateur football (soccer) most weekends and always wanted to know how much I actually ran and where I spent my time on the pitch. Apple's Workout app giv…",
+    "createdAt": "2026-11-21T01:58:31.000Z"
+  },
+  {
+    "id": "1y1l4kj",
+    "title": "I built a globe where every light is someone's real worry from last night",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1l4kj/i_built_a_globe_where_every_light_is_someones/",
+    "excerpt": "I'm a college student in Seoul. Most nights, right before sleep, I get hit with small waves of anxiety: jobs, friendships, falling behind, AI moving faster than…",
+    "createdAt": "2026-11-21T01:55:31.000Z"
+  },
+  {
+    "id": "1y1l2p5",
+    "title": "I turned an anime idea into a personal dashboard. What would you put on the first screen?",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1l2p5/i_turned_an_anime_idea_into_a_personal_dashboard/",
+    "excerpt": "I’m building a little internal dashboard inspired by Egghead Island from One Piece. I liked the idea of Vegapunk’s satellites having their own jobs and space to…",
+    "createdAt": "2026-11-21T01:52:45.000Z"
+  },
+  {
+    "id": "1y1kwyi",
+    "title": "NarrationOS V1.1.3 Update is Out",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1kwyi/narrationos_v113_update_is_out/",
+    "excerpt": "Hello again, NarrationOS, a local/offline AI audiobook Generator for Windows. Shipping 1.1.3 today. It is a fix release for first-time setup, and all three bugs…",
+    "createdAt": "2026-11-21T01:44:30.000Z"
+  },
+  {
+    "id": "1y1kuru",
+    "title": "I made an audio visualizer with lyrics, album art, and more!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1kuru/i_made_an_audio_visualizer_with_lyrics_album_art/",
+    "excerpt": "I made a desktop app that allows you to visualize any audio that's currently playing! (skip the next 2 paragraphs if you just want the app info) A little while …",
+    "createdAt": "2026-11-21T01:41:22.000Z"
+  },
+  {
+    "id": "1y1kt30",
+    "title": "Check out my new project!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y1kt30/check_out_my_new_project/",
+    "excerpt": "Maker here — [https://paintover.vercel.app](https://paintover.vercel.app) The core rule: every pixel's price is 1.5× whatever it last sold for, rounded up, so n…",
+    "createdAt": "2026-11-21T01:38:59.000Z"
+  },
+  {
+    "id": "1y1ko31",
+    "title": "7 Levels of AI Game Dev: From One Prompt to 200,000 Sales",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y1ko31/7_levels_of_ai_game_dev_from_one_prompt_to_200000/",
+    "excerpt": "I spend way too much time scrolling AI game posts here and on X, and I started noticing they could all be put into certain buckets. So I ranked them, based off …",
+    "createdAt": "2026-11-21T01:31:46.000Z"
+  },
+  {
+    "id": "1y1hzo3",
+    "title": "I built an aircraft builder and flight simulation for me, myself and Ai",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 2,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y1hzo3/i_built_an_aircraft_builder_and_flight_simulation/",
+    "excerpt": "The sim runs on the Unity engine and was built by opus 5.5 on a $20 plan. You, or a Claude or Codex ai assistant via the connector, can build aircraft from thou…",
+    "createdAt": "2026-11-20T23:23:37.000Z"
+  },
+  {
     "id": "1y0r9uw",
     "title": "My accountability app got 10 users. 6 of them were completely alone, which kind of defeats the point",
     "sourceName": "Reddit · r/SideProject",
@@ -1078,125 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xprh8j/i_built_an_opensource_sales_agent_that_runs_on/",
     "excerpt": "It's an outreach agent that runs on your machine, on the Claude or ChatGPT plan you already pay for. No model API key. It runs a loop every 15 minutes. Wake up,…",
     "createdAt": "2026-11-06T23:29:05.000Z"
-  },
-  {
-    "id": "1xpq4zv",
-    "title": "Tiller Code -N8N married to T3Code - Visual First",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xpq4zv/tiller_code_n8n_married_to_t3code_visual_first/",
-    "excerpt": "&#x200B; Introducing Tiller An Opinionated fork of T3code What's different: workflows, visual first \\-Everything you like about T3 Code(Runners keep it updated …",
-    "createdAt": "2026-11-06T22:28:42.000Z"
-  },
-  {
-    "id": "1xppze5",
-    "title": "T3 code harness wrapper saved me $2,798.66",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 0,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xppze5/t3_code_harness_wrapper_saved_me_279866/",
-    "excerpt": "T3 code is not a harness but a wrapper for codex cli and claude code. It also has tools like agent-devices super useful for making apps. has anyone tried this?",
-    "createdAt": "2026-11-06T22:21:55.000Z"
-  },
-  {
-    "id": "1xp0xh5",
-    "title": "I built a Mac app because I kept running out of time halfway through PR reviews",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0xh5/i_built_a_mac_app_because_i_kept_running_out_of/",
-    "excerpt": "My calendar looks like spaghetti, and PR reviews became the bottleneck once AI started writing more of our code. I’d have 20 minutes before a meeting, open a PR…",
-    "createdAt": "2026-11-06T02:02:03.000Z"
-  },
-  {
-    "id": "1xp0fqv",
-    "title": "I built an app that picks your food better than you do - DINETUNED",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0fqv/i_built_an_app_that_picks_your_food_better_than/",
-    "excerpt": "I’ve always been the person who stares at a menu for 10 minutes and still orders wrong. So for my first-ever hackathon (Meta’s Global AI Hackathon), I built Din…",
-    "createdAt": "2026-11-06T01:38:02.000Z"
-  },
-  {
-    "id": "1xp0fdg",
-    "title": "I turned a PC or Mac into a set-top box for one streaming app. Free, no ads, nothing sent home",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0fdg/i_turned_a_pc_or_mac_into_a_settop_box_for_one/",
-    "excerpt": "My brother loves films, and the TV-box app we use only runs on Android boxes. So I built WatchlistBox. It runs a small Android TV system in a virtual machine an…",
-    "createdAt": "2026-11-06T01:37:30.000Z"
-  },
-  {
-    "id": "1xp0cap",
-    "title": "I built an app to help me manage my kitchen because being the only person to cook in the household is the most underappreciated job in the world.",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xp0cap/i_built_an_app_to_help_me_manage_my_kitchen/",
-    "excerpt": "[www.mealsmealsmeals.com](http://www.mealsmealsmeals.com) Being the only cook in your house is more than cooking. It's deciding what everyone eats, working out …",
-    "createdAt": "2026-11-06T01:33:12.000Z"
-  },
-  {
-    "id": "1xozhvu",
-    "title": "WoW Forever running natively on an iPhone Duo – WolkaraForever fork with a touch UI (spell wheel, jump while running, auto-saving add-on)",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xozhvu/wow_forever_running_natively_on_an_iphone_duo/",
-    "excerpt": "I've been playing WoW Forever on my **iPhone Duo (iOS 27.2)** with \\[WolkaraForever\\]([https://github.com/jklock/wolkaraforever](https://github.com/jklock/wolka…",
-    "createdAt": "2026-11-06T00:52:16.000Z"
-  },
-  {
-    "id": "1xoy6k3",
-    "title": "I've always loved designing t-shirts, so I vibe coded a platform to create t shirt designs, get paid when they sell, and discover others designs.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xoy6k3/ive_always_loved_designing_tshirts_so_i_vibe/",
-    "excerpt": "Under the hood, the platform is powered by a server-rendered Python and Django backend paired with lightweight vanilla JavaScript. I relied heavily on Claude as…",
-    "createdAt": "2026-11-05T23:52:17.000Z"
-  },
-  {
-    "id": "1xoy3hp",
-    "title": "Introducing Nopekit: A Software Style Test Framework For Vibecoding The Physical World",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xoy3hp/introducing_nopekit_a_software_style_test/",
-    "excerpt": "I've been doing physical design work in my free time with AI for the last two years. During that time I observed something: AI was getting better at physical de…",
-    "createdAt": "2026-11-05T23:48:19.000Z"
-  },
-  {
-    "id": "1xovnth",
-    "title": "A year of vibe coding a mech RTS in Unity: 372k lines, 14 chats open at once, and Claude drives the Unity editor itself",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xovnth/a_year_of_vibe_coding_a_mech_rts_in_unity_372k/",
-    "excerpt": "Interesting little fact first. My last game, Beneath the Mountain, had 76k lines that I wrote by hand over 2.5 years. This one is a little over a year in and al…",
-    "createdAt": "2026-11-05T22:00:55.000Z"
-  },
-  {
-    "id": "1xo6liw",
-    "title": "I built an Omni-Tracker + Digital Garden so I could stop using 5 different apps for my media and notes",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6liw/i_built_an_omnitracker_digital_garden_so_i_could/",
-    "excerpt": "Hey r/SideProject! I was tired of my personal data and thoughts being scattered across the internet: Letterboxd for movies, Goodreads for books, Backloggd for g…",
-    "createdAt": "2026-11-05T01:59:52.000Z"
-  },
-  {
-    "id": "1xo6l2w",
-    "title": "\"DeepCheap\", I built a tool that ranks LLM APIs by actual cost per task, not just token prices",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xo6l2w/deepcheap_i_built_a_tool_that_ranks_llm_apis_by/",
-    "excerpt": "Most LLM API pricing comparisons focus on cost per million tokens, but different models can consume vastly different numbers of tokens to complete the same task…",
-    "createdAt": "2026-11-05T01:59:14.000Z"
   }
 ]
