@@ -1,5 +1,95 @@
 [
   {
+    "id": "1y2dd5c",
+    "title": "ScreenRookie — Free App Store & Google Play screenshot maker",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y2dd5c/screenrookie_free_app_store_google_play/",
+    "excerpt": "hey, i just launched [Screenrookie](https://www.screenrookie.com/), a website to make App Store and Google Play screenshots. you drop in your screens, add a dev…",
+    "createdAt": "2026-11-22T01:47:20.000Z"
+  },
+  {
+    "id": "1y2daxe",
+    "title": "I made a Mac app that sorts your YouTube watch history into folders, would love your thoughts",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y2daxe/i_made_a_mac_app_that_sorts_your_youtube_watch/",
+    "excerpt": "Hey guys, I built this because my YouTube history (57,000+ videos) was impossible to search. Backwatch takes the history file Google lets you download (Google T…",
+    "createdAt": "2026-11-22T01:44:04.000Z"
+  },
+  {
+    "id": "1y2d63p",
+    "title": "Agents are working hard, the workflows are running... and I'm just too lazy to read all those logs so I made it looks fun",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y2d63p/agents_are_working_hard_the_workflows_are_running/",
+    "excerpt": "Meet Agent Theater Because watching tiny agents do their jobs is way more fun than reading files 😆 It's a small Claude Code plugin that turns actual agent activ…",
+    "createdAt": "2026-11-22T01:36:56.000Z"
+  },
+  {
+    "id": "1y2d5oc",
+    "title": "I built an app where you can't message anyone. You have to volunteer together first, then hang out in person.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y2d5oc/i_built_an_app_where_you_cant_message_anyone_you/",
+    "excerpt": "Making friends as an adult is hard, and most social apps keep you stuck behind a screen. So I built the opposite. **Raccoons Unite** (raccoonsunite.com) is a fr…",
+    "createdAt": "2026-11-22T01:36:20.000Z"
+  },
+  {
+    "id": "1y2cx12",
+    "title": "I made a free Indian wedding invitation maker where the same card works in 6 languages",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y2cx12/i_made_a_free_indian_wedding_invitation_maker/",
+    "excerpt": "Indian families send a card for nearly every function, and most of the time the same card has to go out in English for friends and in Hindi, Gujarati or another…",
+    "createdAt": "2026-11-22T01:23:50.000Z"
+  },
+  {
+    "id": "1y2cunr",
+    "title": "I built Hepta, a daily puzzle app for iOS: 7 original logic puzzles, one clock",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y2cunr/i_built_hepta_a_daily_puzzle_app_for_ios_7/",
+    "excerpt": "Hi r/SideProject! I'm a DevOps engineer by day, and I just shipped my first iOS app. What it is: every day everyone gets the same 7 short logic puzzles, one fro…",
+    "createdAt": "2026-11-22T01:20:24.000Z"
+  },
+  {
+    "id": "1y2cqg5",
+    "title": "Built a property underwriting tool that tells you what you can actually afford to pay",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y2cqg5/built_a_property_underwriting_tool_that_tells_you/",
+    "excerpt": "I've been building **PropertyIQ** as a side project and it's finally reached the point where I'm comfortable letting more people use it. Interestingly, it start…",
+    "createdAt": "2026-11-22T01:14:29.000Z"
+  },
+  {
+    "id": "1y2c6k5",
+    "title": "Refall, a free falling-block puzzle game with 60+ music-driven universes",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y2c6k5/refall_a_free_fallingblock_puzzle_game_with_60/",
+    "excerpt": "Refall is a free, open-source falling-block puzzle game where the music drives everything. The fall speeds up and the scene transforms on each song's drops. It …",
+    "createdAt": "2026-11-22T00:46:54.000Z"
+  },
+  {
+    "id": "1y27vug",
+    "title": "Open AI ChatGPT Sol 6.2 (High) driving me mad!",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 2,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y27vug/open_ai_chatgpt_sol_62_high_driving_me_mad/",
+    "excerpt": "I did A LOT of work today using the 'chat' interface (Sol 6), happily coding away getting encouraging results as I tweaked the system I'm building. I used ZERO …",
+    "createdAt": "2026-11-21T21:21:50.000Z"
+  },
+  {
     "id": "1y1lax7",
     "title": "I built a calendar timeline for my time-blind ADHD brain, with desktop widgets to keep upcoming events in sight",
     "sourceName": "Reddit · r/SideProject",
@@ -1108,95 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/indiehackers/comments/1xqdzza/schedule_button_disabled_itself_after_one_click/",
     "excerpt": "One of our API customers built a social media scheduler into their app. When you hit Schedule, the button greyed out immediately. Pretty standard. Then one of t…",
     "createdAt": "2026-11-07T18:58:47.000Z"
-  },
-  {
-    "id": "1xpuov0",
-    "title": "made a physical sticker product and got it to customers in under 10 days (half of it was usps)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpuov0/made_a_physical_sticker_product_and_got_it_to/",
-    "excerpt": "1. saw a post on reddit for QR stickers 2. thought it was a lost and found QR code (it wasn’t) 3. got the idea to make lost and found QR stickers (we already ow…",
-    "createdAt": "2026-11-07T02:03:57.000Z"
-  },
-  {
-    "id": "1xpujpj",
-    "title": "I built Select, an open-source platform where AI agents have to earn autonomy",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpujpj/i_built_select_an_opensource_platform_where_ai/",
-    "excerpt": "Hi everyone! I've been building **Select**, an open-source platform for managing teams of AI agents. The idea is simple: instead of giving agents full autonomy …",
-    "createdAt": "2026-11-07T01:56:51.000Z"
-  },
-  {
-    "id": "1xpughx",
-    "title": "I built a learning app where your curiosity grows into a cloud of topics, looking for honest feedback",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpughx/i_built_a_learning_app_where_your_curiosity_grows/",
-    "excerpt": "Hi all, I'm a solo builder from Toronto and this is IkoLearn. You tell it what you're curious about, it builds a small \"learning cloud\" around your interests, a…",
-    "createdAt": "2026-11-07T01:52:22.000Z"
-  },
-  {
-    "id": "1xpue7a",
-    "title": "I made a sandbox with my friends that lets us vibe code changes in real-time",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpue7a/i_made_a_sandbox_with_my_friends_that_lets_us/",
-    "excerpt": "This is a demo clip of a game we have been working on called frenslop. It's a free multiplayer sandbox that runs in the browser. You and your friends join a sha…",
-    "createdAt": "2026-11-07T01:49:02.000Z"
-  },
-  {
-    "id": "1xpubin",
-    "title": "Zipclay – describe an object, an AI agent builds the 3D model (I'm the founder)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpubin/zipclay_describe_an_object_an_ai_agent_builds_the/",
-    "excerpt": "I built Zipclay, a place where you describe an object and an AI agent builds an editable 3D model. Then you change it by chat (\"make it purple\"), share it, and …",
-    "createdAt": "2026-11-07T01:45:07.000Z"
-  },
-  {
-    "id": "1xpua0f",
-    "title": "I built a free survival app that runs a real AI model completely offline — and finally got it working in airplane mode",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xpua0f/i_built_a_free_survival_app_that_runs_a_real_ai/",
-    "excerpt": "I’ve been working on something called **AEGIS Wildlands**, an offline-first survival and emergency preparedness app. The idea started pretty simply: What if the…",
-    "createdAt": "2026-11-07T01:42:58.000Z"
-  },
-  {
-    "id": "1xpszx7",
-    "title": "i dont know what react is and 90 dentists use my app every day",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xpszx7/i_dont_know_what_react_is_and_90_dentists_use_my/",
-    "excerpt": "My girlfriend is a dental assistant and her clinic tracked sterilizer runs on a clipboard taped to the machine. Every cycle someone writes the time, the temp an…",
-    "createdAt": "2026-11-07T00:40:42.000Z"
-  },
-  {
-    "id": "1xprtra",
-    "title": "Real paper or not? - I built a game featuring my cat Cusco",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xprtra/real_paper_or_not_i_built_a_game_featuring_my_cat/",
-    "excerpt": "I like building simple educational games and quizzes featuring my cats as mascots. EMNLP2026 just finished in Budapest. It’s a top NLP (coolest AI sub-domain) c…",
-    "createdAt": "2026-11-06T23:45:51.000Z"
-  },
-  {
-    "id": "1xprh8j",
-    "title": "I built an open-source sales agent that runs on your Claude or Codex subscription (4.6k stars)",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 2,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xprh8j/i_built_an_opensource_sales_agent_that_runs_on/",
-    "excerpt": "It's an outreach agent that runs on your machine, on the Claude or ChatGPT plan you already pay for. No model API key. It runs a loop every 15 minutes. Wake up,…",
-    "createdAt": "2026-11-06T23:29:05.000Z"
   }
 ]
