@@ -1,5 +1,50 @@
 [
   {
+    "ranAt": "2026-11-23T02:05:48.737Z",
+    "sources": [
+      {
+        "name": "reddit-seeds",
+        "ok": true,
+        "fetched": 3,
+        "error": ""
+      },
+      {
+        "name": "r/vibecoding",
+        "ok": true,
+        "fetched": 25,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "r/SideProject",
+        "ok": true,
+        "fetched": 20,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "r/indiehackers",
+        "ok": true,
+        "fetched": 15,
+        "error": "",
+        "via": "archive"
+      },
+      {
+        "name": "hn:vibe coding",
+        "ok": true,
+        "fetched": 15,
+        "error": ""
+      },
+      {
+        "name": "hn:AI side project revenue",
+        "ok": true,
+        "fetched": 10,
+        "error": ""
+      }
+    ],
+    "kept": 120
+  },
+  {
     "ranAt": "2026-11-22T02:05:02.429Z",
     "sources": [
       {
@@ -565,49 +610,6 @@
         "fetched": 15,
         "error": "",
         "via": "archive"
-      },
-      {
-        "name": "hn:vibe coding",
-        "ok": true,
-        "fetched": 15,
-        "error": ""
-      },
-      {
-        "name": "hn:AI side project revenue",
-        "ok": true,
-        "fetched": 10,
-        "error": ""
-      }
-    ],
-    "kept": 120
-  },
-  {
-    "ranAt": "2026-11-09T02:05:08.974Z",
-    "sources": [
-      {
-        "name": "reddit-seeds",
-        "ok": true,
-        "fetched": 3,
-        "error": ""
-      },
-      {
-        "name": "r/vibecoding",
-        "ok": false,
-        "fetched": 0,
-        "error": "HTTP 422"
-      },
-      {
-        "name": "r/SideProject",
-        "ok": true,
-        "fetched": 20,
-        "error": "",
-        "via": "archive"
-      },
-      {
-        "name": "r/indiehackers",
-        "ok": false,
-        "fetched": 0,
-        "error": "HTTP 422"
       },
       {
         "name": "hn:vibe coding",
