@@ -1,5 +1,44 @@
 [
   {
+    "title": "中信证券：《GTA VI》首发创纪录，互动影游与春节档催化接续",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4083042583483527?f=rss",
+    "publishedAt": "2026-11-24T01:00:29.000Z",
+    "excerpt": "36氪获悉，中信证券研报指出，本周《GTA VI》首发刷新全球娱乐产品销售纪录，头部内容的付费潜力进一步得到验证，互动影游与影视院线催化接续。游戏方面，《GTA VI》全球首日零售销售额达37.9亿美元，约为前作首日的4.7倍，凸显成熟IP与全球发行能力对高投入项目的支撑。AI互…",
+    "scenes": [
+      "writing",
+      "video"
+    ],
+    "collectedAt": "2026-11-24T01:10:07.082Z"
+  },
+  {
+    "title": "从SFF看下一代支付：技术之外，信任才是核心变量",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/p/4082408874185606?f=rss",
+    "publishedAt": "2026-11-24T01:00:00.000Z",
+    "excerpt": "作者｜王晗玉 编辑｜张帆 当人工智能从辅助工具进化到可以代为生成指令、发起采购，商业交易的因果链条正被重新改写。 据机构预测，到2030年，智能体有望介入全球规模3-5万亿美元的消费商业活动。但技术向前演进的同时，身份核验、授权边界、纠纷定责等信任短板，成为横在产业规模化面前的现…",
+    "scenes": [],
+    "collectedAt": "2026-11-24T01:10:07.081Z"
+  },
+  {
+    "title": "新加坡将今年GDP增长预期上调至“约6%”",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4083042303284098?f=rss",
+    "publishedAt": "2026-11-24T00:45:24.000Z",
+    "excerpt": "新加坡进一步上调今年的经济增长预测，人工智能（AI）热潮对经济的提振超出预期，盖过油价上涨及近期股市科技股遭抛售带来的拖累。新加坡贸工部周二表示，预计今年国内生产总值（GDP）增长“约6%”。这是政府今年第三次上调经济增长预测，此前的预测从2025年公布的1%至3%，上调至今年2…",
+    "scenes": [],
+    "collectedAt": "2026-11-24T01:10:07.082Z"
+  },
+  {
+    "title": "Meta因股东诉讼暂停发行C类股的计划",
+    "sourceName": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/4083005504935049?f=rss",
+    "publishedAt": "2026-11-24T00:27:00.000Z",
+    "excerpt": "美国科技巨头Meta Platforms周一表示，由于面临股东诉讼（该诉讼对公司拟议的资本重组方案提出质疑），公司将暂不发行原计划推出的C类股。此举推迟了一项旨在为其人工智能投资筹集资金的股票发行计划。该公司同意，在特拉华州衡平法院（Delaware Court of Chanc…",
+    "scenes": [],
+    "collectedAt": "2026-11-24T01:10:07.082Z"
+  },
+  {
     "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&utm_medium=article",
@@ -298,18 +337,18 @@
     "collectedAt": "2026-11-22T13:09:59.804Z"
   },
   {
-    "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+    "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-22T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-22T13:10:01.594Z"
   },
   {
-    "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+    "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-22T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -432,15 +471,6 @@
     "collectedAt": "2026-11-21T13:10:02.091Z"
   },
   {
-    "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
-    "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
-    "publishedAt": "2026-11-21T10:00:00.000Z",
-    "excerpt": "点击查看原文>",
-    "scenes": [],
-    "collectedAt": "2026-11-21T13:10:02.091Z"
-  },
-  {
     "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
     "sourceName": "InfoQ 中文",
     "sourceUrl": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
@@ -449,6 +479,15 @@
     "scenes": [
       "image"
     ],
+    "collectedAt": "2026-11-21T13:10:02.091Z"
+  },
+  {
+    "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+    "sourceName": "InfoQ 中文",
+    "sourceUrl": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+    "publishedAt": "2026-11-21T10:00:00.000Z",
+    "excerpt": "点击查看原文>",
+    "scenes": [],
     "collectedAt": "2026-11-21T13:10:02.091Z"
   },
   {
@@ -967,18 +1006,18 @@
     "collectedAt": "2026-11-18T13:11:52.427Z"
   },
   {
-    "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+    "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-18T14:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-18T13:11:52.427Z"
   },
   {
-    "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+    "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-18T14:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -1687,18 +1726,18 @@
     "collectedAt": "2026-11-15T01:09:36.650Z"
   },
   {
-    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-11-14T13:09:55.262Z"
   },
   {
-    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-11-14T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -6497,18 +6536,18 @@
     "collectedAt": "2026-10-18T01:25:00.403Z"
   },
   {
-    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-10-17T13:14:26.312Z"
   },
   {
-    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-10-17T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
@@ -9443,18 +9482,18 @@
     "collectedAt": "2026-09-29T07:59:23.782Z"
   },
   {
-    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
     "collectedAt": "2026-09-29T07:59:24.422Z"
   },
   {
-    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
     "sourceName": "InfoQ 中文",
-    "sourceUrl": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "sourceUrl": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
     "publishedAt": "2026-09-27T10:00:00.000Z",
     "excerpt": "点击查看原文>",
     "scenes": [],
