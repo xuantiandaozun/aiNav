@@ -1,5 +1,85 @@
 [
   {
+    "id": "1y40xet",
+    "title": "A Reddit tester asked for background sound without another story, so I added it to my bedtime app",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y40xet/a_reddit_tester_asked_for_background_sound/",
+    "excerpt": "Hey r/SideProject, One thing I’ve learned building a bedtime app after work: getting the audio to play is the easy part. Making it usable when you’re exhausted …",
+    "createdAt": "2026-11-24T02:00:10.000Z"
+  },
+  {
+    "id": "1y40w5e",
+    "title": "I built Jarrie, an app where your friends rate movies, food, books and places, all in one feed",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y40w5e/i_built_jarrie_an_app_where_your_friends_rate/",
+    "excerpt": "My friends text me \"that movie was a 4/10\" and \"skip that restaurant,\" and it all gets lost in group chats. So I built a place for it. **What it does:** * Rate …",
+    "createdAt": "2026-11-24T01:58:27.000Z"
+  },
+  {
+    "id": "1y40o05",
+    "title": "Made a notes app. Now I finally have a place where I can write down all the ideas for my side projects",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y40o05/made_a_notes_app_now_i_finally_have_a_place_where/",
+    "excerpt": "I wanted to challenge the idea that I needed to innovate or be original to create value. Or that you couldn’t “innovate” by just creating a really nice user exp…",
+    "createdAt": "2026-11-24T01:47:05.000Z"
+  },
+  {
+    "id": "1y40mg9",
+    "title": "Long vibe coding sessions? This harness lets you game on your wallpaper.",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y40mg9/long_vibe_coding_sessions_this_harness_lets_you/",
+    "excerpt": "The games are fun and it has the bet harness pets.",
+    "createdAt": "2026-11-24T01:44:59.000Z"
+  },
+  {
+    "id": "1y40k82",
+    "title": "Tired of paying monthly rent just to open my own files, so I built a 100% free, zero-server alternative to Microsoft 365",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y40k82/tired_of_paying_monthly_rent_just_to_open_my_own/",
+    "excerpt": "Let’s be honest: basic document and spreadsheet editing has been held hostage by monthly subscriptions for way too long. Every time you just want to open an .xl…",
+    "createdAt": "2026-11-24T01:42:02.000Z"
+  },
+  {
+    "id": "1y40js3",
+    "title": "LOFTLE!",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y40js3/loftle/",
+    "excerpt": "Hi guys, I just made a game like Krillion! It's called Loftle, a trivia-based daily word game inspired by Name, Place, Animal, Thing. The rarer your answers, th…",
+    "createdAt": "2026-11-24T01:41:23.000Z"
+  },
+  {
+    "id": "1y40cvu",
+    "title": "I built a free wedding-day timeline planner (no account, local-only). Feedback welcome",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y40cvu/i_built_a_free_weddingday_timeline_planner_no/",
+    "excerpt": "ou add your ceremony time and events, it calculates the times, flags overlaps and tight travel, and gives you a printable run sheet. Everything stays in your br…",
+    "createdAt": "2026-11-24T01:31:43.000Z"
+  },
+  {
+    "id": "1y3vcsq",
+    "title": "What's your best measure of intelligence in AI coding tools?",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 54,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y3vcsq/whats_your_best_measure_of_intelligence_in_ai/",
+    "excerpt": "I keep seeing two kinds of posts here: people who can't stand vibe coding, and people who went from hating it to using AI every day. I'm in the second group. As…",
+    "createdAt": "2026-11-23T21:52:00.000Z"
+  },
+  {
     "id": "1y368qm",
     "title": "Shipped a few mvps for founders this year, the mistakes i see over and over",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xsalrs/i_rebuilt_seouls_tech_districts_in_3d_so_you_can/",
     "excerpt": "Hi r/SideProject! I'm a solo dev from Korea. Job hunting here means juggling 5 job sites, and none of them show you where you'd actually work. So I rebuilt Seou…",
     "createdAt": "2026-11-10T01:57:33.000Z"
-  },
-  {
-    "id": "1xsag7y",
-    "title": "I built a site that tells you what a used car is actually worth, from real sales instead of asking prices",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xsag7y/i_built_a_site_that_tells_you_what_a_used_car_is/",
-    "excerpt": "I got tired of guessing whether a listing was a fair price, so I built OttoQuest. It tracks used cars for sale across the US, and shows market values computed f…",
-    "createdAt": "2026-11-10T01:50:02.000Z"
-  },
-  {
-    "id": "1xsafhz",
-    "title": "The app to 'measure' your consistency",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xsafhz/the_app_to_measure_your_consistency/",
-    "excerpt": "If you are someone like me that has always sucked at being consistent with your habits, a habit tracking app like UVU might be your solution! Inspired by the bo…",
-    "createdAt": "2026-11-10T01:49:06.000Z"
-  },
-  {
-    "id": "1xs7rb7",
-    "title": "Last time I made a computer sing “Daisy Bell”. Now it has a music video.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xs7rb7/last_time_i_made_a_computer_sing_daisy_bell_now/",
-    "excerpt": "A while back I posted a little .exe that sings *Daisy Bell*, the first song a computer ever sang (IBM 7094, Bell Labs, 1961) Now it has a music video. Code: [ht…",
-    "createdAt": "2026-11-09T23:47:01.000Z"
-  },
-  {
-    "id": "1xre93x",
-    "title": "I made a site where you type a sentence and a hand-drawn landscape gets drawn live",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre93x/i_made_a_site_where_you_type_a_sentence_and_a/",
-    "excerpt": "Type \"foggy lake at dawn, one boat, no clouds\" and the scene sketches itself while you type. Runs fully in your browser, no backend or account required. Export …",
-    "createdAt": "2026-11-09T00:59:38.000Z"
-  },
-  {
-    "id": "1xre8tg",
-    "title": "Team Productivity Calculator: understand how your team performs, and what a new hire really changes",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre8tg/team_productivity_calculator_understand_how_your/",
-    "excerpt": "I built a free calculator that shows what adding, replacing or waiting to add a person really does to a team's output: when the new person starts paying off, an…",
-    "createdAt": "2026-11-09T00:59:13.000Z"
-  },
-  {
-    "id": "1xre6fl",
-    "title": "Building a spreadsheet app where each cell (optionally) being a terminal / coding agent is a first class property",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 2,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre6fl/building_a_spreadsheet_app_where_each_cell/",
-    "excerpt": "https://reddit.com/link/1xre6fl/video/kuobaorijh0i1/player [https://github.com/sshah03/recalc](https://github.com/sshah03/recalc) Since spreadsheets are so vers…",
-    "createdAt": "2026-11-09T00:55:53.000Z"
-  },
-  {
-    "id": "1xre19c",
-    "title": "I built a simple web tool to generate standardized technical spec sheets and export PDFs (SpecSheet Pro)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 4,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xre19c/i_built_a_simple_web_tool_to_generate/",
-    "excerpt": "Hey everyone, Creating technical specification sheets in Excel or Word often leads to broken layouts, inconsistent formatting, and date ambiguity issues across …",
-    "createdAt": "2026-11-09T00:48:42.000Z"
-  },
-  {
-    "id": "1xrdxm3",
-    "title": "I made a page that process hours of finance YouTube videos everyday for you",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xrdxm3/i_made_a_page_that_process_hours_of_finance/",
-    "excerpt": "A lot of finance YouTube videos spend 20+ minutes to answer one basic question: does the creator think a stock is a good buy right now? I made a simple dashboar…",
-    "createdAt": "2026-11-09T00:43:41.000Z"
   }
 ]
