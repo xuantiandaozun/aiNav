@@ -1,5 +1,85 @@
 [
   {
+    "id": "1y4ve9o",
+    "title": "Got tired of ChatGPT explaining confusing text with more text, so I built something that draws and narrates it",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y4ve9o/got_tired_of_chatgpt_explaining_confusing_text/",
+    "excerpt": "You can test it on any confusing paragraph or random topic.",
+    "createdAt": "2026-11-25T02:02:30.000Z"
+  },
+  {
+    "id": "1y4v8jz",
+    "title": "I built Memento, an app that shows the gap between what you say matters and where your time actually goes",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y4v8jz/i_built_memento_an_app_that_shows_the_gap_between/",
+    "excerpt": "Most habit trackers get abandoned within a week, me included. I wanted something closer to a mirror than a to-do list. **Memento** is inspired by Stoicism and m…",
+    "createdAt": "2026-11-25T01:55:03.000Z"
+  },
+  {
+    "id": "1y4v1zr",
+    "title": "I built a family of 9 free sites that show how old people were when things happened",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y4v1zr/i_built_a_family_of_9_free_sites_that_show_how/",
+    "excerpt": "It started with \"how old was that actor in that movie?\" and grew into nine sites covering movies/TV, music, sports, books, games, art, history, science and poli…",
+    "createdAt": "2026-11-25T01:45:37.000Z"
+  },
+  {
+    "id": "1y4uwz8",
+    "title": "Dr. Tube — Cure Your YouTube Feed",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y4uwz8/dr_tube_cure_your_youtube_feed/",
+    "excerpt": "**I made Dr. Tube — browse YouTube by categories,** `#hashtags`**, eras (like 2006–2011), and low view counts with zero algorithm, logins, or API keys** I misse…",
+    "createdAt": "2026-11-25T01:39:16.000Z"
+  },
+  {
+    "id": "1y4uudi",
+    "title": "I made an app! Meet Sheed",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y4uudi/i_made_an_app_meet_sheed/",
+    "excerpt": "Hi! Full disclosure: I'm the developer, and this is my own app. I've wanted to make my own camera app for years, but I'm not a full-time iOS developer, so it al…",
+    "createdAt": "2026-11-25T01:35:35.000Z"
+  },
+  {
+    "id": "1y4ut0k",
+    "title": "Shortlify",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y4ut0k/shortlify/",
+    "excerpt": "Hello, Built a web app for non technical people make shorts on youtube. Please take it for a spin and give me some feedback. Thank you! [https://www.shortlify.a…",
+    "createdAt": "2026-11-25T01:33:35.000Z"
+  },
+  {
+    "id": "1y4upcu",
+    "title": "Who wants to build GTA 7? [NSFW]",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y4upcu/who_wants_to_build_gta_7_nsfw/",
+    "excerpt": "DISCLAIMER: 18+ ONLY. I'm trying to set up a team of the best vibecoders/animators/3d modelers/swe in this sub to finish a GTA style game called World Wide Mena…",
+    "createdAt": "2026-11-25T01:28:33.000Z"
+  },
+  {
+    "id": "1y4um00",
+    "title": "I am not special. I like to experiment.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y4um00/i_am_not_special_i_like_to_experiment/",
+    "excerpt": "I realize this isn’t cool to anyone outside my particular industry or area of interest, but I built this really simple procedural terrain generator (it’s about …",
+    "createdAt": "2026-11-25T01:23:35.000Z"
+  },
+  {
     "id": "1y40xet",
     "title": "A Reddit tester asked for background sound without another story, so I added it to my bedtime app",
     "sourceName": "Reddit · r/SideProject",
@@ -1118,85 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5hdh/catlens_an_offline_iphone_journal_for_your_cat/",
     "excerpt": "I’m the developer of CatLens, an iPhone app for saving everyday observations about your cat. Pick a photo or short video and the app organizes visible expressio…",
     "createdAt": "2026-11-11T02:01:30.000Z"
-  },
-  {
-    "id": "1xt5epj",
-    "title": "I made an iPhone app that translates screenshots in place",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5epj/i_made_an_iphone_app_that_translates_screenshots/",
-    "excerpt": "I was tired of screenshotting convos and social media posts in other languages and uploading them to chatgpt to translate them so I built Onscreen Translate tha…",
-    "createdAt": "2026-11-11T01:58:01.000Z"
-  },
-  {
-    "id": "1xt5b3j",
-    "title": "How do you distribute a free desktop app when most people find it on their phone?",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5b3j/how_do_you_distribute_a_free_desktop_app_when/",
-    "excerpt": "Solo founder here. 10 days ago I launched a free Windows productivity tool (it helps you write and edit text inside other apps). 40 users so far, and I'm trying…",
-    "createdAt": "2026-11-11T01:53:03.000Z"
-  },
-  {
-    "id": "1xt5aeg",
-    "title": "I built Sirenfall (open source browser experience)",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5aeg/i_built_sirenfall_open_source_browser_experience/",
-    "excerpt": "Sirenfall is unique because each experience is different. My goal is to have it provide a whole night's worth of entertainment by adding events that play out ov…",
-    "createdAt": "2026-11-11T01:52:09.000Z"
-  },
-  {
-    "id": "1xt51rw",
-    "title": "Wallpaper tool I made",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt51rw/wallpaper_tool_i_made/",
-    "excerpt": "Recently i decided Wallpaper Engine used too much of my GPU, so I made this, one person was too busy liking WE and decided to leave a not very constructive resp…",
-    "createdAt": "2026-11-11T01:40:21.000Z"
-  },
-  {
-    "id": "1xt5175",
-    "title": "Condo/TH owners — how do you keep track of everything your HOA throws at you? I built a tool that keeps track of it for owners — feedback wanted",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5175/condoth_owners_how_do_you_keep_track_of/",
-    "excerpt": "An HOA sends its owners a constant stream of notices, bills, and project updates — scattered across email, paper mailers, the management company's portal, and g…",
-    "createdAt": "2026-11-11T01:39:36.000Z"
-  },
-  {
-    "id": "1xt50tr",
-    "title": "Joinable – a free way to add multiplayer to a web game, without writing a server",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt50tr/joinable_a_free_way_to_add_multiplayer_to_a_web/",
-    "excerpt": "I made this, mostly on my own, with AI, while building the browser games on Etheria. Multiplayer was the part I did not want to keep rebuilding, so I turned it …",
-    "createdAt": "2026-11-11T01:39:06.000Z"
-  },
-  {
-    "id": "1xt39cf",
-    "title": "3DA",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xt39cf/3da/",
-    "excerpt": "I've been building small things on one idea: any place on Earth as a clean 3D model in the browser, made from open data. **Your Place**: search a place, get it …",
-    "createdAt": "2026-11-11T00:17:26.000Z"
-  },
-  {
-    "id": "1xsalrs",
-    "title": "I rebuilt Seoul's tech districts in 3D so you can walk to the company buildings and see their real job postings",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xsalrs/i_rebuilt_seouls_tech_districts_in_3d_so_you_can/",
-    "excerpt": "Hi r/SideProject! I'm a solo dev from Korea. Job hunting here means juggling 5 job sites, and none of them show you where you'd actually work. So I rebuilt Seou…",
-    "createdAt": "2026-11-10T01:57:33.000Z"
   }
 ]
