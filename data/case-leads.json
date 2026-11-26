@@ -1,5 +1,15 @@
 [
   {
+    "id": "1y5oiq0",
+    "title": "AI will clone your game (if you're lucky) - a counterpoint to the fear and anxiety around making a game when AI exists.",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y5oiq0/ai_will_clone_your_game_if_youre_lucky_a/",
+    "excerpt": "I keep seeing the same question here and in other dev communities: \"Is it worth making a game today if AI can just copy it in a day?\" People are pulling demos a…",
+    "createdAt": "2026-11-26T01:29:39.000Z"
+  },
+  {
     "id": "1y4ve9o",
     "title": "Got tired of ChatGPT explaining confusing text with more text, so I built something that draws and narrates it",
     "sourceName": "Reddit · r/SideProject",
@@ -1188,15 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xtwi5n/claude_fable_52_and_a_team_of_opus_55_subagents/",
     "excerpt": "A motion design short film: every pivotal AI moment from 1950 to November 2026, in 5 and a half minutes How it was made: Every shot is an HTML page, 126 of them…",
     "createdAt": "2026-11-11T23:02:01.000Z"
-  },
-  {
-    "id": "1xt5hdh",
-    "title": "CatLens - an offline iPhone journal for your cat",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xt5hdh/catlens_an_offline_iphone_journal_for_your_cat/",
-    "excerpt": "I’m the developer of CatLens, an iPhone app for saving everyday observations about your cat. Pick a photo or short video and the app organizes visible expressio…",
-    "createdAt": "2026-11-11T02:01:30.000Z"
   }
 ]
