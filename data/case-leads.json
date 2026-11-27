@@ -1,5 +1,75 @@
 [
   {
+    "id": "1y6hjad",
+    "title": "I built a free, open-source tool that automatically lowers your music while you dictate to ChatGPT",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y6hjad/i_built_a_free_opensource_tool_that_automatically/",
+    "excerpt": "I usually listen to music while working, and constantly pausing it whenever I dictate something to ChatGPT was getting annoying. So I built ChatDuck. It automat…",
+    "createdAt": "2026-11-27T02:02:59.000Z"
+  },
+  {
+    "id": "1y6h85p",
+    "title": "Cardboard template for pen holder/tv remote/marker",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y6h85p/cardboard_template_for_pen_holdertv_remotemarker/",
+    "excerpt": "i have been making cardboard functional parts for my house for a long time and have a really good understanding of them, there is few sites where you can make b…",
+    "createdAt": "2026-11-27T01:46:16.000Z"
+  },
+  {
+    "id": "1y6h6vh",
+    "title": "Action item tracker",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y6h6vh/action_item_tracker/",
+    "excerpt": "Hello, I made an action item tracker, it’s still not done but I would appreciate some feedback. The basic idea is you write tasks on the sticky notes. I use to …",
+    "createdAt": "2026-11-27T01:44:12.000Z"
+  },
+  {
+    "id": "1y6h2tf",
+    "title": "QuoteBench - A free tool for comparing packaging quotes",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y6h2tf/quotebench_a_free_tool_for_comparing_packaging/",
+    "excerpt": "The cheaper box can cost $410 more. In the demo, I only need 250 boxes, but the supplier with the lower unit price makes me buy 500. That’s why I put together Q…",
+    "createdAt": "2026-11-27T01:37:51.000Z"
+  },
+  {
+    "id": "1y6h141",
+    "title": "Built an iOS/Android app to run the Pi coding agent on my own server from my phone",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y6h141/built_an_iosandroid_app_to_run_the_pi_coding/",
+    "excerpt": "I got tired of walking back to my desk just to check on a long-running Pi task, so I built Pi Remote. Your phone connects over SSH to a Linux server you own; a …",
+    "createdAt": "2026-11-27T01:35:08.000Z"
+  },
+  {
+    "id": "1y6h0nn",
+    "title": "I started a little project called Fawn — a stranger friend you can talk to ♡",
+    "sourceName": "Reddit · r/SideProject",
+    "subreddit": "SideProject",
+    "score": 1,
+    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1y6h0nn/i_started_a_little_project_called_fawn_a_stranger/",
+    "excerpt": "Sometimes you just want to tell someone about your day, vent about something that’s bothering you, or talk about something you don’t feel comfortable sharing wi…",
+    "createdAt": "2026-11-27T01:34:25.000Z"
+  },
+  {
+    "id": "1y6b3ph",
+    "title": "we didnt have a Macy's day parade this year but instalanding is dropping some roasted HTML for free and open source",
+    "sourceName": "Reddit · r/vibecoding",
+    "subreddit": "vibecoding",
+    "score": 0,
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1y6b3ph/we_didnt_have_a_macys_day_parade_this_year_but/",
+    "excerpt": "I hope everyone is feeling grateful to be alive and well today. For those of you looking to cook and vibe code at the same time, here are some goodies: [https:/…",
+    "createdAt": "2026-11-26T20:34:41.000Z"
+  },
+  {
     "id": "1y5oiq0",
     "title": "AI will clone your game (if you're lucky) - a counterpoint to the fear and anxiety around making a game when AI exists.",
     "sourceName": "Reddit · r/vibecoding",
@@ -1128,75 +1198,5 @@
     "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzu56/aweclip_a_small_iphoneipad_app_for_trimming/",
     "excerpt": "I'm Jeff, the developer of AweClip. It lets you import clips from Photos or Files, arrange them as scenes, trim them, preview the sequence, and export it to Pho…",
     "createdAt": "2026-11-12T01:32:22.000Z"
-  },
-  {
-    "id": "1xtzqpa",
-    "title": "Made my Childhood Dream X-Men Fighting Game",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xtzqpa/made_my_childhood_dream_xmen_fighting_game/",
-    "excerpt": "I’ve been working on an X-Men game that’s basically the game I dreamed of playing as a kid. It has 41 characters, outfits mainly inspired by the ’90s cartoon, a…",
-    "createdAt": "2026-11-12T01:27:46.000Z"
-  },
-  {
-    "id": "1xtzqks",
-    "title": "I made the First AI Video Editing app for macOS & Free Screenshot Tool",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzqks/i_made_the_first_ai_video_editing_app_for_macos/",
-    "excerpt": "It works with Claude Code, Codex, Cursor and also has 290+ tools via local mcp server. It can **record screen including iphone mirroring**, **edit with prompts*…",
-    "createdAt": "2026-11-12T01:27:37.000Z"
-  },
-  {
-    "id": "1xtzqgw",
-    "title": "I built an iPhone browser that always loads the desktop site",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzqgw/i_built_an_iphone_browser_that_always_loads_the/",
-    "excerpt": "Hi r/SideProject, I'm Derek, and I built DeskView on my own. I kept running into mobile sites that hide features — banking portals, school systems, admin dashbo…",
-    "createdAt": "2026-11-12T01:27:28.000Z"
-  },
-  {
-    "id": "1xtzkh8",
-    "title": "I built a plant care app  iPhone Duo support",
-    "sourceName": "Reddit · r/SideProject",
-    "subreddit": "SideProject",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/SideProject/comments/1xtzkh8/i_built_a_plant_care_app_iphone_duo_support/",
-    "excerpt": "Plant Buddha is an iPhone and iPad app that tells you which houseplants need water today. Each plant’s schedule adjusts with the seasons and the weather, and a …",
-    "createdAt": "2026-11-12T01:19:34.000Z"
-  },
-  {
-    "id": "1xty825",
-    "title": "I asked fable 5.2 to completely remake my entire website and holy shit it did good",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xty825/i_asked_fable_52_to_completely_remake_my_entire/",
-    "excerpt": "https://github.com/bybrooklyn/website See it [here](https://bybrooklyn.dev) I gave it two references or sites I wanted and a font I was considering and told it …",
-    "createdAt": "2026-11-12T00:17:18.000Z"
-  },
-  {
-    "id": "1xtx0wt",
-    "title": "An open-source Toolkit to Test What Kids Are Exposed to When AI Safety Breaks Down",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xtx0wt/an_opensource_toolkit_to_test_what_kids_are/",
-    "excerpt": "While building Koda (an app for kids), I could ask it a science question and see if the answer made sense. It was harder to test what a kid would see if the saf…",
-    "createdAt": "2026-11-11T23:24:38.000Z"
-  },
-  {
-    "id": "1xtwi5n",
-    "title": "Claude Fable 5.2 and a team of Opus 5.5 subagents made a 6-minute motion design film on the entire history of AI, 1950 to this week. Every shot is code.",
-    "sourceName": "Reddit · r/vibecoding",
-    "subreddit": "vibecoding",
-    "score": 1,
-    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xtwi5n/claude_fable_52_and_a_team_of_opus_55_subagents/",
-    "excerpt": "A motion design short film: every pivotal AI moment from 1950 to November 2026, in 5 and a half minutes How it was made: Every shot is an HTML page, 126 of them…",
-    "createdAt": "2026-11-11T23:02:01.000Z"
   }
 ]
